@@ -8,4 +8,3 @@ has_children: true
 ---
 
 # Remediation
-TK

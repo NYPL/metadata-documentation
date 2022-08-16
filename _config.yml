@@ -21,6 +21,8 @@
 title: NYPL Metadata Services Unit
 description: Documentation site for the NYPL Metadata Services Unit.
 remote_theme: just-the-docs/just-the-docs
+markdown: kramdown
+search_enabled: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.

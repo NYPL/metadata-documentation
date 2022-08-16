@@ -5,6 +5,7 @@ permalink: /workflows/digitization/wos/
 parent: Digitization
 grand_parent: MMS › Workflows
 nav_order: 3
+nav_exclude: true
 ---
 
 # Work Orders (WOs)

@@ -26,3 +26,4 @@ TK
 * [Research Libraries Technical Services](https://sites.google.com/a/bookops.org/nypl-rl-tech-services/rl-technical-services)
 * [SPEC (Preservation and Special Collections Processing Dashboard)](https://sites.google.com/nypl.org/specialcollections/spec)
 * [Archival Processing Manual](https://sites.google.com/nypl.org/specialcollections/special-collections-processing/archival-processing/processing-manual)
+* [Rights Code Cheat Sheet](https://confluence.nypl.org/display/DIG/Rights+Codes+Cheat+Sheet)
