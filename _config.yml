@@ -18,8 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: NYPL Metadata Services Unit
-description: Documentation site for the NYPL Metadata Services Unit.
+title: NYPL Metadata
+description: Documentation for the Metadata Services Unit of the New York Public Library.
 remote_theme: just-the-docs/just-the-docs
 markdown: kramdown
 search_enabled: true
