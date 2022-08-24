@@ -7,16 +7,14 @@ nav_order: 4
 ---
 
 # URL Structure
-TK
+
+To be written
+{: .label .label-red }
 
 ## Permalinks
-TK
 
 ### Collection Permalinks
-TK
 
 ### Container Permalinks
-TK
 
 ### Item Permalinks
-TK

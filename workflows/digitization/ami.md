@@ -9,4 +9,8 @@ nav_exclude: true
 ---
 
 # Audio and Moving Image (AMI)
-TK
+
+To be migrated
+{: .label .label-yellow }
+
+[View in Lair](https://lair.nypl.org/-/departments/library-sites-and-services/research-libraries/metadata-services-unit/ami-workflow){: .btn }

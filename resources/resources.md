@@ -12,11 +12,11 @@ has_children: true
 TK
 
 #### MSU Resources Maintained in Google Drive
-* Exhibition master list (link TK)
+* [Exhibition master list](https://docs.google.com/spreadsheets/d/11-bgNRs2iO6HLG8OQv7quP8KUHCUNxJgC3nIapA0Do0/edit)
 * Sierra location codes (link TK)
 * Divisions (link TK)
 * Crosswalks (link TK)
-* Metadata liaisons and contacts (link TK)
+* [Metadata liaisons and contacts](https://docs.google.com/spreadsheets/d/1P-YDJigon640fTCLP4Ig4-zmzqrX88v5M24ShuxFNVY/edit)
 * Genre, form, & extent (link TK)
 
 #### Additional NYPL Documentation
