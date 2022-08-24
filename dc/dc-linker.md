@@ -11,4 +11,4 @@ nav_order: 3
 To be migrated
 {: .label .label-yellow }
 
-[View in Google Drive](https://docs.google.com/document/d/1c8s1d61n9LR8VApzbqcYUmdTj2cwCNNakPHfjUkZqg4/edit){: .btn }
+[📄 DC Linker](https://docs.google.com/document/d/1c8s1d61n9LR8VApzbqcYUmdTj2cwCNNakPHfjUkZqg4/edit){: .btn }

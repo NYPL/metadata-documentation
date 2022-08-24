@@ -7,4 +7,6 @@ nav_order: 2
 ---
 
 # Glossary
-TK
+
+To be written
+{: .label .label-red }

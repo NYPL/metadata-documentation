@@ -21,4 +21,7 @@ TK
 TK
 
 ## Captures
-TK
+To be migrated
+{: .label .label-yellow }
+
+[📄 Capture suppression: general guidance](https://docs.google.com/document/d/1uh5Q-t3KwIkczBgRENYYtLJ4w49YPYJbMQqnsp6py9c/edit){: .btn }

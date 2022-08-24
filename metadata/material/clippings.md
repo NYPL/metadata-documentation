@@ -8,4 +8,8 @@ nav_exclude: true
 ---
 
 # Clippings
-TK
+
+To be migrated
+{: .label .label-yellow }
+
+[📄](https://docs.google.com/document/u/0/d/1e8CE3VGq47AlmDuH3gLo7FRx5LmDwMFDGX1rewpkmis/edit){: .btn }
