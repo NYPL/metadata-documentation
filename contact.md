@@ -9,13 +9,13 @@ nav_order: 8
 For general enquiries, contact…
 
 ## Our Team
-#### Molly O'Brien, Manager, Metadata Services Unit
-#### Sarah Ann Adams, Senior Metadata Specialist
-#### Karly Wildenhaus, Senior Metadata Specialist
-#### Zoe Waldron, Metadata Specialist
-#### Emma Clarkson, Metadata Specialist
-#### Nic Caldwell, Metadata Specialist
-<br>
+* **Emma Clarkson**, Metadata Specialist
+* **Karly Wildenhaus**, Senior Metadata Specialist
+* **Molly O'Brien**, Manager
+* **Nic Caldwell**, Metadata Specialist
+* **Sarah Ann Adams**, Senior Metadata Specialist
+* **Zoe Waldron**, Metadata Specialist
+
 _See also: [Metadata liaisons and contacts](https://docs.google.com/spreadsheets/d/1P-YDJigon640fTCLP4Ig4-zmzqrX88v5M24ShuxFNVY/edit)_
 
 ## FAQs
