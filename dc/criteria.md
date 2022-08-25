@@ -7,6 +7,5 @@ nav_order: 2
 ---
 
 # Criteria for Appearance
-
 To be written
 {: .label .label-red }

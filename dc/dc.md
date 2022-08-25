@@ -7,4 +7,3 @@ has_children: true
 ---
 
 # Digital Collections
-TK

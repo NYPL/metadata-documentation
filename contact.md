@@ -14,18 +14,24 @@ For general enquiries, contact…
 #### Karly Wildenhaus, Senior Metadata Specialist
 #### Zoe Waldron, Metadata Specialist
 #### Emma Clarkson, Metadata Specialist
-#### [Name TK], Metadata Specialist
+#### Nic Caldwell, Metadata Specialist
+<br>
+_See also: [Metadata liaisons and contacts](https://docs.google.com/spreadsheets/d/1P-YDJigon640fTCLP4Ig4-zmzqrX88v5M24ShuxFNVY/edit)_
 
 ## FAQs
 
 ### I found an error on Digital Collections, what should I do?
-TK
+To be written
+{: .label .label-red }
 
 ### There's something wrong in the Metadata Management System (MMS), who can I notify?
-TK
+To be written
+{: .label .label-red }
 
 ### I know something was digitized but can't find it in Digital Collections…
-TK
+To be written
+{: .label .label-red }
 
 ### How can I request a report?
-TK
+To be written
+{: .label .label-red }

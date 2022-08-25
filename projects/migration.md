@@ -7,10 +7,13 @@ nav_exclude: true
 ---
 
 # Metadata Migrations
-TK
+To be written
+{: .label .label-red }
 
 ## Mid-Manhattan Picture Collection
-TK
+To be written
+{: .label .label-red }
 
 ## Digital Scriptorium
-TK
+To be written
+{: .label .label-red }

@@ -12,7 +12,7 @@ nav_order: 6
 * [Metadata Migrations › Digital Scriptorium](migration/#digital-scriptorium)
 
 #### Completed Projects
-* [Metadata Migrations › Mid-Manhattan Picture Collection](projects/migration/#mid-manhattan-picture-collection)
+* [Metadata Migrations › Mid-Manhattan Picture Collection](migration/#mid-manhattan-picture-collection)
 
 #### Future Projects
 * [Reparative Description](reparative)

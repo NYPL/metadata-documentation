@@ -9,19 +9,25 @@ nav_order: 6
 # Linking Between Systems
 
 ## Library Catalog
-TK
+To be written
+{: .label .label-red }
 
 ### Digital Collections → Library Catalog
-TK
+To be written
+{: .label .label-red }
 
 ### Library Catalog → Digital Collections
-TK
+To be written
+{: .label .label-red }
 
 ## Archives Portal
-TK
+To be written
+{: .label .label-red }
 
 ### Digital Collections → Archives Portal
-TK
+To be written
+{: .label .label-red }
 
 ### Archives Portal → Digital Collections
-TK
+To be written
+{: .label .label-red }

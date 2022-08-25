@@ -7,4 +7,5 @@ nav_order: 2
 ---
 
 # Training
-TK
+To be written
+{: .label .label-red }

@@ -19,10 +19,6 @@ has_children: true
         * [MMS prod db and SQL reference](https://docs.google.com/document/u/0/d/10HrICfPcYvbYk92-0dmrMqVfpSH1iXgiIP8oE6XW9gw/edit)
         * [SQL recipes](https://docs.google.com/document/u/0/d/1BCU13Ktxq46I2H7Qf3SJqIumMe9_c93JfDTdob8NBbc/edit)
 
-## Our Google Sheets
-* [Exhibition master list](https://docs.google.com/spreadsheets/d/11-bgNRs2iO6HLG8OQv7quP8KUHCUNxJgC3nIapA0Do0/edit)
-* [Sierra location codes](https://docs.google.com/spreadsheets/d/1E8Dbd8M5OotQfGaKjL5cLKlyex5g8D1KBeZeArJtcuU/edit)
-* Divisions (link TK)
-* Crosswalks (link TK)
-* [Metadata liaisons and contacts](https://docs.google.com/spreadsheets/d/1P-YDJigon640fTCLP4Ig4-zmzqrX88v5M24ShuxFNVY/edit)
-* Genre, form, & extent (link TK)
+## Future Documentation
+* Divisions
+* Crosswalks
