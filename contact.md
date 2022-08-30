@@ -16,7 +16,7 @@ For general enquiries, contact…
 * **Sarah Ann Adams**, Senior Metadata Specialist
 * **Zoe Waldron**, Metadata Specialist
 
-_See also: [Metadata liaisons and contacts](https://docs.google.com/spreadsheets/d/1P-YDJigon640fTCLP4Ig4-zmzqrX88v5M24ShuxFNVY/edit)_
+_See also: [Metadata liaisons and contacts](https://docs.google.com/spreadsheets/d/1P-YDJigon640fTCLP4Ig4-zmzqrX88v5M24ShuxFNVY/edit) 🔒_
 
 ## FAQs
 
