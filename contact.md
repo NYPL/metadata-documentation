@@ -11,7 +11,7 @@ For general enquiries, contact metadata [at] nypl [dot] org
 ## Our Team
 
 | Name | Title | Liaison to |
-|:-----|:------|:-----------|
+|:-------|:-------|:-------|
 | **Molly O'Brien** | Manager | Theatre on Film and Tape Archive |
 | **Sarah Ann Adams** | Senior Metadata Specialist | Arents, Berg, Manuscripts and Archives, NYPL Archives, Pforzheimer, Rare Books |
 | **Nic Caldwell** | Metadata Specialist | Schomburg Center |
