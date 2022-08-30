@@ -30,6 +30,11 @@ See also the below documents that will be migrated into [metadata-tools](https:/
 * [MMS prod db and SQL reference](https://docs.google.com/document/u/0/d/10HrICfPcYvbYk92-0dmrMqVfpSH1iXgiIP8oE6XW9gw/edit)
 * [SQL recipes](https://docs.google.com/document/u/0/d/1BCU13Ktxq46I2H7Qf3SJqIumMe9_c93JfDTdob8NBbc/edit)
 
+## Additional MSU Links
+* [MSU ClickUp](https://app.clickup.com/2305128/v/b/26b38-4023)
+* [MSU Google Drive](https://drive.google.com/drive/u/0/folders/1t7SRUAr5P0hYvt0bNYBvagaX69NyrIlN)
+* [MSU on Lair](https://lair.nypl.org/-/departments/library-sites-and-services/research-libraries/metadata-services-unit)
+
 ## Future Documentation
 * Divisions
 * Crosswalks
