@@ -6,15 +6,17 @@ nav_order: 8
 ---
 
 # Contact
-For general enquiries, contact…
+For general enquiries, contact metadata [at] nypl [dot] org
 
 ## Our Team
+* **Molly O'Brien**, Manager
 * **Emma Clarkson**, Metadata Specialist
 * **Karly Wildenhaus**, Senior Metadata Specialist
-* **Molly O'Brien**, Manager
 * **Nic Caldwell**, Metadata Specialist
 * **Sarah Ann Adams**, Senior Metadata Specialist
 * **Zoe Waldron**, Metadata Specialist
+
+Find email addresses in [Lair](https://lair.nypl.org/-/departments/library-sites-and-services/research-libraries/metadata-services-unit)
 
 _See also: [Metadata liaisons and contacts](https://docs.google.com/spreadsheets/d/1P-YDJigon640fTCLP4Ig4-zmzqrX88v5M24ShuxFNVY/edit) 🔒_
 
