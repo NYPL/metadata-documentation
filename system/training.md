@@ -7,5 +7,6 @@ nav_order: 2
 ---
 
 # Training
-To be written
-{: .label .label-red }
+To be migrated
+{: .label .label-yellow }
+[📄 MMS General User training guidance for trainers](https://docs.google.com/document/d/1NkMoH65tm_UGN3_wFZFItzMxDCBgiijJxoudvsaYQ4Q/edit){: .btn }
