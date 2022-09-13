@@ -10,8 +10,6 @@ nav_order: 2
 
 On this page you will find common acronyms and names used within the work of the Metadata Services Unit (MSU).
 
-## A–Z
-
 <!-- <dl>
 
 <dt>AMI</dt>
