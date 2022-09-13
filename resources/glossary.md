@@ -12,19 +12,19 @@ On this page you will find common acronyms and names used within the work of the
 
 ## A–Z
 
-<dl>
+<!-- <dl>
 
 <dt>AMI</dt>
-<dd>an acronym for "audio and moving image"</dd>
+<dd>acronym for "audio and moving image"</dd>
 
 <dt>Archives EAD ID</dt>
 <dd></dd>
 
 <dt>Archives Portal</dt>
-<dd></dd>
+<dd>public interface to archival finding aids</dd>
 
 <dt>ArchivesSpace</dt>
-<dd></dd>
+<dd>system used to create finding aids</dd>
 
 <dt>ASpace</dt>
 <dd><em>see ArchivesSpace</em></dd>
@@ -35,17 +35,20 @@ On this page you will find common acronyms and names used within the work of the
 <dt>CIP</dt>
 <dd><em>see Copyright and Information Policy</em></dd>
 
+<dt>Classic Catalog</dt>
+<dd><em>see Legacy Catalog</em></dd>
+
 <dt>CMS</dt>
-<dd>acronym for "content management system"</dd>
+<dd>Collection Management System (managed by PCP)</dd>
 
 <dt>Copyright and Information Policy</dt>
 <dd>department within Digital Research that focuses on securing rights and permissions surrounding the use of our collection materials including providing guidance with copyright inquiries, conducting rights research, and providing high quality digital files of our holdings to the public; formerly known as Copyright, Permissions, and Information Policy (CPAIP)</dd>
 
 <dt>CPAIP</dt>
-<dd>see Copyright and Information Policy</dd>
+<dd><em>see Copyright and Information Policy</em></dd>
 
-<dt>Catnyp</dt>
-<dd></dd>
+<dt>CATNYP</dt>
+<dd>Catalog of The New York Public Library; the former name of the research catalog</dd>
 
 <dt>DAM Portfolio</dt>
 <dd></dd>
@@ -90,31 +93,40 @@ On this page you will find common acronyms and names used within the work of the
 <dd></dd>
 
 <dt>IIIF</dt>
-<dd></dd>
+<dd>International Image Interoperability Framework</dd>
 
 <dt>ILS</dt>
 <dd>acronym for "integrated library system," NYPL uses Sierra as its ILS</dd>
 
 <dt>Library Services Center</dt>
-<dd></dd>
+<dd>Library Services Center (LSC), located in Long Island City (LIC), where Book Ops, PCP, DIS, MSU, DP, and a portion of PAMI are located</dd>
 
 <dt>LIC</dt>
 <dd><em>see Library Services Center</em></dd>
 
 <dt>LPA</dt>
-<dd></dd>
+<dd>Library of Performing Arts</dd>
 
 <dt>LSC</dt>
 <dd><em>see Library Services Center</em></dd>
 
 <dt>Legacy Catalog</dt>
-<dd></dd>
+<dd>The older version of the Research Catalog. Patron-facing, Research-oriented online catalog</dd>
 
 <dt>MARC</dt>
 <dd></dd>
 
-<dt>MMS</dt>
+<dt>Media Ingest</dt>
+<dd>services to stage digitized AMI for preservation, description, and access</dd>
+
+<dt>Metadata Management System</dt>
 <dd></dd>
+
+<dt>Metadata Services Unit</dt>
+<dd></dd>
+
+<dt>MMS</dt>
+<dd><em>see Metadata Management System</em></dd>
 
 <dt>MODS</dt>
 <dd></dd>
@@ -126,9 +138,18 @@ On this page you will find common acronyms and names used within the work of the
 <dd></dd>
 
 <dt>MSU</dt>
-<dd></dd>
+<dd><em>see Metadata Services Unit</em></dd>
+
+<dt>PAMI</dt>
+<dd><em>see Preservation of Audio and Moving Image</em></dd>
 
 <dt>PCP</dt>
+<dd><em>see Preservation and Collections Processing</em></dd>
+
+<dt>Preservation and Collections Processing</dt>
+<dd></dd>
+
+<dt>Preservation of Audio and Moving Image</dt>
 <dd></dd>
 
 <dt>Python</dt>
@@ -141,7 +162,8 @@ On this page you will find common acronyms and names used within the work of the
 <dd></dd>
 
 <dt>ReCAP</dt>
-<dd></dd>
+<dd>Research Collections and Preservation Consortium - The consolidation of items from ReCAP partners' collections into one co-owned, "shared" collection circulated among all ReCAP partners. A universal collection policy governs items in the ReCAP Shared Collection;  We are members, along with Princeton University, Columbia University, and Harvard University
+</dd>
 
 <dt>Research Catalog</dt>
 <dd></dd>
@@ -179,9 +201,10 @@ On this page you will find common acronyms and names used within the work of the
 <dt>The Repo</dt>
 <dd></dd>
 
-</dl>
+</dl> -->
 
 ## See Also
 
 * [Metadata Liaisons and Contacts 🔒](https://docs.google.com/spreadsheets/d/1P-YDJigon640fTCLP4Ig4-zmzqrX88v5M24ShuxFNVY/edit) for a complete list of research library division acronyms and names
 * [Technology Overview 🔒](https://github.com/NYPL/metadata-admin/blob/main/technology-overview.md) for a complete list of software, apps, and platforms used by the MSU
+* [DIRES Onboarding Terms to know 🔒](https://docs.google.com/document/d/1ox5AEjwF0RwlhdT7o2pHmqfYHwj4mdd115iBotUcvQE/edit#bookmark=id.shjrquewg8er) for a similar glossary compiled by Digital Research
