@@ -21,6 +21,9 @@ nav_order: 3
 * [NYPL SPEC (Preservation and Special Collections Processing Dashboard)](https://sites.google.com/nypl.org/specialcollections/spec)
 * [NYPL Archival Processing Manual](https://sites.google.com/nypl.org/specialcollections/special-collections-processing/archival-processing/processing-manual)
 
+## Aggregator Documentation
+* [DPLA Pro Documentation and Tools](https://pro.dp.la/hubs/documentation)
+
 ## Training
 To be written
 {: .label .label-red }
