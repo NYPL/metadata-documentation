@@ -9,6 +9,7 @@ nav_order: 3
 # External Resources
 
 ## Additional NYPL Documentation
+* [NYPL Digital Collections API](https://api.repo.nypl.org/)
 * [NYPL Digitization](https://confluence.nypl.org/display/DIG/Digitization)
     * [Derivatives for Reflective and Transmissive Media Digitization](https://confluence.nypl.org/display/DIG/Derivatives+for+Reflective+and+Transmissive+Media+Digitization)
     * [Rights Code Cheat Sheet](https://confluence.nypl.org/display/DIG/Rights+Codes+Cheat+Sheet)
