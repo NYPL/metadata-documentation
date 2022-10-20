@@ -23,6 +23,7 @@ description: Documentation for the Metadata Services Unit of the New York Public
 remote_theme: just-the-docs/just-the-docs
 markdown: kramdown
 search_enabled: true
+baseurl: /metadata-documentation
 
 # Footer content
 # appears at the bottom of every page's main content
