@@ -15,7 +15,7 @@ DC Linker is a tool to open up a corresponding item in the Metadata Management S
 1. Navigate to [https://s3.amazonaws.com/labs.nypl.org/bookmarklets/dc-linker/index.html](https://s3.amazonaws.com/labs.nypl.org/bookmarklets/dc-linker/index.html)
 1. Drag and drop the "DC Linker" link to your browser's bookmarks toolbar
 
-![animation displaying installation of DC Linker](/assets/images/dclinker.gif)
+![animation displaying installation of DC Linker](/metadata-documentation/assets/images/dclinker.gif)
 
 ## Use
 

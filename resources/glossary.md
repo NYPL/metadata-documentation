@@ -175,15 +175,15 @@ On this page you will find common terms used within the work of the Metadata Ser
 
 <a name="archives-portal"></a>
 <dt>Archives Portal</dt>
-<dd>public interface for NYPL's archival finding aids accessible at <a href="https://archives.nypl.org">archives.nypl.org</a></dd>
+<dd>public interface for the Library's archival finding aids accessible at <a href="https://archives.nypl.org">archives.nypl.org</a></dd>
 
 <a name="archivesspace"></a>
 <dt>ArchivesSpace</dt>
-<dd>open source archives information management application used by NYPL for archival description</dd>
+<dd>open source archives information management application used by the Library for archival description</dd>
 
 <a name="art-architecture-thesaurus"></a>
 <dt>Art & Architecture Thesaurus</dt>
-<dd>controlled vocabulary for describing and indexing visual arts and architecture that can be used in the <a href="/metadata/element/genre/">Genre</a> and <a href="/metadata/element/physical-description/form/">Form</a> fields in the <a href="#metadata-management-system">Metadata Management System</a>; maintained by the Getty Research Institute</dd>
+<dd>controlled vocabulary for describing and indexing visual arts and architecture that can be used in the <a href="/metadata-documentation/metadata/element/genre/">Genre</a> and <a href="/metadata-documentation/metadata/element/physical-description/form/">Form</a> fields in the <a href="#metadata-management-system">Metadata Management System</a>; maintained by the Getty Research Institute</dd>
 
 <a name="bnumber"></a>
 <dt>bnumber</dt>
@@ -211,15 +211,15 @@ On this page you will find common terms used within the work of the Metadata Ser
 
 <a name="dam-portfolio"></a>
 <dt>DAM Portfolio</dt>
-<dd>one of four portfolios within the NYPL Digital Product Team; centered on staff tools, digital rights management, and patron access to our unique digital collections including the <a href="#metadata-management-system">Metadata Management System</a>, <a href="#digital-collections">Digital Collections</a>, and <a href="#archives-portal">Archives Portal</a></dd>
+<dd>one of four portfolios within the the Library's Digital Product Team; centered on staff tools, digital rights management, and patron access to our unique digital collections including the <a href="#metadata-management-system">Metadata Management System</a>, <a href="#digital-collections">Digital Collections</a>, and <a href="#archives-portal">Archives Portal</a></dd>
 
 <a name="describing-archives-a-content-standard"></a>
 <dt>Describing Archives: A Content Standard</dt>
-<dd>TK</dd>
+<dd>set of rules for describing archives, personal papers, and manuscript collections; can be output as <a href="#encoded-archival-description">EAD</a> or <a href="#machine-readable-cataloging">MARC</a></dd>
 
 <a name="digital-collections"></a>
 <dt>Digital Collections</dt>
-<dd>NYPL's central access point for digitized and born-digital materials of all formats, accessible at <a href="https://digitalcollections.nypl.org">digitalcollections.nypl.org</a>; metadata, digital assets, and rights profiles are managed in the <a href="#metadata-management-system">Metadata Management System</a></dd>
+<dd>the Library's central access point for digitized and born-digital materials of all formats, accessible at <a href="https://digitalcollections.nypl.org">digitalcollections.nypl.org</a>; metadata, digital assets, and rights profiles are managed in the <a href="#metadata-management-system">Metadata Management System</a></dd>
 
 <a name="digital-collections-services"></a>
 <dt>Digital Collections Services</dt>
@@ -227,7 +227,7 @@ On this page you will find common terms used within the work of the Metadata Ser
 
 <a name="digital-imaging-services"></a>
 <dt>Digital Imaging Services</dt>
-<dd>department within <a href="#digital-research">Digital Research</a> dedicated to creating high-quality digital surrogates of collection materials made available online through <a href="#digital-collections">Digital Collections</a> or directly through individual requests; primary office located at the <a href="#library-services-center">Library Services Center</a>, with work also taking place at specific Research Libraries</dd>
+<dd>department within <a href="#digital-research">Digital Research</a> dedicated to creating high-quality digital surrogates of collection materials made available online through <a href="#digital-collections">Digital Collections</a> or directly through individual requests; primary office located at the <a href="#library-services-center">Library Services Center</a>, with work also taking place at specific <a href="#research-libraries">Research Libraries</a></dd>
 
 <a name="digital-imaging-unit"></a>
 <dt>Digital Imaging Unit</dt>
@@ -259,7 +259,7 @@ On this page you will find common terms used within the work of the Metadata Ser
 
 <a name="integrated-library-system"></a>
 <dt>integrated library system</dt>
-<dd>software for libraries that combine modules for cataloging, circulation, acquisition, end-user searching, database access, and other library functions; NYPL uses <a href="#sierra">Sierra</a> as its ILS</dd>
+<dd>software for libraries that combine modules for cataloging, circulation, acquisition, end-user searching, database access, and other library functions; the Library uses <a href="#sierra">Sierra</a> as its ILS</dd>
 
 <a name="international-image-operability-framework"></a>
 <dt>International Image Interoperability Framework</dt>
@@ -275,67 +275,67 @@ On this page you will find common terms used within the work of the Metadata Ser
 
 <a name="library-of-congress"></a>
 <dt>Library of Congress</dt>
-<dd>research library that officially serves the United States Congress and is the de facto national library of the United States; maintains <a href="#metadata-object-description-schema">MODS</a> and many controlled vocabularies used by NYPL</dd>
+<dd>research library that officially serves the United States Congress and is the de facto national library of the United States; maintains <a href="#metadata-object-description-schema">MODS</a> and many controlled vocabularies used by the Library</dd>
 
 <a name="library-of-congress-genre-form-terms"></a>
 <dt>Library of Congress Genre/Form Terms</dt>
-<dd>controlled vocabulary of genre and form terms that can be used in the <a href="/metadata/element/genre/">Genre</a> and <a href="/metadata/element/physical-description/form/">Form</a> fields in the <a href="#metadata-management-system">Metadata Management System</a>; maintained by the <a href="#library-of-congress">Library of Congress</a></dd>
+<dd>controlled vocabulary of genre and form terms that can be used in the <a href="/metadata-documentation/metadata/element/genre/">Genre</a> and <a href="/metadata-documentation/metadata/element/physical-description/form/">Form</a> fields in the <a href="#metadata-management-system">Metadata Management System</a>; maintained by the <a href="#library-of-congress">Library of Congress</a></dd>
 
 <a name="library-of-congress-name-authority-file"></a>
 <dt>Library of Congress Name Authority File</dt>
-<dd>controlled vocabulary of names of persons, organizations, events, places, and titles that can be used in the fields in the <a href="/metadata/element/name/">Name</a> and <a href="/metadata/element/subject/">Subject</a> fields in the <a href="#metadata-management-system">Metadata Management System</a>; maintained by the Library of <a href="#library-of-congress">Library of Congress</a></dd>
+<dd>controlled vocabulary of names of persons, organizations, events, places, and titles that can be used in the fields in the <a href="/metadata-documentation/metadata/element/name/">Name</a> and <a href="/metadata-documentation/metadata/element/subject/">Subject</a> fields in the <a href="#metadata-management-system">Metadata Management System</a>; maintained by the Library of <a href="#library-of-congress">Library of Congress</a></dd>
 
 <a name="library-of-congress-subject-headings"></a>
 <dt>Library of Congress Subject Headings</dt>
-<dd>controlled vocabulary of subject headings (topical, chronological, geographic, et al.) that can be used in the <a href="/metadata/element/subject/">Subject</a> field in the <a href="#metadata-management-system">Metadata Management System</a>; maintained by the Library of Congress</dd>
+<dd>controlled vocabulary of subject headings (topical, chronological, geographic, et al.) that can be used in the <a href="/metadata-documentation/metadata/element/subject/">Subject</a> field in the <a href="#metadata-management-system">Metadata Management System</a>; maintained by the Library of Congress</dd>
 
 <a name="library-of-congress-thesaurus-for-graphic-materials"></a>
 <dt>Library of Congress Thesaurus for Graphic Materials</dt>
-<dd>controlled vocabulary of graphic materials terms that can be used in the <a href="/metadata/element/genre/">Genre</a> and <a href="/metadata/element/physical-description/form/">Form</a> fields in the <a href="#metadata-management-system">Metadata Management System</a>; maintained by the Library of Congress</dd>
+<dd>controlled vocabulary of graphic materials terms that can be used in the <a href="/metadata-documentation/metadata/element/genre/">Genre</a> and <a href="/metadata-documentation/metadata/element/physical-description/form/">Form</a> fields in the <a href="#metadata-management-system">Metadata Management System</a>; maintained by the Library of Congress</dd>
 
 <a name="library-of-performing-arts"></a>
 <dt>Library of Performing Arts</dt>
-<dd>one of NYPL's three research libraries; houses one of the world's most extensive research collections in the fields of theatre, film, dance, music, and recorded sound, as well as a wide array of circulating and reference materials</dd>
+<dd>one of the Library's three <a href="#research-libraries">Research Libraries</a>; houses one of the world's most extensive research collections in the fields of theatre, film, dance, music, and recorded sound, as well as a wide array of circulating and reference materials</dd>
 
 <a name="library-services-center"></a>
 <dt>Library Services Center</dt>
-<dd>building where many Digital Research departments—including the Metadata Services Unit—are located alongside Preservation and Collections Processing, BookOps, et al; sometimes referred to as Long Island City</dd>
+<dd>building where many <a href="#digital-research">Digital Research</a> departments—including the <a href="#metadata-services-unit">Metadata Services Unit</a>—are located alongside <a href="#preservation-and-collections-processing">Preservation and Collections Processing</a>, BookOps, et al; sometimes referred to as <a href="#long-island-city">Long Island City</a></dd>
 
 <a name="long-island-city"></a>
 <dt>Long Island City</dt>
-<dd>neighborhood where the Library Services Center is located; sometimes used interchangeably to refer to the Library Services Center (LSC) building</dd>
+<dd>sometimes used to refer to the <a href="#library-services-center">Library Services Center</a> building as the neighborhood where it is located</dd>
 
 <a name="machine-readable-cataloging"></a>
 <dt>MAchine-Readable Cataloging</dt>
-<dd>set of digital formats for the description of items cataloged by libraries; MARC records can be ingested into the Metadata Management System using by importing a catalog record using its bnumber</dd>
+<dd>set of digital formats for the description of items cataloged by libraries; MARC records can be ingested into the <a href="#metadata-management-system">Metadata Management System</a> using by importing a catalog record using its <a href="#bnumber">bnumber</a></dd>
 
 <a name="media-ingest"></a>
 <dt>Media Ingest</dt>
-<dd>name of workflow to stage digitized AMI for preservation, description, and access</dd>
+<dd>name of workflow to stage digitized audio and moving image for preservation, description, and access</dd>
 
 <a name="media-preservation-labs"></a>
 <dt>Media Preservation Labs</dt>
-<dd>in-house media preservation unit that digitizes magnetic, optical, and grooved audio and video recordings; part of Preservation of Audio and Moving Image; primary office located at the Library of Performing Arts</dd>
+<dd>in-house media preservation unit that digitizes magnetic, optical, and grooved audio and video recordings; part of <a href="#digital-collections-services">Digital Collections Services</a>; primary office located at the <a href="#library-of-performing-arts">Library of Performing Arts</a></dd>
 
 <a name="media-preservation-services"></a>
 <dt>Media Preservation Services</dt>
-<dd>unit that supports preservation activities by managing outsourced digitization, audiovisual media conservation, and digital asset quality control and migration; part of Preservation of Audio and Moving Image; primary office located at the Library Services Center</dd>
+<dd>unit that supports preservation activities by managing outsourced digitization, audiovisual media conservation, and digital asset quality control and migration; part of <a href="#digital-collections-services">Digital Collections Services</a>; primary office located at the <a href="#library-services-center">Library Services Center</a></dd>
 
 <a name="metadata-management-system"></a>
 <dt>Metadata Management System</dt>
-<dd>graphical user interface for managing metadata creation, original AMI cataloging, rights profiles, and digital assets for the NYPL's digital objects and Digital Collections; accessible at metadata.nypl.org; powered by SQL database colloquially called "The Database" in a Metadata Services Unit context</dd>
+<dd>graphical user interface for managing metadata creation, original audio and moving image cataloging, rights profiles, and digital assets for the the Library's digital objects and <a href="#digital-collections">Digital Collections</a>; accessible at <a href="https://metadata.nypl.org">metadata.nypl.org</a>; powered by <a href="#structured-query-language">SQL</a> database colloquially called <a href="#the-database">The Database</a> in a <a href="#digital-collections-services">Digital Collections Services</a> context</dd>
 
 <a name="metadata-object-description-schema"></a>
 <dt>Metadata Object Description Schema</dt>
-<dd>XML-based bibliographic description schema developed by the United States Library of Congress' Network Development and Standards Office; basis for metadata schema used in the Metadata Management System</dd>
+<dd><a href="#extensible-markup-language">XML</a>-based bibliographic description schema developed by the <a href="#library-of-congress">Library of Congress</a>; basis for metadata schema used in the <a href="#metadata-management-system">Metadata Management System</a></dd>
 
 <a name="metadata-services-unit"></a>
 <dt>Metadata Services Unit</dt>
-<dd>part of Digital Collections Services; primary office located at the Library Services Center</dd>
+<dd>unit that improves the discovery of library resources and strengthens data interoperability across the library; part of <a href="#digital-collections-services">Digital Collections Services</a>; primary office located at the <a href="#library-services-center">Library Services Center</a></dd>
 
 <a name="photo-order"></a>
 <dt>Photo Order</dt>
-<dd>alternate name of Public Order</dd>
+<dd>alternate name of <a href="#public-order">Public Order</a></dd>
 
 <a name="preservation-and-collections-processing"></a>
 <dt>Preservation and Collections Processing</dt>
@@ -343,23 +343,23 @@ On this page you will find common terms used within the work of the Metadata Ser
 
 <a name="preservation-of-audio-and-moving-image"></a>
 <dt>Preservation of Audio and Moving Image</dt>
-<dd>former Digital Research division, now divided into Media Preservation Services and Media Preservation Labs</dd>
+<dd>former <a href="#digital-research">Digital Research</a> division, now divided into <a href="#media-preservation-services">Media Preservation Services</a> and <a href="#media-preservation-labs">Media Preservation Labs</a></dd>
 
 <a name="prints-and-photographs-online-catalog"></a>
 <dt>Prints and Photographs Online Catalog</dt>
-<dd>website for the collections of the Miriam and Ira D. Wallach Division of Art, Prints, and Photographs; accessible at wallachprintsandphotos.nypl.org; uses The Museum System as its backend database</dd>
+<dd>website for the collections of the Miriam and Ira D. Wallach Division of Art, Prints, and Photographs; accessible at <a href="https://wallachprintsandphotos.nypl.org/">wallachprintsandphotos.nypl.org</a>; uses <a href="#the-museum-system">The Museum System</a> as its backend database</dd>
 
 <a name="public-order"></a>
 <dt>Public Order</dt>
-<dd>digitization request submitted to NYPL by the public tracked by its sequential PO number; Public Orders often correspond to Work Orders</dd>
+<dd>digitization request submitted to the Library by the public tracked by its sequential PO number; Public Orders often correspond to <a href="#work-orders">Work Orders</a></dd>
 
 <a name="python"></a>
 <dt>Python</dt>
-<dd>programming language popularly used for storing, manipulating, and displaying data; data stored in the Metadata Management System can be queried, added, deleted, and updated using Python</dd>
+<dd>programming language popularly used for storing, manipulating, and displaying data; data stored in the <a href="#metadata-management-system">Metadata Management System</a> can be queried, added, deleted, and updated using Python</dd>
 
 <a name="research-catalog"></a>
 <dt>Research Catalog</dt>
-<dd>public catalog for collections of the Research Libraries; accessible at catalog.nypl.org; data is managed in Sierra</dd>
+<dd>public catalog for collections of the <a href="#research-libraries">Research Libraries</a>; accessible at <a href="https://catalog.nypl.org">catalog.nypl.org</a>; data is managed in <a href="#sierra">Sierra</a></dd>
 
 <a name="research-collections-and-preservation-consortium"></a>
 <dt>Research Collections and Preservation Consortium</dt>
@@ -367,7 +367,7 @@ On this page you will find common terms used within the work of the Metadata Ser
 
 <a name="research-libraries"></a>
 <dt>Research Libraries</dt>
-<dd>NYPL library system consisting of the Stephen A. Schwarzman Building, Schomburg Center for Research in Black Culture, and Library for the Performing Arts as well as related divisions such as Digital Research; most collections are non-circulating and managed separately from NYPL's Branch Libraries system</dd>
+<dd>library system consisting of the <a href="#stephen-a-schwarzman-building">Stephen A. Schwarzman Building</a>, <a href="#schomburg-center-for-research-in-black-culture">Schomburg Center for Research in Black Culture</a>, and <a href="#library-for-the-performing-arts">Library for the Performing Arts</a> as well as related divisions such as <a href="#digital-research">Digital Research</a>; most collections are non-circulating and managed separately from the Branch Libraries system</dd>
 
 <a name="resource-description-and-acces"></a>
 <dt>Resource Description and Access</dt>
@@ -375,35 +375,35 @@ On this page you will find common terms used within the work of the Metadata Ser
 
 <a name="schomburg-center-for-research-in-black-culture"></a>
 <dt>Schomburg Center for Research in Black Culture</dt>
-<dd>one of NYPL's three research libraries; devoted to the research, preservation, and exhibition of materials focused on African American, African Diaspora, and African experiences</dd>
+<dd>one of the Library's three <a href="#research-libraries">Research Libraries</a>; devoted to the research, preservation, and exhibition of materials focused on African American, African Diaspora, and African experiences</dd>
 
 <a name="sierra"></a>
 <dt>Sierra</dt>
-<dd>integrated library system used by NYPL; Research Library material cataloged in Sierra can be accessed by the public through the Research Catalog or Legacy Catalog</dd>
+<dd><a href="#integrated-library-system">integrated library system</a> used by the Library; <a href="#research-libraries">Research Library</a> material cataloged in Sierra can be accessed by the public through the <a href="#research-catalog">Research Catalog</a> or <a href="#legacy-catalog">Legacy Catalog</a></dd>
 
 <a name="stavros-niarchos-foundaiton-library"></a>
 <dt>Stavros Niarchos Foundation Library</dt>
-<dd>NYPL's largest circulating branch that is sometimes used for staff orientation and events; located at the former site of the Mid-Manhattan Library</dd>
+<dd>the Library's largest circulating branch that is sometimes used for staff orientation and events; located at the former site of the Mid-Manhattan Library</dd>
 
 <a name="stephen-a-schwarzman-building"></a>
 <dt>Stephen A. Schwarzman Building</dt>
-<dd>one of NYPL's three research libraries and its flagship location; houses research collections in the humanities and social sciences; sometimes referred to by previous names including the Main Branch, Central, and Humanities & Social Sciences Library (HSSL)</dd>
+<dd>one of the Library's three <a href="#research-libraries">Research Libraries</a> and its flagship location; houses research collections in the humanities and social sciences; sometimes referred to by previous names including the Main Branch, Central, or Humanities & Social Sciences Library (HSSL)</dd>
 
 <a name="structured-query-language"></a>
 <dt>Structured Query Language</dt>
-<dd>a programming language designed for managing data held in a relational database management system; some data stored in the Metadata Management System can be queried via SQL</dd>
+<dd>a programming language designed for managing data held in a relational database management system; some data stored in the <a href="#metadata-management-system">Metadata Management System</a> can be queried via SQL</dd>
 
 <a name="the-database"></a>
 <dt>The Database</dt>
-<dd>colloquial name used within Digital Collections Services for the SQL database that powers the Metadata Management System' graphical user interface</dd>
+<dd>colloquial name used within <a href="#digital-collections-services">Digital Collections Services</a> for the <a href="#structured-query-language">SQL</a> database that powers the <a href="#metadata-management-systems">Metadata Management System</a>' graphical user interface</dd>
 
 <a name="the-museum-system"></a>
 <dt>The Museum System</dt>
-<dd>collections management system software used by the Miriam and Ira D. Wallach Division of Art, Prints, and Photographs as the backend for the Prints and Photographs Online Catalog</dd>
+<dd>collections management system software used by the Miriam and Ira D. Wallach Division of Art, Prints, and Photographs as the backend for the <a href="#prints-and-photographs-online-catalog">Prints and Photographs Online Catalog</a></dd>
 
 <a name="the-repo"></a>
 <dt>The Repo</dt>
-<dd>colloquial name used within Digital Collections Services describing the collection of software and services for storing, describing, and providing access to digital assets</dd>
+<dd>colloquial name used within <a href="#digital-collections-services">Digital Collections Services</a> describing the collection of software and services for storing, describing, and providing access to digital assets</dd>
 
 <a name="uniform-resource-identifier"></a>
 <dt>Uniform Resource Identifier</dt>
@@ -411,11 +411,11 @@ On this page you will find common terms used within the work of the Metadata Ser
 
 <a name="universally-unique-identifier"></a>
 <dt>universally unique identifier</dt>
-<dd>128-bit label used for information in computer systems; every collection, container, item, and captures in the Metadata Management System has its own UUID</dd>
+<dd>128-bit label used for information in computer systems; every collection, container, item, and captures in the <a href="#metadata-management-systems">Metadata Management System</a> has its own UUID</dd>
 
 <a name="work-order"></a>
 <dt>Work Order</dt>
-<dd>list of items to be digitized within the Metadata Management System; often correspond to Public Orders or ongoing digitization projects; accessible at metadata.nypl.org/work_orders 🔒</dd>
+<dd>list of items to be digitized within the <a href="#metadata-management-systems">Metadata Management System</a>; often correspond to <a href="#public-orders">Public Orders</a> or ongoing digitization projects; accessible at <a href="https://metadata.nypl.org/work_orders">metadata.nypl.org/work_orders 🔒</a></dd>
 
 </dl>
 
@@ -424,5 +424,5 @@ On this page you will find common terms used within the work of the Metadata Ser
 - [Metadata Liaisons and Contacts 🔒](https://docs.google.com/spreadsheets/d/1P-YDJigon640fTCLP4Ig4-zmzqrX88v5M24ShuxFNVY/edit) for a complete list of research library division acronyms and names
 - [Technology Overview 🔒](https://github.com/NYPL/metadata-admin/blob/main/technology-overview.md) for a complete list of software, apps, and platforms used by the MSU
 - [DIRES Onboarding Terms to know 🔒](https://docs.google.com/document/d/1ox5AEjwF0RwlhdT7o2pHmqfYHwj4mdd115iBotUcvQE/edit#bookmark=id.shjrquewg8er) for a similar list of terms compiled by Digital Research
-- [Identifier](/metadata/element/identifier/) for explanation of each type of identifier used in MMS
-- [External Resources](/resources/external/) for links to other NYPL documentation, et al.
+- [Identifier](/metadata/element/identifier/) for explanation of each type of identifier used in the Metadata Management System
+- [External Resources](/resources/external/) for links to documentation from some of the Library divisions, departments, and units listed above
