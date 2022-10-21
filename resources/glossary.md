@@ -3,12 +3,19 @@ layout: page
 title: Glossary
 permalink: /resources/glossary/
 parent: Resources
-nav_order: 2
+nav_order: 4
 ---
 
 # Glossary
+{: .no_toc }
 
 On this page you will find common terms used within the work of the Metadata Services Unit (MSU)
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ## Acronyms and Abbreviations
 
@@ -96,7 +103,7 @@ On this page you will find common terms used within the work of the Metadata Ser
 <dd><a href="#long-island-city">Long Island City</a></dd>
 
 <dt>LPA</dt>
-<dd><a href="#library-of-performing-arts">Library of Performing Arts</a></dd>
+<dd><a href="#library-for-the-performing-arts">Library for the Performing Arts</a></dd>
 
 <dt>LSC</dt>
 <dd><a href="#library-services-center">Library Services Center</a></dd>
@@ -144,13 +151,13 @@ On this page you will find common terms used within the work of the Metadata Ser
 <dd><a href="#stephen-a-schwarzman-building">Stephen A. Schwarzman Building</a> (sometimes pronounced "sas-bee")</dd>
 
 <dt>SNFL</dt>
-<dd><a href="#stavros-niarchos-foundation-library">Stavros Niarchos Foundation Library</a></dd>
+<dd><a href="#stavros-niarchos-foundation-library">Stavros Niarchos Foundation Library</a> (sometimes pronounced "sniffle")</dd>
 
 <dt>SPEC</dt>
 <dd><a href="#special-collections">SPEcial Collections</a></dd>
 
 <dt>SQL</dt>
-<dd><a href="#structured-query-language">Structured Query Language</a> (sometimes pronounced "se-quel")</dd>
+<dd><a href="#structured-query-language">Structured Query Language</a> (sometimes pronounced "sequel")</dd>
 
 <dt>TMS</dt>
 <dd><a href="#the-museum-system">The Museum System</a></dd>
@@ -293,8 +300,8 @@ On this page you will find common terms used within the work of the Metadata Ser
 <dt>Library of Congress Thesaurus for Graphic Materials</dt>
 <dd>controlled vocabulary of graphic materials terms that can be used in the <a href="/metadata-documentation/metadata/element/genre/">Genre</a> and <a href="/metadata-documentation/metadata/element/physical-description/form/">Form</a> fields in the <a href="#metadata-management-system">Metadata Management System</a>; maintained by the Library of Congress</dd>
 
-<a name="library-of-performing-arts"></a>
-<dt>Library of Performing Arts</dt>
+<a name="library-for-the-performing-arts"></a>
+<dt>Library for the Performing Arts</dt>
 <dd>one of the Library's three <a href="#research-libraries">Research Libraries</a>; houses one of the world's most extensive research collections in the fields of theatre, film, dance, music, and recorded sound, as well as a wide array of circulating and reference materials</dd>
 
 <a name="library-services-center"></a>
@@ -315,7 +322,7 @@ On this page you will find common terms used within the work of the Metadata Ser
 
 <a name="media-preservation-labs"></a>
 <dt>Media Preservation Labs</dt>
-<dd>in-house media preservation unit that digitizes magnetic, optical, and grooved audio and video recordings; part of <a href="#digital-collections-services">Digital Collections Services</a>; primary office located at the <a href="#library-of-performing-arts">Library of Performing Arts</a></dd>
+<dd>in-house media preservation unit that digitizes magnetic, optical, and grooved audio and video recordings; part of <a href="#digital-collections-services">Digital Collections Services</a>; primary office located at the <a href="#library-for-the-performing-arts">Library for the Performing Arts</a></dd>
 
 <a name="media-preservation-services"></a>
 <dt>Media Preservation Services</dt>

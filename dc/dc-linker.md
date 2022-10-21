@@ -7,8 +7,15 @@ nav_order: 3
 ---
 
 # DC Linker
+{: .no_toc }
 
 DC Linker is a tool to open up a corresponding item in the Metadata Management System (MMS) from an item page or thumbnail in Digital Collections
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ## Installation
 

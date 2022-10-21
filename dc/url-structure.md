@@ -7,57 +7,111 @@ nav_order: 4
 ---
 
 # URL Structure
+{: .no_toc }
 
-For consistency and reliability, we suggest using the following URL structures with Universal Unique Identifiers (UUID) to link to entities in Digital Collections
+For consistency and reliability when linking to entities in Digital Collections, we recommend using URLs structured according to the guidelines below
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ## Collection URLs
+
+{: .note }
+By default, the Digital Collections browser URL bar displays a URL with an encoded version of the collection title in lieu of the UUID. We do not recommend using this URL as it is less stable and links will break in the event a collection title is changed.
 
 <dl>
 
 <dt>Preferred structure</dt>
-<dd><tt>https://digitalcollections.nypl.org/collections/<span style="color: #dd2e2e;">collection UUID</span></tt></dd>
+<dd><tt>https://digitalcollections.nypl.org/collections/<span style="background: #ffffcc; border: 1px solid #5c5962;">collection UUID</span></tt></dd>
 
 <dt>Example</dt>
-<dd><tt><a href="https://digitalcollections.nypl.org/collections/28d304b0-c612-012f-cd39-58d385a7bc34">https://digitalcollections.nypl.org/collections/28d304b0-c612-012f-cd39-58d385a7bc34</a></tt></dd>
+<dd><tt><a href="https://digitalcollections.nypl.org/collections/dba41b30-0ae6-0137-bfb0-4fa251ecd76a">https://digitalcollections.nypl.org/collections/<span style="background: #ffffcc; border: 1px solid #5c5962;">dba41b30-0ae6-0137-bfb0-4fa251ecd76a</span></a></tt></dd>
 
 </dl>
 
-1. On Digital Collections, find the UUID for the collection by clicking the **About** tab for a collection
-    1. The UUID will be found at the bottom of the **Collection Data** sidebar under **Identifiers**
-1. In the Metadata Management System, the UUID can be found immediately below the collection title on any tab for the collection
+### Finding UUIDs for Collections
 
-{: .note-title }
-> Note
->
-> By default, the Digital Collections browser URL bar displays a URL with an encoded version of the collection title in lieu of the UUID. The MSU does not recommend using this URL as it is less stable and links will break in the event a collection title is changed.
+- On <a href="https://digitalcollections.nypl.org">Digital Collections</a>, find the UUID by clicking the **About** tab for a collection
+    - The UUID will be found at the bottom of the **Collection Data** sidebar under **Identifiers**
+- In the <a href="https://metadata.nypl.org">Metadata Management System</a>, the UUID can be found immediately below the collection's title on any tab for the collection
 
 ## Container URLs
-These URLs are currently very unstable as they change when containers are reordered or new containers added
 
-> Container URLs are built on collection URLs. When creating links to Digital Collections containers, please ensure the base collection URL utilizes the collection UUID (please see the Collections URLs note above) rather than the encoded collection title
+{: .warning }
+Container URLs should be treated as less stable as they change when containers are reordered or new containers added.
 
-### Containers within Collections
-Preferred URL structure: https://digitalcollections.nypl.org/collections/[collection UUID]/?tab=navigation&roots=[container sequence number followed by a : (only appears after first container in a collection)][container UUID]
-Example URL (first container in collection): 
-Example URL (second container in collection): 
-Note: For nested containers, the URL structure pattern following "?tab=navigation&roots=" is repeated for each container, separated by  "/" 
-On Digital Collections, find the container UUID at the very end of the URL in the browser URL bar
-If the container is nested, the UUIDs for the root container and all other parent containers will also be present in the URL
-In MMS, the UUID can be found immediately below the container title on any tab for the container
-Containers within Containers
-Preferred URL structure (nested): https://digitalcollections.nypl.org/collections/[collection UUID]/?tab=navigation&roots=[container sequence number followed by a : (only appears after first container in a collection)][container UUID]/[container sequence number followed by a : (only appears after first sub-container in a container)][container UUID]
-Example URL (nested, first subcontainer in root container):
-Example URL (nested, second subcontainer in root container):
+{: .note }
+Container URLs are built on their corresponding collection URLs. When creating links to Digital Collections containers, ensure the base collection URL utilizes the collection UUID (see <a href="#collection-urls">Collection URLs</a>) rather than the encoded collection title.
+
+### Containers within Collections URLs
+
+<dl>
+
+<dt>Preferred structure</dt>
+<dd><tt>https://digitalcollections.nypl.org/collections/<span style="background: #ffffcc; border: 1px solid #5c5962;">collection UUID</span>/?tab=navigation&roots=<span style="background: #cccccc; border: 1px solid #5c5962;">container sequence number followed by a : (only appears <em>after</em> first container in a collection)</span><span style="background: #ccffcc; border: 1px solid #5c5962;">container UUID</span></tt></dd>
+
+<dt>Example<br>(1st container)</dt>
+<dd><tt><a href="https://digitalcollections.nypl.org/collections/dba41b30-0ae6-0137-bfb0-4fa251ecd76a/?tab=navigation&roots=4c8bac10-0ae7-0137-4c89-5dcd471e46f5">https://digitalcollections.nypl.org/collections/<span style="background: #ffffcc; border: 1px solid #5c5962;">dba41b30-0ae6-0137-bfb0-4fa251ecd76a</span>/?tab=navigation&roots=<span style="background: #ccffcc; border: 1px solid #5c5962;">4c8bac10-0ae7-0137-4c89-5dcd471e46f5</span></a></tt></dd>
+
+<dt>Example<br>(subsequent containers)</dt>
+<dd><tt><a href="https://digitalcollections.nypl.org/collections/dba41b30-0ae6-0137-bfb0-4fa251ecd76a/?tab=navigation&roots=2:4d690980-0ae7-0137-49ea-3790db43fb92">https://digitalcollections.nypl.org/collections/dba41b30-0ae6-0137-bfb0-4fa251ecd76a/?tab=navigation&roots=<span style="background: #cccccc; border: 1px solid #5c5962;">2:</span><span style="background: #ccffcc; border: 1px solid #5c5962;">4d690980-0ae7-0137-49ea-3790db43fb92</span></a></tt></dd>
+
+</dl>
+
+### Containers within Containers URLs
+
+{: .note }
+For nested containers, the URL structure pattern following <tt>?tab=navigation&roots=</tt> is repeated for each container, separated by <tt>/</tt>
+
+<dl>
+
+<dt>Preferred structure</dt>
+<dd><tt>https://digitalcollections.nypl.org/collections/<span style="background: #ffffcc; border: 1px solid #5c5962;">collection UUID</span>/?tab=navigation&roots=<span style="background: #cccccc; border: 1px solid #5c5962;">1st container sequence number followed by a : (only appears <em>after</em> first container in a collection)</span><span style="background: #ccffcc; border: 1px solid #5c5962;">1st container UUID</span>/<span style="background: #999999; border: 1px solid #5c5962;">2nd container sequence number followed by a : (only appears <em>after</em> first container in a collection)</span><span style="background: #66cc66; border: 1px solid #5c5962;">2nd container UUID</span></tt></dd>
+
+<dt>Example</dt>
+<dd><a href="https://digitalcollections.nypl.org/collections/dba41b30-0ae6-0137-bfb0-4fa251ecd76a/?tab=navigation&roots=2:4d690980-0ae7-0137-49ea-3790db43fb92/2:7d05c7b0-c2ed-0139-8462-0242ac110003"><tt>https://digitalcollections.nypl.org/collections/<span style="background: #ffffcc; border: 1px solid #5c5962;">dba41b30-0ae6-0137-bfb0-4fa251ecd76a</span>/?tab=navigation&roots=<span style="background: #cccccc; border: 1px solid #5c5962;">2:</span><span style="background: #ccffcc; border: 1px solid #5c5962;">4d690980-0ae7-0137-49ea-3790db43fb92</span>/<span style="background: #999999; border: 1px solid #5c5962;">2:</span><span style="background: #66cc66; border: 1px solid #5c5962;">7d05c7b0-c2ed-0139-8462-0242ac110003</span></tt></a></dd>
+
+</dl>
+
+### Finding UUIDs for Containers
+
+- On <a href="https://digitalcollections.nypl.org">Digital Collections</a>, find the UUID at the very end of the URL in the browser URL bar
+    - If the container is nested, the UUIDs for the root container and all other parent containers will also be present in the URL
+- In the <a href="https://metadata.nypl.org">Metadata Management System</a>, the UUID can be found immediately below the container's title on any tab for the container
 
 ## Item URLs
-Preferred URL structure: https://digitalcollections.nypl.org/items/[item UUID]
-Example URL: https://digitalcollections.nypl.org/items/85ae0f00-c63e-012f-11aa-58d385a7bc34#/?uuid=5e66b3e8-cd03-d471-e040-e00a180654d7
-On Digital Collections, find UUID for the item in the "Identifiers" section at the bottom of an item page
-In MMS, the UUID can be found immediately below the item title on any tab for the item
 
+<dl>
+
+<dt>Preferred structure</dt>
+<dd><tt>https://digitalcollections.nypl.org/items/<span style="background: #ccccff; border: 1px solid #5c5962;">item UUID</span></tt></dd>
+
+<dt>Example</dt>
+<dd><tt><a href="https://digitalcollections.nypl.org/items/60d42da0-c2ee-0139-8909-0242ac110003">https://digitalcollections.nypl.org/items/<span style="background: #ccccff; border: 1px solid #5c5962;">60d42da0-c2ee-0139-8909-0242ac110003</span></a></tt></dd>
+
+</dl>
+
+### Finding UUIDs for Items
+
+- On <a href="https://digitalcollections.nypl.org">Digital Collections</a>, find the UUID in the **Identifiers** section at the bottom of an item page
+- In the <a href="https://metadata.nypl.org">Metadata Management System</a>, the UUID can be found immediately below the item's title on any tab for the item
 
 ## Capture URLs
-- Preferred URL structure: https://digitalcollections.nypl.org/items/[capture UUID]
-- Example URL: 
-- On Digital Collections, the full capture URL—including the UUID for the capture—is populated as a permalink, which can be found to the right of the IMAGE ID field directly below the image viewer
-- In MMS, the UUID can be found immediately below the capture name on an individual capture page or in the UUID column of the an item's capture inventory page
+
+<dl>
+
+<dt>Preferred structure</dt>
+<dd><tt>https://digitalcollections.nypl.org/items/<span style="background: #ffccff; border: 1px solid #5c5962;">capture UUID</span></tt></dd>
+
+<dt>Example</dt>
+<dd><tt><a href="https://digitalcollections.nypl.org/items/ce95c650-cafb-0139-aded-0242ac110002">https://digitalcollections.nypl.org/items/<span style="background: #ffccff; border: 1px solid #5c5962;">ce95c650-cafb-0139-aded-0242ac110002</span></a></tt></dd>
+
+</dl>
+
+### Finding UUIDs for Captures
+
+- On <a href="https://digitalcollections.nypl.org">Digital Collections</a>, the full capture URL—including the UUID for the capture—is populated as the **Permalink**, which can be found to the right of the **Image ID** field directly below the image viewer
+- In the <a href="https://metadata.nypl.org">Metadata Management System</a>, the UUID can be found immediately below the captures's title on an item's capture inventory page
