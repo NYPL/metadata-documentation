@@ -3,7 +3,7 @@ layout: page
 title: URL Structure
 permalink: /dc/url-structure/
 parent: Digital Collections
-nav_order: 4
+nav_order: 3
 ---
 
 # URL Structure
@@ -35,8 +35,8 @@ By default, the Digital Collections browser URL bar displays a URL with an encod
 ### Finding UUIDs for Collections
 
 - On <a href="https://digitalcollections.nypl.org">Digital Collections</a>, find the UUID by clicking the **About** tab for a collection
-    - The UUID will be found at the bottom of the **Collection Data** sidebar under **Identifiers**
-- In the <a href="https://metadata.nypl.org">Metadata Management System</a>, the UUID can be found immediately below the collection's title on any tab for the collection
+    - **Universal Unique Identifier (UUID)** will be found at the bottom of the **Collection Data** sidebar under **Identifiers**
+- In the <a href="https://metadata.nypl.org">Metadata Management System</a>, the UUID can be found immediately below the collection's title following the **uuid:** label on any tab for the collection
 
 ## Container URLs
 
@@ -64,7 +64,7 @@ Container URLs are built on their corresponding collection URLs. When creating l
 ### Containers within Containers URLs
 
 {: .note }
-For nested containers, the URL structure pattern following <tt>?tab=navigation&roots=</tt> is repeated for each container, separated by <tt>/</tt>
+For nested containers, the URL structure pattern following <tt>?tab=navigation&roots=</tt> is repeated for each container, separated by <tt>/</tt>.
 
 <dl>
 
@@ -80,7 +80,7 @@ For nested containers, the URL structure pattern following <tt>?tab=navigation&r
 
 - On <a href="https://digitalcollections.nypl.org">Digital Collections</a>, find the UUID at the very end of the URL in the browser URL bar
     - If the container is nested, the UUIDs for the root container and all other parent containers will also be present in the URL
-- In the <a href="https://metadata.nypl.org">Metadata Management System</a>, the UUID can be found immediately below the container's title on any tab for the container
+- In the <a href="https://metadata.nypl.org">Metadata Management System</a>, the UUID can be found immediately below the container's title following the **uuid:** label on any tab for the collection
 
 ## Item URLs
 
@@ -97,7 +97,7 @@ For nested containers, the URL structure pattern following <tt>?tab=navigation&r
 ### Finding UUIDs for Items
 
 - On <a href="https://digitalcollections.nypl.org">Digital Collections</a>, find the UUID in the **Identifiers** section at the bottom of an item page
-- In the <a href="https://metadata.nypl.org">Metadata Management System</a>, the UUID can be found immediately below the item's title on any tab for the item
+- In the <a href="https://metadata.nypl.org">Metadata Management System</a>, the UUID can be found immediately below the item's title following the **uuid:** label on any tab for the collection
 
 ## Capture URLs
 
@@ -114,4 +114,5 @@ For nested containers, the URL structure pattern following <tt>?tab=navigation&r
 ### Finding UUIDs for Captures
 
 - On <a href="https://digitalcollections.nypl.org">Digital Collections</a>, the full capture URL—including the UUID for the capture—is populated as the **Permalink**, which can be found to the right of the **Image ID** field directly below the image viewer
-- In the <a href="https://metadata.nypl.org">Metadata Management System</a>, the UUID can be found immediately below the captures's title on an item's capture inventory page
+- In the <a href="https://metadata.nypl.org">Metadata Management System</a>, the UUID can be found immediately below the capture's title following the **uuid:** label on a capture page
+    - Alternately, from a Capture Inventory page, capture UUIDs will be shown in the **UUID** column

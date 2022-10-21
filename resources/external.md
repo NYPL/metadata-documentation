@@ -18,7 +18,7 @@ nav_order: 3
 ## NYPL Documentation
 Links to documentation created by other New York Public Library divisions, departments, and units that pertain to the Metadata Services Unit (MSU)
 
-### [Digital Research](https://docs.google.com/document/d/1ox5AEjwF0RwlhdT7o2pHmqfYHwj4mdd115iBotUcvQE/edit)
+### [Digital Research](https://lair.nypl.org/-/departments/library-sites-and-services/research-libraries/digital-research-division)
 - [Digital Preservation](https://nypl.github.io/digpres/)
     - [Born Digital](https://nypl.github.io/born-digital-docs/)
     - [Digital Archives](https://nypl.github.io/digarch/)

@@ -7,6 +7,13 @@ nav_order: 6
 ---
 
 # Linking Between Systems
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ## Research Catalog
 To be migrated

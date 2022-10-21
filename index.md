@@ -16,7 +16,7 @@ Welcome to the documentation site of the Metadata Services Unit (MSU) of the New
 {: .highlight-title }
 > 🚧 Under Construction (October 2022)
 >
-> This site is still being developed. Please contact us at metadata [at] nypl [dot] org if you have any questions or feedback.
+> This site is still being developed. Contact us at metadata [at] nypl [dot] org with any questions or feedback.
 
 <!-- ---
 
