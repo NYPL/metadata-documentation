@@ -251,19 +251,19 @@ On this page you will find common terms used within the work of the Metadata Ser
 
 <a name="extensible-markup-language"></a>
 <dt>Extensible Markup Language</dt>
-<dd>markup language and file format for storing, transmitting, and reconstructing data; used for both Metadata Object Description Schema and Encoded Archival Description</dd>
+<dd>markup language and file format for storing, transmitting, and reconstructing data; used for both <a href="#metadata-object-description-schema">Metadata Object Description Schema</a> and <a href="#encoded-archival-description">Encoded Archival Description</a></dd>
 
 <a name="hades"></a>
 <dt>Hades</dt>
-<dd>precursor to Metadata Management System</dd>
+<dd>precursor to <a href="#metadata-management-system">Metadata Management System</a></dd>
 
 <a name="integrated-library-system"></a>
 <dt>integrated library system</dt>
-<dd>software for libraries that combine modules for cataloging, circulation, acquisition, end-user searching, database access, and other library functions; NYPL uses Sierra as its ILS</dd>
+<dd>software for libraries that combine modules for cataloging, circulation, acquisition, end-user searching, database access, and other library functions; NYPL uses <a href="#sierra">Sierra</a> as its ILS</dd>
 
 <a name="international-image-operability-framework"></a>
 <dt>International Image Interoperability Framework</dt>
-<dd>set of open standards for delivering high-quality, attributed digital objects online at scale; as of 2022, IIIF is in use for some collections in Digital Collections on a pilot basis with the plan to implement it more widely in the future</dd>
+<dd>set of open standards for delivering high-quality, attributed digital objects online at scale; as of 2022, IIIF is in use for some collections in <a href="#digital-collections">Digital Collections</a> on a pilot basis with the plan to implement it more widely in the future</dd>
 
 <a name="Isilon Cluster E"></a>
 <dt>Isilon Cluster E</dt>
@@ -271,27 +271,27 @@ On this page you will find common terms used within the work of the Metadata Ser
 
 <a name="legacy-catalog"></a>
 <dt>Legacy Catalog</dt>
-<dd>legacy version of the public Research Catalog accessible at legacycatalog.nypl.org</dd>
+<dd>legacy version of the public <a href="#research-catalog">Research Catalog</a> accessible at <a href="https://legacycatalog.nypl.org">legacycatalog.nypl.org</a></dd>
 
 <a name="library-of-congress"></a>
 <dt>Library of Congress</dt>
-<dd>research library that officially serves the United States Congress and is the de facto national library of the United States; maintains MODS and many controlled vocabularies used by NYPL</dd>
+<dd>research library that officially serves the United States Congress and is the de facto national library of the United States; maintains <a href="#metadata-object-description-schema">MODS</a> and many controlled vocabularies used by NYPL</dd>
 
 <a name="library-of-congress-genre-form-terms"></a>
 <dt>Library of Congress Genre/Form Terms</dt>
-<dd>controlled vocabulary of genre and form terms that can be used in the Genre and Form fields in MMS; maintained by the Library of Congress</dd>
+<dd>controlled vocabulary of genre and form terms that can be used in the <a href="/metadata/element/genre/">Genre</a> and <a href="/metadata/element/physical-description/form/">Form</a> fields in the <a href="#metadata-management-system">Metadata Management System</a>; maintained by the <a href="#library-of-congress">Library of Congress</a></dd>
 
 <a name="library-of-congress-name-authority-file"></a>
 <dt>Library of Congress Name Authority File</dt>
-<dd>controlled vocabulary of names of persons, organizations, events, places, and titles that can be used in the fields in the Name and Subject MMS; maintained by the Library of Congress</dd>
+<dd>controlled vocabulary of names of persons, organizations, events, places, and titles that can be used in the fields in the <a href="/metadata/element/name/">Name</a> and <a href="/metadata/element/subject/">Subject</a> fields in the <a href="#metadata-management-system">Metadata Management System</a>; maintained by the Library of <a href="#library-of-congress">Library of Congress</a></dd>
 
 <a name="library-of-congress-subject-headings"></a>
 <dt>Library of Congress Subject Headings</dt>
-<dd>controlled vocabulary of subject headings (topical, chronological, geographic, et al.) that can be used in the Subject field in MMS; maintained by the Library of Congress</dd>
+<dd>controlled vocabulary of subject headings (topical, chronological, geographic, et al.) that can be used in the <a href="/metadata/element/subject/">Subject</a> field in the <a href="#metadata-management-system">Metadata Management System</a>; maintained by the Library of Congress</dd>
 
 <a name="library-of-congress-thesaurus-for-graphic-materials"></a>
 <dt>Library of Congress Thesaurus for Graphic Materials</dt>
-<dd>controlled vocabulary of graphic materials terms that can be used in the Genre and Form fields in MMS; maintained by the Library of Congress</dd>
+<dd>controlled vocabulary of graphic materials terms that can be used in the <a href="/metadata/element/genre/">Genre</a> and <a href="/metadata/element/physical-description/form/">Form</a> fields in the <a href="#metadata-management-system">Metadata Management System</a>; maintained by the Library of Congress</dd>
 
 <a name="library-of-performing-arts"></a>
 <dt>Library of Performing Arts</dt>
