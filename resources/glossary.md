@@ -197,7 +197,7 @@ On this page you will find common terms used within the work of the Metadata Ser
 <dt>Classic Catalog</dt>
 <dd>former name of the <a href="#research-catalog">Research Catalog</a></dd>
 
-<a name="collection-management-syste"></a>
+<a name="collection-management-system"></a>
 <dt>Collection Management System</dt>
 <dd>Filemaker Pro database used by the <a href="#preservation-and-collections-processing">Preservation and Collections Processing</a> department to manage inventory of the <a href="#research-libraries">Research Libraries</a></dd>
 
