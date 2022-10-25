@@ -8,4 +8,4 @@ has_children: true
 
 # Digital Collections
 
-Digital Collections is the Library's central access point for digitized and born-digital materials of all formats, accessible at <a href="https://digitalcollections.nypl.org">digitalcollections.nypl.org</a>
+The following subpages describe functionality of Digital Collections, the Library's central access point for digitized and born-digital materials of all formats accessible at <a href="https://digitalcollections.nypl.org">digitalcollections.nypl.org</a>
