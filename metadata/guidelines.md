@@ -6,11 +6,6 @@ parent: MMS › Metadata
 nav_order: 2
 ---
 
-## Quick Reference Guide
-To be migrated
-{: .label .label-yellow }
-[📄 MMS General User Quick Reference Guide](https://docs.google.com/document/d/18ZPQqTBqbs8hJf2bCfMgTi2ipXPhm3-T-qODRKkJLY4/edit){: .btn }
-
 # General Guidelines
 To be migrated
 {: .label .label-yellow }
@@ -19,6 +14,11 @@ To be migrated
 [📄 MMS Guidelines](https://docs.google.com/document/d/1wJQqgkA_Sa1EiQGcb1mwKkRL7wAwIVa9a-bavZTkEyU/edit){: .btn }
 [📄 MMS Descriptive Metadata Guidelines](https://docs.google.com/spreadsheets/d/1zd5pp0b_AkEESk41OoZGe0PPZDrokzvUt-swgV7Ppm4/edit){: .btn }
 [📄 MMS Guidance/Documentation](https://lair.nypl.org/-/departments/library-sites-and-services/research-libraries/metadata-services-unit/mms-guidance-documentation){: .btn }
+
+## Quick Reference Guide
+To be migrated
+{: .label .label-yellow }
+[📄 MMS General User Quick Reference Guide](https://docs.google.com/document/d/18ZPQqTBqbs8hJf2bCfMgTi2ipXPhm3-T-qODRKkJLY4/edit){: .btn }
 
 ## Minimum Metadata Requirements
 To be migrated
