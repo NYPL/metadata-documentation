@@ -432,4 +432,4 @@ On this page you will find common terms used within the work of the Metadata Ser
 - [Technology Overview 🔒](https://github.com/NYPL/metadata-admin/blob/main/technology-overview.md) for a complete list of software, apps, and platforms used by the MSU
 - [DIRES Onboarding Terms to know 🔒](https://docs.google.com/document/d/1ox5AEjwF0RwlhdT7o2pHmqfYHwj4mdd115iBotUcvQE/edit#bookmark=id.shjrquewg8er) for a similar list of terms compiled by Digital Research
 - [Identifier](/metadata-documentation/metadata/element/identifier/) for explanation of each type of identifier used in the Metadata Management System
-- [External Resources](/metadata-documentation/resources/external/) for links to documentation from some of the Library divisions, departments, and units listed above
+- [External Links](/metadata-documentation/resources/external/) for links to documentation from some of the Library divisions, departments, and units listed above
