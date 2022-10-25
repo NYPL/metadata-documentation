@@ -37,4 +37,4 @@ Liaison to Dorot; General Research Division; Maps; Milstein; Spencer Collection;
 {: .mt-1 .mb-0 }
 
 {: .highlight }
-Individual staff contact information can be found in [Lair 🔒](https://lair.nypl.org/-/departments/library-sites-and-services/research-libraries/metadata-services-unit), and additional information on liaisons can be found in [Google Drive 🔒](https://docs.google.com/spreadsheets/d/1P-YDJigon640fTCLP4Ig4-zmzqrX88v5M24ShuxFNVY/edit) 
+NYPL staff can find individual staff contact information in [Lair 🔒](https://lair.nypl.org/-/departments/library-sites-and-services/research-libraries/metadata-services-unit), and additional information on liaisons in [Google Drive 🔒](https://docs.google.com/spreadsheets/d/1P-YDJigon640fTCLP4Ig4-zmzqrX88v5M24ShuxFNVY/edit) 
