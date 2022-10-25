@@ -46,7 +46,7 @@ On this page you will find common terms used within the work of the Metadata Ser
 <dd><a href="#copyright-permissions-and-information-policy">Copyright, Permissions, and Information Policy</a></dd>
 
 <dt>DACS</dt>
-<dd><a href="#describing-archives-">Describing Archives: A Content Standard</a></dd>
+<dd><a href="#describing-archives-a-content-standard">Describing Archives: A Content Standard</a></dd>
 
 <dt>DAM</dt>
 <dd>digital asset management</dd>
@@ -148,7 +148,7 @@ On this page you will find common terms used within the work of the Metadata Ser
 <dd><a href="#research-collections-and-preservation-consortium">Research Collections and Preservation Consortium</a></dd>
 
 <dt>SASB</dt>
-<dd><a href="#stephen-a-schwarzman-building">Stephen A. Schwarzman Building</a> (sometimes pronounced "sas-bee")</dd>
+<dd><a href="#stephen-a-schwarzman-building">Stephen A. Schwarzman Building</a> (sometimes pronounced "saz-bee")</dd>
 
 <dt>SNFL</dt>
 <dd><a href="#stavros-niarchos-foundation-library">Stavros Niarchos Foundation Library</a> (sometimes pronounced "sniffle")</dd>
@@ -214,11 +214,11 @@ On this page you will find common terms used within the work of the Metadata Ser
 
 <a name="copyright-permissions-and-information-policy"></a>
 <dt>Copyright, Permissions, and Information Policy</dt>
-<dd>former name of <a href="copyright-and-information-policy">Copyright and Information Policy</a></dd>
+<dd>former name of <a href="#copyright-and-information-policy">Copyright and Information Policy</a></dd>
 
 <a name="dam-portfolio"></a>
 <dt>DAM Portfolio</dt>
-<dd>one of four portfolios within the the Library's Digital Product Team; centered on staff tools, digital rights management, and patron access to our unique digital collections including the <a href="#metadata-management-system">Metadata Management System</a>, <a href="#digital-collections">Digital Collections</a>, and <a href="#archives-portal">Archives Portal</a></dd>
+<dd>one of four portfolios within the the Library's Digital Product Team; centered on staff tools, digital rights management, and patron access to our unique digital collections including the <a href="#metadata-management-system">Metadata Management System</a>, <a href="#digital-collections">Digital Collections</a>, and the <a href="#archives-portal">Archives Portal</a></dd>
 
 <a name="describing-archives-a-content-standard"></a>
 <dt>Describing Archives: A Content Standard</dt>
@@ -242,7 +242,7 @@ On this page you will find common terms used within the work of the Metadata Ser
 
 <a name="digital-preservation"></a>
 <dt>Digital Preservation</dt>
-<dd>unit within <a href="#digital-research">Digital Research</a> that ensures the long-term preservation of digital research collections including born-digital archives, digitized audio and moving image material, born-digital recordings of performances, and digitized images; includes Digital Archives; primary office located at the <a href="library-services-center">Library Services Center</a></dd>
+<dd>unit within <a href="#digital-research">Digital Research</a> that ensures the long-term preservation of digital research collections including born-digital archives, digitized audio and moving image material, born-digital recordings of performances, and digitized images; includes Digital Archives; primary office located at the <a href="#library-services-center">Library Services Center</a></dd>
 
 <a name="digital-research"></a>
 <dt>Digital Research</dt>
@@ -290,11 +290,11 @@ On this page you will find common terms used within the work of the Metadata Ser
 
 <a name="library-of-congress-name-authority-file"></a>
 <dt>Library of Congress Name Authority File</dt>
-<dd>controlled vocabulary of names of persons, organizations, events, places, and titles that can be used in the fields in the <a href="/metadata-documentation/metadata/element/name/">Name</a> and <a href="/metadata-documentation/metadata/element/subject/">Subject</a> fields in the <a href="#metadata-management-system">Metadata Management System</a>; maintained by the Library of <a href="#library-of-congress">Library of Congress</a></dd>
+<dd>controlled vocabulary of names of persons, organizations, events, places, and titles that can be used in the fields in the <a href="/metadata-documentation/metadata/element/name/">Name</a> and <a href="/metadata-documentation/metadata/element/subject/">Subject</a> fields in the <a href="#metadata-management-system">Metadata Management System</a>; maintained by the <a href="#library-of-congress">Library of Congress</a></dd>
 
 <a name="library-of-congress-subject-headings"></a>
 <dt>Library of Congress Subject Headings</dt>
-<dd>controlled vocabulary of subject headings (topical, chronological, geographic, et al.) that can be used in the <a href="/metadata-documentation/metadata/element/subject/">Subject</a> field in the <a href="#metadata-management-system">Metadata Management System</a>; maintained by the Library of Congress</dd>
+<dd>controlled vocabulary of subject headings (topical, chronological, geographic, et al.) that can be used in the <a href="/metadata-documentation/metadata/element/subject/">Subject</a> field in the <a href="#metadata-management-system">Metadata Management System</a>; maintained by the <a href="#library-of-congress">Library of Congress</a></dd>
 
 <a name="library-of-congress-thesaurus-for-graphic-materials"></a>
 <dt>Library of Congress Thesaurus for Graphic Materials</dt>
@@ -346,7 +346,7 @@ On this page you will find common terms used within the work of the Metadata Ser
 
 <a name="preservation-and-collections-processing"></a>
 <dt>Preservation and Collections Processing</dt>
-<dd>division comprised of units that describe, preserve, and manage the Library's special collections</dd>
+<dd>division of the <a href="#research-libraries">Research Libraries</a> comprised of units that describe, preserve, and manage the Library's special collections</dd>
 
 <a name="preservation-of-audio-and-moving-image"></a>
 <dt>Preservation of Audio and Moving Image</dt>
@@ -376,7 +376,7 @@ On this page you will find common terms used within the work of the Metadata Ser
 <dt>Research Libraries</dt>
 <dd>library system consisting of the <a href="#stephen-a-schwarzman-building">Stephen A. Schwarzman Building</a>, <a href="#schomburg-center-for-research-in-black-culture">Schomburg Center for Research in Black Culture</a>, and <a href="#library-for-the-performing-arts">Library for the Performing Arts</a> as well as related divisions such as <a href="#digital-research">Digital Research</a>; most collections are non-circulating and managed separately from the Branch Libraries system</dd>
 
-<a name="resource-description-and-acces"></a>
+<a name="resource-description-and-access"></a>
 <dt>Resource Description and Access</dt>
 <dd>standard for descriptive cataloging providing instructions and guidelines on formulating bibliographic data</dd>
 
@@ -402,7 +402,7 @@ On this page you will find common terms used within the work of the Metadata Ser
 
 <a name="the-database"></a>
 <dt>The Database</dt>
-<dd>colloquial name used within <a href="#digital-collections-services">Digital Collections Services</a> for the <a href="#structured-query-language">SQL</a> database that powers the <a href="#metadata-management-systems">Metadata Management System</a>' graphical user interface</dd>
+<dd>colloquial name used within <a href="#digital-collections-services">Digital Collections Services</a> for the <a href="#structured-query-language">SQL</a> database that powers the <a href="#metadata-management-system">Metadata Management System</a>' graphical user interface</dd>
 
 <a name="the-museum-system"></a>
 <dt>The Museum System</dt>
@@ -418,11 +418,11 @@ On this page you will find common terms used within the work of the Metadata Ser
 
 <a name="universally-unique-identifier"></a>
 <dt>universally unique identifier</dt>
-<dd>128-bit label used for information in computer systems; every collection, container, item, and captures in the <a href="#metadata-management-systems">Metadata Management System</a> has its own UUID</dd>
+<dd>128-bit label used for information in computer systems; every collection, container, item, and captures in the <a href="#metadata-management-system">Metadata Management System</a> has its own UUID</dd>
 
 <a name="work-order"></a>
 <dt>Work Order</dt>
-<dd>list of items to be digitized within the <a href="#metadata-management-systems">Metadata Management System</a>; often correspond to <a href="#public-orders">Public Orders</a> or ongoing digitization projects; accessible at <a href="https://metadata.nypl.org/work_orders">metadata.nypl.org/work_orders 🔒</a></dd>
+<dd>list of items to be digitized within the <a href="#metadata-management-system">Metadata Management System</a>; often correspond to <a href="#public-orders">Public Orders</a> or ongoing digitization projects; accessible at <a href="https://metadata.nypl.org/work_orders">metadata.nypl.org/work_orders 🔒</a></dd>
 
 </dl>
 
