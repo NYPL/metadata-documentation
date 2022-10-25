@@ -6,6 +6,11 @@ parent: MMS › Metadata
 nav_order: 2
 ---
 
+## Quick Reference Guide
+To be migrated
+{: .label .label-yellow }
+[📄 MMS General User Quick Reference Guide](https://docs.google.com/document/d/18ZPQqTBqbs8hJf2bCfMgTi2ipXPhm3-T-qODRKkJLY4/edit){: .btn }
+
 # General Guidelines
 To be migrated
 {: .label .label-yellow }
