@@ -18,22 +18,22 @@ For general inquiries, contact metadata [at] nypl [dot] org
 
 **Sarah Adams**, Senior Metadata Specialist
 {: .text-grey-dk-300 .fs-5 .mt-5 .mb-0}
-Liaison to Arents; Berg; Manuscripts and Archives; NYPL Archives; Pforzheimer; Rare Books (Stephen A. Schwarzman Building)
+Liaison to Stephen A. Schwarzman Building divisions: Arents; Berg; Manuscripts and Archives; NYPL Archives; Pforzheimer; Rare Books
 {: .mt-1 .mb-0 }
 
 **Emma Clarkson**, Metadata Specialist
 {: .text-grey-dk-300 .fs-5 .mt-5 .mb-0}
-Liaison to Dance; Music; Rodgers and Hammerstein; Theatre (Library for the Performing Arts)
+Liaison to Library for the Performing Arts divisions: Dance; Music; Rodgers and Hammerstein; Theatre
 {: .mt-1 .mb-0 }
 
 **Nic Caldwell**, Metadata Specialist
 {: .text-grey-dk-300 .fs-5 .mt-5 .mb-0}
-Liaison to Art and Artifacts; Research and Reference; Manuscripts, Archives and Rare Books; Moving Image and Recorded Sound; Photographs and Prints Division (Schomburg Center for Research in Black Culture)
+Liaison to Schomburg Center for Research in Black Culture divisions: Art and Artifacts; Research and Reference; Manuscripts, Archives and Rare Books; Moving Image and Recorded Sound; Photographs and Prints Division
 {: .mt-1 .mb-0 }
 
 **Zoe Waldron**, Metadata Specialist
 {: .text-grey-dk-300 .fs-5 .mt-5 .mb-0}
-Liaison to Dorot; General Research Division; Maps; Milstein; Spencer Collection; Wallach (Stephen A. Schwarzman Building)
+Liaison to Stephen A. Schwarzman Building divisions: Dorot; General Research Division; Maps; Milstein; Spencer Collection; Wallach
 {: .mt-1 .mb-0 }
 
 {: .highlight }
