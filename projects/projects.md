@@ -19,4 +19,4 @@ nav_order: 6
 * [Wikidata/Wikibase](wiki)
 
 #### To Add
-* Bnumber name
+* 2022 refresh of links from Research Catalog to Digital Collections
