@@ -428,8 +428,8 @@ On this page you will find common terms used within the work of the Metadata Ser
 
 ## See Also
 
-- [Google Drive / Metadata Liaisons and Contacts 🔒](https://docs.google.com/spreadsheets/d/1P-YDJigon640fTCLP4Ig4-zmzqrX88v5M24ShuxFNVY/edit) for a complete list of research library division acronyms and names
-- [Google Drive / DIRES Onboarding Terms to know 🔒](https://docs.google.com/document/d/1ox5AEjwF0RwlhdT7o2pHmqfYHwj4mdd115iBotUcvQE/edit#bookmark=id.shjrquewg8er) for a similar list of terms compiled by Digital Research
-- [metadata-admin / Technology Overview 🔒](https://github.com/NYPL/metadata-admin/blob/main/technology-overview.md) for a complete list of software, apps, and platforms used by the MSU
-- [metadata-documentation / MMS › Metadata / By Element / Identifier](/metadata-documentation/metadata/element/identifier/) for explanation of each type of identifier used in the Metadata Management System
-- [metadata-documentation / Resources / External Links](/metadata-documentation/resources/external/) for links to documentation from some of the Library divisions, departments, and units listed above
+- [Metadata Liaisons and Contacts 🔒](https://docs.google.com/spreadsheets/d/1P-YDJigon640fTCLP4Ig4-zmzqrX88v5M24ShuxFNVY/edit) for a complete list of research library division acronyms and names
+- [DIRES Onboarding Terms to know 🔒](https://docs.google.com/document/d/1ox5AEjwF0RwlhdT7o2pHmqfYHwj4mdd115iBotUcvQE/edit#bookmark=id.shjrquewg8er) for a similar list of terms compiled by Digital Research
+- [Technology Overview 🔒](https://github.com/NYPL/metadata-admin/blob/main/technology-overview.md) for a complete list of software, apps, and platforms used by the MSU
+- [Identifier](/metadata-documentation/metadata/element/identifier/) for explanation of each type of identifier used in the Metadata Management System
+- [External Links](/metadata-documentation/resources/external/) for links to documentation from some of the Library divisions, departments, and units listed above
