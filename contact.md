@@ -23,12 +23,12 @@ Liaison to Arents; Berg; Manuscripts and Archives; NYPL Archives; Pforzheimer; R
 
 **Emma Clarkson**, Metadata Specialist
 {: .text-grey-dk-300 .fs-5 .mt-5 .mb-0}
-Liaison to Library for the Performing Arts (Dance; Music; Rodgers and Hammerstein; Theatre)
+Liaison to Dance; Music; Rodgers and Hammerstein; Theatre (Library for the Performing Arts)
 {: .mt-1 .mb-0 }
 
 **Nic Caldwell**, Metadata Specialist
 {: .text-grey-dk-300 .fs-5 .mt-5 .mb-0}
-Liaison to Schomburg Center for Research in Black Culture (Art and Artifacts; Research and Reference; Manuscripts, Archives and Rare Books; Moving Image and Recorded Sound; Photographs and Prints Division)
+Liaison to Art and Artifacts; Research and Reference; Manuscripts, Archives and Rare Books; Moving Image and Recorded Sound; Photographs and Prints Division (Schomburg Center for Research in Black Culture)
 {: .mt-1 .mb-0 }
 
 **Zoe Waldron**, Metadata Specialist
