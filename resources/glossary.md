@@ -34,7 +34,7 @@ On this page you will find common terms used within the work of the Metadata Ser
 <dd><a href="#archivesspace">ArchivesSpace</a></dd>
 
 <dt>CATNYP</dt>
-<dd><a href="#catalog-of-the-new-york-public-library">Catalog of The New York Public Library</a></dd>
+<dd><a href="#catalog-of-the-new-york-public-library">Catalog of The New York Public Library</a> (deprecated)</dd>
 
 <dt>CIP</dt>
 <dd><a href="#copyright-and-information-policy">Copyright and Information Policy</a></dd>
@@ -43,7 +43,7 @@ On this page you will find common terms used within the work of the Metadata Ser
 <dd><a href="#collection-management-system">Collection Management System</a></dd>
 
 <dt>CPAIP</dt>
-<dd><a href="#copyright-permissions-and-information-policy">Copyright, Permissions, and Information Policy</a></dd>
+<dd><a href="#copyright-permissions-and-information-policy">Copyright, Permissions, and Information Policy</a> (deprecated)</dd>
 
 <dt>DACS</dt>
 <dd><a href="#describing-archives-a-content-standard">Describing Archives: A Content Standard</a></dd>
@@ -64,7 +64,7 @@ On this page you will find common terms used within the work of the Metadata Ser
 <dd><a href="#digital-imaging-services">Digital Imaging Services</a></dd>
 
 <dt>DIU</dt>
-<dd><a href="#digital-imaging-unit">Digital Imaging Unit</a></dd>
+<dd><a href="#digital-imaging-unit">Digital Imaging Unit</a> (deprecated)</dd>
 
 <dt>EAD</dt>
 <dd><a href="#encoded-archival-description">Encoded Archival Description</a></dd>
@@ -130,7 +130,7 @@ On this page you will find common terms used within the work of the Metadata Ser
 <dd>New York Public Library</dd>
 
 <dt>PAMI</dt>
-<dd><a href="#preservation-of-audio-and-moving-image">Preservation of Audio and Moving Image</a></dd>
+<dd><a href="#preservation-of-audio-and-moving-image">Preservation of Audio and Moving Image</a> (deprecated)</dd>
 
 <dt>PCP</dt>
 <dd><a href="#preservation-and-collections-processing">Preservation and Collections Processing</a></dd>
