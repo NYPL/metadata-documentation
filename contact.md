@@ -6,7 +6,7 @@ nav_order: 8
 ---
 
 # Contact
-For general inquiries, contact metadata [at] nypl [dot] org
+For general inquiries, email metadata [at] nypl [dot] org
 
 ## Our Team
 
