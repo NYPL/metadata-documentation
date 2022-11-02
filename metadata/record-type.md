@@ -24,3 +24,6 @@ To be written
 ## Capture
 To be written
 {: .label .label-red }
+
+## See Also
+* [A note about our data model](https://api.repo.nypl.org/#data-model)
