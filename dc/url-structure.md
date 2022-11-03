@@ -32,7 +32,7 @@ By default, the Digital Collections browser URL bar displays a URL with an encod
 
 </dl>
 
-### Finding UUIDs for Collections
+### Finding UUIDs for Collection URLs
 
 - On <a href="https://digitalcollections.nypl.org">Digital Collections</a>, find the UUID by clicking the **About** tab for a collection
     - **Universal Unique Identifier (UUID)** will be found at the bottom of the **Collection Data** sidebar under **Identifiers**
@@ -76,7 +76,7 @@ For nested containers, the URL structure pattern following <tt>?tab=navigation&r
 
 </dl>
 
-### Finding UUIDs for Containers
+### Finding UUIDs for Container URLs
 
 - On <a href="https://digitalcollections.nypl.org">Digital Collections</a>, find the UUID at the very end of the URL in the browser URL bar
     - If the container is nested, the UUIDs for the root container and all other parent containers will also be present in the URL
@@ -84,20 +84,24 @@ For nested containers, the URL structure pattern following <tt>?tab=navigation&r
 
 ## Item URLs
 
+{: .note }
+Item URLs can be generated with the item UUID (i.e. <tt>https://digitalcollections.nypl.org/items/<span style="background: #ccccff; border: 1px solid #5c5962;">item UUID</span></tt>), but this does not work consistently for audio and moving image items, so we recommend using the UUID of the first capture associated with an item for item URLs.
+
 <dl>
 
 <dt>Preferred structure</dt>
-<dd><tt>https://digitalcollections.nypl.org/items/<span style="background: #ccccff; border: 1px solid #5c5962;">item UUID</span></tt></dd>
+<dd><tt>https://digitalcollections.nypl.org/items/<span style="background: #ccccff; border: 1px solid #5c5962;">capture UUID for first capture associated with item</span></tt></dd>
 
 <dt>Example</dt>
-<dd><tt><a href="https://digitalcollections.nypl.org/items/60d42da0-c2ee-0139-8909-0242ac110003">https://digitalcollections.nypl.org/items/<span style="background: #ccccff; border: 1px solid #5c5962;">60d42da0-c2ee-0139-8909-0242ac110003</span></a></tt></dd>
+<dd><tt><a href="https://digitalcollections.nypl.org/items/ce44a320-cafb-0139-d939-0242ac110002">https://digitalcollections.nypl.org/items/<span style="background: #ccccff; border: 1px solid #5c5962;">ce44a320-cafb-0139-d939-0242ac110002</span></a></tt></dd>
 
 </dl>
 
-### Finding UUIDs for Items
+### Finding UUIDs for Item URLs
 
-- On <a href="https://digitalcollections.nypl.org">Digital Collections</a>, find the UUID in the **Identifiers** section at the bottom of an item page
-- In the <a href="https://metadata.nypl.org">Metadata Management System</a>, the UUID can be found immediately below the item's title following the **uuid:** label on any tab for the collection
+- On <a href="https://digitalcollections.nypl.org">Digital Collections</a>, select the first capture for an item
+    - The full capture URL—including the UUID for the capture—is populated as the **Permalink**, which can be found to the right of the **Image ID** field directly below the image viewer
+- In the <a href="https://metadata.nypl.org">Metadata Management System</a>, find the UUID for the first capture associated with an item on its **Capture inventory** tab in the **UUID** column
 
 ## Capture URLs
 
@@ -111,7 +115,7 @@ For nested containers, the URL structure pattern following <tt>?tab=navigation&r
 
 </dl>
 
-### Finding UUIDs for Captures
+### Finding UUIDs for Capture URLs
 
 - On <a href="https://digitalcollections.nypl.org">Digital Collections</a>, the full capture URL—including the UUID for the capture—is populated as the **Permalink**, which can be found to the right of the **Image ID** field directly below the image viewer
 - In the <a href="https://metadata.nypl.org">Metadata Management System</a>, the UUID can be found immediately below the capture's title following the **uuid:** label on a capture page
