@@ -18,22 +18,22 @@ For general inquiries, email metadata [at] nypl [dot] org
 
 **Sarah Adams**, Senior Metadata Specialist
 {: .text-grey-dk-300 .fs-5 .mt-5 .mb-0}
-Liaison to Stephen A. Schwarzman Building divisions: Arents; Berg; Manuscripts and Archives; NYPL Archives; Pforzheimer; Rare Books
+Liaison to Stephen A. Schwarzman Building divisions: Berg Collection; George Arents Collection; Manuscripts and Archives Division; NYPL Archives; Pforzheimer Collection; Rare Book Division
 {: .mt-1 .mb-0 }
 
 **Emma Clarkson**, Metadata Specialist
 {: .text-grey-dk-300 .fs-5 .mt-5 .mb-0}
-Liaison to Library for the Performing Arts divisions: Dance; Music; Rodgers and Hammerstein; Theatre
+Liaison to Library for the Performing Arts divisions: Billy Rose Theatre Division; Jerome Robbins Dance Division; Music Division; Rodgers and Hammerstein Archives of Recorded Sound
 {: .mt-1 .mb-0 }
 
 **Nic Caldwell**, Metadata Specialist
 {: .text-grey-dk-300 .fs-5 .mt-5 .mb-0}
-Liaison to Schomburg Center for Research in Black Culture divisions: Art and Artifacts; Research and Reference; Manuscripts, Archives and Rare Books; Moving Image and Recorded Sound; Photographs and Prints
+Liaison to Schomburg Center for Research in Black Culture divisions: Art and Artifacts Division; Manuscripts, Archives and Rare Books Division; Moving Image and Recorded Sound Division; Photographs and Prints Division; Jean Blackwell Hutson Research and Reference Division
 {: .mt-1 .mb-0 }
 
 **Zoe Waldron**, Metadata Specialist
 {: .text-grey-dk-300 .fs-5 .mt-5 .mb-0}
-Liaison to Stephen A. Schwarzman Building divisions: Dorot; General Research Division; Maps; Milstein; Spencer Collection; Wallach
+Liaison to Stephen A. Schwarzman Building divisions: Dorot Jewish Division; General Research Division; Map Division; Milstein Division; Spencer Collection; Wallach Division (Art & Architecture Collection; Photography Collection; Picture Collection; Print Collection)
 {: .mt-1 .mb-0 }
 
 {: .highlight }
