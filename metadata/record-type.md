@@ -8,6 +8,9 @@ nav_order: 5
 
 # By Record Type
 
+Data model
+Item, Container, and Collection records
+
 ## Collection
 To be migrated
 {: .label .label-yellow }
