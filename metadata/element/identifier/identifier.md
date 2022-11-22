@@ -6,6 +6,7 @@ parent: By Element
 grand_parent: MMS › Metadata
 nav_exclude: true
 nav_order: 3
+has_children: true
 ---
 
 # Identifier

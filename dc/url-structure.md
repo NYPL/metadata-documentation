@@ -85,7 +85,7 @@ For nested containers, the URL structure pattern following <tt>?tab=navigation&r
 ## Item URLs
 
 {: .note }
-Item URLs *can* be generated with the item UUID (i.e. <tt>https://digitalcollections.nypl.org/items/<span style="background: #ccccff; border: 1px solid #5c5962;">item UUID</span></tt>), but this URL structure does not work consistently for audio and moving image resources, so we recommend using the UUID of the first capture of an item to construct “item” URLs.
+Item URLs *can* be generated with the item UUID (i.e. <tt>https://digitalcollections.nypl.org/items/<span style="background: #ccccff; border: 1px solid #5c5962;">item UUID</span></tt>), but this URL structure does not work consistently for audio and moving image resources, so we recommend using the UUID of the first capture of an item to construct item URLs.
 
 <dl>
 
@@ -100,7 +100,7 @@ Item URLs *can* be generated with the item UUID (i.e. <tt>https://digitalcollect
 ### Finding UUIDs for Item URLs
 
 - On <a href="https://digitalcollections.nypl.org">Digital Collections</a>, select the first capture for an item
-    - The full capture URL—including the UUID for the capture—is populated as the **Permalink**, which can be found to the right of the **Image ID** field directly below the image viewer
+    - The full capture URL—including the capture UUID—is populated as the **Permalink**, which can be found to the right of the **Image ID** field directly below the image viewer
 - In the <a href="https://metadata.nypl.org">Metadata Management System</a>, find the UUID for the first non-suppressed capture of an item on its **Capture inventory** tab in the **UUID** column
 
 ## Capture URLs
@@ -117,7 +117,7 @@ Item URLs *can* be generated with the item UUID (i.e. <tt>https://digitalcollect
 
 ### Finding UUIDs for Capture URLs
 
-- On <a href="https://digitalcollections.nypl.org">Digital Collections</a>, the full capture URL—including the UUID for the capture—is populated as the **Permalink**, which can be found to the right of the **Image ID** field directly below the image viewer
-- In the <a href="https://metadata.nypl.org">Metadata Management System</a>:
-    - From a Capture record, the UUID can be found immediately below the capture's title following the **uuid:** label
+- On <a href="https://digitalcollections.nypl.org">Digital Collections</a>, the full capture URL—including the capture UUID—is populated as the **Permalink**, which can be found to the right of the **Image ID** field directly below the image viewer
+- In the <a href="https://metadata.nypl.org">Metadata Management System</a>, the capture UUID can be found in the capture record or **Capture Inventory** tab
+    - From a capture record, the UUID can be found immediately below the capture's title following the **uuid:** label
     - From the **Capture Inventory** tab on an item record, capture UUIDs will be shown in the **UUID** column
