@@ -14,8 +14,10 @@ nav_order: 3
 - You will receive a calendar invite with a Google Meet link for a virtual one-hour training session
 - You should plan to share your screen during your training session
 
-{: .note }
-For trainers: the training script can be found in [metadata-admin 🔒](https://github.com/NYPL/metadata-admin/blob/main/mms-training-script.md).
+{: .note-title }
+> Note for Trainers
+>
+> The training script can be found in [metadata-admin 🔒](https://github.com/NYPL/metadata-admin/blob/main/mms-training-script.md).
 
 ## Agenda
 
