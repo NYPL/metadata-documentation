@@ -15,6 +15,11 @@ To be migrated
 [📄 MMS Descriptive Metadata Guidelines](https://docs.google.com/spreadsheets/d/1zd5pp0b_AkEESk41OoZGe0PPZDrokzvUt-swgV7Ppm4/edit){: .btn }
 [📄 MMS Guidance/Documentation](https://lair.nypl.org/-/departments/library-sites-and-services/research-libraries/metadata-services-unit/mms-guidance-documentation){: .btn }
 
+## MODS
+- MMS uses MODS
+- We use selections from MODS elements up to version [TK 3.4]
+- See MODS links on each element page
+
 ## Quick Reference Guide
 To be migrated
 {: .label .label-yellow }
