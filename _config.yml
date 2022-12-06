@@ -53,6 +53,9 @@ callouts:
     color: red
   highlight:
     color: yellow
+  mods:
+    title: MODS Documentation
+    color: purple
 
 # Exclude from processing.
 # The following items will not be processed, by default.

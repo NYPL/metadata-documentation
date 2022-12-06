@@ -1,15 +1,43 @@
 ---
 layout: page
 title: Title
-permalink: /metadata/element/Title/
+permalink: /metadata/element/title/
 parent: By Element
 grand_parent: MMS › Metadata
 nav_exclude: true
 nav_order: 2
 ---
 
-# Title
-To be migrated
-{: .label .label-yellow }
-[📄 Title](https://docs.google.com/document/d/1Q5i4fZPA_5b6dZr2RUaYQrE8QuzUFqHOCDRc8QoJPpw/edit){: .btn }
-[📄 Title (1)](https://docs.google.com/document/d/14tTP1D06lXu9qEJ8B9krE4SvqQ2_paFav1Z8umU_src/edit){: .btn }
+# Title <span class="label label-red">Required</span><span class="label label-blue">Repeatable</span>
+{: .no_toc }
+
+A word, phrase, character, or group of characters, normally appearing in a resource, that names it or the work contained in it <span class="text-delta">([See MODS](https://www.loc.gov/standards/mods/userguide/titleinfo.html))</span>
+{: .fs-6 .fw-300 }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+## Purpose
+
+## Source
+including transcribed vs. supplied
+
+## Best Practices
+rules for input (punctuation etc.)
+controlled vocabularies
+examples
+any record type specific guidance
+subelements (which replicate the above)
+
+### Collections
+
+### Containers
+
+### Items
+MMS will not save without this
+
+## See Also
+- [Top-level Element: &lt;titleInfo&gt;](https://www.loc.gov/standards/mods/userguide/titleinfo.html) for official MODS documentation from the Library of Congress
