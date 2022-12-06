@@ -29,3 +29,5 @@ To be migrated
 To be migrated
 {: .label .label-yellow }
 [🦁 Data Quality & Transparency](https://lair.nypl.org/-/departments/library-sites-and-services/research-libraries/metadata-services-unit/data-quality-transparency){: .btn }
+
+## Inheritance
