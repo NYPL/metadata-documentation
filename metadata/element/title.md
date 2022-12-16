@@ -8,11 +8,12 @@ nav_exclude: true
 nav_order: 2
 ---
 
-# Title <span class="label label-red">Required</span><span class="label label-blue">Repeatable</span>
+# Title <span class="label label-blue">Required</span><span class="label label-green">Repeatable</span>
 {: .no_toc }
 
-A word, phrase, character, or group of characters, normally appearing in a resource, that names it or the work contained in it <span class="text-delta">([See MODS](https://www.loc.gov/standards/mods/userguide/titleinfo.html))</span>
+A word, phrase, character, or group of characters, normally appearing in a resource, that names it or the work contained in it
 {: .fs-6 .fw-300 }
+[🔗 See &lt;titleInfo&gt; in MODS](https://www.loc.gov/standards/mods/userguide/titleinfo.html){: .btn }
 
 ## Table of contents
 {: .no_toc .text-delta }
@@ -21,9 +22,6 @@ A word, phrase, character, or group of characters, normally appearing in a resou
 {:toc}
 
 ## Purpose
-
-## Source
-including transcribed vs. supplied
 
 ## Best Practices
 rules for input (punctuation etc.)
