@@ -17,7 +17,7 @@ nav_order: 3
 {: .note-title }
 > Note for Trainers
 >
-> The training script can be found in [metadata-admin 🔒](https://github.com/NYPL/metadata-admin/blob/main/mms-training-script.md).
+> The training script can be found in [metadata-admin 🔒](https://github.com/NYPL/metadata-admin/blob/main/mms-training-script.md)
 
 ## Agenda
 

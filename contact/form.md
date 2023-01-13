@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Form
+title: Contact Form
 permalink: /contact/form/
 parent: Contact
 nav_exclude: true
