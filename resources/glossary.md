@@ -184,6 +184,10 @@ On this page you will find common terms used within the work of the Metadata Ser
 <dt>Archives Portal</dt>
 <dd>public interface for the Library's archival finding aids accessible at <a href="https://archives.nypl.org">archives.nypl.org</a></dd>
 
+<a name="archives-portal-admin-interface"></a>
+<dt>Archives Portal Admin Interface</dt>
+<dd>admin interface for the Library's archival finding aids accessible at <a href="https://archives.nypl.org/admin">archives.nypl.org/admin</a></dd>
+
 <a name="archivesspace"></a>
 <dt>ArchivesSpace</dt>
 <dd>open source archives information management application used by the Library for archival description</dd>
