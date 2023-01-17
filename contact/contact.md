@@ -8,7 +8,7 @@ nav_order: 8
 # Contact
 To report an issue or make a suggestion regarding metadata displayed in the Metadata Management System (MMS) or Digital Collections (DC), use our [contact form](/metadata-documentation/contact/form/)
 
-For general inquiries, email metadata [at] nypl [dot] org
+For general enquiries, email metadata [at] nypl [dot] org
 
 ## Our Team
 
