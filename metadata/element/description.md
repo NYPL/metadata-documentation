@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Description
-permalink: /metadata/element/description/
+title: Abstract
+permalink: /metadata/element/abstract/
 parent: By Element
 grand_parent: MMS › Metadata
 nav_exclude: true
