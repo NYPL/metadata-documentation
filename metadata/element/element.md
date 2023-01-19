@@ -28,7 +28,7 @@ has_toc: false
 - [Language](/metadata-documentation/metadata/element/language/) <span class="label label-blue fs-1 mb-1 mx-1">Required if Applicable</span>
 - [Physical Description](/metadata-documentation/metadata/element/physical-description/)
 - [Subject](/metadata-documentation/metadata/element/subject/)
-- [Description](/metadata-documentation/metadata/element/description/)
+- [Abstract](/metadata-documentation/metadata/element/abstract/)
 - [Table of Contents](/metadata-documentation/metadata/element/table-of-contents/)
 - [Note](/metadata-documentation/metadata/element/note/)
 - [Classification](/metadata-documentation/metadata/element/classification/)

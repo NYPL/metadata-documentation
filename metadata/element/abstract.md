@@ -13,12 +13,8 @@ nav_order: 12
 >
 > This page is still being developed. [Contact us](/metadata-documentation/contact/) with any questions or feedback.
 
-# Description
-<<<<<<< Updated upstream
-To be migrated
-{: .label .label-yellow }
-[📄 Abstract | Table of Contents ](https://docs.google.com/document/d/1vOzk-E859JAh6nFioB6ZtrfX-BnOmSJm_mRUbQPV36Q/edit){: .btn }
-=======
+# Abstract
 
 [📄 Abstract | Table of Contents ](https://docs.google.com/document/d/1vOzk-E859JAh6nFioB6ZtrfX-BnOmSJm_mRUbQPV36Q/edit){: .btn }
->>>>>>> Stashed changes
+
+[📄 Abstract | Table of Contents ](https://docs.google.com/document/d/1vOzk-E859JAh6nFioB6ZtrfX-BnOmSJm_mRUbQPV36Q/edit){: .btn }
