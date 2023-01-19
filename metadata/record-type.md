@@ -58,8 +58,8 @@ The Metadata Management System (MMS) supports four types of records that contain
 * An Item can have zero or an unlimited number of Captures
 * Capture records do not have [MODS elements](/metadata-documentation/metadata/element/) associated with other record types
 * Besides system-generated fields, Captures have two editable fields:
-    * Name: typically the same as the image ID generated during digitization process, but can be manually edited if deemed necessary
-    * Relationship: a drop-down menu of values that can provide detail about what the capture is or how it relates to the item
+    * **Name**: typically the same as the image ID generated during digitization process, but can be manually edited if deemed necessary
+    * **Relationship**: a drop-down menu of values that can provide detail about what the capture is or how it relates to the item
 
 ## Hierarchy Examples
 

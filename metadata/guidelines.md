@@ -6,9 +6,12 @@ parent: MMS › Metadata
 nav_order: 2
 ---
 
+{: .highlight-title }
+> 🚧 Under Construction
+>
+> This page is still being developed. Links to legacy documentation may appear to facilitate our migration process. [Contact us](/metadata-documentation/contact/) with any questions or feedback.
+
 # General Guidelines
-To be migrated
-{: .label .label-yellow }
 [📄 ✨Data dictionary✨](https://docs.google.com/document/u/0/d/1AKxlTX2JemeMTEVL1ANZjOYBrUo2xYYRRiv2Z8Hu73M/edit){: .btn }
 [📄 NYPL MODS Data Dictionary -- DRAFT](https://docs.google.com/document/u/0/d/1JnyAL_17iws4UgytNZOsSGtMkcgw9ylQOZdzyUenqTg/edit){: .btn }
 [📄 MMS Guidelines](https://docs.google.com/document/d/1wJQqgkA_Sa1EiQGcb1mwKkRL7wAwIVa9a-bavZTkEyU/edit){: .btn }
@@ -16,23 +19,16 @@ To be migrated
 [📄 MMS Guidance/Documentation](https://lair.nypl.org/-/departments/library-sites-and-services/research-libraries/metadata-services-unit/mms-guidance-documentation){: .btn }
 
 ## MODS
-- MMS uses MODS
-- We use selections from MODS elements up to version [TK 3.4]
-- See MODS links on each element page
 
 ## Quick Reference Guide
-To be migrated
-{: .label .label-yellow }
 [📄 MMS General User Quick Reference Guide](https://docs.google.com/document/d/18ZPQqTBqbs8hJf2bCfMgTi2ipXPhm3-T-qODRKkJLY4/edit){: .btn }
 
 ## Minimum Metadata Requirements
-To be migrated
-{: .label .label-yellow }
 [📄 MMS minimum descriptive metadata requirements](https://docs.google.com/document/d/1Ju4jtiFsjOmpWf5xClPs5oDppscwMBCZIl2ltXuUjSE/edit){: .btn }
 
+## Inheritance
+
 ## Data Quality and Transparency
-To be migrated
-{: .label .label-yellow }
 [🦁 Data Quality & Transparency](https://lair.nypl.org/-/departments/library-sites-and-services/research-libraries/metadata-services-unit/data-quality-transparency){: .btn }
 
-## Inheritance
+## Inclusive and Reparative Description

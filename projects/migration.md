@@ -6,14 +6,13 @@ parent: Projects
 nav_exclude: true
 ---
 
+{: .highlight-title }
+> 🚧 Under Construction
+>
+> This page is still being developed. [Contact us](/metadata-documentation/contact/) with any questions or feedback.
+
 # Metadata Migrations
-To be written
-{: .label .label-red }
 
 ## Mid-Manhattan Picture Collection
-To be written
-{: .label .label-red }
 
 ## Digital Scriptorium
-To be written
-{: .label .label-red }

@@ -6,10 +6,11 @@ parent: Projects
 nav_exclude: true
 ---
 
+{: .highlight-title }
+> 🚧 Under Construction
+>
+> This page is still being developed. [Contact us](/metadata-documentation/contact/) with any questions or feedback.
+
 # Reconciliation
-To be written
-{: .label .label-red }
 
 ## URI Matching
-To be written
-{: .label .label-red }

@@ -8,7 +8,11 @@ nav_exclude: true
 nav_order: 16
 ---
 
+{: .highlight-title }
+> 🚧 Under Construction
+>
+> This page is still being developed. [Contact us](/metadata-documentation/contact/) with any questions or feedback.
+
 # Physical Location
-To be migrated
-{: .label .label-yellow }
+
 [📄 Physical Location](https://docs.google.com/document/d/1KoVDj5Zk9x7YqBeskw-62pGTarv_wUhpcas9Irzqmqs/edit){: .btn }

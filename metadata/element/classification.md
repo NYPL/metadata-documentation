@@ -8,6 +8,9 @@ nav_exclude: true
 nav_order: 15
 ---
 
+{: .highlight-title }
+> 🚧 Under Construction
+>
+> This page is still being developed. [Contact us](/metadata-documentation/contact/) with any questions or feedback.
+
 # Classification
-To be written
-{: .label .label-red }

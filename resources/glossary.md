@@ -21,6 +21,9 @@ On this page you will find common terms used within the work of the Metadata Ser
 
 <dl>
 
+<dt>AACR</dt>
+<dd><a href="#anglo-american-cataloging-rules">Anglo-American Cataloging Rules</a></dd>
+
 <dt>AAT</dt>
 <dd><a href="#art-architecture-thesaurus">Art & Architecture Thesaurus</a></dd>
 
@@ -74,6 +77,9 @@ On this page you will find common terms used within the work of the Metadata Ser
 
 <dt>GUI</dt>
 <dd>graphical user interface</dd>
+
+<dt>GMD</dt>
+<dd><a href="#general-material-designation">general material designation</a></dd>
 
 <dt>ICE</dt>
 <dd><a href="#isilon-cluster-e">Isilon Cluster E</a></dd>
@@ -180,6 +186,10 @@ On this page you will find common terms used within the work of the Metadata Ser
 
 <dl>
 
+<a name="anglo-american-cataloging-rules"></a>
+<dt>Anglo-American Cataloging Rules</dt>
+<dd>an international library cataloging standard replaced by <a href="#resource-description-and-access">Resource Description and Access</a></dd>
+
 <a name="archives-portal"></a>
 <dt>Archives Portal</dt>
 <dd>public interface for the Library's archival finding aids accessible at <a href="https://archives.nypl.org">archives.nypl.org</a></dd>
@@ -226,11 +236,11 @@ On this page you will find common terms used within the work of the Metadata Ser
 
 <a name="describing-archives-a-content-standard"></a>
 <dt>Describing Archives: A Content Standard</dt>
-<dd>set of rules for describing archives, personal papers, and manuscript collections; can be output as <a href="#encoded-archival-description">EAD</a> or <a href="#machine-readable-cataloging">MARC</a></dd>
+<dd>set of rules for describing archives, personal papers, and manuscript collections; can be output as <a href="#encoded-archival-description">EAD</a> or <a href="#machine-readable-cataloging">MARC</a>; documentation accessible at <a href="https://saa-ts-dacs.github.io/">saa-ts-dacs.github.io</a></dd>
 
 <a name="digital-collections"></a>
 <dt>Digital Collections</dt>
-<dd>the Library's central access point for digitized and born-digital materials of all formats, accessible at <a href="https://digitalcollections.nypl.org">digitalcollections.nypl.org</a>; metadata, digital assets, and rights profiles are managed in the <a href="#metadata-management-system">Metadata Management System</a></dd>
+<dd>the Library's central access point for digitized and born-digital materials of all formats; accessible at <a href="https://digitalcollections.nypl.org">digitalcollections.nypl.org</a>; metadata, digital assets, and rights profiles are managed in the <a href="#metadata-management-system">Metadata Management System</a></dd>
 
 <a name="digital-collections-services"></a>
 <dt>Digital Collections Services</dt>
@@ -263,6 +273,10 @@ On this page you will find common terms used within the work of the Metadata Ser
 <a name="extensible-markup-language"></a>
 <dt>Extensible Markup Language</dt>
 <dd>markup language and file format for storing, transmitting, and reconstructing data; used for both <a href="#metadata-object-description-schema">Metadata Object Description Schema</a> and <a href="#encoded-archival-description">Encoded Archival Description</a></dd>
+
+<a name="general-material-designation"></a>
+<dt>general material designation</dt>
+<dd>broad category of the material being described that may appear in the title of records catalogued according to <a href="#anglo-american-cataloging-rules">Anglo American Cataloging Rules</a></dd>
 
 <a name="hades"></a>
 <dt>Hades</dt>
@@ -382,7 +396,7 @@ On this page you will find common terms used within the work of the Metadata Ser
 
 <a name="resource-description-and-access"></a>
 <dt>Resource Description and Access</dt>
-<dd>standard for descriptive cataloging providing instructions and guidelines on formulating bibliographic data</dd>
+<dd>standard for descriptive cataloging providing instructions and guidelines on formulating bibliographic data; documentation accessible at <a href="https://access.rdatoolkit.org/">access.rdatoolkit.org 🔒</a></dd>
 
 <a name="schomburg-center-for-research-in-black-culture"></a>
 <dt>Schomburg Center for Research in Black Culture</dt>
@@ -422,7 +436,7 @@ On this page you will find common terms used within the work of the Metadata Ser
 
 <a name="universally-unique-identifier"></a>
 <dt>universally unique identifier</dt>
-<dd>128-bit label used for information in computer systems; every collection, container, item, and captures in the <a href="#metadata-management-system">Metadata Management System</a> has its own UUID</dd>
+<dd>128-bit label used for information in computer systems; every collection, container, item, and capture in the <a href="#metadata-management-system">Metadata Management System</a> has its own UUID</dd>
 
 <a name="work-order"></a>
 <dt>Work Order</dt>

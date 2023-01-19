@@ -7,7 +7,11 @@ grand_parent: MMS › Metadata
 nav_exclude: true
 ---
 
+{: .highlight-title }
+> 🚧 Under Construction
+>
+> This page is still being developed. [Contact us](/metadata-documentation/contact/) with any questions or feedback.
+
 # Clippings
-To be migrated
-{: .label .label-yellow }
+
 [📄 Best practices: Clippings](https://docs.google.com/document/u/0/d/1e8CE3VGq47AlmDuH3gLo7FRx5LmDwMFDGX1rewpkmis/edit){: .btn }

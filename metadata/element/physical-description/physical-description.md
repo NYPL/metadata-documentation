@@ -9,8 +9,12 @@ nav_order: 10
 has_children: true
 ---
 
+{: .highlight-title }
+> 🚧 Under Construction
+>
+> This page is still being developed. [Contact us](/metadata-documentation/contact/) with any questions or feedback.
+
 # Physical Description
-To be migrated
-{: .label .label-yellow }
+
 [📄 Physical Description](https://docs.google.com/document/d/15FXrYe5FxgJt3tlcSMliTP7O3E00NCv_sBlMhXoj3pk/edit){: .btn }
 

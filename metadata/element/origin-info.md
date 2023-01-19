@@ -8,8 +8,12 @@ nav_exclude: true
 nav_order: 5
 ---
 
+{: .highlight-title }
+> 🚧 Under Construction
+>
+> This page is still being developed. [Contact us](/metadata-documentation/contact/) with any questions or feedback.
+
 # Origin Info
-To be migrated
-{: .label .label-yellow }
+
 [📄 Origin Info](https://docs.google.com/document/d/1Rt7KEwZgmQsH9ejGyRGwAeYDjkoIsmePHE2dZLxTbpQ/edit){: .btn }
 [📄 Origin Info draft](https://docs.google.com/document/d/1OR3cZAFhVoRuX-hUZ6AsZX146T_jICRIZq2DQuLywuI/edit){: .btn }

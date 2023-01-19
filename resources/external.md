@@ -6,6 +6,11 @@ parent: Resources
 nav_order: 3
 ---
 
+{: .highlight-title }
+> 🚧 Under Construction
+>
+> This page is still being developed. [Contact us](/metadata-documentation/contact/) with any questions or feedback.
+
 # External Links
 {: .no_toc }
 
@@ -41,21 +46,17 @@ Links to documentation created by other New York Public Library divisions, depar
 * [DPLA Pro Documentation and Tools](https://pro.dp.la/hubs/documentation)
 
 ## Training
-To be written
-{: .label .label-red }
 
 ## Metadata Standards
-To be migrated
-{: .label .label-yellow }
 
 [📄 Metadata Standards Resources](https://docs.google.com/document/d/1yS2UnkDJprdAdbgHUGoGSDWKoUgO2-REK3qRjhx85fY/edit){: .btn }
 
+* [Metadata Object Description Schema (MODS)](https://www.loc.gov/standards/mods/)
+* [Describing Archives: A Content Standard (DACS)](https://saa-ts-dacs.github.io/)
+* [RDA Toolkit](https://access.rdatoolkit.org/)
+
 ## Authority Research
-To be written
-{: .label .label-red }
 
 ## Rare Manuscript and Books Research
-To be migrated
-{: .label .label-yellow }
 
 [📄 Catalogs and repositories for rare manuscript and books research](https://docs.google.com/document/d/1PqU9uWoniJ6LCo9sF6e54RfaNxBMqdwLSmm4ToGBdwM/edit){: .btn }

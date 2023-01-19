@@ -5,6 +5,11 @@ permalink: /projects/
 nav_order: 6
 ---
 
+{: .highlight-title }
+> 🚧 Under Construction
+>
+> This page is still being developed. [Contact us](/metadata-documentation/contact/) with any questions or feedback.
+
 # Projects
 
 #### Current Projects
