@@ -42,6 +42,7 @@ Free-text transcribed from the resource or devised by the metadata creator
 - If no title appears on the resource, devise a unique and descriptive title based on the division's preferred content standard
     - Briefly describe the nature of resource, e.g. a map, or the subject of the resource, or both
     - Use [inclusive cataloging practices](/metadata-documentation/metadata/guidelines/#inclusive-and-reparative-description)
+    - See [By Material](/metadata-documentation/metadata/material/) and [By Division](/metadata-documentation/metadata/division/) for guidelines on constructing titles specific to corresponding resources
     - Check [Supplied](#supplied) if appropriate
 - Choice and format of title elements should be governed by the relevant content standard
     - For bibliographic materials, refer to [Resource Description & Access (RDA)](/metadata-documentation/resources/glossary/#resource-description-and-access)
@@ -64,7 +65,7 @@ The following workflow details how to provide new titles for resources that have
 {: .note-title }
 > Example
 >
-> The official caption of a photo incorrectly identified the people in the photograph:
+> The official caption of a photograph incorrectly identified the people in the photograph:
 > [https://metadata.nypl.org/items/4951434?section=desc_md 🔒](https://metadata.nypl.org/items/4951434?section=desc_md)
 
 
