@@ -11,7 +11,7 @@ nav_order: 14
 {: .highlight-title }
 > 🚧 Under Construction
 >
-> This page is still being developed. [Contact us](/metadata-documentation/contact/) with any questions or feedback.
+> This page is still being developed. Links to legacy documentation may appear to facilitate our migration process. [Contact us](/metadata-documentation/contact/) with any questions or feedback.
 
 # Note
 [📄 Note](https://docs.google.com/document/d/1w416RwrlrahozdNcRQDwJyESZIQ0rJPgoHL_uscWg8E/edit){: .btn }

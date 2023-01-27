@@ -11,7 +11,7 @@ nav_order: 2
 {: .highlight-title }
 > 🚧 Under Construction
 >
-> This page is still being developed. [Contact us](/metadata-documentation/contact/) with any questions or feedback.
+> This page is still being developed. Links to legacy documentation may appear to facilitate our migration process. [Contact us](/metadata-documentation/contact/) with any questions or feedback.
 
 # Title
 {: .d-inline .v-align-middle .no_toc .mr-2 }
@@ -19,7 +19,7 @@ Required
 {: .d-inline .v-align-middle .label .label-blue .mx-1 }
 Repeatable
 {: .d-inline .v-align-middle .label .label-green .mx-1 }
-[View in MODS →](https://www.loc.gov/standards/mods/userguide/titleinfo.html)
+[View MODS Documentation →](https://www.loc.gov/standards/mods/userguide/titleinfo.html)
 {: .d-inline .v-align-middle .text-zeta .ml-2 }
 
 A word, phrase, character, or group of characters, normally appearing in a resource, that names it or the work contained in it
@@ -38,15 +38,12 @@ To briefly describe the content and aid in the identification of a resource, all
 Free-text transcribed from the resource or devised by the metadata creator
 
 ## Guidelines
-- If a title appears on the resource, transcribe it into a title field and check [Primary](#primary)
+- If a title appears on the resource, transcribe it into a title field
 - If no title appears on the resource, devise a unique and descriptive title based on the division's preferred content standard
     - Briefly describe the nature of resource, e.g. a map, or the subject of the resource, or both
-    - Use [inclusive cataloging practices](/metadata-documentation/metadata/guidelines/#inclusive-and-reparative-description)
+    - Choice and format of title elements should be governed by the relevant [content standard](/metadata-documentation/metadata/guidelines/#content-standards)
+    - Use [inclusive descriptive practices](/metadata-documentation/metadata/guidelines/#inclusive-and-reparative-description)
     - See [By Material](/metadata-documentation/metadata/material/) and [By Division](/metadata-documentation/metadata/division/) for guidelines on constructing titles specific to corresponding resources
-    - Check [Supplied](#supplied) if appropriate
-- Choice and format of title elements should be governed by the relevant content standard
-    - For bibliographic materials, refer to [Resource Description & Access (RDA)](/metadata-documentation/resources/glossary/#resource-description-and-access)
-    - For archival materials, refer to [Title](https://saa-ts-dacs.github.io/dacs/06_part_I/03_chapter_02/03_title.html) in [Describing Archives: A Content Standard (DACS)](/metadata-documentation/resources/glossary/#describing-archives-a-content-standard)
 
 ## Workflows
 
@@ -84,7 +81,7 @@ The following workflow details how to provide new titles for resources that have
 {: .d-inline .v-align-middle .mr-2 }
 Required
 {: .d-inline .v-align-middle .label .label-blue .mx-1 }
-[View in MODS →](https://www.loc.gov/standards/mods/userguide/titleinfo.html#title)
+[View MODS Documentation →](https://www.loc.gov/standards/mods/userguide/titleinfo.html#title)
 {: .d-inline .v-align-middle .text-zeta .ml-2 }
 
 _A word, phrase, character, or group of characters that constitutes the chief title of a resource, i.e., the title normally used when citing the resource_
@@ -93,8 +90,9 @@ _A word, phrase, character, or group of characters that constitutes the chief ti
 #### Guidelines
 {: .no_toc }
 - Remove punctuation at the end of the **Title**—such as periods or colons—unless part of the title as seen on the item
-- Remove brackets enclosing the entirety or any part of the **Title**
+- Remove brackets enclosing the entirety of the **Title**
 - Remove any [general material designation](/metadata-documentation/resources/glossary/#general-material-designation) from the **Title**
+- See [MARC 245](https://www.loc.gov/marc/bibliographic/bd245.html)
 
 ---
 
@@ -102,7 +100,7 @@ _A word, phrase, character, or group of characters that constitutes the chief ti
 {: .d-inline .v-align-middle .mr-2 }
 Recommended if applicable
 {: .d-inline .v-align-middle .label .label-blue .mx-1 }
-[View in MODS →](https://www.loc.gov/standards/mods/userguide/titleinfo.html#subtitle)
+[View MODS Documentation →](https://www.loc.gov/standards/mods/userguide/titleinfo.html#subtitle)
 {: .d-inline .v-align-middle .text-zeta .ml-2 }
 _A word, phrase, character, or group of characters that contains the remainder of the title information after the title proper_
 {: .d-block .mt-2 }
@@ -112,6 +110,7 @@ _A word, phrase, character, or group of characters that contains the remainder o
 - Move any text that follows a colon in the **Title** to the **Subtitle**
 - Split the **Title** if it is exceptionally long by moving anything not deemed the primary title to **Subtitle**
 - Remove any punctuation that separates the **Title** and **Subtitle**
+- See [MARC 245$b](https://www.loc.gov/marc/bibliographic/bd245.html)
 
 ---
 
@@ -119,7 +118,7 @@ _A word, phrase, character, or group of characters that contains the remainder o
 {: .d-inline .v-align-middle .mr-2 }
 Required if Applicable
 {: .d-inline .v-align-middle .label .label-blue .mx-1 }
-[View in MODS →](https://www.loc.gov/standards/mods/userguide/titleinfo.html#partnumber)
+[View MODS Documentation →](https://www.loc.gov/standards/mods/userguide/titleinfo.html#partnumber)
 {: .d-inline .v-align-middle .text-zeta .ml-2 }
 _A part or section number of a title_
 {: .d-block .mt-2 }
@@ -129,6 +128,7 @@ _A part or section number of a title_
 - Add a **Part Number** to indicate sequencing in any form (e.g., "Book two," "Part 1," or "Supplement A")
 - Record all numbering/sequencing in a single **Part Name** using a comma to separate multiple numbering (e.g., "Volume 1, Issue 2")
 - Remove any punctuation that separates **Part Number** from other subelements
+- See [MARC 245$n](https://www.loc.gov/marc/bibliographic/bd245.html)
 
 ---
 
@@ -136,15 +136,16 @@ _A part or section number of a title_
 {: .d-inline .v-align-middle .mr-2 }
 Required if Applicable
 {: .d-inline .v-align-middle .label .label-blue .mx-1 }
-[View in MODS →](https://www.loc.gov/standards/mods/userguide/titleinfo.html#partname)
+[View MODS Documentation →](https://www.loc.gov/standards/mods/userguide/titleinfo.html#partname)
 {: .d-inline .v-align-middle .text-zeta .ml-2 }
-_A part or section number of a title_
+_A part or section name of a title_
 {: .d-block .mt-2 }
 
 #### Guidelines
 {: .no_toc }
 - Add a **Part Name** to record a name designation for a part or section of a work
 - Remove any punctuation that separates **Part Name** from other subelements
+- See [MARC 245$p](https://www.loc.gov/marc/bibliographic/bd245.html)
 
 ---
 
@@ -156,14 +157,13 @@ _A part or section number of a title_
 {: .d-inline .v-align-middle .mr-2 }
 Required if Applicable
 {: .d-inline .v-align-middle .label .label-blue .mx-1 }
-[View in MODS →](https://www.loc.gov/standards/mods/userguide/attributes.html#usage)
+[View MODS Documentation →](https://www.loc.gov/standards/mods/userguide/attributes.html#usage)
 {: .d-inline .v-align-middle .text-zeta .ml-2 }
 _Used for a repeated element to declare that a particular instance of the element is most important_
 {: .d-block .mt-2 }
 
 #### Guidelines
 {: .no_toc }
-- If a title appears on the resource, transcribe it into a title field and check **Primary**
 - Check **Primary** for <u>one</u> **Title** element if more than one **Title** element exists for a record
 - If **Primary** is checked for a **Title** element, do not use the **Type** dropdown on that title
 
@@ -173,7 +173,7 @@ _Used for a repeated element to declare that a particular instance of the elemen
 {: .d-inline .v-align-middle .mr-2 }
 Recommended if Applicable
 {: .d-inline .v-align-middle .label .label-blue .mx-1 }
-[View in MODS →](https://www.loc.gov/standards/mods/userguide/attributes.html#supplied)
+[View MODS Documentation →](https://www.loc.gov/standards/mods/userguide/attributes.html#supplied)
 {: .d-inline .v-align-middle .text-zeta .ml-2 }
 _Indicates whether the content of the element (e.g. a title) has been supplied from external sources, or from a source other than the ones prescribed by the content standard used_
 {: .d-block .mt-2 }
@@ -193,7 +193,7 @@ _Indicates whether the content of the element (e.g. a title) has been supplied f
 {: .d-inline .v-align-middle .mr-2 }
 Strongly Recommended if Applicable
 {: .d-inline .v-align-middle .label .label-blue .mx-1 }
-[View in MODS →](https://www.loc.gov/standards/mods/userguide/titleinfo.html#type)
+[View MODS Documentation →](https://www.loc.gov/standards/mods/userguide/titleinfo.html#type)
 {: .d-inline .v-align-middle .text-zeta .ml-2 }
 _Identifies what type of title is recorded_
 {: .d-block .mt-2 }
@@ -218,7 +218,7 @@ _Identifies what type of title is recorded_
         - Select the appropriate **Language** from the dropdown for the corresponding **Title** element
         - See [MARC 242](https://www.loc.gov/marc/bibliographic/bd242.html) and [MARC 246](https://www.loc.gov/marc/bibliographic/bd246.html)
     - **Alternative**: varying form of the title if it contributes to the further identification of the item
-        -  See [MARC 246](https://www.loc.gov/marc/bibliographic/bd246.html) and [MARC 246](https://www.loc.gov/marc/bibliographic/bd740.html)
+        -  See [MARC 246](https://www.loc.gov/marc/bibliographic/bd246.html) and [MARC 740](https://www.loc.gov/marc/bibliographic/bd740.html)
     - **Uniform**: used as a main entry in a bibliographic record when a work has appeared under varying titles, necessitating that a particular title be chosen to represent the work
         -  Select the appropriate choice (LCNAF or LCSH) from the **Authority** dropdown
         -  See [MARC 130](https://www.loc.gov/marc/bibliographic/bd130.html), [MARC 240](https://www.loc.gov/marc/bibliographic/bd240.html), and [MARC 730](https://www.loc.gov/marc/bibliographic/bd730.html)
@@ -227,29 +227,32 @@ _Identifies what type of title is recorded_
 
 ### Language
 {: .d-inline .v-align-middle .mr-2 }
-[View in MODS →](https://www.loc.gov/standards/mods/userguide/attributes.html#lang)
+[View MODS Documentation →](https://www.loc.gov/standards/mods/userguide/attributes.html#lang)
 {: .d-inline .v-align-middle .text-zeta .ml-2 }
 _Indicates the language of the content of an element_
 {: .d-block .mt-2 }
 
 #### Guidelines
 {: .no_toc }
-- Select the **Language** from the dropdown the language of the title, which may not necessarily be the language of the content of the resource
-    - See the [Language](/metadata-documentation/metadata/element/language/) element for instructions on recording the language of the content of the resource
+- Select the language of the title from the dropdown
+- Do not use the **Language** subelement of **Title** to record the language of the content of the resource
+    - Use the [**Language**](/metadata-documentation/metadata/element/language/#language) subelement within the [**Language**](/metadata-documentation/metadata/element/language/) element to record the language of the content of the resource
 - If you are unsure of the language of the title, leave **Language** blank or select **Undetermined**
 
 ---
 
 ### Script
 {: .d-inline .v-align-middle .mr-2 }
-[View in MODS →](https://www.loc.gov/standards/mods/userguide/attributes.html#script)
+[View MODS Documentation →](https://www.loc.gov/standards/mods/userguide/attributes.html#script)
 {: .d-inline .v-align-middle .text-zeta .ml-2 }
 _Indicates the script used for an element_
 {: .d-block .mt-2 }
 
 #### Guidelines
 {: .no_toc }
-- Select the **Script** from the dropdown the script of the title if it is a non-Roman script or not the default script of the **Language**, which may not necessarily be the script of the content of the resource
+- Select the script of the title from the dropdown if it is a non-Roman script or not the default script of the title’s language
+- Do not use the **Script** subelement of **Title** to record the script of the content of the resource
+    - Use the [**Script**](/metadata-documentation/metadata/element/language/#script) subelement within the [**Language**](/metadata-documentation/metadata/element/language/) element to record the script of the content of the resource
 - If you are unsure of the script of the title, leave **Script** blank or select **Undetermined**
 
 ---

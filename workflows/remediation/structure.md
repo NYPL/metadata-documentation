@@ -11,7 +11,7 @@ nav_exclude: true
 {: .highlight-title }
 > 🚧 Under Construction
 >
-> This page is still being developed. [Contact us](/metadata-documentation/contact/) with any questions or feedback.
+> This page is still being developed. Links to legacy documentation may appear to facilitate our migration process. [Contact us](/metadata-documentation/contact/) with any questions or feedback.
 
 # Archives Structure Remediation
 [📄 Retrospective archives structure remediation](https://docs.google.com/document/d/1nUo_npW_UjwbPnXO5rpw-7u69dWYOCHa2R4VM--KTcU/edit){: .btn }
