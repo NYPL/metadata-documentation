@@ -22,7 +22,7 @@ has_toc: false
 - [Identifier](/metadata-documentation/metadata/element/identifier/) <span class="label label-blue fs-1 mb-1 mx-1">Required</span>
 - [Type of Resource](/metadata-documentation/metadata/element/type-of-resource/) <span class="label label-blue fs-1 mb-1 mx-1">Required</span>
 - [Origin Info](/metadata-documentation/metadata/element/origin-info/)
-    - Date <span class="label label-blue fs-1 mb-1 mx-1">Required</span>
+    - [Date](/metadata-documentation/metadata/element/origin-info/#date) <span class="label label-blue fs-1 mb-1 mx-1">Required</span>
 - [Name](/metadata-documentation/metadata/element/name/)
 - [Genre](/metadata-documentation/metadata/element/genre/) <span class="label label-blue fs-1 mb-1 mx-1">Required</span>
 - [Language](/metadata-documentation/metadata/element/language/) <span class="label label-blue fs-1 mb-1 mx-1">Required if Applicable</span>
@@ -32,7 +32,7 @@ has_toc: false
 - [Table of Contents](/metadata-documentation/metadata/element/table-of-contents/)
 - [Note](/metadata-documentation/metadata/element/note/)
 - [Classification](/metadata-documentation/metadata/element/classification/)
-- [Physical Location](/metadata-documentation/metadata/element/physical-location/) <span class="label label-blue fs-1 mb-1 mx-1">Required</span>
+- [Location](/metadata-documentation/metadata/element/location/) <span class="label label-blue fs-1 mb-1 mx-1">Required</span>
 - [Rights](/metadata-documentation/metadata/element/rights/)
 
 Fields marked as <span class="label label-blue fs-1 mb-1 mx-1">Required</span> must exist at the item level, see [Minimum Metadata Requirements](/metadata-documentation/metadata/guidelines/#minimum-metadata-requirements)
@@ -47,7 +47,7 @@ Required
 {: .d-inline .v-align-middle .label .label-blue .mx-1 }
 Repeatable
 {: .d-inline .v-align-middle .label .label-green .mx-1 }
-[View in MODS →](https://www.loc.gov/standards/mods/userguide/index.html)
+[View MODS Documentation →](https://www.loc.gov/standards/mods/userguide/generalapp.html)
 {: .d-inline .v-align-middle .text-zeta .ml-2 }
 
 Definition from MODS
@@ -82,7 +82,7 @@ Lorem ipsem
 {: .d-inline .v-align-middle .mr-2 }
 Required
 {: .d-inline .v-align-middle .label .label-blue .mx-1 }
-[View in MODS →](https://www.loc.gov/standards/mods/userguide/index.html)
+[View MODS Documentation →](https://www.loc.gov/standards/mods/userguide/generalapp.html)
 {: .d-inline .v-align-middle .text-zeta .ml-2 }
 
 _Definition from MODS_
@@ -102,7 +102,7 @@ _Definition from MODS_
 {: .d-inline .v-align-middle .mr-2 }
 Required
 {: .d-inline .v-align-middle .label .label-blue .mx-1 }
-[View in MODS →](https://www.loc.gov/standards/mods/userguide/index.html)
+[View MODS Documentation →](https://www.loc.gov/standards/mods/userguide/generalapp.html)
 {: .d-inline .v-align-middle .text-zeta .ml-2 }
 
 _Definition from MODS_
@@ -114,8 +114,7 @@ _Definition from MODS_
 
 ---
 
-
 ## See Also
-- [Top-level Element: &lt;TK&gt;](https://www.loc.gov/standards/mods/userguide/index.html) for official MODS documentation from the Library of Congress
+- [Top-level Element: &lt;TK&gt;](https://www.loc.gov/standards/mods/userguide/generalapp.html) for official MODS documentation from the Library of Congress
 
 -->

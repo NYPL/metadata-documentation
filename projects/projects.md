@@ -12,16 +12,15 @@ nav_order: 6
 
 # Projects
 
-#### Current Projects
-* [Reconciliation › URI Matching](reconciliation/#uri-matching)
-* [Metadata Migrations › Digital Scriptorium](migration/#digital-scriptorium)
+### Metadata Migration
+- Mid-Manhattan Picture Collection (completed)
 
-#### Completed Projects
-* [Metadata Migrations › Mid-Manhattan Picture Collection](migration/#mid-manhattan-picture-collection)
+#### Remediation
+- Reparative Description (underway)
 
-#### Future Projects
-* [Reparative Description](reparative)
-* [Wikidata/Wikibase](wiki)
+#### Reconciliation
+- URI Matching (underway)
+- Wikidata/Wikibase (future)
 
-#### To Add
-* 2022 refresh of links from Research Catalog to Digital Collections
+#### Workflows
+- Links from Research Catalog to Digital Collections (underway)
