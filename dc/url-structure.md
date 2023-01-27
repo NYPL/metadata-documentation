@@ -121,3 +121,9 @@ Item URLs *can* be generated with the item UUID (i.e. <tt>https://digitalcollect
 - In the <a href="https://metadata.nypl.org">Metadata Management System</a>, the capture UUID can be found in the capture record or **Capture Inventory** tab
     - From a capture record, the UUID can be found immediately below the capture's title following the **uuid:** label
     - From the **Capture Inventory** tab on an item record, capture UUIDs will be shown in the **UUID** column
+
+## link.nypl.org URLs
+
+- Once the preferred DC URL has been determined, it can be run through the Library's Link Minter tool, which is intended to support persistence of URLs in the event of a future systems migration
+    - [Add a link](https://link-minter.nypl.org/link_maker/mint) to mint a new URL with the link.nypl.org domain
+    - [Search for an existing link](https://link-minter.nypl.org/link_maker/search) to see if a link.nypl.org URL has been generated

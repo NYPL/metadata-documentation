@@ -32,7 +32,7 @@ A word, phrase, character, or group of characters, normally appearing in a resou
 {:toc}
 
 ## Purpose
-To briefly describe the content and aid in the identification of a resource, allowing users to quickly navigate or disambiguate within result sets
+- To briefly describe the content and aid in the identification of a resource, allowing users to quickly navigate or disambiguate within result sets
 
 ## Source
 Free-text transcribed from the resource or devised by the metadata creator
