@@ -14,8 +14,6 @@ nav_exclude: true
 
 # Other local Identifier
 
-## Archives Collection ID
+## Archives Collections ID
 
-## Archives Component ID
-
-# Other local Identifier
+## Archives Components ID

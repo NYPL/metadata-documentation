@@ -14,3 +14,53 @@ nav_order: 15
 > This page is still being developed. Links to legacy documentation may appear to facilitate our migration process. [Contact us](/metadata-documentation/contact/) with any questions or feedback.
 
 # Classification
+{: .d-inline .v-align-middle .no_toc .mr-2 }
+Repeatable
+{: .d-inline .v-align-middle .label .label-green .mx-1 }
+[View MODS Documentation →](https://www.loc.gov/standards/mods/userguide/classification.html)
+{: .d-inline .v-align-middle .text-zeta .ml-2 }
+
+A designation applied to a resource that indicates the subject by applying a formal system of coding and organizing resources according to subject areas
+{: .d-block .mt-2 .fs-6 .fw-300 }
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+## Purpose
+- 
+
+## Guidelines
+- 
+
+## Subelements
+
+---
+
+### Classification
+{: .d-inline .v-align-middle .mr-2 }
+[View MODS Documentation →](https://www.loc.gov/standards/mods/userguide/classification.html)
+{: .d-inline .v-align-middle .text-zeta .ml-2 }
+
+_A designation applied to a resource that indicates the subject by applying a formal system of coding and organizing resources according to subject areas_
+{: .d-block .mt-2 }
+
+#### Guidelines
+{: .no_toc }
+- 
+
+---
+
+### Type
+{: .d-inline .v-align-middle .mr-2 }
+
+#### Guidelines
+{: .no_toc }
+- 
+
+---
+
+## See Also
+- [Top-level Element: &lt;classification&gt;](https://www.loc.gov/standards/mods/userguide/classification.html) for official MODS documentation from the Library of Congress
