@@ -6,9 +6,17 @@ nav_order: 8
 ---
 
 # Contact
-To report an issue or make a suggestion regarding metadata displayed in the Metadata Management System (MMS) or Digital Collections (DC), use our [issue reporting form](/metadata-documentation/contact/form/)
+Use our [metadata reporting form](/metadata-documentation/contact/form/) to:
+- Report an error with metadata
+- Suggest updated or additional metadata
+- Notify us of a new or updated catalog record
+- Notify us of a new or updated finding aid
+- Report an error with a link between Digital Collections and Archives Portal
+- Request a properly formatted Digital Collections URL
 
 For all other enquiries, email metadata [at] nypl [dot] org
+
+For issues pertaining to the functionality of the Digital Collections website (loading, assets, searching, indexing, etc.), email digitalcollections [at] nypl [dot] org
 
 ## Our Team
 

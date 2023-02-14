@@ -326,6 +326,10 @@ On this page you will find common terms used within the work of the Metadata Ser
 <dt>Library Services Center</dt>
 <dd>building where many <a href="#digital-research">Digital Research</a> departments—including the <a href="#metadata-services-unit">Metadata Services Unit</a>—are located alongside <a href="#preservation-and-collections-processing">Preservation and Collections Processing</a>, BookOps, et al; sometimes referred to as <a href="#long-island-city">Long Island City</a></dd>
 
+<a name="link-minter"></a>
+<dt>Link Minter</dt>
+<dd>a tool to support persistence of Digital Collections URLs in the event of a future systems migration, accessible at <a href="https://link-minter.nypl.org/">link-minter.nypl.org</a></dd>
+
 <a name="long-island-city"></a>
 <dt>Long Island City</dt>
 <dd>sometimes used to refer to the <a href="#library-services-center">Library Services Center</a> building as the neighborhood where it is located</dd>

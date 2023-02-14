@@ -74,7 +74,7 @@ _The name of a person, organization, or event (conference, meeting, etc.) associ
     - LC Name Authority File (LCNAF) or LC Subject Headings (LCSH)
     - Virtual International Authority File (VIAF)
     - Free text
-- See [MARC 100](https://www.loc.gov/marc/bibliographic/bd100.html), [MARC 110](https://www.loc.gov/marc/bibliographic/bd110.html), and [MARC 111](https://www.loc.gov/marc/bibliographic/bd111.html)
+- See [MARC 100](https://www.oclc.org/bibformats/en/1xx/100.html), [MARC 110](https://www.oclc.org/bibformats/en/1xx/110.html), and [MARC 111](https://www.oclc.org/bibformats/en/1xx/111.html)
 
 ---
 
@@ -137,7 +137,7 @@ _Designates the relationship (role) of the entity to the resource described in t
 - Every instance of a **Name** element requires a role be selected from the dropdown
 - If the role is unknown, use Creator for the primary name…
 - Use Contributor for additional names with unknown roles…
-- See [MARC Code List for Relators](https://www.loc.gov/marc/relators/) and [Personal Names-General Information $e](https://www.loc.gov/marc/bibliographic/bdx00.html)
+- See [MARC Code List for Relators](https://www.loc.gov/marc/relators/) and [Personal Names-General Information $e](https://www.oclc.org/bibformats/en/accesspoints/x00.html#subfielde)
 - To include multiple roles for a name, repeat the name in a new Name field for each role
 
 ---

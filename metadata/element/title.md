@@ -31,9 +31,6 @@ A word, phrase, character, or group of characters, normally appearing in a resou
 1. TOC
 {:toc}
 
-## Purpose
-- To briefly describe the content and aid in the identification of a resource, allowing users to quickly navigate or disambiguate within result sets
-
 ## Source
 Free-text transcribed from the resource or devised by the metadata creator
 
@@ -92,7 +89,7 @@ _A word, phrase, character, or group of characters that constitutes the chief ti
 - Remove punctuation at the end of the **Title**—such as periods or colons—unless part of the title as seen on the item
 - Remove brackets enclosing the entirety of the **Title**
 - Remove any [general material designation](/metadata-documentation/resources/glossary/#general-material-designation) from the **Title**
-- See [MARC 245](https://www.loc.gov/marc/bibliographic/bd245.html)
+- See [MARC 245](https://www.oclc.org/bibformats/en/2xx/245.html)
 
 ---
 
@@ -110,7 +107,7 @@ _A word, phrase, character, or group of characters that contains the remainder o
 - Move any text that follows a colon in the **Title** to the **Subtitle**
 - Split the **Title** if it is exceptionally long by moving anything not deemed the primary title to **Subtitle**
 - Remove any punctuation that separates the **Title** and **Subtitle**
-- See [MARC 245$b](https://www.loc.gov/marc/bibliographic/bd245.html)
+- See [MARC 245$b](https://www.oclc.org/bibformats/en/2xx/245.html#subfieldb)
 
 ---
 
@@ -128,7 +125,7 @@ _A part or section number of a title_
 - Add a **Part Number** to indicate sequencing in any form (e.g., "Book two," "Part 1," or "Supplement A")
 - Record all numbering/sequencing in a single **Part Name** using a comma to separate multiple numbering (e.g., "Volume 1, Issue 2")
 - Remove any punctuation that separates **Part Number** from other subelements
-- See [MARC 245$n](https://www.loc.gov/marc/bibliographic/bd245.html)
+- See [MARC 245$n](https://www.oclc.org/bibformats/en/2xx/245.html#subfieldn)
 
 ---
 
@@ -145,7 +142,7 @@ _A part or section name of a title_
 {: .no_toc }
 - Add a **Part Name** to record a name designation for a part or section of a work
 - Remove any punctuation that separates **Part Name** from other subelements
-- See [MARC 245$p](https://www.loc.gov/marc/bibliographic/bd245.html)
+- See [MARC 245$p](https://www.oclc.org/bibformats/en/2xx/245.html#subfieldp)
 
 ---
 
@@ -211,17 +208,17 @@ _Identifies what type of title is recorded_
 - Select the **Type** according to the following definitions:
     - **Abbreviated**: title as abbreviated for indexing or identification
         - Select the appropriate choice from the **Authority** dropdown
-        - See [MARC 210](https://www.loc.gov/marc/bibliographic/bd210.html)
+        - See [MARC 210](https://www.oclc.org/bibformats/en/2xx/210.html)
         - See [Abbreviated Title Source Codes](https://www.loc.gov/standards/sourcelist/abbreviated-title.html)
     - **Translated**: translation or transcription of the main title
         - Record translations of titles in two separate title elements rather than expressing their equivalency within a single field (e.g. “Chinese lives = Huaxia ren sheng”)
         - Select the appropriate **Language** from the dropdown for the corresponding **Title** element
-        - See [MARC 242](https://www.loc.gov/marc/bibliographic/bd242.html) and [MARC 246](https://www.loc.gov/marc/bibliographic/bd246.html)
+        - See [MARC 242](https://www.oclc.org/bibformats/en/2xx/242.html) and [MARC 246](https://www.oclc.org/bibformats/en/2xx/246.html)
     - **Alternative**: varying form of the title if it contributes to the further identification of the item
-        -  See [MARC 246](https://www.loc.gov/marc/bibliographic/bd246.html) and [MARC 740](https://www.loc.gov/marc/bibliographic/bd740.html)
+        -  See [MARC 246](https://www.oclc.org/bibformats/en/2xx/246.html) and [MARC 740](https://www.oclc.org/bibformats/en/7xx/740.html)
     - **Uniform**: used as a main entry in a bibliographic record when a work has appeared under varying titles, necessitating that a particular title be chosen to represent the work
         -  Select the appropriate choice (LCNAF or LCSH) from the **Authority** dropdown
-        -  See [MARC 130](https://www.loc.gov/marc/bibliographic/bd130.html), [MARC 240](https://www.loc.gov/marc/bibliographic/bd240.html), and [MARC 730](https://www.loc.gov/marc/bibliographic/bd730.html)
+        -  See [MARC 130](https://www.oclc.org/bibformats/en/1xx/130.html), and [MARC 730](https://www.oclc.org/bibformats/en/7xx/730.html)
 
 ---
 

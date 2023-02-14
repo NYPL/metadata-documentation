@@ -122,8 +122,9 @@ Item URLs *can* be generated with the item UUID (i.e. <tt>https://digitalcollect
     - From a capture record, the UUID can be found immediately below the capture's title following the **uuid:** label
     - From the **Capture Inventory** tab on an item record, capture UUIDs will be shown in the **UUID** column
 
-## link.nypl.org URLs
+## Generating Persistent URLs
 
-- Once the preferred DC URL has been determined, it can be run through the Library's Link Minter tool, which is intended to support persistence of URLs in the event of a future systems migration
+- Once the preferred DC URL has been determined, a persistent URL can be generated using the Library's [Link Minter](/metadata-documentation/resources/glossary/#link-minter) tool, which is intended to support persistence of URLs in the event of a future systems migration
+    - Persistent URLs have the structure: <tt>https://link.nypl.org/<span style="background: #ffcc99; border: 1px solid #5c5962;">unique identifier</span></tt>
     - [Add a link](https://link-minter.nypl.org/link_maker/mint) to mint a new URL with the link.nypl.org domain
     - [Search for an existing link](https://link-minter.nypl.org/link_maker/search) to see if a link.nypl.org URL has been generated

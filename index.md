@@ -14,7 +14,7 @@ Welcome to the documentation site of the Metadata Services Unit (MSU) of the New
 {: .fs-6 .fw-300 }
 
 {: .highlight-title }
-> 🚧 Under Construction (January 2023)
+> 🚧 Under Construction (February 2023)
 >
 > This site is still being developed. [Contact us](/metadata-documentation/contact/) with any questions or feedback.
 

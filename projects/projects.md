@@ -12,7 +12,7 @@ nav_order: 6
 
 # Projects
 
-### Metadata Migration
+#### Metadata Migration
 - Mid-Manhattan Picture Collection (completed)
 
 #### Remediation
