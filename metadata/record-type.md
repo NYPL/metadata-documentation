@@ -26,31 +26,16 @@ The Metadata Management System (MMS) supports four types of records that contain
 * Collection records are typically imported from a finding aid or catalog record
 * Collection records may also be created in MMS where no source finding aid or catalog record exists, although this is less common
 
-{: .note-title }
-> Field-Specific Best Practices for Collection Records
->
-> [TK to be added after element documentation finalized]
-
 ### Containers
 * Containers are intermediary records
 * Containers can contain other Containers and/or Items
 * Containers must be contained by a Collection
 * A Collection can have zero or an unlimited number of Containers
 
-{: .note-title }
-> Field-Specific Best Practices for Container Records
->
-> [TK to be added after element documentation finalized]
-
 ### Items
 * Items can be standalone or contained in Collections
 * Items in Collections can be contained just by a Collection and/or any of the Collection’s Containers
 * Collections and Containers can contain an unlimited number of Items
-
-{: .note-title }
-> Field-Specific Best Practices for Item Records
->
-> [TK to be added after element documentation finalized]
 
 ### Captures
 * Captures are attached to Item records
@@ -102,4 +87,5 @@ The Metadata Management System (MMS) supports four types of records that contain
 
 ## See Also
 * [Inheritance](/metadata-documentation/metadata/guidelines/#inheritance) for an explanation of how metadata elements from Collections and Containers can be set to inherit down to contained Containers and/or Items
+* [By Element](/metadata-documentation/metadata/guidelines/#inheritance) for field-specific metadata guidance
 * [Digital Collections API: A note about our data model](https://api.repo.nypl.org/#data-model) for an explanation of record types in relation to the application programming interface for Digital Collections
