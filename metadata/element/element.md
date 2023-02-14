@@ -33,7 +33,6 @@ has_toc: false
 - [Note](/metadata-documentation/metadata/element/note/)
 - [Classification](/metadata-documentation/metadata/element/classification/)
 - [Location](/metadata-documentation/metadata/element/location/) <span class="label label-blue fs-1 mb-1 mx-1">Required</span>
-- [Rights](/metadata-documentation/metadata/element/rights/)
 
 Fields marked as <span class="label label-blue fs-1 mb-1 mx-1">Required</span> must exist at the item level, see [Minimum Metadata Requirements](/metadata-documentation/metadata/guidelines/#minimum-metadata-requirements)
 
