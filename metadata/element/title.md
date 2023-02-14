@@ -172,7 +172,7 @@ Recommended if Applicable
 {: .d-inline .v-align-middle .label .label-blue .mx-1 }
 [View MODS Documentation →](https://www.loc.gov/standards/mods/userguide/attributes.html#supplied)
 {: .d-inline .v-align-middle .text-zeta .ml-2 }
-_Indicates whether the content of the element (e.g. a title) has been supplied from external sources, or from a source other than the ones prescribed by the content standard used_
+_Indicates whether the content of the element has been supplied from external sources, or from a source other than the ones prescribed by the content standard used_
 {: .d-block .mt-2 }
 
 #### Guidelines
