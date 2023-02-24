@@ -39,7 +39,7 @@ Links to documentation created by other New York Public Library divisions, depar
  - [Archival Processing Manual](https://sites.google.com/nypl.org/specialcollections/special-collections-processing/archival-processing/processing-manual)
 - [SPEC (Preservation and Special Collections Processing Dashboard)](https://sites.google.com/nypl.org/specialcollections/spec)
 
-### [Research Libraries Technical Services](https://sites.google.com/a/bookops.org/nypl-rl-tech-services/rl-technical-services)
+### [Technical Services](https://sites.google.com/a/bookops.org/nypl-rl-tech-services/rl-technical-services)
 - [Classification Schedules](https://sites.google.com/a/bookops.org/nypl-rl-tech-services/rl-technical-services/rl-classification-schedules) (including Billings Classification and Fixed Order Classification)
 
 ## Aggregator Documentation

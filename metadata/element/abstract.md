@@ -8,13 +8,6 @@ nav_exclude: true
 nav_order: 12
 ---
 
-{: .highlight-title }
-> 🚧 Under Construction
->
-> This page is still being developed. Links to legacy documentation may appear to facilitate our migration process. [Contact us](/metadata-documentation/contact/) with any questions or feedback.
-
-[📄 Abstract Table of Contents ](https://docs.google.com/document/d/1vOzk-E859JAh6nFioB6ZtrfX-BnOmSJm_mRUbQPV36Q/edit){: .btn }
-
 # Abstract
 {: .d-inline .v-align-middle .no_toc .mr-2 }
 Repeatable
@@ -32,10 +25,11 @@ A summary of the content of the resource
 {:toc}
 
 ## Purpose
-- 
+- To provide end users with information about the resource that assists them in making a judgment about its likely usefulness, and provides context, if needed, for controlled vocabulary in other metadata elements in the record
 
 ## Guidelines
-- 
+- Recommended for collection-level records to provide context
+- For a structured list of the contents of the resource, use [Table of Contents](/metadata-documentation/metadata/element/table-of-contents/)
 
 ## Subelements
 
@@ -51,7 +45,7 @@ _A summary of the content of the resource_
 
 #### Guidelines
 {: .no_toc }
-- 
+- See [element-level guidelines](#guidelines)
 
 ---
 
@@ -61,26 +55,22 @@ _A summary of the content of the resource_
 
 ### Type
 {: .d-inline .v-align-middle .mr-2 }
+Do Not Use
+{: .d-inline .v-align-middle .label .label-red .mx-1 }
 [View MODS Documentation →](https://www.loc.gov/standards/mods/userguide/abstract.html#type)
 {: .d-inline .v-align-middle .text-zeta .ml-2 }
 
 _Identifies what type of summary is recorded_
 {: .d-block .mt-2 }
 
-#### Guidelines
-{: .no_toc }
-- 
-
 ---
 
 ### Display Label
 {: .d-inline .v-align-middle .mr-2 }
+Do Not Use
+{: .d-inline .v-align-middle .label .label-red .mx-1 }
 [View MODS Documentation →](https://www.loc.gov/standards/mods/userguide/attributes.html#displayLabel)
 {: .d-inline .v-align-middle .text-zeta .ml-2 }
-
-#### Guidelines
-{: .no_toc }
-- 
 
 ---
 

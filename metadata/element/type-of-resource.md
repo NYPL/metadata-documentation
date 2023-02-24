@@ -8,11 +8,6 @@ nav_exclude: true
 nav_order: 4
 ---
 
-{: .highlight-title }
-> 🚧 Under Construction
->
-> This page is still being developed. Links to legacy documentation may appear to facilitate our migration process. [Contact us](/metadata-documentation/contact/) with any questions or feedback.
-
 # Type of Resource
 {: .d-inline .v-align-middle .no_toc .mr-2 }
 Required
@@ -74,12 +69,6 @@ _A term that specifies the characteristics and general type of content of the re
   <dt>sound recording</dt>
   <dd>Used when a mixture of musical and nonmusical sound recordings occurs in a resource or when a user does not want to or cannot make a distinction between musical and nonmusical</dd>
 
-  <dt>sound recording-musical</dt>
-  <dd>Used when a resource is predominately a musical sound recording</dd>
-
-  <dt>sound recording-nonmusical</dt>
-  <dd>Used when the sound recording is nonmusical in nature</dd>
-
   <dt>still image</dt>
   <dd>Includes two-dimensional images and slides and transparencies</dd>
 
@@ -92,16 +81,13 @@ _A term that specifies the characteristics and general type of content of the re
   <dt>software, multimedia</dt>
   <dd>Appropriate for any electronic resource without a significant aspect that indicates one of the other categories</dd>
 
-  <dt>mixed material</dt>
-  <dd>Indicates that there are significant materials in two or more forms that are usually related by virtue of their having been accumulated by or about a person or body; mixed material includes archival fonds and manuscript collections of mixed forms of materials, such as text, photographs, and sound recordings</dd>
-
 </dl>
 
 Source: [Archived version of Top-level Element: &lt;typeOfResource&gt; (June 11, 2020)](https://web.archive.org/web/20200611002247/https://www.loc.gov/standards/mods/userguide/typeofresource.html)
 {: .fs-2 }
 
-- For audio resources, use **sound recording**
-    - The more granular terms **sound recording-musical** and **sound recording-nonmusical** may be only used in addition to **sound recording**
+- Use **sound recording** for all audio resources
+    - Do not use **sound recording-musical** or **sound recording-nonmusical**
 
 ---
 
@@ -130,16 +116,20 @@ _Used for a repeated element to declare that a particular instance of the elemen
 Do Not Use
 {: .d-inline .v-align-middle .label .label-red .mx-1 }
 
+#### Guidelines
+{: .no_toc }
+- This attribute is not in use at the present time, but legacy data may exist in MMS
+
 ---
 
 ### Collection
 {: .d-inline .v-align-middle .mr-2 }
-Recommended if Applicable
-{: .d-inline .v-align-middle .label .label-blue .mx-1 }
+Do Not Use
+{: .d-inline .v-align-middle .label .label-red .mx-1 }
 
 #### Guidelines
 {: .no_toc }
-- If selecting **Type of Resource** for a collection-level record, check the **Collection** box if the record represents a physical collection
+- This attribute is not in use at the present time, but legacy data may exist in MMS
 
 ---
 

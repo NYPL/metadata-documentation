@@ -8,11 +8,6 @@ nav_exclude: true
 nav_order: 9
 ---
 
-{: .highlight-title }
-> 🚧 Under Construction
->
-> This page is still being developed. Links to legacy documentation may appear to facilitate our migration process. [Contact us](/metadata-documentation/contact/) with any questions or feedback.
-
 # Language
 {: .d-inline .v-align-middle .no_toc .mr-2 }
 Required if Applicable
@@ -32,16 +27,16 @@ The language in which the content of a resource is expressed
 {:toc}
 
 ## Purpose
-- This element is important when textual or spoken content is the primary focus of the resource, but it should also be applied to resources where language is present but not the primary focus
-- When consistently applied, this element can allow users to search or filter search results by language
+- To indicate the language of a resource when textual or verbal content is present
+- When consistently applied, this element can allow users to filter [Digital Collections](/metadata-documentation/resources/glossary/#digital-collections) search results by language
 
 ## Guidelines
-- The **Language** element must always be included when language is primary to understanding the resource (i.e if [**Type of Resource**](/metadata-documentation/metadata/element/type-of-resource/) is set to **Text** or for audio and video resources with spoken word components)
+- The **Language** element is required when language is primary to understanding the resource (i.e., if [**Type of Resource**](/metadata-documentation/metadata/element/type-of-resource/) is set to **text**, or if it is set to **sound recording** or **moving image** and verbal content is present)
     - This requirement includes when the resource is in English
 - For resources where textual content is not the primary focus, such as image captions or sheet music lyrics, including the language of this content is optional but highly recommended
 - For resources that contain multiple languages, this element is repeatable
     - Enter each applicable language in a new **Language** element
-    - Mark one **Language** element as [**Primary**](#primary)
+    - Mark one Language element as [**Primary**](#primary)
 
 ## Subelements
 
@@ -61,8 +56,8 @@ _Contains the textual or coded form for the language of the content of the resou
 {: .no_toc }
 - Select the appropriate **Language** from the dropdown
     - Values are based on [ISO 639.2](https://www.loc.gov/standards/iso639-2/php/code_list.php)
-- If the **Language** cannot be determined, but is required as there is textual or spoken content, select **Undetermined**
-- If the **Language** cannot be determined and not required as there is no textual or spoken content, leave blank
+- If the **Language** cannot be determined, but is required due to presence of textual or verbal content, select **Undetermined**
+- If there is no textual or verbal content, the **Language** element is not required
 
 ---
 
