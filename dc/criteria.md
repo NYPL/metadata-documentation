@@ -11,14 +11,14 @@ nav_order: 2
 
 In order for an collection, container, or item to appear on Digital Collections (DC), the corresponding record in the Metadata Management System (MMS) must meet the criteria outlined below
 
+{: .note }
+If a collection, container, or item that does not meet the below criteria is appearing on DC, it is likely due to an indexing error. Please [contact us](/metadata-documentation/contact/) so we can investigate.
+
 ## Table of contents
 {: .no_toc .text-delta }
 
 1. TOC
 {:toc}
-
-{: .note }
-If a collection, container, or item that does not meet the below criteria is appearing on DC, it is likely due to an indexing error. Please [contact us](/metadata-documentation/contact/) so that we can investigate.
 
 ## Collections
 - On the collection's **Overview** tab, collection has the **Status: Approved**

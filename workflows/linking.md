@@ -6,15 +6,13 @@ parent: MMS › Workflows
 nav_order: 6
 ---
 
-{: .highlight-title }
-> 🚧 Under Construction
->
-> This page is still being developed. Links to legacy documentation may appear to facilitate our migration process. [Contact us](/metadata-documentation/contact/) with any questions or feedback.
-
 # Linking Between Systems
 {: .no_toc }
 
 The use of [identifiers](/metadata-documentation/metadata/element/identifier/) in the Metadata Management System (MMS) supports connections to and from Digital Collections (DC) from other patron-facing systems of the Library
+
+{: .note }
+If a link to or from Digital Collections is absent or broken, please let us know via our [Metadata Reporting Form](/metadata-documentation/contact/form/) so we can investigate.
 
 ## Table of contents
 {: .no_toc .text-delta }
@@ -26,13 +24,12 @@ The use of [identifiers](/metadata-documentation/metadata/element/identifier/) i
 
 ### Digital Collections → Research Catalog
 
-- When a [bnumber](/metadata-documentation/metadata/element/identifier/#nypl-catalog-id-b-number) is present on an MMS collection, container, or item, a link to the Research Catalog will automatically appear on that entity's page on DC
+- When a [bnumber](/metadata-documentation/metadata/element/identifier/#nypl-catalog-id-b-number) is present in MMS for an collection, container, or item, a link to the Research Catalog will automatically appear on that entity's page on DC
     - From a collection or container view, the linked bnumber can be found on the **About** tab in the **Identifiers** section as **NYPL catalog ID (B-number)**
     - From an item view, a link can be found in two places:
-        -  In the right column titled **View This Item Elsewhere** in a box titled **NYPL Catalog** and **View this item in the NYPL Catalog**
+        - In the right column titled **View This Item Elsewhere** in a box titled **NYPL Catalog** and **View this item in the NYPL Catalog**
         - Towards the end of the descriptive metadata in the **Identifiers** section as **NYPL catalog ID (B-number)**
     - If more than one bnumber is present on an MMS record, only one link will be linked from the **View This Item Elsewhere** column but every bnumber and its corresponding link will appear in the **Identifiers** section
-- Use our [Metadata Reporting Form](/metadata-documentation/contact/form/) if links from DC to the Research Catalog are absent or broken
 
 ### Research Catalog → Digital Collections
 
@@ -49,3 +46,49 @@ The use of [identifiers](/metadata-documentation/metadata/element/identifier/) i
 - Use our [Metadata Reporting Form](/metadata-documentation/contact/form/) if links from the Research Catalog to DC are absent or broken
 
 ## Archives Portal
+
+### Digital Collections → Archives Portal
+
+#### Via MSS Unit ID
+- When an [MSS Unit ID](/metadata-documentation/metadata/element/identifier/#mss-unit-id) is present on an MMS collection, container, or item, the **MSS Unit ID** numeric string will automatically appear on that entity's page on DC
+    - From a collection or container view, the collection's **MSS Unit ID** numeric string can be found on the **About** tab in the **Identifiers** section as **MSS Unit ID**
+    - From an item view, the **MSS Unit ID** numeric string can be found towards the end of the descriptive metadata in the **Identifiers** section as **MSS Unit ID**
+- The **MSS Unit ID** identifiers on DC do not link to the [Archives Portal](/metadata-documentation/resources/glossary/#archives-portal)
+- To navigate to the Archives Portal collection that corresponds to content in Digital Collections, append the MSS Unit ID numeric string to <tt>https://archives.nypl.org/</tt>
+<dl>
+<dt>URL structure</dt>
+<dd><tt>https://archives.nypl.org/<span style="background: #ccccff; border: 1px solid #5c5962;">MSS Unit ID</span></tt></dd>
+<dt>URL example</dt>
+<dd><tt><a href="https://archives.nypl.org/21423">https://archives.nypl.org/<span style="background: #ccccff; border: 1px solid #5c5962;">21423</span></a></tt></dd>
+<dt>Resolved URL structure</dt>
+<dd><tt>https://archives.nypl.org/<span style="background: #ffcc99; border: 1px solid #5c5962;">divcode</span>/<span style="background: #ccccff; border: 1px solid #5c5962;">MSS Unit ID</span></tt></dd>
+<dt>Resolved URL example</dt>
+<dd><tt><a href="https://archives.nypl.org/the/21423">https://archives.nypl.org/<span style="background: #ffcc99; border: 1px solid #5c5962;">the</span>/<span style="background: #ccccff; border: 1px solid #5c5962;">21423</span></a></tt></dd>
+</dl>
+
+#### Via Archives EAD ID and Archives Components ID
+- When an [Archives EAD ID](https://nypl.github.io/metadata-documentation/metadata/element/identifier/#archives-ead-id) is present on an MMS item, the **Archives EAD ID** link will automatically appear on that item's page on DC
+    - From an item view, the **Archives EAD ID** link can be found towards the end of the descriptive metadata in the **Identifiers** section as **Archives EAD ID**
+    - Clicking the link will take you to the item's finding aid component in the Archives Portal and will resolve to a URL that uses the [Archives Components ID](/metadata-documentation/metadata/element/identifier/other-local/#archives-components-id)
+
+<dl>
+
+<dt>URL structure</dt>
+<dd><tt>http://archives.nypl.org/components/<span style="background: #ffccff; border: 1px solid #5c5962;">Archives EAD ID</span></tt></dd>
+
+<dt>URL example</dt>
+<dd><tt><a href="http://archives.nypl.org/components/3329690">http://archives.nypl.org/components/<span style="background: #ffccff; border: 1px solid #5c5962;">3329690</span></a></tt></dd>
+
+<dt>Resolved URL structure</dt>
+<dd><tt>https://archives.nypl.org/<span style="background: #ffcc99; border: 1px solid #5c5962;">divcode</span>/<span style="background: #ccccff; border: 1px solid #5c5962;">MSS Unit ID</span>#c<span style="background: #ccff99; border: 1px solid #5c5962;">Archives Components ID</span></tt></dd>
+
+<dt>Resolved URL example</dt>
+<dd><tt><a href="https://archives.nypl.org/cps/24637#c1638681">https://archives.nypl.org/<span style="background: #ffcc99; border: 1px solid #5c5962;">cps</span>/<span style="background: #ccccff; border: 1px solid #5c5962;">24637</span>#c<span style="background: #ccff99; border: 1px solid #5c5962;">1638681</span></a></tt></dd>
+
+</dl>
+
+### Archives Portal → Digital Collections
+- When a digitized asset is available via the Archives Portal, an icon and clickable link will be present to the left of the associated finding aid component
+    - For non-AMI materials, the icon will be a film strip (🎞️)
+    - For AMI materials, the icon will either be music notes (🎶) for sound recordings or a film camera (📽️) for moving images
+- For all three icons, opening the link in a new tab will take the user directly to the corresponding record on Digital Collections
