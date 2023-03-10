@@ -31,9 +31,6 @@ A word, phrase, character, or group of characters, normally appearing in a resou
 1. TOC
 {:toc}
 
-## Source
-Free-text transcribed from the resource or devised by the metadata creator
-
 ## Guidelines
 - If a title appears on the resource, transcribe it into a title field
 - If no title appears on the resource, devise a unique and descriptive title based on the division's preferred content standard
@@ -88,6 +85,7 @@ _A word, phrase, character, or group of characters that constitutes the chief ti
 {: .no_toc }
 - Remove punctuation at the end of the **Title**—such as periods or colons—unless part of the title as seen on the item
 - Remove brackets enclosing the entirety of the **Title**
+    - If brackets indicated the title was devised and not transcribed from the resource, see [**Supplied**](#supplied)
 - Remove any [general material designation](/metadata-documentation/resources/glossary/#general-material-designation) from the **Title**
 - See [MARC 245](https://www.oclc.org/bibformats/en/2xx/245.html)
 
@@ -257,3 +255,4 @@ _Indicates the script used for an element_
 
 ## See Also
 - [Top-level Element: &lt;titleInfo&gt;](https://www.loc.gov/standards/mods/userguide/titleinfo.html) for official MODS documentation from the Library of Congress
+- [By Material](/metadata-documentation/metadata/material/) for access to **Title** element guidance for Clippings, Periodicals, etc.
