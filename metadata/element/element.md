@@ -40,8 +40,9 @@ has_toc: false
  - <span class="label label-blue fs-1 mb-1 mx-1">Required if Applicable</span> fields are required if warranted by the specific resource being described
 - <span class="label label-blue fs-1 mb-1 mx-1">Recommended</span> fields are optional but strongly recommended to be included if the information is readily available and if time and resources allow
 - <span class="label label-blue fs-1 mb-1 mx-1">Recommended if Applicable</span> fields are recommended if certain constraints are met or if the information is available
-- <span class="label label-yellow fs-1 mb-1 mx-1">Optional</span> fields are not required and may be included at the metadata creator’s discretion based on time and resources available
 - Fields marked as <span class="label label-red fs-1 mb-1 mx-1">Do Not Use</span> are not in use at the present time, but legacy data may exist in MMS
+
+All other fields are optional and may be included at the metadata creator's discretion based on time and resources available
 
 <!--
 Template
