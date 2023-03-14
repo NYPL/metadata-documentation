@@ -8,11 +8,6 @@ nav_exclude: true
 nav_order: 2
 ---
 
-{: .highlight-title }
-> 🚧 Under Construction
->
-> This page is still being developed. Links to legacy documentation may appear to facilitate our migration process. [Contact us](/metadata-documentation/contact/) with any questions or feedback.
-
 # Title
 {: .d-inline .v-align-middle .no_toc .mr-2 }
 Required
@@ -216,7 +211,7 @@ _Identifies what type of title is recorded_
         -  See [MARC 246](https://www.oclc.org/bibformats/en/2xx/246.html) and [MARC 740](https://www.oclc.org/bibformats/en/7xx/740.html)
     - **Uniform**: used as a main entry in a bibliographic record when a work has appeared under varying titles, necessitating that a particular title be chosen to represent the work
         -  Select the appropriate choice (LCNAF or LCSH) from the **Authority** dropdown
-        -  See [MARC 130](https://www.oclc.org/bibformats/en/1xx/130.html), and [MARC 730](https://www.oclc.org/bibformats/en/7xx/730.html)
+        -  See [MARC 130](https://www.oclc.org/bibformats/en/1xx/130.html), [MARC 240](https://www.oclc.org/bibformats/en/2xx/240.html), and [MARC 730](https://www.oclc.org/bibformats/en/7xx/730.html)
 
 ---
 
