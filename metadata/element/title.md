@@ -28,7 +28,7 @@ A word, phrase, character, or group of characters, normally appearing in a resou
 
 ## Guidelines
 - If a title appears on the resource, transcribe it into a title field
-- If no title appears on the resource, devise a unique and descriptive title based on the division's preferred content standard
+- If no title appears on the resource, devise a unique and descriptive title
     - Briefly describe the nature of resource, e.g. a map, or the subject of the resource, or both
     - Choice and format of title elements should be governed by the relevant [content standard](/metadata-documentation/metadata/guidelines/#content-standards)
     - Use [inclusive descriptive practices](/metadata-documentation/metadata/guidelines/#inclusive-and-reparative-description)
@@ -217,6 +217,8 @@ _Identifies what type of title is recorded_
 
 ### Language
 {: .d-inline .v-align-middle .mr-2 }
+Recommended
+{: .d-inline .v-align-middle .label .label-blue .mx-1 }
 [View MODS Documentation →](https://www.loc.gov/standards/mods/userguide/attributes.html#lang)
 {: .d-inline .v-align-middle .text-zeta .ml-2 }
 _Indicates the language of the content of an element_
