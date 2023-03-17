@@ -59,14 +59,14 @@ Required
 [View MODS Documentation →](https://www.loc.gov/standards/mods/userguide/location.html#physicallocation)
 {: .d-inline .v-align-middle .text-zeta .ml-2 }
 
-_The institution or repository that holds the resource or where it is available_
+_The NYPL division or collection that holds the resource or where it is available_
 {: .d-block .mt-2 }
 
 #### Guidelines
 {: .no_toc }
-- Select the NYPL division that owns the resource
+- Select the NYPL division that owns the resource from the dropdown list
     - Provide the name of the owning division, rather than the exact physical location of the original materials, as physical location may change over time or may only be known by division staff
-- Do not use the following values in the dropdown list unless you have discussed doing so with the [Manager, Metadata Services](/metadata-documentation/contact/)
+- Do not use the following values unless you have discussed doing so with the [Manager, Metadata Services](/metadata-documentation/contact/)
     - Children’s Center at 42nd St
     - Comm, Marketing, and Business Dev
     - Dorothy and Lewis B. Cullman Center for Scholars and Writers
