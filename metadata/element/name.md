@@ -98,6 +98,11 @@ Required if Free Text
 {: .d-inline .v-align-middle .mr-2 }
 Required if Free Text and Applicable
 {: .d-inline .v-align-middle .label .label-blue .mx-1 }
+[View MODS Documentation →](https://www.loc.gov/standards/mods/userguide/attributes.html#authority)
+{: .d-inline .v-align-middle .text-zeta .ml-2 }
+
+_The name of an authoritative list of terms for an element whose values are controlled_
+{: .d-block .mt-2 }
 
 #### Guidelines
 {: .no_toc }
@@ -111,6 +116,11 @@ Required if Free Text and Applicable
 {: .d-inline .v-align-middle .mr-2 }
 Required if Free Text and Applicable
 {: .d-inline .v-align-middle .label .label-blue .mx-1 }
+[View MODS Documentation →](https://www.loc.gov/standards/mods/userguide/attributes.html#valueURI)
+{: .d-inline .v-align-middle .text-zeta .ml-2 }
+
+_When the authoritative list is a linked data vocabulary, @valueURI can point directly to the term_
+{: .d-block .mt-2 }
 
 #### Guidelines
 {: .no_toc }
