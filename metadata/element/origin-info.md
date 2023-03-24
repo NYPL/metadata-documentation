@@ -49,30 +49,21 @@ Required
 Repeatable
 {: .d-inline .v-align-middle .label .label-green .mx-1 }
 
+
+_The date of creation of the resource_ <a href="https://www.loc.gov/standards/mods/userguide/origininfo.html#datecreated" style="margin-left: 10px;"><small>View MODS Documentation for **Date created** →</small></a>
+{: .d-block .mt-2 .mb-1 }
+or
+{: .text-delta .my-0 .py-0 }
+_The date that the resource was published, released, or issued_ <a href="https://www.loc.gov/standards/mods/userguide/origininfo.html#dateissued" style="margin-left: 10px;"><small>View MODS Documentation for **Date issued** →</small>
+{: .d-block .mt-1 }
+
 #### Guidelines
 {: .no_toc }
 - Select the appropriate date **Type**
-
-<dl>
-
-  <dt>Date created</dt>
-  <dd>The date of creation of the resource <a href="https://www.loc.gov/standards/mods/userguide/origininfo.html#datecreated" style="margin-left: 10px;"><small>View MODS Documentation →</small></a></dd>
-
-  <dt>Date issued</dt>
-  <dd>The date that the resource was published, released, or issued <a href="https://www.loc.gov/standards/mods/userguide/origininfo.html#dateissued" style="margin-left: 10px;"><small>View MODS Documentation →</small></a></dd>
-
-  <dt>Date captured</dt>
-  <dd>The date on which the resource was digitized or a subsequent snapshot was taken <a href="https://www.loc.gov/standards/mods/userguide/origininfo.html#datecaptured" style="margin-left: 10px;"><small>View MODS Documentation →</small></a></dd>
-
-  <dt>Copyright date</dt>
-  <dd>A date in which a resource is copyrighted <a href="https://www.loc.gov/standards/mods/userguide/origininfo.html#copyrightdate" style="margin-left: 10px;"><small>View MODS Documentation →</small></a></dd>
-
-  <dt>Other date</dt>
-  <dd>A date that does not fall into another category but is important to record <a href="https://www.loc.gov/standards/mods/userguide/origininfo.html#dateother" style="margin-left: 10px;"><small>View MODS Documentation →</small></a></dd>
-
-</dl>
-
-- 
+  - Use **Date created** for most unpublished materials
+  - Use **Date issued** for most published materials
+  - Do not use **Date captured**, **Copyright date**, or **Other date**
+  - Dates related to ownership, copyright, gift, etc. can be expressed as free text in a **Note** element with the **Type** “date” with a prefix for context, i.e. “Gift: 1937”
 
 ---
 
