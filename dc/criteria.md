@@ -9,7 +9,7 @@ nav_order: 2
 # Criteria for Appearance
 {: .no_toc }
 
-In order for an collection, container, or item to appear on Digital Collections (DC), the corresponding record in the Metadata Management System (MMS) must meet the criteria outlined below
+In order for a collection, container, or item to appear on Digital Collections (DC), the corresponding record in the Metadata Management System (MMS) must meet the criteria outlined below
 
 {: .note }
 If a collection, container, or item that does not meet the below criteria is appearing on DC, it is likely due to an indexing error. Please [contact us](/metadata-documentation/contact/) so we can investigate.
