@@ -19,6 +19,8 @@ nav_order: 3
 Links to documentation created by other Library divisions, departments, and units that are relevant to the Metadata Services Unit (MSU)
 - [Archival Processing Manual](https://sites.google.com/nypl.org/specialcollections/special-collections-processing/archival-processing/processing-manual)
 - [BookOps Cataloging](https://sites.google.com/a/bookops.org/cataloging/)
+    - [Frequently used resources in creating NAFs](https://sites.google.com/a/bookops.org/cataloging/home/research-libraries-policies/visual-materials/frequently-used-resources)
+    - [Personal name constructions, examples](https://sites.google.com/a/bookops.org/cataloging/naco/rda-personal-names/personal-name-constructions-examples)
 - [Digital Preservation](https://nypl.github.io/digpres/)
     - [Born Digital](https://nypl.github.io/born-digital-docs/)
     - [Digital Archives](https://nypl.github.io/digarch/)
