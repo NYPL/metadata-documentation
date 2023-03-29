@@ -190,7 +190,7 @@ _Identifies what type of title is recorded_
 
 #### Guidelines
 {: .no_toc }
-- When there are multiple titles, **Type** is strongly recommended for all **Title** elements except for the **Title** marked **Primary**
+- When there are multiple titles, **Type** is strongly recommended for all _additional_ **Title** elements except for the **Title** marked **Primary**
 - Various title forms may be entered to enhance the possibility for discovery of a resource for:
     - Single titles within a multi-titled resource
     - To bring out titles contained within a main title
