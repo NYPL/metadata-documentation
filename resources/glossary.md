@@ -147,6 +147,9 @@ On this page you will find common terms used within the work of the Metadata Ser
 <dt>PPOC</dt>
 <dd><a href="#prints-and-photographs-online-catalog">Prints and Photographs Online Catalog</a></dd>
 
+<dt>PRS</dt>
+<dd><a href="permissions-and-reproduction-services">Permissions and Reproduction Services</a></dd>
+  
 <dt>RDA</dt>
 <dd><a href="#resource-description-and-access">Resource Description and Access</a></dd>
 
@@ -159,6 +162,9 @@ On this page you will find common terms used within the work of the Metadata Ser
 <dt>SNFL</dt>
 <dd><a href="#stavros-niarchos-foundation-library">Stavros Niarchos Foundation Library</a> (sometimes pronounced "sniffle")</dd>
 
+<dt>SCP</dt>
+<dd><a href="#special-collections-processing">Special Collections Processing</a></dd>
+  
 <dt>SPEC</dt>
 <dd><a href="#special-collections">SPEcial Collections</a></dd>
 
@@ -362,6 +368,10 @@ On this page you will find common terms used within the work of the Metadata Ser
 <dt>Metadata Services Unit</dt>
 <dd>unit that improves the discovery of library resources and strengthens data interoperability across the library; part of <a href="#digital-collections-services">Digital Collections Services</a>; primary office located at the <a href="#library-services-center">Library Services Center</a></dd>
 
+<a name="permissions-and-reproduction-services"></a>
+<dt>Permissions and Reproduction Services</dt>
+<dd>definition TK</dd>
+  
 <a name="photo-order"></a>
 <dt>Photo Order</dt>
 <dd>alternate name of <a href="#public-order">Public Order</a></dd>
@@ -410,6 +420,10 @@ On this page you will find common terms used within the work of the Metadata Ser
 <dt>Sierra</dt>
 <dd><a href="#integrated-library-system">integrated library system</a> used by the Library; <a href="#research-libraries">Research Library</a> material cataloged in Sierra can be accessed by the public through the <a href="#research-catalog">Research Catalog</a> or <a href="#legacy-catalog">Legacy Catalog</a></dd>
 
+<a name="special-collections-processing"></a>
+<dt>Special Collections Processing</dt>
+<dd>definition TK</dd>
+  
 <a name="stavros-niarchos-foundaiton-library"></a>
 <dt>Stavros Niarchos Foundation Library</dt>
 <dd>the Library's largest circulating branch that is sometimes used for staff orientation and events; located at the former site of the Mid-Manhattan Library</dd>
