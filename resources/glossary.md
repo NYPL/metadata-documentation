@@ -148,7 +148,7 @@ On this page you will find common terms used within the work of the Metadata Ser
 <dd><a href="#prints-and-photographs-online-catalog">Prints and Photographs Online Catalog</a></dd>
 
 <dt>PRS</dt>
-<dd><a href="permissions-and-reproduction-services">Permissions and Reproduction Services</a></dd>
+<dd><a href="#permissions-and-reproduction-services">Permissions and Reproduction Services</a></dd>
   
 <dt>RDA</dt>
 <dd><a href="#resource-description-and-access">Resource Description and Access</a></dd>
@@ -370,7 +370,7 @@ On this page you will find common terms used within the work of the Metadata Ser
 
 <a name="permissions-and-reproduction-services"></a>
 <dt>Permissions and Reproduction Services</dt>
-<dd>definition TK</dd>
+<dd><span style="color:#FF00FF;">definition TK</span></dd>
   
 <a name="photo-order"></a>
 <dt>Photo Order</dt>
@@ -422,7 +422,7 @@ On this page you will find common terms used within the work of the Metadata Ser
 
 <a name="special-collections-processing"></a>
 <dt>Special Collections Processing</dt>
-<dd>definition TK</dd>
+<dd><span style="color:#FF00FF;">definition TK</span></dd>
   
 <a name="stavros-niarchos-foundaiton-library"></a>
 <dt>Stavros Niarchos Foundation Library</dt>
