@@ -9,7 +9,7 @@ nav_order: 6
 # Linking Between Systems
 {: .no_toc }
 
-The use of [identifiers](/metadata-documentation/metadata/element/identifier/) in the Metadata Management System (MMS) supports connections to and from Digital Collections (DC) from other patron-facing systems of the Library
+Provides an overview of the use of [identifiers](/metadata-documentation/metadata/element/identifier/) in the Metadata Management System (MMS) to support connections to and from Digital Collections (DC) from other patron-facing systems of the Library
 
 {: .note }
 If a link to or from Digital Collections is absent or broken, please let us know via our [Metadata Reporting Form](/metadata-documentation/contact/form/) so we can investigate.
