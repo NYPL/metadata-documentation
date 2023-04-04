@@ -4,10 +4,14 @@ layout: default
 nav_order: 1
 ---
 
+<ol class="breadcrumb-nav-list">
+<li class="breadcrumb-nav-list-item">NYPL</li>
+<li class="breadcrumb-nav-list-item">Collections & Research Services</li>
+<li class="breadcrumb-nav-list-item">Preservation & Collections Processing</li>
+<li class="breadcrumb-nav-list-item">Special Collections Processing</li>
+</ol>
 
-{: .label .label-yellow }
-
-# NYPL Metadata
+# Metadata Services Unit
 {: .fs-9 }
 
 Welcome to the documentation site of the Metadata Services Unit (MSU) of the New York Public Library
