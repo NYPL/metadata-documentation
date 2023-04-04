@@ -4,7 +4,7 @@ layout: default
 nav_order: 1
 ---
 
-<ol class="breadcrumb-nav-list">
+<ol class="breadcrumb-nav-list" style="margin:0px;padding:0px">
 <li class="breadcrumb-nav-list-item">NYPL</li>
 <li class="breadcrumb-nav-list-item">Collections & Research Services</li>
 <li class="breadcrumb-nav-list-item">Preservation & Collections Processing</li>
