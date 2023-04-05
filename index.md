@@ -4,7 +4,7 @@ layout: default
 nav_order: 1
 ---
 
-# Metadata Services Unit
+# NYPL Metadata
 {: .fs-9 }
 
 Welcome to the documentation site of the Metadata Services Unit (MSU) of the New York Public Library
