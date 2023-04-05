@@ -3,7 +3,7 @@ layout: page
 title: Linking Between Systems
 permalink: /workflows/linking/
 parent: MMS › Workflows
-nav_order: 6
+nav_order: 7
 ---
 
 # Linking Between Systems

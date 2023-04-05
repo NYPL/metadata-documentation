@@ -3,7 +3,7 @@ layout: page
 title: Remediation
 permalink: /workflows/remediation/
 parent: MMS › Workflows
-nav_order: 5
+nav_order: 6
 has_children: true
 ---
 

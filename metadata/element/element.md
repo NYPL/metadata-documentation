@@ -8,12 +8,11 @@ has_children: true
 has_toc: false
 ---
 
-{: .highlight-title }
-> 🚧 Under Construction
->
-> This page is still being developed. Links to legacy documentation may appear to facilitate our migration process. [Contact us](/metadata-documentation/contact/) with any questions or feedback.
-
 # By Element
+These pages describe our local practices for each of the [Metadata Object Description Schema](/metadata-documentation/resources/glossary/#metadata-object-description-schema) (MODS) elements in the [Metadata Management System](/metadata-documentation/resources/glossary/#metadata-management-system) (MMS)
+
+{: .note }
+> In a typical workflow, metadata elements are populated automically when [importing metadata](/metadata-documentation/workflows/import/) from other systems. These pages are intended as reference when reviewing the quality of imported metadata, [creating new metadata](/metadata-documentation/workflows/create/) from scratch, assessing whether [minimum metadata requirements](/metadata-documentation/metadata/guidelines/#minimum-metadata-requirements) are met, and/or aligning legacy records with local guidelines as part of [metadata remediation](/metadata-documentation/workflows/remediation/).
 
 ---
 

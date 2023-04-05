@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Importing Metadata
-permalink: /workflows/create-import/
+permalink: /workflows/import/
 parent: MMS › Workflows
 nav_order: 2
 ---
