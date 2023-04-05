@@ -36,6 +36,9 @@ On this page you will find common terms used within the work of the Metadata Ser
 <dt>ASpace</dt>
 <dd><a href="#archivesspace">ArchivesSpace</a></dd>
 
+<dt>CAD</dt>
+<dd><a href="#collections-access-discovery">Collections Access & Discovery</a></dd>
+  
 <dt>CATNYP</dt>
 <dd><a href="#catalog-of-the-new-york-public-library">Catalog of The New York Public Library</a> (deprecated)</dd>
 
@@ -44,6 +47,9 @@ On this page you will find common terms used within the work of the Metadata Ser
 
 <dt>CMS</dt>
 <dd><a href="#collection-management-system">Collection Management System</a></dd>
+
+<dt>CRS</dt>
+<dd><a href="#collections-research-services">Collections & Research Services</a></dd>
 
 <dt>CPAIP</dt>
 <dd><a href="#copyright-permissions-and-information-policy">Copyright, Permissions, and Information Policy</a> (deprecated)</dd>
@@ -139,7 +145,7 @@ On this page you will find common terms used within the work of the Metadata Ser
 <dd><a href="#preservation-of-audio-and-moving-image">Preservation of Audio and Moving Image</a> (deprecated)</dd>
 
 <dt>PCP</dt>
-<dd><a href="#preservation-and-collections-processing">Preservation and Collections Processing</a></dd>
+<dd><a href="#preservation-collections-processing">Preservation & Collections Processing</a></dd>
 
 <dt>PO</dt>
 <dd><a href="#public-order">Public Order</a> (or Photo Order)</dd>
@@ -228,6 +234,14 @@ On this page you will find common terms used within the work of the Metadata Ser
 <dt>Collection Management System</dt>
 <dd>Filemaker Pro database used by the <a href="#preservation-and-collections-processing">Preservation and Collections Processing</a> department to manage inventory of the <a href="#research-libraries">Research Libraries</a></dd>
 
+<a name="collections-access-discovery"></a>
+<dt>Collections Access & Discovery</dt>
+<dd><span style="color:#FF00FF;">definition TK</span></dd>
+  
+<a name="collections-research-services"></a>
+<dt>Collections & Research Services</dt>
+<dd><span style="color:#FF00FF;">definition TK</span></dd>
+  
 <a name="copyright-and-information-policy"></a>
 <dt>Copyright and Information Policy</dt>
 <dd>department within <a href="#digital-research">Digital Research</a> dedicated to securing rights and permissions surrounding the use of our collection materials including providing guidance with copyright inquiries, conducting rights research, and providing high quality digital files of our holdings to the public</dd>
@@ -376,8 +390,8 @@ On this page you will find common terms used within the work of the Metadata Ser
 <dt>Photo Order</dt>
 <dd>alternate name of <a href="#public-order">Public Order</a></dd>
 
-<a name="preservation-and-collections-processing"></a>
-<dt>Preservation and Collections Processing</dt>
+<a name="preservation-collections-processing"></a>
+<dt>Preservation & Collections Processing</dt>
 <dd>division of the <a href="#research-libraries">Research Libraries</a> comprised of units that describe, preserve, and manage the Library's special collections</dd>
 
 <a name="preservation-of-audio-and-moving-image"></a>
