@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Public Orders (POs)
-permalink: /workflows/digitization/pos/
+permalink: /workflows/digitization/po/
 parent: Digitization
 grand_parent: MMS › Workflows
 nav_order: 2
