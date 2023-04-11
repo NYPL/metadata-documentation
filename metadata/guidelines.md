@@ -27,7 +27,7 @@ This page provides broader guidance on standards and best practices for metadata
 - Records in MMS are structured using the [Metadata Object Description Schema (MODS)](/metadata-documentation/resources/glossary/#metadata-object-description-schema)
 - MMS uses selections from MODS elements up to [version 3.4](https://www.loc.gov/standards/mods/mods-3-4-announcement.html)
 - Our local guidelines for MODS elements, subelements, and attributes can be found in the [MMS › Metadata / By Element](/metadata-documentation/metadata/element/) section of this site
-    - Look for the **View MODS Documentation →** links throughout our documentation to view the corresponding documentation
+    - Look for the **View MODS Documentation →** links throughout our documentation to view the corresponding documentation from the Library of Congress
 
 ## Content Standards
 - A metadata content standard describes guidelines for the format and syntax of the data values that are used to populate metadata elements
