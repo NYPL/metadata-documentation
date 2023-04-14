@@ -30,12 +30,14 @@ Provides an overview of the process of approving records in the Metadata Managem
     1. [Metadata Services › Digitization & Approvals › Backlog Approvals 🔒](https://app.clickup.com/2305128/v/l/6-180919379-1)﻿ for backlog approvals generated as part of remediation projects
 1. Select an approval task to work on and toggle its status to **In Progress**
 1. Open the **Work Order Link** (for **New Digitization Approvals**) or **Primary MMS Link** (for **Backlog Approvals**) to determine the record(s) in MMS that need to be approved
-    1. Determine the scope of the approval by reviewing the item(s) as well as all direct parent records
-    1. Note each level of the hierarchy---including any parent collection and containers---that will need to be reviewed and approved separately
-    1. Confirm that expected capture(s) are present and appear to be associated with the correct metadata record(s)
-    1. Consult any related tasks (such as **Related Digitization Tracking** or **Related Remediation Project**) for background
-    1. Update the ClickUp task's title and/or description as needed to aid in your review process
-    1. Confirm that the other custom fields (**Division**, **Total Items**, **Research Library**, **Total Captures**, **Project Type**) are completed as applicable
+    1. In MMS:
+        1. Determine the scope of the approval by reviewing the item(s) as well as all direct parent records
+        1. Note each level of the hierarchy---including any parent collection and containers---that will need to be reviewed and approved separately
+        1. Confirm that expected capture(s) are present and appear to be associated with the correct metadata record(s)
+    1. In the ClickUp task:
+        1. Consult any related tasks (such as **Related Digitization Tracking** or **Related Remediation Project**) for background
+        1. Update the task's title and/or description as needed to aid in your review process
+        1. Confirm that the other custom fields (**Division**, **Total Items**, **Research Library**, **Total Captures**, **Project Type**) are completed as applicable
         1. **Rights** and **DC (only if Rights Needed)** custom fields are addressed in a later step
 1. Referencing the **Descriptive metadata** tab in MMS for every record within the scope of the approval:
     1. Evaluate the record quality and adjust elements or add enhancements as appropriate and time permits, considering:
@@ -53,7 +55,7 @@ Provides an overview of the process of approving records in the Metadata Managem
 1. If additional input is needed before approving any records, toggle the ClickUp task **Status** to **On Hold** and describe what you are waiting for in a comment
     1. If your question is for the division, email the **Primary division contact** listed for that division in the [Metadata Liaisons and Contacts 🔒](https://docs.google.com/spreadsheets/d/1P-YDJigon640fTCLP4Ig4-zmzqrX88v5M24ShuxFNVY/edit)
     1. If your question is for Digital Imaging Services (DIS) staff, tag the [Manager, Metadata Services](/metadata-documentation/contact/), in a comment on the ClickUp task
-1. Once all records have been approved, review whether all item records have their rights **Overview** tab in the **Rights** section of the MMS record(s):
+1. Once all records have been approved, review whether all item records have rights assigned by reviewing the **Rights** section found in the **Overview** tab of the MMS record(s):
     1. If rights information has been specified for all items in the scope of the approval, toggle the **Rights** field of the ClickUp task to **Rights Completed** and proceed with closing the task
         1. **Rights** can either be set at the item-level or inherited from above, both meet the requirement and can be considered completed
     1. If rights information has not been specified for all items in the scope of the approval:
