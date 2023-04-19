@@ -10,7 +10,7 @@ nav_order: 5
 
 # Origin Info
 {: .d-inline .v-align-middle .no_toc .mr-2 }
-Partially Required
+Required
 {: .d-inline .v-align-middle .label .label-blue .mx-1 }
 Repeatable
 {: .d-inline .v-align-middle .label .label-green .mx-1 }
@@ -78,9 +78,9 @@ _The date that the resource was published, released, or issued_ <a href="https:/
     - Select **inferred** for known dates not transcribed directly from a resource
     - Select **questionable** for questionable dates
 - Generally, dates should not be recorded free text using the **Text (for non-Gregorian calendar dates)** option
-  - "Circa" or "approximate" dates can be recorded as an encoded date/range with the use of the relevant **Qualifier**
   - Non-Gregorian dates, decades, and seasons should be converted to their corresponding Gregorian date/range
     - Add a [**Note**](/metadata-documentation/metadata/element/note/) element with the [**Type**](/metadata-documentation/metadata/element/note/#type) "date" with a prefix for context that specifies the original calendar type, date, and date type, i.e. "Date issued: 1003 (Islamic calendar)" or "Date created: 1743 (Julian calendar)"
+  - "Circa" or "approximate" dates can be recorded as an encoded date/range with the use of the relevant **Qualifier**
   - Dates provides as seasons, can be recorded using **Date range** to record the range of months that correspond to that season
     - Seasons in the Northern Hemisphere:
       - Winter: record month range 01–03
