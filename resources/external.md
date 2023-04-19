@@ -21,6 +21,7 @@ Links to documentation created by other Library divisions, departments, and unit
 - [BookOps Cataloging](https://sites.google.com/a/bookops.org/cataloging/)
     - [Frequently Used Resources in Creating NAFs](https://sites.google.com/a/bookops.org/cataloging/home/research-libraries-policies/visual-materials/frequently-used-resources)
     - [Personal Name Constructions, Examples](https://sites.google.com/a/bookops.org/cataloging/naco/rda-personal-names/personal-name-constructions-examples)
+- [DEIA in Collections Working Groups 🔒](https://lair.nypl.org/-/departments/internal-affairs/human-resources/diversity-equity-inclusion-access-at-nypl/deia-in-collections)
 - [Digital Preservation](https://nypl.github.io/digpres/)
     - [Born Digital](https://nypl.github.io/born-digital-docs/)
     - [Digital Archives](https://nypl.github.io/digarch/)
