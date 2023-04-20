@@ -20,7 +20,7 @@ These pages describe our local practices for each of the [Metadata Object Descri
 - [Title](/metadata-documentation/metadata/element/title/) <span class="label label-blue fs-1 mb-1 mx-1">Required</span>
 - [Identifier](/metadata-documentation/metadata/element/identifier/) <span class="label label-blue fs-1 mb-1 mx-1">Required</span>
 - [Type of Resource](/metadata-documentation/metadata/element/type-of-resource/) <span class="label label-blue fs-1 mb-1 mx-1">Required</span>
-- [Origin Info](/metadata-documentation/metadata/element/origin-info/) <span class="label label-blue fs-1 mb-1 mx-1">Required</span>
+- [Origin Info](/metadata-documentation/metadata/element/origin-info/)
     - [Date](/metadata-documentation/metadata/element/origin-info/#date) <span class="label label-blue fs-1 mb-1 mx-1">Required</span>
 - [Name](/metadata-documentation/metadata/element/name/)
 - [Genre](/metadata-documentation/metadata/element/genre/) <span class="label label-blue fs-1 mb-1 mx-1">Required</span>
