@@ -51,7 +51,7 @@ MMS item records must include the following seven descriptive metadata elements/
 1. [Title](/metadata-documentation/metadata/element/title/)
 1. [Type of Resource](/metadata-documentation/metadata/element/type-of-resource/)
 1. [Identifier](/metadata-documentation/metadata/element/identifier/)
-1. [Date](/metadata-documentation/metadata/element/origin-info/#date)
+1. [Date](/metadata-documentation/metadata/element/origin-info/#date) (sublement of [Origin Info](/metadata-documentation/metadata/element/origin-info/))
 1. [Genre](/metadata-documentation/metadata/element/genre/)
 1. [Location](/metadata-documentation/metadata/element/physical-location/)
 1. [Language](/metadata-documentation/metadata/element/language/) (if applicable)
