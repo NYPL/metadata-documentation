@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Style Guide
+title: MSU Documentation Style Guide
 permalink: /colophon/style-guide/
 parent: About This Site
 nav_exclude: true
@@ -11,7 +11,7 @@ nav_exclude: true
 >
 > This page is still being developed. Links to legacy documentation may appear to facilitate our migration process. [Contact us](/metadata-documentation/contact/) with any questions or feedback.
 
-# Style Guide
+# MSU Documentation Style Guide
 {: .no_toc }
 
 ## Table of contents
