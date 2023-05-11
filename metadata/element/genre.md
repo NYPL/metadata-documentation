@@ -70,7 +70,7 @@ _Used for a repeated element to declare that a particular instance of the elemen
 ---
 
 ## See Also
-- [Top-level Element: <Genre>](https://www.loc.gov/standards/mods/userguide/genre.html) for official MODS documentation from the Library of Congress
+- [Top-level Element: &lt;Genre&gt;](https://www.loc.gov/standards/mods/userguide/genre.html) for official MODS documentation from the Library of Congress
 - [Type of Resource](/metadata-documentation/metadata/element/type-of-resource/) for guidelines on adding an element that describes a resource in a more general sense
 - [Physical Description / Form](/metadata-documentation/metadata/element/physical-description/#form) for guidelines on adding an subelement that describes the more specific physical format of a resource
 [Genre + Form + Extent 🔒](https://docs.google.com/spreadsheets/d/1NGlV94Iufe0p3EJdoJDX7SgvH-LUYqWLEuB1Az3DmbM/edit) for a draft/work-in-progress reference to inform your selection of a genre term
