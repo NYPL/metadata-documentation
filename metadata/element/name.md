@@ -76,6 +76,7 @@ _The individual parsed parts that together make up the full name_
         - If no NYPL catalog record with that name exists, select and input a name string from VIAF that most closely adheres to <a href="#lc-name-guidelines">LC name formatting guidelines</a>
         - If none of the VIAF labels meet this criteria, construct and input the name according to <a href="#lc-name-guidelines">LC name formatting guidelines</a>
     - If a name does not appear in LC or VIAF, construct and input the name according to <a href="#lc-name-guidelines">LC name formatting guidelines</a>
+        - **Free text** names should not use trailing periods or periods as separators
     - Select the appropriate [**Type**](#type) attribute from the dropdown
     - For names from LCNAF and VIAF, select the appropriate [**Authority**](#authority) from the dropdown, and add a properly formatted [**Value URI**](#value-uri)
     - Select the appropriate [**Role**](#role) from the dropdown
