@@ -28,7 +28,7 @@ A term or terms that designate a category characterizing a particular style, for
 
 ## Purpose
 - To describe the nature of the content or function of the resource
-- To provide a greater level of specificity than [**Type of Resource**](/metadata-documentation/metadata/element/type-of-resource/) using a defined set of values drawn from controlled vocabularies
+- To provide a greater level of specificity than [Type of Resource](/metadata-documentation/metadata/element/type-of-resource/) using a defined set of values drawn from controlled vocabularies
 
 ## Guidelines
 - Guidance for which **Genre** terms to use can be found on the work-in-progress [Genre + Form + Extent 🔒](https://docs.google.com/spreadsheets/d/1NGlV94Iufe0p3EJdoJDX7SgvH-LUYqWLEuB1Az3DmbM/edit#gid=187807178) spreadsheet
