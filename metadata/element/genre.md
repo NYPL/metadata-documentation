@@ -40,9 +40,9 @@ A term or terms that designate a category characterizing a particular style, for
   - Look up the genre you wish to add in the search box
   - The order of preference for for adding additional **Genre** values not on the [Genre + Form + Extent 🔒](https://docs.google.com/spreadsheets/d/1NGlV94Iufe0p3EJdoJDX7SgvH-LUYqWLEuB1Az3DmbM/edit#gid=187807178) spreadsheet is:
     - For materials excluding AMI:
-    - LC Thesaurus for Graphic Materials (LCTGM)
-    - LC Genre/Form Thesaurus (LCGFT)
-    - Library of Congress Subject Heading (LCSH)
+      - LC Thesaurus for Graphic Materials (LCTGM)
+      - LC Genre/Form Thesaurus (LCGFT)
+      - Library of Congress Subject Heading (LCSH)
   - To verify a result is appropriate, click the linked **Authorized Term** to view the corresponding record in the source authority
   - Once you have chosen the controlled term, click the **Use this term** button
 - Do not add **Free text** values for **Genre**
