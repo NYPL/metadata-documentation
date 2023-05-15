@@ -8,13 +8,6 @@ nav_exclude: true
 nav_order: 10
 ---
 
-{: .highlight-title }
-> 🚧 Under Construction
->
-> This page is still being developed. Links to legacy documentation may appear to facilitate our migration process. [Contact us](/metadata-documentation/contact/) with any questions or feedback.
-
-[📄 Physical Description](https://docs.google.com/document/d/15FXrYe5FxgJt3tlcSMliTP7O3E00NCv_sBlMhXoj3pk/edit){: .btn }
-
 # Physical Description
 {: .d-inline .v-align-middle .no_toc .mr-2 }
 Repeatable
@@ -32,10 +25,11 @@ Physical characteristics of the resource
 {:toc}
 
 ## Purpose
-- 
+- To provide information about the physical details of the analog source object including physical format or medium, length, number, size, or duration
+- To provide a means of disambiguation when multiple versions of a resource are held by the library
 
 ## Guidelines
-- 
+- See [subelements](#subelements)
 
 ## Subelements
 
@@ -53,7 +47,22 @@ _A particular physical presentation of a resource, including the physical form o
 
 #### Guidelines
 {: .no_toc }
-- 
+- Use **Form** to describe the physical carrier of the content
+- Guidance for which **Form** terms to use can be found on the work-in-progress [Genre + Form + Extent 🔒](https://docs.google.com/spreadsheets/d/1NGlV94Iufe0p3EJdoJDX7SgvH-LUYqWLEuB1Az3DmbM/edit#gid=187807178) spreadsheet
+- When adding a new **Form** element, start by searching the MMS authorities module
+    - Select the radio button for **Authority data search**
+    - Click **Select from controlled terms** to bring up the authorities module
+    - Look up the form you wish to add in the search box
+    - For all materials excluding audio and moving image (non-AMI), select a **Form** that is more granular than [**Genre**](/metadata-documentation/metadata/element/genre/)
+    - The order of preference for adding additional **Form** values absent from the [Genre + Form + Extent 🔒](https://docs.google.com/spreadsheets/d/1NGlV94Iufe0p3EJdoJDX7SgvH-LUYqWLEuB1Az3DmbM/edit#gid=187807178) spreadsheet is:
+        - LC Thesaurus for Graphic Materials (LCTGM)
+        - LC Genre/Form Thesaurus (LCGFT)
+        - Art and Architecture Thesaurus (AAT)
+    - For audio and moving image (AMI), only terms from the **Form (AMI) tab** of the [Genre + Form + Extent 🔒](https://docs.google.com/spreadsheets/d/1NGlV94Iufe0p3EJdoJDX7SgvH-LUYqWLEuB1Az3DmbM/edit#gid=187807178) spreadsheet may be used
+    - To verify a result is appropriate, click the linked **Authorized Term** to view the corresponding record in the source authority
+    - Once you have chosen the controlled term, click the **Use this term** button
+    - Do not add **Free text** values for **Form**
+- When the analog source is a reproduction of the original (e.g., microform), **Form** is required
 
 ---
 
@@ -69,7 +78,9 @@ _A statement about the physical extent of the resource, in terms of units of mea
 
 #### Guidelines
 {: .no_toc }
-- 
+- Format the **Extent** string according to the relevant [content standard](/metadata-documentation/metadata/guidelines/#content-standards)
+    - Include the extent, other physical details, and dimensions
+- See [MARC 300](https://www.oclc.org/bibformats/en/3xx/300.html)
 
 ---
 
@@ -85,7 +96,11 @@ _General textual information about the physical description of a resource_
 
 #### Guidelines
 {: .no_toc }
-- 
+- Format the **Note** string according to the relevant [content standard](/metadata-documentation/metadata/guidelines/#content-standards)
+    - Include textual information about the physical details of the source object
+- A separate **Note** subelement should be used for each distinct note
+- Always select an appropriate **Type** from the dropdown menu
+- For notes describing the content, provenance, or other details, use the [Note](/metadata-documentation/metadata/element/note/) element at the record level
 
 ---
 
