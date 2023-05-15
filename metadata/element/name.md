@@ -149,9 +149,9 @@ _The name of an authoritative list of terms for an element whose values are cont
 #### Guidelines
 {: .no_toc }
 - Adding a **Name** using the authorities module automatically populates **Authority**
-- If you are entering a free text name from LCNAF or VIAF, select the appropriate **Authority** from the dropdown
+- If you are inputting a name from LCNAF or VIAF as free text, select the appropriate **Authority** from the dropdown
     - The options are **LC Name Authority File (LCNAF)** and **Virtual International Authority File (VIAF)**
-- If you are entering a free text name with no corresponding authority, leave **Authority** blank
+- If you are inputting a name with no corresponding authority as free text, leave **Authority** blank
 
 ---
 
@@ -168,12 +168,12 @@ _When the authoritative list is a linked data vocabulary, @valueURI can point di
 #### Guidelines
 {: .no_toc }
 - Adding a **Name** using the authorities module automatically populates **Value URI**
-- If you are entering a free text name from LCNAF or VIAF, manually add the [Uniform Resource Identifier](/metadata-documentation/resources/glossary/#uniform-resource-identifier) (URI) to the **Value URI** field
+- If you are inputting a name from LCNAF or VIAF as free text, manually add the [Uniform Resource Identifier](/metadata-documentation/resources/glossary/#uniform-resource-identifier) (URI) to the **Value URI** field
     - For LCNAF and LCSH, the URI is the first value listed in the URI(s) section
         - Example: [`http://id.loc.gov/authorities/names/n88156657`](https://id.loc.gov/authorities/names/n88156657.html#:~:text=http%3A//id.loc.gov/authorities/names/n88156657)
     - For VIAF, the URI is listed in the Permalink field, which is located just above the Preferred Forms section
         - Example: [`http://viaf.org/viaf/96605017`](https://viaf.org/viaf/96605017/#:~:text=http%3A//viaf.org/viaf/96605017)
-- If you are entering a free text name with no corresponding authority, leave **Value URI** blank
+- If you are inputting a name with no corresponding authority as free text, leave **Value URI** blank
 
 ---
 
