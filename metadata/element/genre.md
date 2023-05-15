@@ -32,17 +32,17 @@ A term or terms that designate a category characterizing a particular style, for
 
 ## Guidelines
 - Guidance for which **Genre** terms to use can be found on the work-in-progress [Genre + Form + Extent 🔒](https://docs.google.com/spreadsheets/d/1NGlV94Iufe0p3EJdoJDX7SgvH-LUYqWLEuB1Az3DmbM/edit#gid=187807178) spreadsheet
-  - For all materials excluding audio and moving image (AMI), use a **Genre** that describes what the digitized resource is (e.g. Photographs, Songbooks, Paintings, Correspondence, etc.)
-  - For AMI materials, use a **Genre** that describes what the sound recording or moving image is capturing (e.g., Interviews, Lectures, Oral histories, etc.) or what kind of sound recording or moving image the resource is (e.g., Demo recordings, Documentary films, Radio commercials, etc.)
+  - For all materials excluding audio and moving image (non-AMI), use a **Genre** that describes what the digitized resource is (e.g. Photographs, Songbooks, Paintings, Correspondence, etc.)
+  - For audio and moving image (AMI), use a **Genre** that describes what the sound recording or moving image is capturing (e.g., Interviews, Lectures, Oral histories, etc.) or what kind of sound recording or moving image the resource is (e.g., Demo recordings, Documentary films, Radio commercials, etc.)
 - When adding a new **Genre** element, start by searching the MMS authorities module
   - Select the radio button for **Authority data search**
   - Click **Select from controlled terms** to bring up the authorities module
   - Look up the genre you wish to add in the search box
-  - The order of preference for for adding additional **Genre** values not on the [Genre + Form + Extent 🔒](https://docs.google.com/spreadsheets/d/1NGlV94Iufe0p3EJdoJDX7SgvH-LUYqWLEuB1Az3DmbM/edit#gid=187807178) spreadsheet is:
-    - For materials excluding AMI:
-      - LC Thesaurus for Graphic Materials (LCTGM)
-      - LC Genre/Form Thesaurus (LCGFT)
-      - Library of Congress Subject Heading (LCSH)
+  - For non-AMI materials, the order of preference for for adding additional **Genre** values absent from the [Genre + Form + Extent 🔒](https://docs.google.com/spreadsheets/d/1NGlV94Iufe0p3EJdoJDX7SgvH-LUYqWLEuB1Az3DmbM/edit#gid=187807178) spreadsheet is:
+    - LC Thesaurus for Graphic Materials (LCTGM)
+    - LC Genre/Form Thesaurus (LCGFT)
+    - Art and Architecture Thesaurus (AAT)
+  - For AMI materials, only apply terms from the **Genre (AMI)** tab of the [Genre + Form + Extent 🔒](https://docs.google.com/spreadsheets/d/1NGlV94Iufe0p3EJdoJDX7SgvH-LUYqWLEuB1Az3DmbM/edit#gid=187807178) spreadsheet
   - To verify a result is appropriate, click the linked **Authorized Term** to view the corresponding record in the source authority
   - Once you have chosen the controlled term, click the **Use this term** button
 - Do not add **Free text** values for **Genre**

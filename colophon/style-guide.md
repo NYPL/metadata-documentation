@@ -4,6 +4,7 @@ title: MSU Documentation Style Guide
 permalink: /colophon/style-guide/
 parent: About This Site
 nav_exclude: true
+search_exclude: true
 ---
 
 {: .highlight-title }
