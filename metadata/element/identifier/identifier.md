@@ -155,7 +155,7 @@ _Identifies the type of identifier that is recorded, for example ISBN, ISSN, ISN
 <dd>definition TK</dd>
 
 <dt><a href="/metadata-documentation/metadata/element/identifier/bnumber/">NYPL catalog ID (B-number)</a></dt>
-<dd>Primary identifier for a bibliographic record in Sierra, where b-number (or “bnumber”) is short for bibliographic number
+<dd>primary identifier for a bibliographic record in Sierra, where b-number (or “bnumber”) is short for bibliographic number
 
 </dd>
 
@@ -213,4 +213,4 @@ _Identifies the type of identifier that is recorded, for example ISBN, ISSN, ISN
 
 ## See Also
 - [Top-level Element: &lt;identifier&gt;](https://www.loc.gov/standards/mods/userguide/identifier.html) for official MODS documentation from the Library of Congress
-- [Linking Between Systems](/metadata-documentation/workflows/linking/#research-catalog) for an explanation of how identifiers are used to generate links between Library systems
+- [Linking Between Systems](/metadata-documentation/workflows/linking/) for an explanation of how identifiers are used to generate links between Library systems
