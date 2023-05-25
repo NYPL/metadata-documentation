@@ -13,9 +13,6 @@ nav_order: 3
 >
 > This page is still being developed. Links to legacy documentation may appear to facilitate our migration process. [Contact us](/metadata-documentation/contact/) with any questions or feedback.
 
-[📄 Identifier](https://docs.google.com/document/d/1SPG_LUIgjIcJ1sNaGrEysEWUhivwZPa1UEORBhmoBX0/edit){: .btn }
-[📄 MODS identifiers](https://docs.google.com/spreadsheets/u/0/d/1pvfbOz5RUjU88gPNgDXCjFsciL6fK34nRVs7nJ3tjSQ/edit){: .btn }
-
 # Identifiers
 {: .d-inline .v-align-middle .no_toc .mr-2 }
 Required
@@ -35,10 +32,30 @@ A unique standard number or code that distinctively identifies a resource
 {:toc}
 
 ## Purpose
-- 
+- To uniquely identify a resource locally, within a repository or globally
+- To point the user to a description of the resource in another database, such as an original catalog record or a finding aid
+- To aggregate related resources for a specific purpose, for instance, identifying images displayed in an online exhibition
 
 ## Guidelines
-- 
+- To meet our [minimum metadata requirements](/metadata-documentation/metadata/guidelines/#minimum-metadata-requirements), an item record must have a [**NYPL catalog ID (B-number)**](/metadata-documentation/metadata/element/identifier/bnumber/), [**MSS Unit ID**](/metadata-documentation/metadata/element/identifier/mss-unit/), and/or [**TMS ID**](/metadata-documentation/metadata/element/identifier/tms/)
+    - Ensure at least one required identifier exists at the item level:
+        - [**NYPL catalog ID (B-number)**](/metadata-documentation/metadata/element/identifier/bnumber/) for material described in [Sierra](/metadata-documentation/resources/glossary/#sierra)
+        - [**MSS Unit ID**](/metadata-documentation/metadata/element/identifier/mss-unit/) for material described in the [Archives Portal](/metadata-documentation/resources/glossary/#archives-portal)
+        - [**TMS ID**](/metadata-documentation/metadata/element/identifier/tms/) for material described in the [Prints and Photographs Online Catalog](/metadata-documentation/resources/glossary/#prints-and-photographs-online-catalog)
+    - Required identifiers can either be assigned to the item itself or [inherited](/metadata-documentation/metadata/guidelines/#inheritance) from a collection or container
+    - If you are unable to add one of the above required identifiers, discuss with the [Manager, Metadata Services](/metadata-documentation/contact/), before proceeding further
+- Additional identifier requirements include:
+        - Item records related [Public Orders (POs)](/metadata-documentation/workflows/digitization/po/) must have a [**Photo Order**](/metadata-documentation/metadata/element/identifier/po/) identifier
+        - Item records related to [exhibitions](/metadata-documentation/workflows/digitization/exhibitions/) must have a [**NYPL Exhibition ID**](/metadata-documentation/metadata/element/identifier/nypl-exhibition/)
+        - Item records for components of collections on the [Archives Portal](/metadata-documentation/resources/glossary/#archives-portal) described with [Encoded Archival Description (EAD)](/metadata-documentation/resources/glossary/#encoded-archival-description) must have an [**Archives EAD ID**](/metadata-documentation/metadata/element/identifier/archives-ead/)
+- Other identifiers may be added as appropriate
+- See [**Type**](#type) for a complete list
+- Refer to the page for the selected identifier [Type](#type) for details on:
+    - **Source**: where the identifier value comes from
+    - **Guidelines**: how to use the identifier value
+    - **Format**: in what format the identifier value should be input
+    - **Inheritance**: if and how an identifier's inheritance should be configured
+    - **Use With**: other related identifiers that should be used in conjunction with a given identifier
 
 ---
 
@@ -58,7 +75,7 @@ _Identifies the type of identifier that is recorded, for example ISBN, ISSN, ISN
 
 #### Guidelines
 {: .no_toc }
-- 
+- Select the **Type** of identifier you wish to add from the dropdown menu:
 
 <dl>
 
@@ -138,7 +155,9 @@ _Identifies the type of identifier that is recorded, for example ISBN, ISSN, ISN
 <dd>definition TK</dd>
 
 <dt><a href="/metadata-documentation/metadata/element/identifier/bnumber/">NYPL catalog ID (B-number)</a></dt>
-<dd>definition TK</dd>
+<dd>Primary identifier for a bibliographic record in Sierra, where b-number (or “bnumber”) is short for bibliographic number
+
+</dd>
 
 <dt><a href="/metadata-documentation/metadata/element/identifier/other-local/">Other local Identifier</a></dt>
 <dd>definition TK</dd>
@@ -194,3 +213,4 @@ _Identifies the type of identifier that is recorded, for example ISBN, ISSN, ISN
 
 ## See Also
 - [Top-level Element: &lt;identifier&gt;](https://www.loc.gov/standards/mods/userguide/identifier.html) for official MODS documentation from the Library of Congress
+- [Linking Between Systems](/metadata-documentation/workflows/linking/#research-catalog) for an explanation of how identifiers are used to generate links between Library systems
