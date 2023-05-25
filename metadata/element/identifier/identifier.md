@@ -45,11 +45,11 @@ A unique standard number or code that distinctively identifies a resource
     - Required identifiers can either be assigned to the item itself or [inherited](/metadata-documentation/metadata/guidelines/#inheritance) from a collection or container
     - If you are unable to add one of the above required identifiers, discuss with the [Manager, Metadata Services](/metadata-documentation/contact/), before proceeding further
 - Additional identifier requirements include:
-        - Item records related [Public Orders (POs)](/metadata-documentation/workflows/digitization/po/) must have a [**Photo Order**](/metadata-documentation/metadata/element/identifier/po/) identifier
-        - Item records related to [exhibitions](/metadata-documentation/workflows/digitization/exhibitions/) must have a [**NYPL Exhibition ID**](/metadata-documentation/metadata/element/identifier/nypl-exhibition/)
-        - Item records for components of collections on the [Archives Portal](/metadata-documentation/resources/glossary/#archives-portal) described with [Encoded Archival Description (EAD)](/metadata-documentation/resources/glossary/#encoded-archival-description) must have an [**Archives EAD ID**](/metadata-documentation/metadata/element/identifier/archives-ead/)
+    - Item records related [Public Orders (POs)](/metadata-documentation/workflows/digitization/po/) must have a [**Photo Order**](/metadata-documentation/metadata/element/identifier/po/) identifier
+    - Item records related to [exhibitions](/metadata-documentation/workflows/digitization/exhibitions/) must have a [**NYPL Exhibition ID**](/metadata-documentation/metadata/element/identifier/nypl-exhibition/)
+    - Item records for components of collections on the [Archives Portal](/metadata-documentation/resources/glossary/#archives-portal) described with [Encoded Archival Description (EAD)](/metadata-documentation/resources/glossary/#encoded-archival-description) must have an [**Archives EAD ID**](/metadata-documentation/metadata/element/identifier/archives-ead/)
 - Other identifiers may be added as appropriate
-- See [**Type**](#type) for a complete list
+    - See [**Type**](#type) for a complete list
 - Refer to the page for the selected identifier [Type](#type) for details on:
     - **Source**: where the identifier value comes from
     - **Guidelines**: how to use the identifier value
