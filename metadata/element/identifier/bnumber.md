@@ -25,7 +25,7 @@ Primary identifier for a bibliographic record in [Sierra](/metadata-documentatio
 - [Sierra](/metadata-documentation/resources/glossary/#sierra) bibliographic records
 
 ## Guidelines
-- The **NYPL catalog ID (B-number)** identifier is populated into records automatically when [importing MARC records](/metadata-documentation/workflows/create-import/#importing-marc-records)
+- The **NYPL catalog ID (B-number)** identifier is automatically populated into records when [importing MARC records](/metadata-documentation/workflows/create-import/#importing-marc-records)
 - If adding a **NYPL catalog ID (B-number)** to a record manually:
     - Include the record type indicator (lower-case `b`) followed by the unique record number (typically 8 digits) as it appears in the address bar when viewing a record in the [Research Catalog](/metadata-documentation/resources/glossary/#research-catalog) or [Legacy Catalog](/metadata-documentation/resources/glossary/#legacy-catalog)
     - Do not include the final check digit when retrieving the **NYPL catalog ID (B-number)** from the bibliographic record in Sierra
@@ -39,7 +39,7 @@ Primary identifier for a bibliographic record in [Sierra](/metadata-documentatio
 ## Format
 <dl>
 <dt>Preferred structure</dt>
-<dd><tt>b<span style="background: #ffccff; border: 1px solid #5c5962;">number</span></tt></dd>
+<dd><tt>b<span style="background: #ffccff; border: 1px solid #5c5962;">unique numeric identifier</span></tt></dd>
 <dt>Example</dt>
 <dd><a href="https://www.nypl.org/research/research-catalog/bib/b11689179"><tt>b<span style="background: #ffccff; border: 1px solid #5c5962;">11689179</span></tt></a></dd>
 
