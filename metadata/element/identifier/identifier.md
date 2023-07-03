@@ -92,7 +92,7 @@ _Identifies the type of identifier that is recorded, for example ISBN, ISSN, ISN
 <dd>definition TK</dd>
 
 <dt><a href="/metadata-documentation/metadata/element/identifier/archives-ead/">Archives EAD ID</a></dt>
-<dd>definition TK</dd>
+<dd>Identifier that correlates [EAD](/metadata-documentation/resources/glossary/#encoded-archival-description)-encoded finding aid components to their MMS container or item records, facilitating the display of digitized assets in the [Archives Portal](/metadata-documentation/resources/glossary/#archives-portal)</dd>
 
 <dt><a href="/metadata-documentation/metadata/element/identifier/barcode/">Barcode</a></dt>
 <dd>definition TK</dd>
