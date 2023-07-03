@@ -92,7 +92,7 @@ _Identifies the type of identifier that is recorded, for example ISBN, ISSN, ISN
 <dd>definition TK</dd>
 
 <dt><a href="/metadata-documentation/metadata/element/identifier/archives-ead/">Archives EAD ID</a></dt>
-<dd>Identifier that correlates [EAD](/metadata-documentation/resources/glossary/#encoded-archival-description)-encoded finding aid components to their MMS container or item records, facilitating the display of digitized assets in the [Archives Portal](/metadata-documentation/resources/glossary/#archives-portal)</dd>
+<dd>identifier that correlates EAD-encoded finding aid components to their MMS container or item records, facilitating the display of digitized assets in the Archives Portal</dd>
 
 <dt><a href="/metadata-documentation/metadata/element/identifier/barcode/">Barcode</a></dt>
 <dd>definition TK</dd>
@@ -149,7 +149,7 @@ _Identifies the type of identifier that is recorded, for example ISBN, ISSN, ISN
 <dd>definition TK</dd>
 
 <dt><a href="/metadata-documentation/metadata/element/identifier/mss-unit/">MSS Unit ID</a></dt>
-<dd>collection-level identifier for an archival collection in the [Archives Portal](/metadata-documentation/resources/glossary/#archives-portal)</dd>
+<dd>collection-level identifier for an archival collection in the Archives Portal</dd>
 
 <dt><a href="/metadata-documentation/metadata/element/identifier/nypl-exhibition/">NYPL Exhibition ID</a></dt>
 <dd>identifier for digitized surrogates of material included in exhibitions at the New York Public Library</dd>
