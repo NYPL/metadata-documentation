@@ -3,7 +3,7 @@ layout: page
 title: Metadata Reporting Form
 permalink: /contact/form/
 parent: Contact
-nav_exclude: true
+nav_order: 1
 ---
 
 # Metadata Reporting Form
