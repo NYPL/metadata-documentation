@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Issue Reporting Form
+title: Metadata Reporting Form
 permalink: /contact/form/
 parent: Contact
 nav_exclude: true
