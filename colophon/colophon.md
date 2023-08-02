@@ -3,6 +3,7 @@ layout: page
 title: About This Site
 permalink: /colophon/
 nav_exclude: true
+has_children: true
 ---
 
 {: .highlight-title }
