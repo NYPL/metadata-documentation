@@ -14,6 +14,7 @@ Use our [metadata reporting form](/metadata-documentation/contact/form/) to:
 - Notify us of a new or updated finding aid or catalog record
 - Report an error with a link to or from Digital Collections from another library system
 - Request a properly formatted Digital Collections URL
+- Ask a question or make a suggestion related to our documentation
 
 For all other enquiries, email metadata [at] nypl [dot] org
 
