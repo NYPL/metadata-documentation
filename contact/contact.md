@@ -10,10 +10,8 @@ has_children: true
 Use our [metadata reporting form](/metadata-documentation/contact/form/) to:
 - Report an error with metadata
 - Suggest updated or additional metadata
-- Notify us of a new or updated catalog record
-- Notify us of a new or updated finding aid
-- Report an error with a link from Digital Collections to another library system
-- Report an error with a link to Digital Collections from another library system
+- Notify us of a new or updated finding aid or catalog record
+- Report an error with a link to or from Digital Collections from another library system
 - Request a properly formatted Digital Collections URL
 
 For all other enquiries, email metadata [at] nypl [dot] org
