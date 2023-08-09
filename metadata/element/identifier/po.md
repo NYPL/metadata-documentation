@@ -50,5 +50,5 @@ Identifier of the Photo Order (also known as a [Public Order](/metadata-document
 - Not applicable as **Photo Order** should be assigned at the item level
 
 ## See Also
--  [Public Orders (POs)](/metadata-documentation/workflows/digitization/po/) for a step-by-step of workflow for digitizing materials for Public Orders
+- [Public Orders (POs)](/metadata-documentation/workflows/digitization/po/) for a step-by-step of workflow for digitizing materials for Public Orders
 - [Digitization Tracking 🔒](https://app.clickup.com/2305128/v/l/6-164664866-1) for ClickUp tasks that correlate to Public Orders
