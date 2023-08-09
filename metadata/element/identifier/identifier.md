@@ -161,7 +161,8 @@ _Identifies the type of identifier that is recorded, for example ISBN, ISSN, ISN
 <dd>definition TK</dd>
 
 <dt><a href="/metadata-documentation/metadata/element/identifier/po/">Photo Order</a></dt>
-<dd>definition TK</dd>
+<dd>identifier of the Photo Order (also known as a Public Order) used to track digitization requests submitted to the Library by the public
+{: .d-block .mt-2 .fs-6 .fw-300 }</dd>
 
 <dt><a href="/metadata-documentation/metadata/element/identifier/preservica/">Preservica ID</a></dt>
 <dd>definition TK</dd>
