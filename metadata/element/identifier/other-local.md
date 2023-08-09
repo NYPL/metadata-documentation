@@ -13,6 +13,7 @@ nav_exclude: true
 > This page is still being developed. Links to legacy documentation may appear to facilitate our migration process. [Contact us](/metadata-documentation/contact/) with any questions or feedback.
 
 # Other local Identifier
+{: .d-inline .v-align-middle .no_toc .mr-2 }
 
 ## Archives Collections ID
 
