@@ -266,6 +266,10 @@ On this page you will find common terms used within the work of the Metadata Ser
 <dt>Digital Collections Services</dt>
 <dd>department within <a href="#collections-access-discovery">Collections Access & Discovery</a> dedicated to managing <a href="#digital-collections">Digital Collections</a>; comprised of <a href="#copyright-information-policy">Copyright & Information Policy</a> and <a href="#permissions-reproduction-services">Permissions and Reproduction Services</a></dd>
 
+<a name="digital-gallery"></a>
+<dt>Digital Gallery</dt>
+<dd>former name of <a href="#digital-collections">Digital Collections</a></dd>
+
 <a name="digital-imaging-services"></a>
 <dt>Digital Imaging Services</dt>
 <dd>department within <a href="#collections-access-discovery">Collections Access & Discovery</a> dedicated to creating high-quality digital surrogates of collection materials made available online through <a href="#digital-collections">Digital Collections</a> or directly through individual requests; primary office located at the <a href="#library-services-center">Library Services Center</a>, with work also taking place at specific <a href="#research-libraries">Research Libraries</a></dd>
