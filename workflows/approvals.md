@@ -22,20 +22,20 @@ Provides an overview of the process of approving records in the Metadata Managem
 - The approval workflow is part of new digitization and remediation workflows, often occurring as the last step to make digitized resources available on DC
     - New digitization approvals follow [metadata creation](/metadata-documentation/workflows/create-import/) and [digitization](/metadata-documentation/workflows/digitization/)
     - Backlog approvals are generated through [remediation projects](/metadata-documentation/workflows/remediation/)
-    - New digitization approvals should be prioritized over backlog approvals
+    - New digitization approvals should be prioritized over tasks derived from remediation projects
 
 ## Steps (For MSU Staff)
 1. Monitor your [ClickUp notifications 🔒](https://app.clickup.com/2305128/notifications) and the following lists for approval tasks that have been assigned to you:
     1. [Metadata Services › Digitization & Approvals › New Digitization Approvals 🔒](https://app.clickup.com/2305128/v/l/6-180919377-1) for incoming approvals that correspond to newly digitized material
-    1. [Metadata Services › Digitization & Approvals › Backlog Approvals 🔒](https://app.clickup.com/2305128/v/l/6-180919379-1)﻿ for backlog approvals generated as part of remediation projects
+    1. [Metadata Services › Remediation › Remediation Projects › Remediation Tasks 🔒](https://app.clickup.com/2305128/v/l/26b38-8667) for tasks generated as part of remediation projects such as backlog approvals, reimports, et al.
 1. Select an approval task to work on and toggle its status to **In Progress**
-1. Open the **Work Order Link** (for **New Digitization Approvals**) or **Primary MMS Link** (for **Backlog Approvals**) to determine the record(s) in MMS that need to be approved
+1. Open the **Work Order Link** (for **New Digitization Approvals**) or **Primary MMS Link** (for **Remediation Projects**) to determine the record(s) in MMS that need to be approved
     1. In MMS:
         1. Determine the scope of the approval by reviewing the item(s) as well as all direct parent records
         1. Note each level of the hierarchy---including any parent collection and containers---that will need to be reviewed and approved separately
         1. Confirm that expected capture(s) are present and appear to be associated with the correct metadata record(s)
     1. In the ClickUp task:
-        1. Consult any related tasks (such as **Related Digitization Tracking** or **Related Remediation Project**) for background
+        1. Consult any related tasks (such as **Related Digitization Tracking** or the parent **Remediation Project**) for background
         1. Update the task's title and/or description as needed to aid in your review process
         1. Confirm that the other custom fields (**Division**, **Total Items**, **Research Library**, **Total Captures**, **Project Type**) are completed as applicable
         1. **Rights** and **DC (only if Rights Needed)** custom fields are addressed in a later step
