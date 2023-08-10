@@ -97,7 +97,7 @@ _General textual information about the physical description of a resource_
 #### Guidelines
 {: .no_toc }
 - Select a note **Type** for all notes
-    - See [MODS <physicalDescription><note>](https://www.loc.gov/standards/mods/mods-notes.html#:~:text=MODS%20%3CphysicalDescription%3E%3Cnote%3E) for a complete list of types
+    - See [MODS &lt;physicalDescription&gt;&lt;note&gt;](https://www.loc.gov/standards/mods/mods-notes.html#:~:text=MODS%20%3CphysicalDescription%3E%3Cnote%3E) for a complete list of types
         - Refer to **MARC Equivalent** column to see corresponding MARC field for each type
         - Look up fields in the [OCLC Bibliographic Formats and Standards](https://www.oclc.org/bibformats/en.html) for more details documentation
 - Format the **Note** string according to the relevant [content standard](/metadata-documentation/metadata/guidelines/#content-standards)
