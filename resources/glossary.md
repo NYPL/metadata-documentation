@@ -232,7 +232,7 @@ On this page you will find common terms used within the work of the Metadata Ser
 
 <a name="collection-management-system"></a>
 <dt>Collection Management System</dt>
-<dd>former name of <a href="#spec">SPEC</a></a></dd>
+<dd>former name of <a href="#spec">SPEC</a></dd>
 
 <a name="collections-access-discovery"></a>
 <dt>Collections Access & Discovery</dt>
