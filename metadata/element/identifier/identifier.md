@@ -164,7 +164,7 @@ _Identifies the type of identifier that is recorded, for example ISBN, ISSN, ISN
 <dd>identifier of the Photo Order (also known as a Public Order) used to track digitization requests submitted to the Library by the public</dd>
 
 <dt><a href="/metadata-documentation/metadata/element/identifier/preservica/">Preservica ID</a></dt>
-<dd>identifier used by Preservica, the Library’s digital preservation software</dd>
+<dd>identifier used by Preservica, the Library's digital preservation software</dd>
 
 <dt><a href="/metadata-documentation/metadata/element/identifier/publishers-music-plate-number/">Publisher's music plate number</a></dt>
 <dd>definition TK</dd>
