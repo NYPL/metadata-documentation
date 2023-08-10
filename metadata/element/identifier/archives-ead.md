@@ -44,7 +44,7 @@ Identifier that correlates [EAD](/metadata-documentation/resources/glossary/#enc
 </dl>
 
 ## Inheritance
-- If an item record with an **Archives EAD ID** is converted to a container, set the **Archives EAD ID** to be Inheritable
+- If an item record with an **Archives EAD ID** is converted to a container, set the **Archives EAD ID** to be **Inheritable**
 
 ## Use With
 - [MSS Unit ID](/metadata-documentation/metadata/element/identifier/mss-unit/), which should always be present through inheritance for a record with an **Archives EAD ID**
