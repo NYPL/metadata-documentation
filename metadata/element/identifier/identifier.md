@@ -192,10 +192,10 @@ _Identifies the type of identifier that is recorded, for example ISBN, ISSN, ISN
 <dd>definition TK</dd>
 
 <dt><a href="/metadata-documentation/metadata/element/identifier/tms/">TMS ID</a></dt>
-<dd>definition TK</dd>
+<dd>unique numeric identifier assigned to individual objects by the The Museum System (TMS), used by Print Collection and Photography Collection of the Miriam and Ira D. Wallach Division of Art, Prints and Photographs</dd>
 
 <dt><a href="/metadata-documentation/metadata/element/identifier/tms-object-number/">TMS Object Number</a></dt>
-<dd>definition TK</dd>
+<dd>local classmark assigned by the Print Collection and Photography Collection of the Miriam and Ira D. Wallach Division of Art, Prints and Photographs in The Museum System (TMS)</dd>
 
 <dt><a href="/metadata-documentation/metadata/element/identifier/us-national-gazetteer-feature-name-identifier/">U.S. National Gazetteer Feature Name Identifier</a></dt>
 <dd>definition TK</dd>
