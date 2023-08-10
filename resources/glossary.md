@@ -406,6 +406,10 @@ On this page you will find common terms used within the work of the Metadata Ser
 <dt>Public Order</dt>
 <dd>digitization request submitted to the Library by the public tracked by its sequential PO number; Public Orders often correspond to <a href="#work-orders">Work Orders</a></dd>
 
+<a name="preservica"></a>
+<dt>Preservica</dt>
+<dd>the Library's digital preservation software; managed by <a href="#digital-preservation">Digital Preservation</a></dd>
+
 <a name="python"></a>
 <dt>Python</dt>
 <dd>programming language popularly used for storing, manipulating, and displaying data; data stored in the <a href="#metadata-management-system">Metadata Management System</a> can be queried, added, deleted, and updated using Python</dd>
