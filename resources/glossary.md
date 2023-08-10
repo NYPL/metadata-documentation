@@ -46,7 +46,7 @@ On this page you will find common terms used within the work of the Metadata Ser
 <dd><a href="#copyright-information-policy">Copyright and Information Policy</a></dd>
 
 <dt>CMS</dt>
-<dd><a href="#collection-management-system">Collection Management System</a></dd>
+<dd><a href="#collection-management-system">Collection Management System</a> (deprecated)</dd>
 
 <dt>CRS</dt>
 <dd><a href="#collections-research-services">Collections & Research Services</a></dd>
@@ -172,7 +172,7 @@ On this page you will find common terms used within the work of the Metadata Ser
 <dd><a href="#special-collections-processing">Special Collections Processing</a></dd>
   
 <dt>SPEC</dt>
-<dd><a href="#special-collections">SPEcial Collections</a></dd>
+<dd><a href="#spec">SPEcial Collections</a></dd>
 
 <dt>SQL</dt>
 <dd><a href="#structured-query-language">Structured Query Language</a> (sometimes pronounced "sequel")</dd>
@@ -232,7 +232,7 @@ On this page you will find common terms used within the work of the Metadata Ser
 
 <a name="collection-management-system"></a>
 <dt>Collection Management System</dt>
-<dd>Filemaker Pro database used by the <a href="#preservation-collections-processing">Preservation and Collections Processing</a> department to manage inventory of the <a href="#research-libraries">Research Libraries</a></dd>
+<dd>former name of <a href="#spec">SPEC</a></a></dd>
 
 <a name="collections-access-discovery"></a>
 <dt>Collections Access & Discovery</dt>
@@ -437,6 +437,10 @@ On this page you will find common terms used within the work of the Metadata Ser
 <a name="sierra"></a>
 <dt>Sierra</dt>
 <dd><a href="#integrated-library-system">integrated library system</a> used by the Library; <a href="#research-libraries">Research Library</a> material cataloged in Sierra can be accessed by the public through the <a href="#research-catalog">Research Catalog</a> or <a href="#legacy-catalog">Legacy Catalog</a></dd>
+
+<a name="spec"></a>
+<dt>SPEC (SPEcial Collections)</dt>
+<dd>Filemaker Pro database used by the <a href="#preservation-collections-processing">Preservation and Collections Processing</a> department to manage <a href="#research-libraries">Research Library</a> collections</dd>
 
 <a name="special-collections-processing"></a>
 <dt>Special Collections Processing</dt>
