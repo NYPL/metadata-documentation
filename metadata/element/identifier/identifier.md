@@ -95,7 +95,7 @@ _Identifies the type of identifier that is recorded, for example ISBN, ISSN, ISN
 <dd>identifier that correlates EAD-encoded finding aid components to their MMS container or item records, facilitating the display of digitized assets in the Archives Portal</dd>
 
 <dt><a href="/metadata-documentation/metadata/element/identifier/barcode/">Barcode</a></dt>
-<dd>definition TK</dd>
+<dd>unique identifier assigned to physical object</dd>
 
 <dt><a href="/metadata-documentation/metadata/element/identifier/catnyp/">CATNYP ID (legacy)</a></dt>
 <dd>definition TK</dd>
@@ -119,7 +119,7 @@ _Identifies the type of identifier that is recorded, for example ISBN, ISSN, ISN
 <dd>definition TK</dd>
 
 <dt><a href="/metadata-documentation/metadata/element/identifier/hades-struc/">Hades struc ID (legacy)</a></dt>
-<dd>definition TK</dd>
+<dd>identifier assigned to a record in Hades, the precursor to the Metadata Management System</dd>
 
 <dt><a href="/metadata-documentation/metadata/element/identifier/isan/">International Standard Audiovisual Number</a></dt>
 <dd>definition TK</dd>
