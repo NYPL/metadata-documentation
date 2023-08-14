@@ -26,7 +26,7 @@ Provides an overview of the process of approving records in the Metadata Managem
 
 ## Steps (For MSU Staff)
 1. Monitor your [ClickUp notifications 🔒](https://app.clickup.com/2305128/notifications) and the following lists for approval tasks that have been assigned to you:
-    1. [Metadata Services › Digitization & Approvals › New Digitization Approvals 🔒](https://app.clickup.com/2305128/v/l/6-180919377-1) for incoming approvals that correspond to newly digitized material
+    1. [Metadata Services › New Digitization › New Digitization Approvals 🔒](https://app.clickup.com/2305128/v/l/6-180919377-1) for incoming approvals that correspond to newly digitized material
     1. [Metadata Services › Remediation › Remediation Projects › Remediation Tasks 🔒](https://app.clickup.com/2305128/v/l/26b38-8667) for tasks generated as part of remediation projects such as backlog approvals, reimports, et al.
 1. Select an approval task to work on and toggle its status to **In Progress**
 1. Open the **Work Order Link** (for **New Digitization Approvals**) or **Primary MMS Link** (for **Remediation Projects**) to determine the record(s) in MMS that need to be approved
