@@ -34,7 +34,7 @@ Steps
 {: .note }
 Before requesting metadata creation, ensure your ClickUp settings are configured to assign you as a watcher to tasks you create in [your notification settings 🔒](https://app.clickup.com/2305128/settings/notifications). Under **Watcher settings: When do you want to be added as a watcher on a task?**, check that **When I create a task or subtask** is selected.
 
-1. Navigate to ﻿[Metadata Services › Digitization & Approvals › Digitization Tracking 🔒](https://app.clickup.com/2305128/v/l/6-164664866-1?pr=18903295)﻿ in ClickUp
+1. Navigate to [Metadata Services › New Digitization › New Digitization Tracking 🔒](https://app.clickup.com/2305128/v/l/6-164664866-1?pr=18903295) in ClickUp
 1. From the lower right corner of the list, click **+ Task**
 1. Click the **🪄 (wand)** icon (third icon on the bottom left of the create task prompt), then click **Load from Template**
 1. Search for **PO Metadata Creation**, hover over the template, and click **Quick Use**
@@ -49,10 +49,10 @@ Before requesting metadata creation, ensure your ClickUp settings are configured
     1. Is assigned to the relevant MSU liaison based on **Division**
     1. Is assigned to Digitization Coordinator for POs to notify them that rights may be needed
     1. Has the person who requested the metadata added to the ClickUp task as a watcher
-1. The request will appear in [Digitization Tracking 🔒](https://app.clickup.com/2305128/v/l/6-164664866-1?pr=18903295) in the **Create Metadata** section
+1. The request will appear in [New Digitization Tracking 🔒](https://app.clickup.com/2305128/v/l/6-164664866-1?pr=18903295) in the **Create Metadata** section
 
 ### Metadata Creation (For MSU Staff)
-1. Monitor your [ClickUp notifications 🔒](https://app.clickup.com/2305128/notifications) and [Metadata Services › Digitization & Approvals › Digitization Tracking 🔒](https://app.clickup.com/2305128/v/l/6-164664866-1) for metadata creation tasks that have been assigned to you
+1. Monitor your [ClickUp notifications 🔒](https://app.clickup.com/2305128/notifications) and [Metadata Services › New Digitization › New Digitization Tracking 🔒](https://app.clickup.com/2305128/v/l/6-164664866-1) for metadata creation tasks that have been assigned to you
     1. Incoming PO metadata requests will have a task name that begins with PO and the status of **Create Metadata**
 1. Review the task description to determine what item(s) need to be created in MMS
     1. If a [bnumber](/metadata-documentation/metadata/element/identifier/bnumber/), [MSS Unit ID](/metadata-documentation/metadata/element/identifier/mss-unit/), or [TMS ID](/metadata-documentation/metadata/element/identifier/tms/#tms-id) is provided, search it in MMS to verify whether an earlier record for the item(s) or any parent collections or containers already exist(s)
@@ -86,9 +86,9 @@ Before requesting metadata creation, ensure your ClickUp settings are configured
     - MSU staff [approves](/metadata-documentation/workflows/approvals/) the item(s)
     - Once approved in MMS, item(s) that meet the [criteria for appearance](/metadata-documentation/dc/criteria/) will be accessible on DC
         1. Searching DC using the PO number (without the "PO") will return any publicly accessible items that correspond to that PO
-- Open POs can be found in [Metadata Services › Digitization & Approvals › Digitization Tracking 🔒](https://app.clickup.com/2305128/v/l/6-164664866-1) with the status **In Progress**
-    - Corresponding [New Digitization Approvals 🔒](https://app.clickup.com/2305128/v/l/6-180919377-1) are connected to the Digitization Tracking task as they are received by MSU
-    - The [Manager, Metadata Services](/metadata-documentation/contact/), will close the Digitization Tracking task once all related approvals are complete
+- Open POs can be found in [Metadata Services › New Digitization › New Digitization Tracking 🔒](https://app.clickup.com/2305128/v/l/6-164664866-1) with the status **In Progress**
+    - Corresponding [New Digitization Approvals 🔒](https://app.clickup.com/2305128/v/l/6-180919377-1) are connected to the New Digitization Tracking task as they are received by MSU
+    - The [Manager, Metadata Services](/metadata-documentation/contact/), will close the New Digitization Tracking task once all related approvals are complete
 
 ## See Also
 - [Photo Order](/metadata-documentation/metadata/element/identifier/po/) for more information about the PO identifier
