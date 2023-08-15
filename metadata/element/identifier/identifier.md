@@ -110,13 +110,13 @@ _Identifies the type of identifier that is recorded, for example ISBN, ISSN, ISN
 <dd>definition TK</dd>
 
 <dt><a href="/metadata-documentation/metadata/element/identifier/digital-gallery-image/">Digital Gallery Image ID</a></dt>
-<dd>definition TK</dd>
+<dd>identifier assigned to an image in Hades, the precursor to the Metadata Management System</dd>
 
 <dt><a href="/metadata-documentation/metadata/element/identifier/electronic-record-package/">Electronic Record Package</a></dt>
 <dd>definition TK</dd>
 
 <dt><a href="/metadata-documentation/metadata/element/identifier/hades-collection-guide/">Hades Collection Guide ID (legacy)</a></dt>
-<dd>definition TK</dd>
+<dd>identifier from legacy Hades Collection Guide page that supported browsing based on collection provenance, bibliographic unit, department, format, and/or topic</dd>
 
 <dt><a href="/metadata-documentation/metadata/element/identifier/hades-struc/">Hades struc ID (legacy)</a></dt>
 <dd>identifier assigned to a record in Hades, the precursor to the Metadata Management System</dd>
