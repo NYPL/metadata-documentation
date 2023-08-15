@@ -88,7 +88,7 @@ If a link to or from Digital Collections is absent or broken, please let us know
 </dl>
 
 ### Archives Portal → Digital Collections
-- When a digitized asset is available via the Archives Portal, an icon and clickable link will be present to the left of the associated finding aid component
+- When a digitized asset is available via the Archives Portal (via [Archives EAD ID](/metadata-documentation/metadata/element/identifier/archives-ead/)), an icon and clickable link will be present to the left of the associated finding aid component
     - For non-AMI materials, the icon will be a film strip (🎞️)
     - For AMI materials, the icon will either be music notes (🎶) for sound recordings or a film camera (📽️) for moving images
 - For all three icons, opening the link in a new tab will take the user directly to the corresponding record on Digital Collections
