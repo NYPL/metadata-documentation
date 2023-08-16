@@ -13,4 +13,4 @@ has_children: true
 
 # MMS › Workflows
 
-These pages describe workflows pertaining to the [Metadata Management System (MMS)](https://metadata.nypl.org/), the Library's interface for managing metadata creation, original audio and moving image cataloging, rights profiles, and digital assets for the the Library's digital objects and [Digital Collections](/metadata-documentation/dc/)
+These pages describe workflows pertaining to the [Metadata Management System (MMS)](https://metadata.nypl.org/), the Library’s browser-based interface for creating and managing metadata, rights profiles, and digital assets for [Digital Collections](/metadata-documentation/dc/)
