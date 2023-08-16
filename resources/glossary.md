@@ -376,7 +376,7 @@ On this page you will find common terms used within the work of the Metadata Ser
 
 <a name="metadata-management-system"></a>
 <dt>Metadata Management System</dt>
-<dd>graphical user interface for managing metadata creation, original audio and moving image cataloging, rights profiles, and digital assets for the the Library's digital objects and <a href="#digital-collections">Digital Collections</a>; accessible at <a href="https://metadata.nypl.org">metadata.nypl.org</a>; powered by <a href="#structured-query-language">SQL</a> database colloquially called <a href="#the-database">The Database</a> in a <a href="#digital-collections-services">Digital Collections Services</a> context</dd>
+<dd>the Library's browser-based interface for creating and managing metadata, rights profiles, and digital assets for <a href="#digital-collections">Digital Collections</a>; accessible at <a href="https://metadata.nypl.org">metadata.nypl.org</a>; powered by <a href="#structured-query-language">SQL</a> database colloquially called <a href="#the-database">The Database</a> in a <a href="#digital-collections-services">Digital Collections Services</a> context</dd>
 
 <a name="metadata-object-description-schema"></a>
 <dt>Metadata Object Description Schema</dt>
