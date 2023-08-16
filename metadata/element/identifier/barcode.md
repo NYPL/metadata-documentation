@@ -9,7 +9,6 @@ nav_exclude: true
 
 # Barcode
 {: .d-inline .v-align-middle .no_toc .mr-2 }
-
 Unique identifier assigned to physical object
 {: .d-block .mt-2 .fs-6 .fw-300 }
 
