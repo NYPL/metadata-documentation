@@ -73,12 +73,16 @@ Rights
 
 ## Inclusive and Reparative Description
 
+{: .note }
+In addition to the general workflows and best practices described below, the Metadata Services Unit leads and participates in several initiatives related to inclusive and reparative description, see [Projects](/metadata-documentation/projects/) for more details.
+
+### Workflows
+- [Addressing Incorrect or Offensive Titles](/metadata-documentation/metadata/element/title/#addressing-incorrect-or-offensive-titles)
+- [Flagging Harmful or Difficult Content](/metadata-documentation/metadata/element/note/#flagging-harmful-or-difficult-content)
+
 ### Describing People
 - If describing the race or ethnicity of any one individual person in [**Title**](/metadata-documentation/metadata/element/title/) or [**Note**](/metadata-documentation/metadata/element/note/), include the race or ethnicity for all people depicted in the resource
     - Do not assume race or ethnicity of people; research how they self-identified where possible
     - Use linguistically similar qualifiers in description, e.g. "black women" and "white women" or "African American women" and "Caucasian women"
     - Omit gendered language
     - Do not describe only women as pretty or comment on their appearance, hair, or clothing while not describing men in a similar fashion
-
-### Reparative Workflows
-- [Addressing Incorrect or Offensive Titles](/metadata-documentation/metadata/element/title/#addressing-incorrect-or-offensive-titles)
