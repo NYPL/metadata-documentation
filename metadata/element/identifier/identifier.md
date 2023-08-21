@@ -176,7 +176,7 @@ _Identifies the type of identifier that is recorded, for example ISBN, ISSN, ISN
 <dd>definition TK</dd>
 
 <dt><a href="/metadata-documentation/metadata/element/identifier/rlin-oclc/">RLIN/OCLC</a></dt>
-<dd>definition TK</dd>
+<dd>unique identifier assigned by OCLC for a bibliographic record in WorldCat</dd>
 
 <dt><a href="/metadata-documentation/metadata/element/identifier/serial-item-and-contribution/">Serial Item and Contribution Identifier</a></dt>
 <dd>definition TK</dd>
