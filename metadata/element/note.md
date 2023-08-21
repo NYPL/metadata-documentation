@@ -33,6 +33,7 @@ General textual information relating to a resource
 - Use the free text field to enter a note
 - Ensure a note [**Type**](#type) is selected
 - For notes describing the physical details of the original object, use the [Note](/metadata-documentation/metadata/element/physical-description/#note) subelement of [Physical Description](/metadata-documentation/metadata/element/physical-description/)
+- Use [inclusive descriptive practices](/metadata-documentation/metadata/guidelines/#inclusive-and-reparative-description)
 
 ## Workflows
 
