@@ -41,7 +41,7 @@ Primary identifier for a bibliographic record in [Sierra](/metadata-documentatio
 <dt>Preferred structure</dt>
 <dd><tt>b<span style="background: #ffccff; border: 1px solid #5c5962;">unique numeric identifier</span></tt></dd>
 <dt>Example</dt>
-<dd><a href="https://www.nypl.org/research/research-catalog/bib/b11689179"><tt>b<span style="background: #ffccff; border: 1px solid #5c5962;">11689179</span></tt></a></dd>
+<dd><a href="https://metadata.nypl.org/items/6292814?section=desc_md#:~:text=local_bnumber%3A-,b11689179,-Location"><tt>b<span style="background: #ffccff; border: 1px solid #5c5962;">11689179</span></tt></a></dd>
 
 </dl>
 

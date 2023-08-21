@@ -40,7 +40,7 @@ Identifier that correlates [EAD](/metadata-documentation/resources/glossary/#enc
 <dt>Preferred structure</dt>
 <dd><tt><span style="background: #ffccff; border: 1px solid #5c5962;">unique numeric identifier</span></tt></dd>
 <dt>Example</dt>
-<dd><a href="https://archives.nypl.org/admin/components/1418303#:~:text=identifier%20(local_mss),1749132"><tt><span style="background: #ffccff; border: 1px solid #5c5962;">1749132</span></tt></a></dd>
+<dd><a href="https://metadata.nypl.org/items/5342251?section=desc_md#:~:text=Archives%20EAD%20ID%3A-,1749132,-Identifier"><tt><span style="background: #ffccff; border: 1px solid #5c5962;">1749132</span></tt></a></dd>
 </dl>
 
 ## Inheritance

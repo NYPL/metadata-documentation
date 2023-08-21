@@ -34,7 +34,7 @@ Local classmark assigned by the Print Collection and Photography Collection of t
 <dt>Preferred structure</dt>
 <dd><tt><span style="background: #ffccff; border: 1px solid #5c5962;">classmark</span></tt></dd>
 <dt>Example</dt>
-<dd><a href="https://metadata.nypl.org/items/3371530?section=desc_md#:~:text=TMS%20Object%20Number%3A%2099109"><tt><span style="background: #ffccff; border: 1px solid #5c5962;">99109</span></tt></a> (Print Collection)<br><a href="https://metadata.nypl.org/items/4310314?section=desc_md#:~:text=TMS%20Object%20Number%3A%2091PH002.022"><tt><span style="background: #ffccff; border: 1px solid #5c5962;">91PH002.022</span></tt></a> (Photography Collection)</dd>
+<dd><a href="https://metadata.nypl.org/items/3371530?section=desc_md#:~:text=TMS%20Object%20Number%3A-,99109,-Location"><tt><span style="background: #ffccff; border: 1px solid #5c5962;">99109</span></tt></a> (Print Collection)<br><a href="https://metadata.nypl.org/items/4310314?section=desc_md#:~:text=TMS%20Object%20Number%3A-,91PH002.022,-Location"><tt><span style="background: #ffccff; border: 1px solid #5c5962;">91PH002.022</span></tt></a> (Photography Collection)</dd>
 
 </dl>
 

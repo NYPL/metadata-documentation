@@ -34,7 +34,7 @@ Unique numeric identifier assigned to individual objects by the The Museum Syste
 <dt>Preferred structure</dt>
 <dd><tt><span style="background: #ffccff; border: 1px solid #5c5962;">unique numeric identifier</span></tt></dd>
 <dt>Example</dt>
-<dd><a href="https://metadata.nypl.org/items/3371530?section=desc_md#:~:text=local_tms_id%3A%20302742"><tt><span style="background: #ffccff; border: 1px solid #5c5962;">302742</span></tt></a> (Print Collection)<br><a href="https://metadata.nypl.org/items/4310314?section=desc_md#:~:text=Identifier-,local_tms_id%3A%208917,-Identifier"><tt><span style="background: #ffccff; border: 1px solid #5c5962;">8917</span></tt></a> (Photography Collection)</dd>
+<dd><a href="https://metadata.nypl.org/items/3371530?section=desc_md#:~:text=local_tms_id%3A-,302742,-Identifier"><tt><span style="background: #ffccff; border: 1px solid #5c5962;">302742</span></tt></a> (Print Collection)<br><a href="https://metadata.nypl.org/items/4310314?section=desc_md#:~:text=local_tms_id%3A-,8917,-Identifier"><tt><span style="background: #ffccff; border: 1px solid #5c5962;">8917</span></tt></a> (Photography Collection)</dd>
 
 </dl>
 

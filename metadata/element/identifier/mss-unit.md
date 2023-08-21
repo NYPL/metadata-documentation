@@ -38,7 +38,7 @@ Collection-level identifier for an archival collection in the [Archives Portal](
 <dt>Preferred structure</dt>
 <dd><tt><span style="background: #ffccff; border: 1px solid #5c5962;">unique numeric identifier</span></tt></dd>
 <dt>Example</dt>
-<dd><a href="https://archives.nypl.org/scm/24143"><tt><span style="background: #ffccff; border: 1px solid #5c5962;">24143</span></tt></a></dd>
+<dd><a href="https://metadata.nypl.org/collection/59637?section=desc_md#:~:text=local_mss%3A-,24143,-Identifier"><tt><span style="background: #ffccff; border: 1px solid #5c5962;">24143</span></tt></a></dd>
 </dl>
 
 ## Inheritance
