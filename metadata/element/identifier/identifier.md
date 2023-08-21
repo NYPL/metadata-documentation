@@ -113,7 +113,7 @@ _Identifies the type of identifier that is recorded, for example ISBN, ISSN, ISN
 <dd>identifier assigned to an image in Hades, the precursor to the Metadata Management System</dd>
 
 <dt><a href="/metadata-documentation/metadata/element/identifier/electronic-record-package/">Electronic Record Package</a></dt>
-<dd>definition TK</dd>
+<dd>number that corresponds to a container of born-digital material described in a finding aid</dd>
 
 <dt><a href="/metadata-documentation/metadata/element/identifier/hades-collection-guide/">Hades Collection Guide ID (legacy)</a></dt>
 <dd>identifier from legacy Hades Collection Guide page that supported browsing based on collection provenance, bibliographic unit, department, format, and/or topic</dd>
