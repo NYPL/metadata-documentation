@@ -143,7 +143,7 @@ _Identifies the type of identifier that is recorded, for example ISBN, ISSN, ISN
 <dd>definition TK</dd>
 
 <dt><a href="/metadata-documentation/metadata/element/identifier/lccn/">Library of Congress Control Number</a></dt>
-<dd>definition TK</dd>
+<dd>unique number associated with a bibliographic record created by the Library of Congress</dd>
 
 <dt><a href="/metadata-documentation/metadata/element/identifier/linking-issn/">Linking International Standard Serial Number</a></dt>
 <dd>definition TK</dd>
