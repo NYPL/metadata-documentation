@@ -8,7 +8,7 @@ has_toc: false
 ---
 
 # Contact
-Use our [metadata reporting form](/metadata-documentation/contact/form/) to:
+Use our [contact form](/metadata-documentation/contact/form/) to:
 - Report an error with metadata
 - Suggest updated or additional metadata
 - Notify us of a new or updated finding aid or catalog record
