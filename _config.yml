@@ -47,6 +47,7 @@ gh_edit_view_mode: "edit" # "tree" or "edit" if you want the user to jump into t
 # For copy button on code
 enable_copy_code_button: true
 
+# Callouts
 callouts:
   note:
     title: Note
