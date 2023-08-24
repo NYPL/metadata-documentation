@@ -14,7 +14,7 @@ has_children: true
 # About This Site
 
 ## Built With
-- [GitHub Pages](https://pages.github.com/) nav-list-link external
+- [GitHub Pages](https://pages.github.com/)
 - [Jekyll](https://github.com/jekyll/jekyll)
 - [Just the Docs](https://just-the-docs.github.io/just-the-docs/)
 
