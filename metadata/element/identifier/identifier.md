@@ -158,7 +158,7 @@ _Identifies the type of identifier that is recorded, for example ISBN, ISSN, ISN
 <dd>primary identifier for a bibliographic record in Sierra, where b-number (or “bnumber”) is short for bibliographic number</dd>
 
 <dt><a href="/metadata-documentation/metadata/element/identifier/other-local/">Other local Identifier</a></dt>
-<dd>definition TK</dd>
+<dd>free-text identifier field that can contain any value, used when adding an identifier that does not align with any predefined Identifier type in the Metadata Management System (MMS)</dd>
 
 <dt><a href="/metadata-documentation/metadata/element/identifier/po/">Photo Order</a></dt>
 <dd>identifier of the Photo Order (also known as a Public Order) used to track digitization requests submitted to the Library by the public</dd>
@@ -188,7 +188,7 @@ _Identifies the type of identifier that is recorded, for example ISBN, ISSN, ISN
 <dd>alphanumeric code stamped, etched, and/or handwritten, usually between the innermost grooves and the label or hole of a musical or nonmusical sound disc</dd>
 
 <dt><a href="/metadata-documentation/metadata/element/identifier/strn/">Standard Technical Report Number</a></dt>
-<dd>definition TK</dd>
+<dd>number assigned to a technical report</dd>
 
 <dt><a href="/metadata-documentation/metadata/element/identifier/tms/">TMS ID</a></dt>
 <dd>unique numeric identifier assigned to individual objects by the The Museum System (TMS), used by Print Collection and Photography Collection of the Miriam and Ira D. Wallach Division of Art, Prints and Photographs</dd>
