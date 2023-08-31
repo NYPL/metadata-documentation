@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Electronic Record Package
-permalink: /metadata/element/identifier/electronic-record-package/
+permalink: /metadata/element/identifier/er/
 parent: Identifier
 grand_parent: By Element
 nav_exclude: true

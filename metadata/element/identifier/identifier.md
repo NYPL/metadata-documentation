@@ -37,10 +37,10 @@ A unique standard number or code that distinctively identifies a resource
 - To aggregate related resources for a specific purpose, for instance, identifying images displayed in an online exhibition
 
 ## Guidelines
-- To meet our [minimum metadata requirements](/metadata-documentation/metadata/guidelines/#minimum-metadata-requirements), an item record must have a [**NYPL catalog ID (B-number)**](/metadata-documentation/metadata/element/identifier/bnumber/), [**MSS Unit ID**](/metadata-documentation/metadata/element/identifier/mss-unit/), and/or [**TMS ID**](/metadata-documentation/metadata/element/identifier/tms/)
+- To meet our [minimum metadata requirements](/metadata-documentation/metadata/guidelines/#minimum-metadata-requirements), an item record must have a [**NYPL catalog ID (B-number)**](/metadata-documentation/metadata/element/identifier/bnumber/), [**MSS Unit ID**](/metadata-documentation/metadata/element/identifier/mss/), and/or [**TMS ID**](/metadata-documentation/metadata/element/identifier/tms/)
     - Ensure at least one required identifier exists at the item level:
         - [**NYPL catalog ID (B-number)**](/metadata-documentation/metadata/element/identifier/bnumber/) for material described in [Sierra](/metadata-documentation/resources/glossary/#sierra)
-        - [**MSS Unit ID**](/metadata-documentation/metadata/element/identifier/mss-unit/) for material described in the [Archives Portal](/metadata-documentation/resources/glossary/#archives-portal)
+        - [**MSS Unit ID**](/metadata-documentation/metadata/element/identifier/mss/) for material described in the [Archives Portal](/metadata-documentation/resources/glossary/#archives-portal)
         - [**TMS ID**](/metadata-documentation/metadata/element/identifier/tms/) for material described in the [Prints and Photographs Online Catalog](/metadata-documentation/resources/glossary/#prints-and-photographs-online-catalog)
     - Required identifiers can either be assigned to the item itself or [inherited](/metadata-documentation/metadata/guidelines/#inheritance) from a collection or container
     - If you are unable to add one of the above required identifiers, discuss with the [Manager, Metadata Services](/metadata-documentation/contact/), before proceeding further
@@ -112,7 +112,7 @@ _Identifies the type of identifier that is recorded, for example ISBN, ISSN, ISN
 <dt><a href="/metadata-documentation/metadata/element/identifier/digital-gallery-image/">Digital Gallery Image ID</a></dt>
 <dd>identifier assigned to an image in Hades, the precursor to the Metadata Management System</dd>
 
-<dt><a href="/metadata-documentation/metadata/element/identifier/electronic-record-package/">Electronic Record Package</a></dt>
+<dt><a href="/metadata-documentation/metadata/element/identifier/er/">Electronic Record Package</a></dt>
 <dd>number that corresponds to a container of born-digital material described in a finding aid</dd>
 
 <dt><a href="/metadata-documentation/metadata/element/identifier/hades-collection-guide/">Hades Collection Guide ID (legacy)</a></dt>
@@ -130,8 +130,8 @@ _Identifies the type of identifier that is recorded, for example ISBN, ISSN, ISN
 <dt><a href="/metadata-documentation/metadata/element/identifier/ismn/">International Standard Music Number</a></dt>
 <dd>definition TK</dd>
 
-<dt><a href="/metadata-documentation/metadata/element/identifier/ismwc/">International Standard Musical Work Code</a></dt>
-<dd>definition TK</dd>
+<dt><a href="/metadata-documentation/metadata/element/identifier/iswc/">International Standard Musical Work Code</a></dt>
+<dd>unique number assigned to musical works</dd>
 
 <dt><a href="/metadata-documentation/metadata/element/identifier/isrc/">International Standard Recording Code</a></dt>
 <dd>definition TK</dd>
@@ -140,15 +140,15 @@ _Identifies the type of identifier that is recorded, for example ISBN, ISSN, ISN
 <dd>definition TK</dd>
 
 <dt><a href="/metadata-documentation/metadata/element/identifier/istc/">International Standard Text Code</a></dt>
-<dd>definition TK</dd>
+<dd>unique identifier for text-based works</dd>
 
 <dt><a href="/metadata-documentation/metadata/element/identifier/lccn/">Library of Congress Control Number</a></dt>
 <dd>unique number associated with a bibliographic record created by the Library of Congress</dd>
 
-<dt><a href="/metadata-documentation/metadata/element/identifier/linking-issn/">Linking International Standard Serial Number</a></dt>
-<dd>definition TK</dd>
+<dt><a href="/metadata-documentation/metadata/element/identifier/issn-l/">Linking International Standard Serial Number</a></dt>
+<dd>international number standard to link serial publications published on several media</dd>
 
-<dt><a href="/metadata-documentation/metadata/element/identifier/mss-unit/">MSS Unit ID</a></dt>
+<dt><a href="/metadata-documentation/metadata/element/identifier/mss/">MSS Unit ID</a></dt>
 <dd>collection-level identifier for an archival collection in the Archives Portal</dd>
 
 <dt><a href="/metadata-documentation/metadata/element/identifier/nypl-exhibition/">NYPL Exhibition ID</a></dt>
@@ -167,25 +167,25 @@ _Identifies the type of identifier that is recorded, for example ISBN, ISSN, ISN
 <dd>identifier used by Preservica, the Library's digital preservation software</dd>
 
 <dt><a href="/metadata-documentation/metadata/element/identifier/publishers-music-plate-number/">Publisher's music plate number</a></dt>
-<dd>definition TK</dd>
+<dd>plate number assigned to a specific notated music publication by the publisher</dd>
 
 <dt><a href="/metadata-documentation/metadata/element/identifier/publisher-assigned-music-number/">Publisher-assigned music number</a></dt>
-<dd>definition TK</dd>
+<dd>number assigned to a musical recording by the publisher other than an issue, matrix, or plate number</dd>
 
 <dt><a href="/metadata-documentation/metadata/element/identifier/publisher-assigned-videorecording-number/">Publisher-assigned videorecording number</a></dt>
 <dd>definition TK</dd>
 
-<dt><a href="/metadata-documentation/metadata/element/identifier/rlin-oclc/">RLIN/OCLC</a></dt>
+<dt><a href="/metadata-documentation/metadata/element/identifier/oclc/">RLIN/OCLC</a></dt>
 <dd>unique identifier assigned by OCLC for a bibliographic record in WorldCat</dd>
 
-<dt><a href="/metadata-documentation/metadata/element/identifier/serial-item-and-contribution/">Serial Item and Contribution Identifier</a></dt>
+<dt><a href="/metadata-documentation/metadata/element/identifier/sici/">Serial Item and Contribution Identifier</a></dt>
 <dd>definition TK</dd>
 
 <dt><a href="/metadata-documentation/metadata/element/identifier/sound-recording-issue-number/">Sound recording issue number</a></dt>
-<dd>definition TK</dd>
+<dd>number used to identify the issue designation or serial designation assigned by a publisher to a specific musical or nonmusical sound recording, side of a sound recording, or performance on a sound recording</dd>
 
 <dt><a href="/metadata-documentation/metadata/element/identifier/sound-recording-matrix-number/">Sound recording matrix number</a></dt>
-<dd>definition TK</dd>
+<dd>alphanumeric code stamped, etched, and/or handwritten, usually between the innermost grooves and the label or hole of a musical or nonmusical sound disc</dd>
 
 <dt><a href="/metadata-documentation/metadata/element/identifier/strn/">Standard Technical Report Number</a></dt>
 <dd>definition TK</dd>
@@ -196,13 +196,13 @@ _Identifies the type of identifier that is recorded, for example ISBN, ISSN, ISN
 <dt><a href="/metadata-documentation/metadata/element/identifier/tms-object-number/">TMS Object Number</a></dt>
 <dd>local classmark assigned by the Print Collection and Photography Collection of the Miriam and Ira D. Wallach Division of Art, Prints and Photographs in The Museum System (TMS)</dd>
 
-<dt><a href="/metadata-documentation/metadata/element/identifier/us-national-gazetteer-feature-name-identifier/">U.S. National Gazetteer Feature Name Identifier</a></dt>
+<dt><a href="/metadata-documentation/metadata/element/identifier/natgazfid/">U.S. National Gazetteer Feature Name Identifier</a></dt>
 <dd>definition TK</dd>
 
-<dt><a href="/metadata-documentation/metadata/element/identifier/uniform-resource/">Uniform Resource Identifier</a></dt>
+<dt><a href="/metadata-documentation/metadata/element/identifier/uri/">Uniform Resource Identifier</a></dt>
 <dd>definition TK</dd>
 
-<dt><a href="/metadata-documentation/metadata/element/identifier/uniform-resource-name/">Uniform Resource Name</a></dt>
+<dt><a href="/metadata-documentation/metadata/element/identifier/urn/">Uniform Resource Name</a></dt>
 <dd>definition TK</dd>
 
 </dl>

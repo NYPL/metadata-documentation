@@ -1,7 +1,7 @@
 ---
 layout: page
 title: U.S. National Gazetteer Feature Name Identifier
-permalink: /metadata/element/identifier/us-national-gazetteer-feature-name/
+permalink: /metadata/element/identifier/natgazfid/
 parent: Identifier
 grand_parent: By Element
 nav_exclude: true

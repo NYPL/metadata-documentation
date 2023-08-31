@@ -1,7 +1,7 @@
 ---
 layout: page
 title: RLIN/OCLC
-permalink: /metadata/element/identifier/rlin-oclc/
+permalink: /metadata/element/identifier/oclc/
 parent: Identifier
 grand_parent: By Element
 nav_exclude: true
