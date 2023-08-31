@@ -173,7 +173,7 @@ _Identifies the type of identifier that is recorded, for example ISBN, ISSN, ISN
 <dd>number assigned to a musical recording by the publisher other than an issue, matrix, or plate number</dd>
 
 <dt><a href="/metadata-documentation/metadata/element/identifier/publisher-assigned-videorecording-number/">Publisher-assigned videorecording number</a></dt>
-<dd>definition TK</dd>
+<dd>number assigned by a publisher to a videorecording</dd>
 
 <dt><a href="/metadata-documentation/metadata/element/identifier/oclc/">RLIN/OCLC</a></dt>
 <dd>unique identifier assigned by OCLC for a bibliographic record in WorldCat</dd>
