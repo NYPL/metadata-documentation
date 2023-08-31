@@ -48,7 +48,7 @@ _Identifier that connects an archives collection from the [Archives Portal](/met
 <dt>Preferred structure</dt>
 <dd><tt>archives_collections_<span style="background: #ffccff; border: 1px solid #5c5962;">unique numeric identifier</span></tt></dd>
 <dt>Example</dt>
-<dd><a href="https://metadata.nypl.org/collection/59637?section=desc_md#:~:text=Other%20local%20Identifier%20(Archives%20collections%20id)%3A%20archives_collections_24143"><tt>archives_collections_<span style="background: #ffccff; border: 1px solid #5c5962;">24143</span></tt></a></dd>
+<dd><a href="https://metadata.nypl.org/collection/59637?section=desc_md#:~:text=Other%20local%20Identifier%20(Archives%20collections%20id)%3A%20archives_collections_24143"><tt>archives_collections_<span style="background: #ffccff; border: 1px solid #5c5962;">10793</span></tt></a></dd>
 </dl>
 
 #### Inheritance
