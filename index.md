@@ -15,7 +15,7 @@ Welcome to the documentation site of the Metadata Services Unit (MSU) of the New
 >
 > This site is still being developed. [Contact us](/metadata-documentation/contact/) with any questions or feedback.
 
-Located within New York Public Library [Special Collections Processing](https://sites.google.com/nypl.org/specialcollections/special-collections-processing), our unit:
+Located within the New York Public Library [Special Collections Processing](https://sites.google.com/nypl.org/specialcollections/special-collections-processing), our unit:
 - Increases access and discovery of library resources
 - Strengthens data interoperability across the library
 - Supports and engages staff in efficient metadata creation, assessment, enhancement, and remediation for resources digitized for NYPL Digital Collections
