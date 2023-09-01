@@ -25,4 +25,4 @@ Identifier for U.S. National Gazetteer Feature Name
 - U.S. National Gazetteer
 
 ## Guidelines
-- This identifier is not yet in use, but test data may exist in MMS
+- This identifier is not in use at the present time, but legacy data may exist in MMS
