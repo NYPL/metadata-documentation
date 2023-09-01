@@ -122,22 +122,22 @@ _Identifies the type of identifier that is recorded, for example ISBN, ISSN, ISN
 <dd>identifier assigned to a record in Hades, the precursor to the Metadata Management System</dd>
 
 <dt><a href="/metadata-documentation/metadata/element/identifier/isan/">International Standard Audiovisual Number</a></dt>
-<dd>definition TK</dd>
+<dd>unique number assigned to audiovisual works and related versions</dd>
 
 <dt><a href="/metadata-documentation/metadata/element/identifier/isbn/">International Standard Book Number</a></dt>
-<dd>definition TK</dd>
+<dd>unique number assigned to a particular edition or variation of a published work</dd>
 
 <dt><a href="/metadata-documentation/metadata/element/identifier/ismn/">International Standard Music Number</a></dt>
-<dd>definition TK</dd>
+<dd>unique number for the identification of notated music publications</dd>
 
 <dt><a href="/metadata-documentation/metadata/element/identifier/iswc/">International Standard Musical Work Code</a></dt>
 <dd>unique number assigned to musical works</dd>
 
 <dt><a href="/metadata-documentation/metadata/element/identifier/isrc/">International Standard Recording Code</a></dt>
-<dd>definition TK</dd>
+<dd>unique code assigned to sound or music video recording</dd>
 
 <dt><a href="/metadata-documentation/metadata/element/identifier/issn/">International Standard Serial Number</a></dt>
-<dd>definition TK</dd>
+<dd>international number standard for serial publications</dd>
 
 <dt><a href="/metadata-documentation/metadata/element/identifier/istc/">International Standard Text Code</a></dt>
 <dd>unique identifier for text-based works</dd>
