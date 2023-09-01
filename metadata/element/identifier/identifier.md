@@ -98,7 +98,7 @@ _Identifies the type of identifier that is recorded, for example ISBN, ISSN, ISN
 <dd>unique identifier assigned to physical object</dd>
 
 <dt><a href="/metadata-documentation/metadata/element/identifier/catnyp/">CATNYP ID (legacy)</a></dt>
-<dd>definition TK</dd>
+<dd>identifier for a bibliographic record in CATNYP, the precursor to the Research Catalog</dd>
 
 <dt><a href="/metadata-documentation/metadata/element/identifier/cms-collection/">CMS Collection Identifier</a></dt>
 <dd>definition TK</dd>
