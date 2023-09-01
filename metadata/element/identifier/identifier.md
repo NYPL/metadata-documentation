@@ -197,7 +197,7 @@ _Identifies the type of identifier that is recorded, for example ISBN, ISSN, ISN
 <dd>local classmark assigned by the Print Collection and Photography Collection of the Miriam and Ira D. Wallach Division of Art, Prints and Photographs in The Museum System (TMS)</dd>
 
 <dt><a href="/metadata-documentation/metadata/element/identifier/natgazfid/">U.S. National Gazetteer Feature Name Identifier</a></dt>
-<dd>definition TK</dd>
+<dd>identifier for U.S. National Gazetteer Feature Name</dd>
 
 <dt><a href="/metadata-documentation/metadata/element/identifier/uri/">Uniform Resource Identifier</a></dt>
 <dd>definition TK</dd>
