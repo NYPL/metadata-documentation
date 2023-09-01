@@ -179,7 +179,7 @@ _Identifies the type of identifier that is recorded, for example ISBN, ISSN, ISN
 <dd>unique identifier assigned by OCLC for a bibliographic record in WorldCat</dd>
 
 <dt><a href="/metadata-documentation/metadata/element/identifier/sici/">Serial Item and Contribution Identifier</a></dt>
-<dd>definition TK</dd>
+<dd>code used to uniquely identify specific volumes, articles or other identifiable parts of a serial</dd>
 
 <dt><a href="/metadata-documentation/metadata/element/identifier/sound-recording-issue-number/">Sound recording issue number</a></dt>
 <dd>number used to identify the issue designation or serial designation assigned by a publisher to a specific musical or nonmusical sound recording, side of a sound recording, or performance on a sound recording</dd>
