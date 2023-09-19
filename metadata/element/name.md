@@ -106,7 +106,7 @@ _Designates the relationship (role) of the entity to the resource described in t
 - Use **Contributor** for **Name** elements where the **Role** is unknown and/or can not be determined
 - For [finding aid imports](/metadata-documentation/workflows/import/#importing-finding-aids), ensure that the archives collection creator listed the Archives Portal is present as a **Name** element with the role **Creator**
     - If there are multiple **Name** elements, ensure that the **Name** with the **Creator** role is marked [Primary](#primary)
-See [MARC Code List for Relators](https://www.loc.gov/marc/relators/) and [Personal Names-General Information $e](https://www.loc.gov/marc/bibliographic/bdx00.html)
+    - See [MARC Code List for Relators](https://www.loc.gov/marc/relators/) and [Personal Names-General Information $e](https://www.loc.gov/marc/bibliographic/bdx00.html)
 
 ---
 
