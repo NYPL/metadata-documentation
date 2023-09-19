@@ -200,10 +200,10 @@ _Identifies the type of identifier that is recorded, for example ISBN, ISSN, ISN
 <dd>identifier for U.S. National Gazetteer Feature Name</dd>
 
 <dt><a href="/metadata-documentation/metadata/element/identifier/uri/">Uniform Resource Identifier</a></dt>
-<dd>definition TK</dd>
+<dd>unique sequence of characters that identifies a logical or physical resource used by web technologies</dd>
 
 <dt><a href="/metadata-documentation/metadata/element/identifier/urn/">Uniform Resource Name</a></dt>
-<dd>definition TK</dd>
+<dd>Uniform Resource Identifier that uses the URN scheme</dd>
 
 </dl>
 
