@@ -106,3 +106,6 @@ The following vocabularies are not integrated into MMS, but may be useful for fu
 - [23 Linked Data Things](https://minitex.umn.edu/services/digital-initiatives-metadata/23-linked-data-things)
 - [Wiki Edu Wikidata Professional Development Training Modules](https://dashboard.wikiedu.org/training/wikidata-professional)
 - [Library of Congress Subject Headings](https://www.loc.gov/catworkshop/lcsh/)
+
+{: .note }
+Additional Wikidata training resources can be found on [our WikiProject](https://www.wikidata.org/wiki/Wikidata:WikiProject_New_York_Public_Library/Resources#Learning_Wikidata).
