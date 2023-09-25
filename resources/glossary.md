@@ -366,6 +366,10 @@ On this page you will find common terms used within the work of the Metadata Ser
 <dt>Media Ingest</dt>
 <dd>name of workflow to stage digitized audio and moving image for preservation, description, and access</dd>
 
+<a name="media-preservation"></a>
+<dt>Media Preservation</dt>
+<dd>umbrella name for <a href="#media-preservation-labs">Media Preservation Labs</a> and <a href="#media-preservation-services">Media Preservation Services</a></dd>
+
 <a name="media-preservation-labs"></a>
 <dt>Media Preservation Labs</dt>
 <dd>unit within <a href="#preservation-collections-processing">Preservation & Collections Processing</a> that digitizes magnetic, optical, and grooved audio and video recordings; primary office located at the <a href="#library-for-the-performing-arts">Library for the Performing Arts</a></dd>
