@@ -22,4 +22,6 @@ nav_exclude: true
 ## Items
 
 ## Captures
+[📄 Duplicate captures documentation](https://docs.google.com/document/d/1o8CiVXBgUkI9kI9duAd0acAKIhEiZj8gnOREEMNUB18/edit){: .btn }
 [📄 Capture suppression: general guidance](https://docs.google.com/document/d/1uh5Q-t3KwIkczBgRENYYtLJ4w49YPYJbMQqnsp6py9c/edit){: .btn }
+[📄 Duplicate captures log](https://docs.google.com/spreadsheets/d/1jpjta0goQIIaEPesCayWtfSyda5QgGaWxwoiLLyaBmk/edit){: .btn }
