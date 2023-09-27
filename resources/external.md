@@ -68,7 +68,7 @@ The following vocabularies are searchable in the MMS authorities module ordered 
     - [Library of Congress Subject Headings (LCSH)](https://id.loc.gov/authorities/subjects.html)
     - [Library of Congress Name Authority File (LCNAF)](https://id.loc.gov/authorities/names.html)
     - [Library of Congress Genre/Form Terms (LCGFT)](https://id.loc.gov/authorities/genreForms.html)
-- [Thesaurus for Graphic Materials (TGM)](https://id.loc.gov/vocabulary/graphicMaterials.html)
+    - [Thesaurus for Graphic Materials (TGM)](https://id.loc.gov/vocabulary/graphicMaterials.html)
 - [Virtual Internet Authority File (VIAF)](http://viaf.org/)
 - [Getty Art & Architecture Thesaurus (AAT)](https://www.getty.edu/research/tools/vocabularies/aat/)
 
