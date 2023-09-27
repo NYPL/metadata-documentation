@@ -62,8 +62,8 @@ Links to documentation for aggregators that ingest records from NYPL Digital Col
 ## Controlled Vocabularies
 Quick links to documentation and look-up pages for controlled vocabularies relevant to the Metadata Management System (MMS)
 
-### Used in MMS Controlled Term Search
-The following vocabularies are integrated into MMS controlled term search and ordered by preference for use
+### Used in MMS Authorities Module
+The following vocabularies are searchable in the MMS authorities module ordered by preference for use:
 - [Library of Congress Linked Data Service](https://id.loc.gov/)
     - [Library of Congress Subject Headings (LCSH)](https://id.loc.gov/authorities/subjects.html)
     - [Library of Congress Name Authority File (LCNAF)](https://id.loc.gov/authorities/names.html)
