@@ -80,7 +80,7 @@ _Identifies the type of identifier that is recorded, for example ISBN, ISSN, ISN
 <dl>
 
 <dt><a href="/metadata-documentation/metadata/element/identifier/ami/">AMI Identifier</a></dt>
-<dd>definition TK</dd>
+<dd>unique identifier of an audio or moving image item assigned during inventory in SPEC</dd>
 
 <dt><a href="/metadata-documentation/metadata/element/identifier/ami-other/">AMI Other ID</a></dt>
 <dd>definition TK</dd>
