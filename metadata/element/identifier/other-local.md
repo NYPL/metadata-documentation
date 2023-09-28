@@ -35,6 +35,12 @@ _Identifier that connects an archives collection from the [Archives Portal](/met
 - [Archives Portal](/metadata-documentation/resources/glossary/#archives-portal)
 
 #### Guidelines
+
+{: .warning-title }
+> Known Issue
+>
+> As of September 2023, the workflow to import a finding aid is erroneously importing the [**MSS Unit ID**](/metadata-documentation/metadata/element/identifier/mss-unit/) into the **Archives Collections ID** field. MSU will update erroneous identifiers once the issue is resolved.
+
 - The **Archives collections id** is automatically populated into records when [importing finding aids](/metadata-documentation/workflows/import/#importing-finding-aids)
 - If adding a **Archives collections id** manually for a collection or standalone item, it can be located in the [Archives Portal Admin Interface](/metadata-documentation/resources/glossary/#archives-portal-admin-interface)
     - As the numeric slug of the URL in records with **/collections/** in the URL, e.g., [https://archives.nypl.org/admin/collections/**10793**](https://archives.nypl.org/admin/collections/10793)
