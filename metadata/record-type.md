@@ -34,7 +34,7 @@ The Metadata Management System (MMS) supports four types of records that contain
 
 ### Items
 * Items can be standalone or contained in Collections
-* Items in Collections can be contained just by a Collection and/or any of the Collection’s Containers
+* Items in Collections can be contained just by a Collection and/or any of the Collection's Containers
 * Collections and Containers can contain an unlimited number of Items
 
 ### Captures
