@@ -67,7 +67,7 @@ _The NYPL division or collection that holds the resource or where it is availabl
 - Select the NYPL division that owns the resource from the dropdown list
     - Provide the name of the owning division, rather than the exact physical location of the original materials, as physical location may change over time or may only be known by division staff
 - Do not use the following values unless you have discussed doing so with the [Manager, Metadata Services](/metadata-documentation/contact/)
-    - Children’s Center at 42nd St
+    - Children's Center at 42nd St
     - Comm, Marketing, and Business Dev
     - Dorothy and Lewis B. Cullman Center for Scholars and Writers
     - External, not NYPL
