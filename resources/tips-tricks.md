@@ -86,11 +86,23 @@ Replace `A$2:A` with the range and `A2` with the cell containing the string you 
 =COUNTIF(A$2:A,A2)
 ```
 
+### Highlight Duplicate Cell Data in Row
+1. Select the column you'd like to highlight duplicate cell data
+1. From the **Format** menu, select **Conditional Formatting** and the **Conditional format rules** menu will open on the right side of the window
+1. In the **Format cells if…** dropdown menu, select **Custom formula is** and paste the below formula in the **Value or Formula** field, replacing the three occurrences of `A` with the letter of the column that you'd like to highlight duplicate cell data, and click the **Done** button to apply
+
+```
+=COUNTIF(A:A,A2)>1
+```
+
 ### Make Cells with URLs Clickable
 1. Navigate to **Edit** › **Find and replace**
 1. Enter **http** in both the **Find** and **Replace with** fields
 1. Click **Replace all** twice
 
 ## See Also
+- [BenCollins: Spreadsheets](https://benlcollins.com/spreadsheets) for scripts and templates that can be used when working in Google Sheets
+    - [VLOOKUP Function in Google Sheets: The Essential Guide](https://benlcollins.com/spreadsheets/vlookup-function/)
+    - [Applying Conditional Formatting Across An Entire Row In Google Sheets](https://www.benlcollins.com/spreadsheets/conditional-formatting-entire-row/)
 - [MMS SQL Queries 🔒](https://github.com/NYPL/metadata-tools/tree/master/_mms-sql-queries) for reusable SQL queries for MMS
 - [Wikidata:WikiProject New York Public Library/Queries](https://www.wikidata.org/wiki/Wikidata:WikiProject_New_York_Public_Library/Queries) for reusable SPARQL queries for Wikidata
