@@ -83,13 +83,13 @@ _Identifies the type of identifier that is recorded, for example ISBN, ISSN, ISN
 <dd>unique identifier of an audio or moving image item assigned during inventory in SPEC</dd>
 
 <dt><a href="/metadata-documentation/metadata/element/identifier/ami-other/">AMI Other ID</a></dt>
-<dd>definition TK</dd>
+<dd>free-text identifier field that can contain any value, used when adding an identifier that does not align with any predefined identifier in SPEC for AMI</dd>
 
 <dt><a href="/metadata-documentation/metadata/element/identifier/ami-primary/">AMI Primary Identifier</a></dt>
-<dd>definition TK</dd>
+<dd>unique identifier of an audio or moving image item assigned during inventory in SPEC</dd>
 
 <dt><a href="/metadata-documentation/metadata/element/identifier/ami-project/">AMI Project</a></dt>
-<dd>definition TK</dd>
+<dd>name of the project under which the media original was digitized</dd>
 
 <dt><a href="/metadata-documentation/metadata/element/identifier/archives-ead/">Archives EAD ID</a></dt>
 <dd>identifier that correlates EAD-encoded finding aid components to their MMS container or item records, facilitating the display of digitized assets in the Archives Portal</dd>
@@ -101,13 +101,13 @@ _Identifies the type of identifier that is recorded, for example ISBN, ISSN, ISN
 <dd>identifier for a bibliographic record in CATNYP, the precursor to the Research Catalog</dd>
 
 <dt><a href="/metadata-documentation/metadata/element/identifier/cms-collection/">CMS Collection Identifier</a></dt>
-<dd>definition TK</dd>
+<dd>identifier for the SPEC collection containing an item</dd>
 
 <dt><a href="/metadata-documentation/metadata/element/identifier/cms/">CMS Identifier</a></dt>
-<dd>definition TK</dd>
+<dd>unique identifier of an audio or moving image item assigned during inventory in SPEC</dd>
 
 <dt><a href="/metadata-documentation/metadata/element/identifier/capture-original-filename/">Capture Original Filename</a></dt>
-<dd>definition TK</dd>
+<dd>filename of the digitized asset</dd>
 
 <dt><a href="/metadata-documentation/metadata/element/identifier/digital-gallery-image/">Digital Gallery Image ID</a></dt>
 <dd>identifier assigned to an image in Hades, the precursor to the Metadata Management System</dd>
@@ -155,7 +155,7 @@ _Identifies the type of identifier that is recorded, for example ISBN, ISSN, ISN
 <dd>identifier for digitized surrogates of material included in exhibitions at the New York Public Library</dd>
 
 <dt><a href="/metadata-documentation/metadata/element/identifier/bnumber/">NYPL catalog ID (B-number)</a></dt>
-<dd>primary identifier for a bibliographic record in Sierra, where b-number (or “bnumber”) is short for bibliographic number</dd>
+<dd>primary identifier for a bibliographic record in Sierra, where b-number (or "bnumber") is short for bibliographic number</dd>
 
 <dt><a href="/metadata-documentation/metadata/element/identifier/other-local/">Other local Identifier</a></dt>
 <dd>free-text identifier field that can contain any value, used when adding an identifier that does not align with any predefined Identifier type in the Metadata Management System (MMS)</dd>
