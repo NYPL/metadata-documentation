@@ -204,7 +204,7 @@ _Identifies what type of title is recorded_
         - See [MARC 210](https://www.oclc.org/bibformats/en/2xx/210.html)
         - See [Abbreviated Title Source Codes](https://www.loc.gov/standards/sourcelist/abbreviated-title.html)
     - **Translated**: translation or transcription of the main title
-        - Record translations of titles in two separate title elements rather than expressing their equivalency within a single field (e.g. “Chinese lives = Huaxia ren sheng”)
+        - Record translations of titles in two separate title elements rather than expressing their equivalency within a single field (e.g. "Chinese lives = Huaxia ren sheng")
         - Select the appropriate **Language** from the dropdown for the corresponding **Title** element
         - See [MARC 242](https://www.oclc.org/bibformats/en/2xx/242.html) and [MARC 246](https://www.oclc.org/bibformats/en/2xx/246.html)
     - **Alternative**: varying form of the title if it contributes to the further identification of the item
@@ -242,7 +242,7 @@ _Indicates the script used for an element_
 
 #### Guidelines
 {: .no_toc }
-- Select the script of the title from the dropdown if it is a non-Roman script or not the default script of the title’s language
+- Select the script of the title from the dropdown if it is a non-Roman script or not the default script of the title's language
 - Do not use the **Script** subelement of **Title** to record the script of the content of the resource
     - Use the [**Script**](/metadata-documentation/metadata/element/language/#script) subelement within the [**Language**](/metadata-documentation/metadata/element/language/) element to record the script of the content of the resource
 - If you are unsure of the script of the title, leave **Script** blank or select **Undetermined**
