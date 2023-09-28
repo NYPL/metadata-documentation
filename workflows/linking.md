@@ -12,7 +12,7 @@ nav_order: 7
 Provides an overview of the use of [identifiers](/metadata-documentation/metadata/element/identifier/) in the Metadata Management System (MMS) to support connections to and from Digital Collections (DC) from other patron-facing systems of the Library
 
 {: .note }
-If a link to or from Digital Collections is absent or broken, please let us know via our [Metadata Reporting Form](/metadata-documentation/contact/form/) so we can investigate.
+If a link to or from Digital Collections is absent or broken, please let us know via our [Contact Form](/metadata-documentation/contact/form/) so we can investigate.
 
 ## Table of contents
 {: .no_toc .text-delta }
@@ -38,12 +38,12 @@ If a link to or from Digital Collections is absent or broken, please let us know
     - In the [Legacy Catalog](/metadata-documentation/resources/glossary/#legacy-catalog), the link can be found under the **Connect to:** heading as NYPL Digital Collections
     - Links to DC are added to the bibliographic record in Sierra
         - Links to DC should use the standardized MARC 856 field:<br><tt>856 41 |u<span style="background: #ffffcc; border: 1px solid #5c5962;">URL</span>|zNYPL Digital Collections</tt>
-    - URLs are formatted according to our [URL Structure](/metadata-documentation/dc/url-structure/) documentation, and then run through the Library's [Link Minter](/metadata-documentation/resources/glossary/#link-minter) tool
+    - URLs are formatted according to our [URL Structure](/metadata-documentation/dc/url-structure/) documentation
 - Links to DC are periodically batch added to Sierra by the ​​Library's Integrated Library Systems Team (ILS Team) using data supplied by the Metadata Services Unit (MSU)
     - This workflow is still being refined, but our current goal is to supply refreshed data to the Library's ILS Team on a regular basis so they can perform batch updates
     - Past batches of supplied links can be found in the [Data Supplied to ILS Team 🔒](https://drive.google.com/drive/folders/1ktPZqRYoIv0yJIWTwLDeRhM766GKaDU7?usp=sharing) folder in Google Drive
     - Library staff with relevant permissions can access related scripts in our [metadata-tools 🔒](https://github.com/NYPL/metadata-tools/tree/master/_quarterly_bnumber) repo
-- Use our [Metadata Reporting Form](/metadata-documentation/contact/form/) if links from the Research Catalog to DC are absent or broken
+- Use our [Contact Form](/metadata-documentation/contact/form/) if links from the Research Catalog to DC are absent or broken
 
 ## Archives Portal
 
@@ -69,7 +69,7 @@ If a link to or from Digital Collections is absent or broken, please let us know
 #### Via Archives EAD ID and Archives Components ID
 - When an [Archives EAD ID](https://nypl.github.io/metadata-documentation/metadata/element/identifier/#archives-ead-id) is present on an MMS item, the **Archives EAD ID** link will automatically appear on that item's page on DC
     - From an item view, the **Archives EAD ID** link can be found towards the end of the descriptive metadata in the **Identifiers** section as **Archives EAD ID**
-    - Clicking the link will take you to the item's finding aid component in the Archives Portal and will resolve to a URL that uses the [Archives Components ID](/metadata-documentation/metadata/element/identifier/other-local/#archives-components-id)
+    - Clicking the link will take you to the item's finding aid component in the Archives Portal and will resolve to a URL that uses the [Archives components id](/metadata-documentation/metadata/element/identifier/other-local/#archives-components-id)
 
 <dl>
 
@@ -80,7 +80,7 @@ If a link to or from Digital Collections is absent or broken, please let us know
 <dd><tt><a href="http://archives.nypl.org/components/3329690">http://archives.nypl.org/components/<span style="background: #ffccff; border: 1px solid #5c5962;">3329690</span></a></tt></dd>
 
 <dt>Resolved URL structure</dt>
-<dd><tt>https://archives.nypl.org/<span style="background: #ffcc99; border: 1px solid #5c5962;">divcode</span>/<span style="background: #ccccff; border: 1px solid #5c5962;">MSS Unit ID</span>#c<span style="background: #ccff99; border: 1px solid #5c5962;">Archives Components ID</span></tt></dd>
+<dd><tt>https://archives.nypl.org/<span style="background: #ffcc99; border: 1px solid #5c5962;">divcode</span>/<span style="background: #ccccff; border: 1px solid #5c5962;">MSS Unit ID</span>#c<span style="background: #ccff99; border: 1px solid #5c5962;">Archives components id</span></tt></dd>
 
 <dt>Resolved URL example</dt>
 <dd><tt><a href="https://archives.nypl.org/cps/24637#c1638681">https://archives.nypl.org/<span style="background: #ffcc99; border: 1px solid #5c5962;">cps</span>/<span style="background: #ccccff; border: 1px solid #5c5962;">24637</span>#c<span style="background: #ccff99; border: 1px solid #5c5962;">1638681</span></a></tt></dd>
