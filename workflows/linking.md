@@ -40,7 +40,7 @@ If a link to or from Digital Collections is absent or broken, please let us know
         - Links to DC should use the standardized MARC 856 field:<br><tt>856 41 |u<span style="background: #ffffcc; border: 1px solid #5c5962;">URL</span>|zNYPL Digital Collections</tt>
     - URLs are formatted according to our [URL Structure](/metadata-documentation/dc/url-structure/) documentation, and then run through the Library's [Link Minter](/metadata-documentation/resources/glossary/#link-minter) tool
 - Links to DC are periodically batch added to Sierra by the ​​Library's Integrated Library Systems Team (ILS Team) using data supplied by the Metadata Services Unit (MSU)
-    - This workflow is still being refined, but our current goal is to supply refreshed data to the Library’s ILS Team on a regular basis so they can perform batch updates
+    - This workflow is still being refined, but our current goal is to supply refreshed data to the Library's ILS Team on a regular basis so they can perform batch updates
     - Past batches of supplied links can be found in the [Data Supplied to ILS Team 🔒](https://drive.google.com/drive/folders/1ktPZqRYoIv0yJIWTwLDeRhM766GKaDU7?usp=sharing) folder in Google Drive
     - Library staff with relevant permissions can access related scripts in our [metadata-tools 🔒](https://github.com/NYPL/metadata-tools/tree/master/_quarterly_bnumber) repo
 - Use our [Metadata Reporting Form](/metadata-documentation/contact/form/) if links from the Research Catalog to DC are absent or broken
