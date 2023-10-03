@@ -117,7 +117,7 @@ _A place associated with the event_
 - Do not include brackets in the **Place** subelement
   - Check the Supplied box if the **Place** was not directly transcribed from the resource but instead provided by the person creating the description
 - Leave the **Value type** dropdown as **text**
-- For places depicted in the content of the resource, use the [**Geographic**](/metadata-documentation/metadata/element/subject/#geographic) subelement of [**Subject**](/metadata-documentation/metadata/element/subject/)
+- For places depicted in the content of the resource, use [**Geographic Subject**](/metadata-documentation/metadata/element/subject/#geographic)
 
 ---
 
