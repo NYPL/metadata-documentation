@@ -11,8 +11,6 @@ nav_order: 5
 
 The Metadata Management System (MMS) supports four types of records that contain descriptive content and provide organization for digitized material, each of which have their own properties and descriptive practices
 
-<a href="#" data-toggle="tooltip" data-original-title="{{site.data.glossary.jekyll_platform}}">Jekyll</a> is my favorite tool for building websites.
-
 ## Table of contents
 {: .no_toc .text-delta }
 
@@ -47,6 +45,13 @@ The Metadata Management System (MMS) supports four types of records that contain
 * Besides system-generated fields, Captures have two editable fields:
     * **Name**: typically the same as the image ID generated during digitization process, but can be manually edited if deemed necessary
     * **Relationship**: a drop-down menu of values that can provide detail about what the capture is or how it relates to the item
+
+## Converting Between Record Types
+
+{: .highlight-title }
+> 🚧 Under Construction
+>
+> This section is still being developed. [Contact us](/metadata-documentation/contact/) with any questions or feedback.
 
 ## Hierarchy Examples
 
