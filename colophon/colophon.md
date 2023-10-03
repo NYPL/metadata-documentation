@@ -4,6 +4,7 @@ title: About This Site
 permalink: /colophon/
 nav_exclude: true
 has_children: true
+has_toc: false
 ---
 
 {: .highlight-title }
