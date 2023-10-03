@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Metadata Feedback
-permalink: /workflows/remediations/feedback/
+permalink: /workflows/remediation/feedback/
 parent: Remediation
 grand_parent: MMS › Workflows
 nav_order: 5
