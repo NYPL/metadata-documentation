@@ -46,13 +46,6 @@ The Metadata Management System (MMS) supports four types of records that contain
     * **Name**: typically the same as the image ID generated during digitization process, but can be manually edited if deemed necessary
     * **Relationship**: a drop-down menu of values that can provide detail about what the capture is or how it relates to the item
 
-## Converting Between Record Types
-
-{: .highlight-title }
-> 🚧 Under Construction
->
-> This section is still being developed. [Contact us](/metadata-documentation/contact/) with any questions or feedback.
-
 ## Hierarchy Examples
 
 ### Standalone Item
