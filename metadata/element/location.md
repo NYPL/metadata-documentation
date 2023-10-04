@@ -59,7 +59,7 @@ Required
 [View MODS Documentation →](https://www.loc.gov/standards/mods/userguide/location.html#physicallocation)
 {: .d-inline .v-align-middle .text-zeta .ml-2 }
 
-_The NYPL division or collection that holds the resource or where it is available_
+_The Library division or collection that holds the resource or where it is available_
 {: .d-block .mt-2 }
 
 #### Guidelines
