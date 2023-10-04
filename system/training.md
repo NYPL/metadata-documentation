@@ -9,7 +9,7 @@ nav_order: 3
 # Training
 
 ## Introduction
-- MMS training sessions are provided in conjunction with a [new user account for MMS](https://nypl.github.io/metadata-documentation/system/accounts/)
+- MMS training sessions are provided in conjunction with a [new user account for MMS](/metadata-documentation/system/accounts/)
 - To request additional training sessions for MMS, contact the Manager, Metadata Services, via the email address found in [Lair 🔒](https://lair.nypl.org/-/departments/library-sites-and-services/research-libraries/metadata-services-unit)
 - You will receive a calendar invite with a Google Meet link for a virtual one-hour training session
 - You should plan to share your screen during your training session
