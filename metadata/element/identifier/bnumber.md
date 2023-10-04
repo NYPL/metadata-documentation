@@ -35,7 +35,7 @@ Primary identifier for a bibliographic record in [Sierra](/metadata-documentatio
     - A **NYPL catalog ID (B-number)** should generally only be assigned to one record in the Metadata Management System
     - A record should generally only have one **NYPL catalog ID (B-number)** assigned at that particular level
     - A record may have multiple **NYPL catalog IDs (B-numbers)** if it is inheriting values from a higher-level collection and/or container
-    - If any of the above guidelines do not seem appropriate based on specific record structure or division-specific needs, discuss with the [Manager, Metadata Services](https://nypl.github.io/metadata-documentation/contact/), before proceeding further
+    - If any of the above guidelines do not seem appropriate based on specific record structure or division-specific needs, discuss with the [Manager, Metadata Services](/contact/), before proceeding further
 
 ## Format
 <dl>
