@@ -69,7 +69,7 @@ Rights
     - The **Rights** section of the **Overview** tab indicates whether rights are set at that record's level or inherited as well as information about when rights were created or updated rights and by whom
     - The **Rights and use** tab displays what is shown on the **Overview** tab as well as **Approved uses** and a **Rights Research and Copyright Information Summary**
         - Codes used for the **Copyright status** in the **Rights Research and Copyright Information Summary** are defined on the [Rights Codes Cheat Sheet](https://confluence.nypl.org/display/DIG/Rights+Codes+Cheat+Sheet)
-- Rights are added and maintained by [Copyright and Information Policy](/metadata-documentation/resources/glossary/#copyright-and-information-policy)
+- Rights are added and maintained by [Copyright and Information Policy](/metadata-documentation/resources/glossary/#copyright-information-policy)
 
 ## Inclusive and Reparative Description
 
