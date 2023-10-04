@@ -64,8 +64,11 @@ _The NYPL division or collection that holds the resource or where it is availabl
 
 #### Guidelines
 {: .no_toc }
-- Select the NYPL division that owns the resource from the dropdown list
+- Select the Library division that owns the resource from the dropdown list
     - Provide the name of the owning division, rather than the exact physical location of the original materials, as physical location may change over time or may only be known by division staff
+    - If consulting a MARC record to determine division:
+        - Find the location code nested within `<FIXFLD><FIXVALUE>` in the [MARC XML](/metadata-documentation/resources/tips-tricks/#view-marc-in-legacy-catalog) and look up the corresponding label in [Sierra codes/locations 🔒](https://docs.google.com/spreadsheets/d/1E8Dbd8M5OotQfGaKjL5cLKlyex5g8D1KBeZeArJtcuU/edit#gid=1867405302)
+        - In cases where the MARC XML indicates multiple locations (`<FIXVALUE>multi</FIXVALUE>`), locate the record in [Sierra](/metadata-documentation/resources/glossary/#sierra) and consult the **Summary** tab to determine which location corresponds to the relevant item's [Call number / Shelf Locator](#call-number--shelf-locator)
 - Do not use the following values unless you have discussed doing so with the [Manager, Metadata Services](/metadata-documentation/contact/)
     - Children's Center at 42nd St
     - Comm, Marketing, and Business Dev
@@ -101,3 +104,4 @@ _Shelfmark or other shelving designation that indicates the location identifier 
 
 ## See Also
 - [Top-level Element: &lt;location&gt;](https://www.loc.gov/standards/mods/userguide/location.html) for official MODS documentation from the Library of Congress
+- [Sierra codes/locations 🔒](https://docs.google.com/spreadsheets/d/1E8Dbd8M5OotQfGaKjL5cLKlyex5g8D1KBeZeArJtcuU/edit#gid=1867405302) for a list of Library location codes and their corresponding label to assist in determining the **NYPL Division/Collection**
