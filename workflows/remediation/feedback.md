@@ -47,7 +47,7 @@ Provides an overview of reviewing feedback relating to metadata in the Metadata 
    1. Toggle the ClickUp task **Status** to **Closed**
 1. If you determine that metadata _should_ be updated:
    1. Update the record(s) in MMS following any relevant guidelines in MSU documentation
-   1. If appropriate, a [Note](https://nypl.github.io/metadata-documentation/metadata/element/note/) element with the [Type](https://nypl.github.io/metadata-documentation/metadata/element/note/#type) "admin" describing any changes you've made
+   1. If appropriate, a [Note](/metadata/element/note/) element with the [Type](/metadata/element/note/#type) "admin" describing any changes you've made
    1. Determine whether the metadata exists in other systems such as a catalog record or finding aid, and if so, request that it be updated
       1. To request an update to a catalog record, submit a ticket via ServiceNow ([BookOps › Cataloging 🔒](https://nyplprod.service-now.com/nyplsp?id=sc_cat_item&sys_id=37d54594c4504d00f254019b5f40e91f)) with the Inquiry type: Sierra bib record error
       1. To request an update to a finding aid, check with the [Manager, Metadata Services](/metadata-documentation/contact/), for the relevant contact as it can vary by division
