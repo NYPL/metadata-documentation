@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Suppressing Content
-permalink: /workflows/remediation/suppress/
+permalink: /workflows/remediation/suppressing/
 parent: Remediation
 grand_parent: MMS › Workflows
 nav_order: 3
