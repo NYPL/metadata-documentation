@@ -3,7 +3,7 @@ layout: page
 title: Approvals
 permalink: /workflows/approvals/
 parent: MMS › Workflows
-nav_order: 5
+nav_order: 6
 ---
 
 # Approvals
