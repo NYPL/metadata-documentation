@@ -3,6 +3,8 @@ layout: page
 title: Theatre on Tape and Film
 permalink: /division/toft/
 parent: By Division
+grand_parent: MMS › Metadata
+nav_exclude: true
 ---
 
 {: .highlight-title }
