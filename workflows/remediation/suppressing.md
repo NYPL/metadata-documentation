@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Suppressing Content
+title: Suppressing Records & Captures
 permalink: /workflows/remediation/suppressing/
 parent: Remediation
 grand_parent: MMS › Workflows
