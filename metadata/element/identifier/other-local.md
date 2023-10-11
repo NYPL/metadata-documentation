@@ -39,10 +39,10 @@ _Identifier that connects an archives collection from the [Archives Portal](/met
 {: .warning-title }
 > Known Issue
 >
-> [**MSS Unit ID**](/metadata-documentation/metadata/element/identifier/mss-unit/) is currently being erroneously imported as the **Archives collections id** value when [importing a finding aid](/metadata-documentation/workflows/import/#importing-finding-aids). 
+> [**MSS Unit ID**](/metadata-documentation/metadata/element/identifier/mss-unit/) is currently being erroneously imported as the **Archives collections id** value when [importing a finding aid](/metadata-documentation/workflows/importing/finding-aids/). 
 > <small><br>Last checked September 2023</small>
 
-- The **Archives collections id** is automatically populated into records when [importing finding aids](/metadata-documentation/workflows/import/#importing-finding-aids)
+- The **Archives collections id** is automatically populated into records when [importing finding aids](/metadata-documentation/workflows/importing/finding-aids/)
 - If adding a **Archives collections id** manually for a collection or standalone item, it can be located in the [Archives Portal Admin Interface](/metadata-documentation/resources/glossary/#archives-portal-admin-interface)
     - As the numeric slug of the URL in records with **/collections/** in the URL, e.g., [https://archives.nypl.org/admin/collections/**582**](https://archives.nypl.org/admin/collections/582)
     - As the value of the **id** field ([see example](https://archives.nypl.org/admin/collections/582#:~:text=id-,582,-origination))
@@ -67,7 +67,7 @@ _Identifier that connects an archives collection from the [Archives Portal](/met
 
 #### See Also
 - [Linking Between Systems › Archives Portal](/metadata-documentation/workflows/linking/#archives-portal) for an overview of how archives-related identifiers create links between Digital Collections and the Archives Portal
-- [Importing Metadata › Importing Finding Aids](/metadata-documentation/workflows/import/#importing-finding-aids) for the workflow of importing a finding aid into MMS
+- [Importing Metadata › Importing Finding Aids](/metadata-documentation/workflows/importing/finding-aids/) for the workflow of importing a finding aid into MMS
 
 ---
 
@@ -81,7 +81,7 @@ _Identifier that connects archives components from the [Archives Portal](/metada
 
 #### Guidelines
 
-- The **Archives components id** is automatically populated into records when [importing EAD-encoded finding aids](/metadata-documentation/workflows/import/#importing-finding-aids)
+- The **Archives components id** is automatically populated into records when [importing EAD-encoded finding aids](/metadata-documentation/workflows/importing/finding-aids/)
 - If adding a **Archives components id** manually for a container or item, it can be located with the following methods:
     - In the [Archives Portal](/metadata-documentation/resources/glossary/#archives-portal), the **Archives components id** can be found by [viewing the XML for an EAD-encoded finding aid](/metadata-documentation/resources/tips-tricks/#view-xml-in-archives-portal)
         - The **Archives components id** is present as the slug in the **\<dao xlink:href=>** tag URL, e.g., \<dao xlink:type="simple" xlink:href="http\://archives.nypl.org/the/21738#d**448691**">
@@ -112,4 +112,4 @@ _Identifier that connects archives components from the [Archives Portal](/metada
 
 #### See Also
 - [Linking Between Systems › Archives Portal](/metadata-documentation/workflows/linking/#archives-portal) for an overview of how archives-related identifiers create links between Digital Collections and the Archives Portal
-- [Importing Metadata › Importing Finding Aids](/metadata-documentation/workflows/import/#importing-finding-aids) for the workflow of importing a finding aid into MMS
+- [Importing Metadata › Importing Finding Aids](/metadata-documentation/workflows/importing/finding-aids/) for the workflow of importing a finding aid into MMS
