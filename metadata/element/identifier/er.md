@@ -23,7 +23,7 @@ Number that corresponds to a container of born-digital material described in a f
 - Assigned by archivist during processing of born-digital material (see [Archivist Workstation Processing Instructions](https://nypl.github.io/digarch/staging/Archivist-Workstation-Processing.html))
 
 ## Guidelines
-- **Electronic Record Package** identifiers are automatically imported into their respective MMS container and/or item records when [importing an EAD-encoded finding aid](/metadata-documentation/workflows/import/#importing-finding-aids) into MMS
+- **Electronic Record Package** identifiers are automatically imported into their respective MMS container and/or item records when [importing an EAD-encoded finding aid](/metadata-documentation/workflows/importing/finding-aids/) into MMS
 - For large and/or complex collections with EAD-encoded finding aids where a sizeable number of records are missing **Electronic Record Package** identifiers, reimporting the finding aid is recommended
     - After reimporting, relocate captures and request reassignment of rights to ensure all of the archives-related identifiers are correct in MMS
 - For smaller or less complex collections, it may be more time effective to manually adding missing **Electronic Record Package** identifiers to the respective container and item records
