@@ -165,7 +165,7 @@ _An occupation described by the resource_
 #### Guidelines
 {: .no_toc }
 - Use the **Occupation** subelement of **Subject** when the content of the resource is _about_ an occupation
-- **Occupation** subelements of **Subject** are automatically added during [finding aid imports](https:///metadata-documentation/workflows/import/#importing-finding-aids) when **Occupation** subjects are present on the finding aid
+- **Occupation** subelements of **Subject** are automatically added during [finding aid imports](https:///metadata-documentation/workflows/importing/finding-aids/) when **Occupation** subjects are present on the finding aid
   - See the [NYPL Archival Processing Manual](https://docs.google.com/document/d/1AD5DpkyzCEeBaBoAtAy71qo4tyabB2yy28xkkXx-P4s/edit#heading=h.9q8h9ik6hap8) for internal guidelines including that occupations be selected from the [ITOAMC list](https://folgerpedia.folger.edu/Index_terms_for_occupations_in_archival_and_manuscript_collections_\(ITOAMC\))
   - To map ITOAMC values, follow the order of preference for **Occupation** below
 - Searching the authorities module within a **Occupation** subelement will return **Authorized Terms** from the following vocabularies, listed here in order of preference: 
