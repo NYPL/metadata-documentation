@@ -25,7 +25,7 @@ Identifier that correlates [EAD](/metadata-documentation/resources/glossary/#enc
 - [Archives Portal](/metadata-documentation/resources/glossary/#archives-portal)
 
 ## Guidelines
-- **Archives EAD ID**s are automatically imported into their respective MMS container and/or item records when [importing an EAD-encoded finding aid](/metadata-documentation/workflows/import/#importing-finding-aids) into MMS
+- **Archives EAD ID**s are automatically imported into their respective MMS container and/or item records when [importing an EAD-encoded finding aid](/metadata-documentation/workflows/importing/finding-aids/) into MMS
 - For large and/or complex collections with EAD-encoded finding aids where a sizeable number of records are missing **Archives EAD ID**s, reimporting the finding aid is recommended
     - After reimporting, relocate captures and reassigning rights to ensure all of the archives-related identifiers are correct in MMS
 - For smaller or less complex collections, it may be more time effective to manually adding missing **Archives EAD ID**s to the respective container and item records
@@ -52,4 +52,4 @@ Identifier that correlates [EAD](/metadata-documentation/resources/glossary/#enc
 
 ## See Also
 - [Linking Between Systems › Archives Portal](/metadata-documentation/workflows/linking/#archives-portal) for an overview of how archives-related identifiers create links between Digital Collections and the Archives Portal
-- [Importing Metadata › Importing Finding Aids](/metadata-documentation/workflows/import/#importing-finding-aids) for the workflow of importing a finding aid into MMS
+- [Importing Metadata › Importing Finding Aids](/metadata-documentation/workflows/importing/finding-aids/) for the workflow of importing a finding aid into MMS
