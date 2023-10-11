@@ -32,7 +32,7 @@ The name of a person, organization, or event (conference, meeting, etc.) associa
     - When the content of the resource is about or depicts a person, organization, or event, add the name as a [**Name Subject**](/metadata-documentation/metadata/element/subject/#name)
 - Use of an authority with a URI is required, if one exists
 - If importing metadata, pay special attention to **Name** elements to ensure they are consistently imported with the appropriate [Role](#Role)
-    - Whether **Name** elements are imported into MMS from a [finding aid](h/metadata-documentation/workflows/import/#importing-finding-aids) depends on the level of description that exists in the [Archives Portal](/metadata-documentation/resources/glossary/#archives-portal)
+    - Whether **Name** elements are imported into MMS from a [finding aid](h/metadata-documentation/workflows/importing/finding-aids/) depends on the level of description that exists in the [Archives Portal](/metadata-documentation/resources/glossary/#archives-portal)
     - If **Name** elements are missing, it may be helpful to reference the **Added Author** fields in corresponding library catalog record (linked as **Call number** from the Archives Portal finding aid)
 
 ## Subelements
@@ -104,7 +104,7 @@ _Designates the relationship (role) of the entity to the resource described in t
 - To include multiple roles for one name, create a new **Name** element for each **Role**
 - Use the most precise known **Role** known (e.g., **Author** or **Addressee** rather than the more general role **Correspondent**)
 - Use **Contributor** for **Name** elements where the **Role** is unknown and/or can not be determined
-- For [finding aid imports](/metadata-documentation/workflows/import/#importing-finding-aids), ensure that the archives collection creator listed the Archives Portal is present as a **Name** element with the role **Creator**
+- For [finding aid imports](/metadata-documentation/workflows/importing/finding-aids/), ensure that the archives collection creator listed the Archives Portal is present as a **Name** element with the role **Creator**
     - If there are multiple **Name** elements, ensure that the **Name** with the **Creator** role is marked [Primary](#primary)
     - See [MARC Code List for Relators](https://www.loc.gov/marc/relators/) and [Personal Names-General Information $e](https://www.loc.gov/marc/bibliographic/bdx00.html)
 
@@ -189,7 +189,7 @@ _Used for a repeated element to declare that a particular instance of the elemen
 #### Guidelines
 {: .no_toc }
 - Check **Primary** for <u>one</u> **Name** element if more than one **Name** element exists for a record
-- For [finding aid imports](/metadata-documentation/workflows/import/#importing-finding-aids) with multiple names, the **Name** with the role, **Creator**, should be marked **Primary**
+- For [finding aid imports](/metadata-documentation/workflows/importing/finding-aids/) with multiple names, the **Name** with the role, **Creator**, should be marked **Primary**
 
 ---
 
