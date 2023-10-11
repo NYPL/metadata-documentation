@@ -23,7 +23,7 @@ Unique identifier assigned to physical object
 
 ## Guidelines
 - Unless specified by corresponding [material](/metadata-documentation/metadata/material/), [division](/metadata-documentation/metadata/division/), or [workflow](/metadata-documentation/workflows/) documentation, it is not necessary to add a **Barcode** to records
-    - **Barcode**s do not import into MMS when [importing](/metadata-documentation/workflows/import/) MARC records via finding aid, bnumber, or TMS import
+    - **Barcode**s do not import into MMS when [importing](/metadata-documentation/workflows/importing/) MARC records via finding aid, bnumber, or TMS import
     - **Barcode**s correspond to a specific physical item, so particular care is required when adding barcodes to records in MMS to ensure accuracy to the particular copy or version that was digitized
 
 ## Format
