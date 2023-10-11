@@ -60,7 +60,7 @@ Before requesting metadata creation, ensure your ClickUp settings are configured
     1. If an initial search by bnumber yields no results or no bnumber is provided, search any other relevant metadata, i.e. collection name, title, or creator
     1. For items in collections or containers, navigate through the existing structure to reach the level in the hierarchy where the item would belong
 1. Create records for the item(s)
-    1. Refer to documentation for [Importing Metadata](/metadata-documentation/workflows/import/) and [Creating New Metadata](/metadata-documentation/workflows/creating/)
+    1. Refer to documentation for [Importing Metadata](/metadata-documentation/workflows/importing/) and [Creating New Metadata](/metadata-documentation/workflows/creating/)
     1. Add the PO number to each item in an [**Identifier**](/metadata-documentation/metadata/element/identifier/po/) element using [**Photo Order**](/metadata-documentation/metadata/element/identifier/po/) as the type
         1. Add the PO number _without_ the "PO" at the beginning
         1. Add the PO number at the item level, rather than at the container or collection level, to be clear about what material is tied to the PO
