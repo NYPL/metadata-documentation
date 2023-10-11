@@ -25,7 +25,7 @@ Local classmark assigned by the Print Collection and Photography Collection of t
 - Print Collection and Photography Collection of the Miriam and Ira D. Wallach Division of Art, Prints and Photographs
 
 ## Guidelines
-- The **TMS Object Number** is automatically populated into records when [importing TMS records](/metadata-documentation/workflows/import/#importing-tms-records)
+- The **TMS Object Number** is automatically populated into records when [importing TMS records](/metadata-documentation/workflows/importing/tms/)
 - If adding a **TMS Object Number** to a record manually, it can be located in the [Prints & Photographs Online Catalog](https://wallachprintsandphotos.nypl.org/) as the **Object Numbe**r displayed in the record ([see example](https://wallachprintsandphotos.nypl.org/catalog/302742#:~:text=Object%20Number%3A-,99109,-Description%3A))
 
 ## Format
@@ -47,4 +47,4 @@ Local classmark assigned by the Print Collection and Photography Collection of t
 ## See Also
 - [The Museum System](/metadata-documentation/resources/glossary/#the-museum-system) for a corresponding definition in our glossary
 - [Prints and Photographs Online Catalog](/metadata-documentation/resources/glossary/#prints-photographs-online-catalog) for a corresponding definition in our glossary
-- [Importing TMS Records](/metadata-documentation/workflows/import/#importing-tms-records) for a step-by-step of the process of importing records from TMS into the Metadata Management System (MMS)
+- [Importing TMS Records](/metadata-documentation/workflows/importing/tms/) for a step-by-step of the process of importing records from TMS into the Metadata Management System (MMS)
