@@ -25,7 +25,7 @@ Collection-level identifier for an archival collection in the [Archives Portal](
 - [Archives Portal](/metadata-documentation/resources/glossary/#archives-portal)
 
 ## Guidelines
-- The **MSS Unit ID** is automatically populated into records when [importing finding aids](/metadata-documentation/workflows/import/#importing-finding-aids)
+- The **MSS Unit ID** is automatically populated into records when [importing finding aids](/metadata-documentation/workflows/importing/finding-aids/)
 - If adding a **MSS Unit ID** manually for a collection or standalone item, it can be located with the following methods:
     - In the [Archives Portal](/metadata-documentation/resources/glossary/#archives-portal), the **MSS Unit ID** is the numeric slug of the URL, e.g., [https://archives.nypl.org/the/**21738**](https://archives.nypl.org/the/21738)
     - In the [Archives Portal](/metadata-documentation/resources/glossary/#archives-portal), the **MSS Unit ID** can also be found by [viewing the XML for a finding aid](/metadata-documentation/resources/tips-tricks/#view-xml-in-archives-portal)
@@ -50,4 +50,4 @@ Collection-level identifier for an archival collection in the [Archives Portal](
 
 ## See Also
 - [Linking Between Systems › Archives Portal](/metadata-documentation/workflows/linking/#archives-portal) for an overview of how archives-related identifiers create links between Digital Collections and the Archives Portal
-- [Importing Metadata › Importing Finding Aids](/metadata-documentation/workflows/import/#importing-finding-aids) for the workflow of importing a finding aid into MMS
+- [Importing Metadata › Importing Finding Aids](/metadata-documentation/workflows/importing/finding-aids/) for the workflow of importing a finding aid into MMS
