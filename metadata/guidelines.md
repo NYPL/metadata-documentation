@@ -36,6 +36,21 @@ This page provides broader guidance on standards and best practices for metadata
     - For archival materials, refer to [Describing Archives: A Content Standard (DACS)](/metadata-documentation/resources/glossary/#describing-archives-a-content-standard)
     - See [NYPL Documentation](/metadata-documentation/resources/external/#nypl-documentation) for links to documentation produced by other departments of the Library, which provide additional guidelines on format and syntax
 
+## Controlled Vocabularies
+- A controlled vocabulary is a list of terms, names, or other standardized values that can be used to populate metadata elements and subelements in a consistent manner that supports searching and browsing
+- Authority control is the process of selecting from a controlled vocabulary, which may also be referred to interchangeably as an authority or thesaurus
+- In MMS, [Name](/metadata-documentation/metadata/element/name/), [Genre](/metadata-documentation/metadata/element/genre/), and [Subject](/metadata-documentation/metadata/element/subject/) elements, and the [Form](/metadata-documentation/metadata/element/physical-description/#form) subelement include a lookup feature to search controlled vocabularies, internally referenced as the MMS authorities module
+  - The MMS authorities module is accessed by clicking the **Authority data search** link within a controlled element or subelement, where you can search authorized terms from:
+    - [Library of Congress Linked Data Service](https://id.loc.gov/)
+      - [Library of Congress Subject Headings (LCSH)](https://id.loc.gov/authorities/subjects.html)
+      - [Library of Congress Name Authority File (LCNAF)](https://id.loc.gov/authorities/names.html)
+      - [Library of Congress Genre/Form Terms (LCGFT)](https://id.loc.gov/authorities/genreForms.html)
+      - [Thesaurus for Graphic Materials (TGM)](https://id.loc.gov/vocabulary/graphicMaterials.html)
+    - [Getty Art & Architecture Thesaurus (AAT)](https://www.getty.edu/research/tools/vocabularies/aat/)
+  - Data displayed by the MMS authorities module is only periodically updated and therefore may be out of sync with the respective source vocabulary
+- While the MMS authorities module does not support searching the [Virtual Internet Authority File (VIAF)](http://viaf.org/), names found in VIAF can be added manually for the [Name](/metadata-documentation/metadata/element/name/#name-part) element and [Name Subject](/metadata-documentation/metadata/element/subject/#name) subelement
+- Consult the respective [By Element](/metadata-documentation/metadata/element/) guidelines for an explanation of which vocabularies are displayed and preferred for a particular element or subelement, as well as when it is appropriate and how to add terms or names manually
+
 ## Inheritance
 - The inheritance functionality within MMS facilitates efficient metadata creation by eliminating repetitive re-keying of data
 - Inheritance should be carefully considered when used
@@ -56,8 +71,7 @@ MMS item records must include the following seven descriptive metadata elements/
 1. [Location](/metadata-documentation/metadata/element/physical-location/)
 1. [Language](/metadata-documentation/metadata/element/language/) (if applicable)
 
-Rights
-------
+## Rights
 
 - Rights metadata determines:
     - Whether approved records [appear on Digital Collections](/metadata-documentation/dc/criteria/) based on **Approved use**:
