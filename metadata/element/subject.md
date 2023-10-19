@@ -35,7 +35,7 @@ A term or phrase representing the primary topic(s) on which a work is focused
 - Determine the appropriate method to add a subject based on whether you wish to add a new, distinct subject or a subdivision
   - To add a new, distinct subject as its own element, click **+ Subject** 
   - To add a subdivision to create a complex subject heading, click the relevant type link to the right of **Add** within an existing **Subject** element
-- When adding a new **Subject** element, start by searching the MMS authorities module
+- When adding a new **Subject** element, start by searching within the available [controlled vocabularies](/metadata-documentation/metadata/guidelines/#controlled-vocabularies) using the MMS authorities module
   - Select the appropriate subject type (**Topical**, **Geographic**, **Temporal**, **Name**, **Title**, or **Occupation**) for each subject you enter
     - See [Subelements](#subelements) for guidelines for each subject type
   - Click **Select from controlled terms** to bring up the authorities module
