@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Importing CSV
+title: Importing CSV Data
 permalink: /workflows/importing/csv/
 parent: Importing Metadata
 grand_parent: MMS › Workflows
-nav_order: 4
+nav_order: 5
 nav_exclude: true
 ---
 
