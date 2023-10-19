@@ -52,7 +52,7 @@ _The individual parsed parts that together make up the full name_
 #### Guidelines
 {: .no_toc }
 - The **Name Part** subelement appears as an unlabeled text field in the **Name** element
-- When adding a new **Name** element, start by searching the MMS authorities module
+- When adding a new **Name** element, start by searching within the available [controlled vocabularies](/metadata-documentation/metadata/guidelines/#controlled-vocabularies) using the MMS authorities module
     - Select the radio button for **Authority data search**
     - Click **Select from controlled terms** to bring up the authorities module
     - Look up the name you wish to add in the search box
