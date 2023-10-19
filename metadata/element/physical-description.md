@@ -49,7 +49,7 @@ _A particular physical presentation of a resource, including the physical form o
 {: .no_toc }
 - Use **Form** to describe the physical carrier of the content
 - Guidance for which **Form** terms to use can be found on the work-in-progress [Genre + Form + Extent 🔒](https://docs.google.com/spreadsheets/d/1NGlV94Iufe0p3EJdoJDX7SgvH-LUYqWLEuB1Az3DmbM/edit#gid=187807178) spreadsheet
-- When adding a new **Form** element, start by searching the MMS authorities module
+- When adding a new **Form** element, start by searching within the available [controlled vocabularies](/metadata-documentation/metadata/guidelines/#controlled-vocabularies) using the MMS authorities module
     - Select the radio button for **Authority data search**
     - Click **Select from controlled terms** to bring up the authorities module
     - Look up the form you wish to add in the search box
