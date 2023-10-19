@@ -34,7 +34,7 @@ A term or terms that designate a category characterizing a particular style, for
 - Guidance for which **Genre** terms to use can be found on the work-in-progress [Genre + Form + Extent 🔒](https://docs.google.com/spreadsheets/d/1NGlV94Iufe0p3EJdoJDX7SgvH-LUYqWLEuB1Az3DmbM/edit#gid=187807178) spreadsheet
   - For all materials excluding audio and moving image (non-AMI), use a **Genre** that describes what the digitized resource is (e.g. Photographs, Songbooks, Paintings, Correspondence, etc.)
   - For audio and moving image (AMI), use a **Genre** that describes what the sound recording or moving image is capturing (e.g., Interviews, Lectures, Oral histories, etc.) or what kind of sound recording or moving image the resource is (e.g., Demo recordings, Documentary films, Radio commercials, etc.)
-- When adding a new **Genre** element, start by searching the MMS authorities module
+- When adding a new **Genre** element, start by searching within the available [controlled vocabularies](/metadata-documentation/metadata/guidelines/#controlled-vocabularies) using the MMS authorities module
   - Select the radio button for **Authority data search**
   - Click **Select from controlled terms** to bring up the authorities module
   - Look up the genre you wish to add in the search box
