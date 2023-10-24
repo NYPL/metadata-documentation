@@ -49,7 +49,7 @@ This page provides broader guidance on standards and best practices for metadata
     - [Getty Art & Architecture Thesaurus (AAT)](https://www.getty.edu/research/tools/vocabularies/aat/)
   - Data displayed by the MMS authorities module is only periodically updated and therefore may be out of sync with the respective source vocabulary
 - While the MMS authorities module does not support searching the [Virtual Internet Authority File (VIAF)](http://viaf.org/), names found in VIAF can be added manually for the [Name](/metadata-documentation/metadata/element/name/#name-part) element and [Name Subject](/metadata-documentation/metadata/element/subject/#name) subelement
-- Consult the respective [element](/metadata-documentation/metadata/element/) guidelines for an explanation of which vocabularies are displayed and preferred for a particular element or subelement, as well as when it is appropriate and how to add terms or names manually
+- Consult the respective [element](/metadata-documentation/metadata/element/) guidelines for an explanation of which vocabularies are displayed and preferred for a particular element or subelement, as well as when it is appropriate (and how) to add terms or names manually
 
 ## Inheritance
 - The inheritance functionality within MMS facilitates efficient metadata creation by eliminating repetitive re-keying of data
