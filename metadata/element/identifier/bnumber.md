@@ -52,5 +52,5 @@ Primary identifier for a bibliographic record in [Sierra](/metadata-documentatio
 ## See Also
 - [Glossary › bnumber](/metadata-documentation/resources/glossary/#bnumber) for a corresponding definition
 - [Linking Between Systems › Research Catalog](/metadata-documentation/workflows/linking/#research-catalog) for full explanation of how links between Digital Collections and the library catalog function and are maintained
-- [Importing Metadata › Importing MARC Records](/metadata-documentation/workflows/importing/marc/-records) for the workflow of using a **NYPL catalog IDs (B-numbers)** to import a MARC record into MMS
-- [Importing Metadata › Importing MARC Records](/metadata-documentation/workflows/importing/marc/-records) for the workflow of using a **NYPL catalog ID (B-number)** to import a MARC record into MMS
+- [Importing Metadata › Importing MARC Records](/metadata-documentation/workflows/importing/marc/) for the workflow of using a **NYPL catalog IDs (B-numbers)** to import a MARC record into MMS
+- [Importing Metadata › Importing MARC Records](/metadata-documentation/workflows/importing/marc/) for the workflow of using a **NYPL catalog ID (B-number)** to import a MARC record into MMS
