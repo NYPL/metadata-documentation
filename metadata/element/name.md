@@ -105,7 +105,7 @@ _Designates the relationship (role) of the entity to the resource described in t
 - Use the most precise known **Role** known (e.g., **Author** or **Addressee** rather than the more general role **Correspondent**)
 - Use **Contributor** for **Name** elements where the **Role** is unknown and/or can not be determined
 - For [finding aid imports](/metadata-documentation/workflows/importing/finding-aids/), ensure that the archives collection creator listed the Archives Portal is present as a **Name** element with the role **Creator**
-    - If there are multiple **Name** elements, ensure that the **Name** with the **Creator** role is marked [Primary](#primary)
+    - If there are multiple **Name** elements, see the guidelines for the [Primary](/metadata-documentation/metadata/element/name/#primary) attribute
     - See [MARC Code List for Relators](https://www.loc.gov/marc/relators/) and [Personal Names-General Information $e](https://www.loc.gov/marc/bibliographic/bdx00.html)
 
 ---
@@ -188,8 +188,9 @@ _Used for a repeated element to declare that a particular instance of the elemen
 
 #### Guidelines
 {: .no_toc }
-- Check **Primary** for <u>one</u> **Name** element if more than one **Name** element exists for a record
-- For [finding aid imports](/metadata-documentation/workflows/importing/finding-aids/) with multiple names, the **Name** with the role, **Creator**, should be marked **Primary**
+- If there is more than one **Name** element, check **Primary** for the **Name** that is present in the [MARC 100](https://www.oclc.org/bibformats/en/1xx/100.html), [MARC 110](https://www.oclc.org/bibformats/en/1xx/110.html), or [MARC 111](https://www.oclc.org/bibformats/en/1xx/111.html) field of the associated catalog record
+  - Creators of archival collections, when present, only map to [MARC 100](https://www.oclc.org/bibformats/en/1xx/100.html) or [MARC 110](https://www.oclc.org/bibformats/en/1xx/110.html) in their associated catalog records
+- If there is no [MARC 100](https://www.oclc.org/bibformats/en/1xx/100.html), [MARC 110](https://www.oclc.org/bibformats/en/1xx/110.html), or [MARC 111](https://www.oclc.org/bibformats/en/1xx/111.html) field in the associated catalog record—or if no associated catalog record exists—checking a **Name** element as **Primary** is recommended if applicable, but not required
 
 ---
 
