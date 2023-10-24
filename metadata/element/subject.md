@@ -45,7 +45,7 @@ A term or phrase representing the primary topic(s) on which a work is focused
   - To verify a result is appropriate, click the linked **Authorized Term** to view the corresponding record in the source **Authority**
     - Review the selected record to ensure the subject you are adding can be used as you intend, e.g. do not add subdivision as a main subject
   - Once you have confirmed the correct result, click the **Use this term** button in the **Action** column
-  - Selecting a subject from the MMS authorities module automatically populates the [**Type**](#type) ****(where applicable), [**Authority**](#authority) and [**Value URI** ](#value-uri)attributes
+  - Selecting a subject from the MMS authorities module automatically populates the [**Type**](#type) (where applicable), [**Authority**](#authority) and [**Value URI** ](#value-uri)attributes
 - If you are not receiving the result you expect by searching the MMS authorities module, try searching the [Library of Congress Linked Data Service](https://id.loc.gov/)
   - It is possible that the subject you are searching exists in the [Library of Congress Linked Data Service](https://id.loc.gov/) but is not yet available or up-to-date in the MMS authorities module
   - This can occur because the MMS authorities module data is only periodically updated and therefore may out of sync with the current version of the [Library of Congress Linked Data Service](https://id.loc.gov/)
