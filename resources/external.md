@@ -60,23 +60,23 @@ Links to documentation for aggregators that ingest records from NYPL Digital Col
 - [Cataloging Cultural Objects (CCO)](https://vraweb.org/resourcesx/cataloging-cultural-objects/)
 
 ## Controlled Vocabularies
-Quick links to documentation and look-up pages for controlled vocabularies relevant to the Metadata Management System (MMS)
+Links to documentation and look-up pages for [controlled vocabularies](/metadata-documentation/metadata/guidelines/#controlled-vocabularies) relevant to the Metadata Management System (MMS)
 
-### Used in MMS Authorities Module
-The following vocabularies are searchable in the MMS authorities module ordered by preference for use:
+{: .note }
+Consult the respective [element](/metadata-documentation/metadata/element/) guidelines for an explanation of which vocabularies are displayed and preferred for a particular element or subelement, as well as when it is appropriate (and how) to add terms or names manually.
+
+### Vocabularies That Can Be Searched Using MMS Authorities Module
 - [Library of Congress Linked Data Service](https://id.loc.gov/)
     - [Library of Congress Subject Headings (LCSH)](https://id.loc.gov/authorities/subjects.html)
     - [Library of Congress Name Authority File (LCNAF)](https://id.loc.gov/authorities/names.html)
     - [Library of Congress Genre/Form Terms (LCGFT)](https://id.loc.gov/authorities/genreForms.html)
     - [Thesaurus for Graphic Materials (TGM)](https://id.loc.gov/vocabulary/graphicMaterials.html)
-- [Virtual Internet Authority File (VIAF)](http://viaf.org/)
 - [Getty Art & Architecture Thesaurus (AAT)](https://www.getty.edu/research/tools/vocabularies/aat/)
 
-{: .note }
-For more information on the use of controlled vocabularies in the Metadata Management System (MMS), see [General Guidelines](/metadata-documentation/metadata/guidelines/#controlled-vocabularies).
+### Vocabularies That Can Be Manually Added
+- [Virtual Internet Authority File (VIAF)](http://viaf.org/)
 
-### Used in MMS Dropdown Fields
-The following vocabularies are integrated into MMS dropdown fields
+### Vocabularies Used in MMS Dropdown Fields
 - [ISO 639-2 Language Codes](https://www.loc.gov/standards/iso639-2/php/code_list.php) 
 - [ISO 15924 Script Codes](https://www.unicode.org/iso15924/iso15924-codes.html)
 - [MARC Code List for Relators](https://www.loc.gov/marc/relators/relaterm.html)
@@ -86,7 +86,7 @@ The following vocabularies are integrated into MMS dropdown fields
 - [MODS &lt;note&gt; Types](https://www.loc.gov/standards/mods/mods-notes.html)
 
 ### Additional Vocabularies for Reference
-The following vocabularies are not integrated into MMS, but may be useful for further research of entities not locatable in a controlled term search
+The following controlled vocabularies are not integrated into MMS, but may be useful for further research of terms, names, or other standardized values not represented in
 - [Wikidata](https://www.wikidata.org/): collaboratively edited multilingual knowledge graph hosted by the Wikimedia Foundation
 - [Getty Union List of Artist Names (ULAN)](https://www.getty.edu/research/tools/vocabularies/ulan/): database of people and corporate bodies related to the creation and maintenance of art and architecture
 - [Find a Grave](https://www.findagrave.com/): database of cemetery records that can be useful for biographical research of people who are no longer living
