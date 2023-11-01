@@ -1,0 +1,5 @@
+item_number,originInfo_datetype,originInfo_datesingleyear,originInfo_datesinglemonth,originInfo_datesingleday,identifier_bnumber,typeOfResource_value,typeOfResource_manuscript,location_division,note,note_type,titleInfo_title,cap_iden
+1,dateCreated,1920,11,10,b12345678,text,1,THE,Test item,content,Title one,12345678910
+1,dateCreated,1920,11,10,b12345678,text,1,THE,Test item,content,Title one,12345678911
+2,dateCreated,1920,11,10,b12345678,text,1,THE,Test item,content,Title two,12345678912
+2,dateCreated,1920,11,10,b12345678,text,1,THE,Test item,content,Title two,12345678913
