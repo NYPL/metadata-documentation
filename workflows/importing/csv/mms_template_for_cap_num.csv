@@ -1,0 +1,6 @@
+item_number,originInfo_datetype,originInfo_datesingleyear,originInfo_datesinglemonth,originInfo_datesingleday,identifier_bnumber,typeOfResource_value,note,note_type,titleInfo_partname,titleInfo_partnumber,titleInfo_title,cap_num
+1,dateIssued,1943,4,8,b12345678,text,,,,"Vol. 11, no. 1",Serial title,9
+2,dateIssued,1943,4,15,b12345678,text,,,,"Vol. 11, no. 2",Serial title,9
+3,dateIssued,1943,4,22,b12345678,text,,,,"Vol. 11, no. 3",Serial title,7
+4,dateIssued,1943,4,29,b12345678,text,,,,"Vol. 11, no. 4",Serial title,7
+5,dateIssued,1943,5,6,b12345678,text,,,,"Vol. 11, no. 5",Serial title,9
