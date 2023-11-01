@@ -32,10 +32,10 @@ A unique standard number or code that distinctively identifies a resource
 - To aggregate related resources for a specific purpose, for instance, identifying images displayed in an online exhibition
 
 ## Guidelines
-- To meet our [minimum metadata requirements](/metadata-documentation/metadata/guidelines/#minimum-metadata-requirements), an item record must have a [**NYPL catalog ID (B-number)**](/metadata-documentation/metadata/element/identifier/bnumber/), [**MSS Unit ID**](/metadata-documentation/metadata/element/identifier/mss/), and/or [**TMS ID**](/metadata-documentation/metadata/element/identifier/tms/)
+- To meet our [minimum metadata requirements](/metadata-documentation/metadata/guidelines/#minimum-metadata-requirements), an item record must have a [**NYPL catalog ID (B-number)**](/metadata-documentation/metadata/element/identifier/bnumber/), [**MSS Unit ID**](/metadata-documentation/metadata/element/identifier/mss-unit/), and/or [**TMS ID**](/metadata-documentation/metadata/element/identifier/tms/)
     - Ensure at least one required identifier exists at the item level:
         - [**NYPL catalog ID (B-number)**](/metadata-documentation/metadata/element/identifier/bnumber/) for material described in [Sierra](/metadata-documentation/resources/glossary/#sierra)
-        - [**MSS Unit ID**](/metadata-documentation/metadata/element/identifier/mss/) for material described in the [Archives Portal](/metadata-documentation/resources/glossary/#archives-portal)
+        - [**MSS Unit ID**](/metadata-documentation/metadata/element/identifier/mss-unit/) for material described in the [Archives Portal](/metadata-documentation/resources/glossary/#archives-portal)
         - [**TMS ID**](/metadata-documentation/metadata/element/identifier/tms/) for material described in the [Prints and Photographs Online Catalog](/metadata-documentation/resources/glossary/#prints-and-photographs-online-catalog)
     - Required identifiers can either be assigned to the item itself or [inherited](/metadata-documentation/metadata/guidelines/#inheritance) from a collection or container
     - If you are unable to add one of the above required identifiers, discuss with the [Manager, Metadata Services](/metadata-documentation/contact/), before proceeding further
@@ -143,7 +143,7 @@ _Identifies the type of identifier that is recorded, for example ISBN, ISSN, ISN
 <dt><a href="/metadata-documentation/metadata/element/identifier/issn-l/">Linking International Standard Serial Number</a></dt>
 <dd>international number standard to link serial publications published on several media</dd>
 
-<dt><a href="/metadata-documentation/metadata/element/identifier/mss/">MSS Unit ID</a></dt>
+<dt><a href="/metadata-documentation/metadata/element/identifier/mss-unit/">MSS Unit ID</a></dt>
 <dd>collection-level identifier for an archival collection in the Archives Portal</dd>
 
 <dt><a href="/metadata-documentation/metadata/element/identifier/nypl-exhibition/">NYPL Exhibition ID</a></dt>
