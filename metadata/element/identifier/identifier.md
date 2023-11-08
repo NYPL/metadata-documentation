@@ -147,7 +147,7 @@ _Identifies the type of identifier that is recorded, for example ISBN, ISSN, ISN
 <dd>collection-level identifier for an archival collection in the Archives Portal</dd>
 
 <dt><a href="/metadata-documentation/metadata/element/identifier/nypl-exhibition/">NYPL Exhibition ID</a></dt>
-<dd>identifier for digitized surrogates of material included in exhibitions at the New York Public Library</dd>
+<dd>identifier for digitized surrogates of material included in exhibitions at the New York Public Library, also known as a TL number (temporary location number)</dd>
 
 <dt><a href="/metadata-documentation/metadata/element/identifier/bnumber/">NYPL catalog ID (B-number)</a></dt>
 <dd>primary identifier for a bibliographic record in Sierra, where b-number (or "bnumber") is short for bibliographic number</dd>
