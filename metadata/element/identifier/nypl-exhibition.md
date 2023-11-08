@@ -37,7 +37,7 @@ Identifier for digitized surrogates of material included in exhibitions at the N
         - Exhibition numbers have three parts:
             - Exhibition location code
                 - TL = Stephen A. Schwarzman Building (SASB)
-                - Some legacy non-SASB exhibition numbers may also start with TL
+                    - Some legacy non-SASB exhibition numbers may also start with TL
                 - LPA = Library for the Performing Arts
                 - SC = Schomburg Center for Research in Black Culture
             - Exhibition year (in two-digit format)
