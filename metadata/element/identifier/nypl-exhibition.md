@@ -14,7 +14,7 @@ Required if Applicable
 Repeatable
 {: .d-inline .v-align-middle .label .label-green .mx-1 }
 
-Identifier for digitized surrogates of material included in exhibitions at the New York Public Library
+Identifier for digitized surrogates of material included in exhibitions at the New York Public Library, also known as a TL number (temporary location number)
 {: .d-block .mt-2 .fs-6 .fw-300 }
 
 ## Table of Contents
