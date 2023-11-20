@@ -35,10 +35,10 @@ Steps
 Before requesting metadata creation, ensure your ClickUp settings are configured to assign you as a watcher to tasks you create in [your notification settings 🔒](https://app.clickup.com/2305128/settings/notifications). Under **Watcher settings: When do you want to be added as a watcher on a task?**, check that **When I create a task or subtask** is selected.
 
 1. Navigate to [Metadata Services › New Digitization › New Digitization Tracking 🔒](https://app.clickup.com/2305128/v/l/6-164664866-1?pr=18903295) in ClickUp
-1. From the lower right corner of the list, click **+ Task**
-1. Click the **🪄 (wand)** icon (third icon on the bottom left of the create task prompt), then click **Load from Template**
+1. From the upper right corner of the list, click **Add Task**
+1. Click the **🪄 Templates** button (bottom left of the add task prompt), then click **Use Template**
 1. Search for **PO Metadata Creation**, hover over the template, and click **Quick Use**
-    1. After using the **PO Metadata Creation** template for the first time, it will begin to appear in the **Load from Template** prompt under **Recent Templates**
+    1. After using the **PO Metadata Creation** template for the first time, it will appear when clicking the **🪄 Templates** button under **Recent Templates**
 1. Replace the task name with the PO number, i.e. `PO1234`
 1. Populate template in the task description with any relevant information
     1. Ensure you provide links to **Source Record(s)**, such as a link to the corresponding finding aid or catalog record
