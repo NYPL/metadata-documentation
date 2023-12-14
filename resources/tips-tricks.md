@@ -101,7 +101,7 @@ Replace `A$2:A` with the range and `A2` with the cell containing the string you 
 1. Click **Replace all** twice
 
 ## See Also
-- [MMS SQL Queries 🔒](https://github.com/NYPL/metadata-tools/tree/master/_mms-sql-queries) for reusable SQL queries for MMS
+- [MMS Database and SQL Queries 🔒](https://github.com/NYPL/metadata-tools/tree/master/_mms-database-and-sql-queries) for example SQL queries, navigation information, and quick reference
 - [Wikidata:WikiProject New York Public Library/Queries](https://www.wikidata.org/wiki/Wikidata:WikiProject_New_York_Public_Library/Queries) for reusable SPARQL queries for Wikidata
 - [BenCollins: Spreadsheets](https://benlcollins.com/spreadsheets) for scripts and templates that can be used when working in Google Sheets
     - [VLOOKUP Function in Google Sheets: The Essential Guide](https://benlcollins.com/spreadsheets/vlookup-function/)
