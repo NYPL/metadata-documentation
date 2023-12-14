@@ -21,28 +21,28 @@ The Metadata Management System (MMS) supports four types of records that contain
 
 ### Collections
 * Collections are the highest record in the hierarchy
-* Collections can contain Containers and/or Items
+* Collections can contain containers and/or items
 * Collections generally mimic the organization of the physical collection
 * Collection records are typically imported from a finding aid or catalog record
 * Collection records may also be created in MMS where no source finding aid or catalog record exists, although this is less common
 
 ### Containers
 * Containers are intermediary records
-* Containers can contain other Containers and/or Items
-* Containers must be contained by a Collection
-* A Collection can have zero or an unlimited number of Containers
+* Containers can contain other containers and/or items
+* Containers must be contained by a collection
+* A collection can have zero or an unlimited number of containers
 
 ### Items
-* Items can be standalone or contained in Collections
-* Items in Collections can be contained just by a Collection and/or any of the Collection's Containers
-* Collections and Containers can contain an unlimited number of Items
+* Items can be standalone or contained in collections
+* Items in collections can be contained just by a collection and/or any of the collection's containers
+* Collections and containers can contain an unlimited number of items
 
 ### Captures
-* Captures are attached to Item records
-* Each Capture can have a single corresponding image, video, or audio asset
-* An Item can have zero or an unlimited number of Captures
+* Captures are attached to item records
+* Each capture can have a single corresponding image, video, or audio asset
+* An item can have zero or an unlimited number of captures
 * Capture records do not have [MODS elements](/metadata-documentation/metadata/element/) associated with other record types
-* Besides system-generated fields, Captures have two editable fields:
+* Besides system-generated fields, captures have two editable fields:
     * **Name**: typically the same as the image ID generated during digitization process, but can be manually edited if deemed necessary
     * **Relationship**: a drop-down menu of values that can provide detail about what the capture is or how it relates to the item
 
