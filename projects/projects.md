@@ -65,7 +65,7 @@ Last updated September 2023
 
 Last updated September 2023
 {: .float-right .fs-2 .text-grey-dk-000 }
-### Friedman-Abeles Project: Legacy Digitization Title Updates + Name Subject Adds 
+### Friedman-Abeles Project: Legacy Digitization Title Updates & Name Subject Adds 
 
 | Dates | beginning June 2020 |
 | Collaborators | Billy Rose Theatre Division (Jeremy M., Steve M., Charlie M. and Brendan L.) with assistance from Tom L. and [PAMI](/metadata-documentation/resources/glossary/#preservation-of-audio-moving-image) staff |
