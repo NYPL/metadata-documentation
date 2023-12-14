@@ -259,12 +259,12 @@ Required if Not Inherited
 
 | Data to Be Imported | Column Header | Usage Note |
 |:------------------- |:------------- |:---------- |
-| Single date - year | originInfo_datesingleyear |  |
-| Single date - month | originInfo_datesinglemonth |  |
-| Single date - day | originInfo_datesingleday |  |
-| Single date - BCE | originInfo_datesinglebcyear | Use this field for BCE dates |
-| Single date - qualifier | originInfo_datesinglequalifier |  |
-| Single date - key date? | originInfo_datesinglekeydate | Any non-blank value will indicate a date as the key date, and only one key date can be indicated per item |
+| Single date: year | originInfo_datesingleyear |  |
+| Single date: month | originInfo_datesinglemonth |  |
+| Single date: day | originInfo_datesingleday |  |
+| Single date: BCE | originInfo_datesinglebcyear | Use this field for BCE dates |
+| Single date: qualifier | originInfo_datesinglequalifier |  |
+| Single date: key date? | originInfo_datesinglekeydate | Any non-blank value will indicate a date as the key date, and only one key date can be indicated per item |
 
 - Select from the start date and end date fields if the date of a resource is provided as range or you are uncertain about the point in time a resource was created or issued
 
