@@ -8,6 +8,18 @@ nav_order: 5
 nav_exclude: true
 ---
 
+<style>
+table th:first-of-type {
+    width: 33%;
+}
+table th:nth-of-type(2) {
+    width: 33%;
+}
+table th:nth-of-type(3) {
+    width: 33%;
+}
+</style>
+
 # Importing CSV Data
 {: .no_toc }
 
