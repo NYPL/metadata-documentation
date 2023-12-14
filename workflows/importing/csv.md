@@ -62,70 +62,104 @@ The requirements indicated here refer to the technical requirements for your CSV
 Required
 {: .d-inline .v-align-middle .label .label-blue .mx-1 }
 
-TK
+- Populate an **item_number** column with a unique, sequential number for each item
+  - Enter `1` for the first row
+  - Add additional rows containing sequential numbers (`1`, `2`, `3`, `4`…) to correspond to the number of items you wish to create
 
 ### Captures
 {: .d-inline .v-align-middle .mr-2 }
 Required
 {: .d-inline .v-align-middle .label .label-blue .mx-1 }
 
-TK
+- Populate a captures column with the header that corresponds to the method appropriate for your needs:
+  - By number of captures per item:
+    - Start with the [template based on number of captures per item](/metadata-documentation/workflows/importing/csv/mms_template_for_cap_num.csv)
+    - Populate the **cap_num** column with the number of captures for each item in the corresponding row
+      - The **cap_num** value can be zero if you do not wish to add any captures to the item
+    - The **item_number** column should increase by an increment of one for each row (i.e., `1`, `2`, `3`, `4`…) as each row represents a single item
+  - By identifier associated with each capture:
+    - Start with the [template based on identifier associated with each capture (one capture per row)](/metadata-documentation/workflows/importing/csv/mms_template_for_cap_ids.csv)
+    - Populate a **cap_iden** column to add each capture identifier to its own row
+      - Enter capture identifiers in sequence
+    - Adjust the **item_number** column to indicate how captures are grouped together by repeating numbers for captures that correspond to a single item
+      - For example, three items with two captures each can be configured with six rows, with the item numbers `1`, `1`, `2`, `2`, `3`, `3`
+      - Enter values for additional fields in the first row that corresponds to a particular item number as the data does not need to be repeated for each capture
 
 ### Identifier
 {: .d-inline .v-align-middle .mr-2 }
 Required if Not Inherited
 {: .d-inline .v-align-middle .label .label-blue .mx-1 }
-[View Full MSU Documentation for Element →]()
+[View Full MSU Documentation for Element →](/metadata-documentation/metadata/element/identifier/)
 {: .d-inline .v-align-middle .text-zeta .ml-2 }
 
-TK
+- Populate an identifier column with the header that corresponds to the [type of identifier](/metadata-documentation/metadata/element/identifier/#type) you wish to add for each item
 
 ### Title
 {: .d-inline .v-align-middle .mr-2 }
 Required
 {: .d-inline .v-align-middle .label .label-blue .mx-1 }
-[View Full MSU Documentation for Element →]()
+[View Full MSU Documentation for Element →](/metadata-documentation/metadata/element/title/)
 {: .d-inline .v-align-middle .text-zeta .ml-2 }
 
-TK
+- Populate a **titleInfo_title** column with the [title](/metadata-documentation/metadata/element/title/#title-1) for each item
+  - Add additional columns as needed to provide additional title fields, such as [subtitle](/metadata-documentation/metadata/element/title/#subtitle) **(titleInfo_subTitle**), [part number](/metadata-documentation/metadata/element/title/#part-number) (**titleInfo_partNumber**), and [part name](/metadata-documentation/metadata/element/title/#part-name) (**titleInfo_partName**)
 
 ### Location
 {: .d-inline .v-align-middle .mr-2 }
 Required if Not Inherited
 {: .d-inline .v-align-middle .label .label-blue .mx-1 }
-[View Full MSU Documentation for Element →]()
+[View Full MSU Documentation for Element →](/metadata-documentation/metadata/element/location/)
 {: .d-inline .v-align-middle .text-zeta .ml-2 }
 
-TK
+- Populate a **location_division** column with the [Library division](/metadata-documentation/metadata/element/location/#nypl-divisioncollection) that owns each item
+  - Use the division's three-letter code from the [Organizational Unit code list](http://metadata.nypl.org/org_units/list), e.g. `THE` for the `Billy Rose Theatre Division`
+  - If the [Location](/metadata-documentation/metadata/element/location/) element is set to be inherited from a parent record, you do not need to include a **location_division** column in the CSV file
+  - If no **location_division** is provided and the item does not inherit its [Location](/metadata-documentation/metadata/element/location/) from a parent record, the item will be imported with the location `UNK`
+- Populate a **location_shelfLocator** column with the [call number or shelf locator](/metadata-documentation/metadata/element/location/#call-number--shelf-locator) information for the item
+  - **location_division** is required in order to use **location_shelfLocator**
 
 ### Type of Resource
 {: .d-inline .v-align-middle .mr-2 }
 Required if Not Inherited
 {: .d-inline .v-align-middle .label .label-blue .mx-1 }
-[View Full MSU Documentation for Element →]()
+[View Full MSU Documentation for Element →](/metadata-documentation/metadata/element/type-of-resource/)
 {: .d-inline .v-align-middle .text-zeta .ml-2 }
 
-TK
+- Populate a **typeOfResource_value** column with the type of resource for each item
+  - Add additional columns as needed to indicate attributes, such as whether the type of resource should be marked as [primary](/metadata-documentation/metadata/element/type-of-resource/#primary) (**typeOfResource_usage**), a [manuscript](/metadata-documentation/metadata/element/type-of-resource/#manuscript) (**typeOfResource_manuscript**), or a [collection](/metadata-documentation/metadata/element/type-of-resource/#collection) (**typeOfResource_collection**)
 
 ### Date
 {: .d-inline .v-align-middle .mr-2 }
 Required if Not Inherited
 {: .d-inline .v-align-middle .label .label-blue .mx-1 }
-[View Full MSU Documentation for Element →]()
+[View Full MSU Documentation for Element →](/metadata-documentation/metadata/element/origin-info/#date)
 {: .d-inline .v-align-middle .text-zeta .ml-2 }
 
-TK
+- Populate the appropriate date columns for each item
+  - Columns containing date fields must be grouped together
+  - The first column in the group must be **originInfo_datetype**
+  - Each instance of **originInfo_datetype** triggers the creation of a new date
+  - Columns relevant to a single date or a date range should follow **originInfo_datetype**
+  - Each date must include a year
+  - If the date is not a valid date, the information will import as free text rather than encoded
+    - Examples of invalid dates include dates that are in the future (e.g., the year `2026`) and dates that do not exist in the calendar (e.g., `1876-02-31`)
+- If you are working with items that have multiple dates, discuss with the [Manager, Metadata Services](/metadata-documentation/contact/), before proceeding further
 
 ### Note
 {: .d-inline .v-align-middle .mr-2 }
-[View Full MSU Documentation for Element →]()
+[View Full MSU Documentation for Element →](/metadata-documentation/metadata/element/note/)
 {: .d-inline .v-align-middle .text-zeta .ml-2 }
 
-TK
+- Populate a **note** and **note_type** column for each item
+  - See the [Note Type](/metadata-documentation/metadata/element/note/#type) attribute for a link to a list of note types
+  - Only one note can be added during a CSV import
 
 ### Parent Record
 {: .d-inline .v-align-middle .mr-2 }
 Required if Not Specified in CSV Import Form
 {: .d-inline .v-align-middle .label .label-blue .mx-1 }
 
-TK
+- Populate a **parent_uuid** column to indicate the [UUID](/metadata-documentation/resources/glossary/#universally-unique-identifier) of the parent collection or container record where each item should be located
+  - Providing parent records in the CSV is required when importing items into different locations, such as different containers within a parent collection
+  - Parent records must already exist within MMS before the CSV import
+- If there is no **parent_uuid** column in your CSV file, you must enter the UUID of the parent collection or container record in the upload form under **Step 3: Enter Parent UUID**
