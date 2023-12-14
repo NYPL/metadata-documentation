@@ -8,4 +8,6 @@ has_children: true
 ---
 
 # Importing Metadata
+{: .no_toc }
+
 These pages describe different methods of importing metadata into the Metadata Management System (MMS) from other sources used by the Library to manage description
