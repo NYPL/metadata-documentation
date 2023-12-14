@@ -10,13 +10,13 @@ nav_exclude: true
 
 <style>
 table th:first-of-type {
-    width: 33%;
+    width: 33% !important;
 }
 table th:nth-of-type(2) {
-    width: 33%;
+    width: 33% !important;
 }
 table th:nth-of-type(3) {
-    width: 33%;
+    width: 33% !important;
 }
 </style>
 
