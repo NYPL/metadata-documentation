@@ -5,6 +5,15 @@ permalink: /projects/
 nav_order: 6
 ---
 
+<style>
+table th:first-of-type {
+    width: 20px;
+}
+table th:nth-of-type(2) {
+    width: 20px;
+}
+</style>
+
 {: .highlight-title }
 > 🚧 Under Construction
 >
@@ -96,7 +105,7 @@ Last updated September 2023
 
 | Dates | beginning June 2023 |
 | Collaborators | Bob K. (Music Division), David L. (Photography Collection) |
-| Related Links | [WikiProject](https://www.wikidata.org/wiki/Wikidata:WikiProject_New_York_Public_Library){: .btn } [Slack 🔒](https://nyplpscp.slack.com/archives/C05C3EMCBL7){: .btn } |
+| Related Links | [WikiProject](https://www.wikidata.org/wiki/Wikidata:WikiProject_New_York_Public_Library){: .btn } [Google Group 🔒](https://groups.google.com/a/nypl.org/g/wikidata){: .btn } [Slack 🔒](https://nyplpscp.slack.com/archives/C05C3EMCBL7){: .btn } |
 
 #### Overview
 {: .no_toc }
@@ -113,13 +122,13 @@ Last updated September 2023
 ### DEIA in Collections: Collections Access Working Group
 
 | Dates | beginning February 2023 |
-| Collaborators | see [Lair 🔒](https://lair.nypl.org/-/departments/internal-affairs/human-resources/diversity-equity-inclusion-access-at-nypl/deia-in-collections#:~:text=assess%20new%20acquisitions.-,Collections%20Access,-Chairs%3A%20Liz%20Muller) |
-| Related Links | [Lair 🔒](https://lair.nypl.org/-/departments/internal-affairs/human-resources/diversity-equity-inclusion-access-at-nypl/deia-in-collections#:~:text=assess%20new%20acquisitions.-,Collections%20Access,-Chairs%3A%20Liz%20Muller){: .btn } |
+| Collaborators | see [Lair 🔒](https://lair.nypl.org/-/departments/internal-affairs/human-resources/diversity-equity-inclusion-access-at-nypl/deia-in-collections#:~:text=assess%20new%20acquisitions.-,Collections%20Access,-Chairs%3A%20Barrye%20Brown) |
+| Related Links | [Lair 🔒](https://lair.nypl.org/-/departments/internal-affairs/human-resources/diversity-equity-inclusion-access-at-nypl/deia-in-collections#:~:text=assess%20new%20acquisitions.-,Collections%20Access,-Chairs%3A%20Barrye%20Brown){: .btn } |
 
 #### Overview
 {: .no_toc }
 
-- The Manager, Metadata Services, is a member of the [Collections Access Working Group](https://lair.nypl.org/-/departments/internal-affairs/human-resources/diversity-equity-inclusion-access-at-nypl/deia-in-collections#:~:text=assess%20new%20acquisitions.-,Collections%20Access,-Chairs%3A%20Liz%20Muller), which evolved out of the DEIA in Collections working group initiated in 2021
+- The Manager, Metadata Services, is a member of the [Collections Access Working Group](https://lair.nypl.org/-/departments/internal-affairs/human-resources/diversity-equity-inclusion-access-at-nypl/deia-in-collections#:~:text=assess%20new%20acquisitions.-,Collections%20Access,-Chairs%3A%20Barrye%20Brown), which evolved out of the DEIA in Collections working group initiated in 2021
 - The group is working to incorporate the principles of DEIA collecting into the ways our holdings are digitized and deployed
 - Building on the work of projects like Change the Subject, staff will interrogate the history and legacy of descriptive practices and recommend changes for the future, while also reviewing our ongoing digitization efforts that focus on DEIA work and how we promote the collections we have described and digitized through reference resources and outreach like LibGuides and blogs
 
@@ -130,7 +139,7 @@ Last updated September 2023
 ### Links to NYPL Digital Collections from Catalog
 
 | Dates | beginning December 2021 (initial refresh occurred between January–September 2022) |
-| Collaborators | ILS Team (Aaron D., Antonio S.); Special Collections Processing, BookOps |
+| Collaborators | ILS Team (Aaron D., Antonio S.); Special Collections Processing; BookOps |
 | Related Links | [metadata-tools 🔒](https://github.com/NYPL/metadata-projects/tree/main/ongoing/bnumber-links-to-dc){: .btn } [Data Supplied to ILS Team 🔒](https://drive.google.com/drive/folders/1ktPZqRYoIv0yJIWTwLDeRhM766GKaDU7?usp=sharing){: .btn } [MMS › Workflows / Linking Between Systems / Research Catalog](/metadata-documentation/workflows/linking/#research-catalog){: .btn } [MMS › Metadata / By Element / Identifier / NYPL catalog ID (B-number)](/metadata-documentation/metadata/element/identifier/bnumber/){: .btn } |
 
 #### Overview
@@ -169,7 +178,7 @@ Last updated September 2023
 
 | Dates | beginning April 2022 |
 | Collaborators | DEIA in Collections: Collections Access Working Group; Digital Collections Services; Curatorial Divisions |
-| Related Links | [General Guidelines › Inclusive and Reparative Description](/metadata-documentation/metadata/guidelines/#inclusive-and-reparative-description); [NYPL’s Statement on Potentially Harmful Content](https://digitalcollections.nypl.org/about#nypl_harmful_content_statement) |
+| Related Links | [General Guidelines › Inclusive and Reparative Description](/metadata-documentation/metadata/guidelines/#inclusive-and-reparative-description); [NYPL's Statement on Potentially Harmful Content](https://digitalcollections.nypl.org/about#nypl_harmful_content_statement) |
 
 #### Overview
 {: .no_toc }
