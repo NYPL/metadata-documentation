@@ -62,7 +62,7 @@ _The individual parsed parts that together make up the full name_
         - Virtual International Authority File (VIAF)
         - Free text
     - To verify a result is correct, click the linked **Authorized Term** to view the corresponding record in the source authority
-    - Once you have confirmed the correct result, click the **Use this term button**
+    - Once you have confirmed the correct result, click the **Use this term** button
     - Selecting a name from the MMS authorities module automatically populates the **Name Part** subelement and the **Type**, **Authority**, and **Value URI** attributes
 - If you are not receiving the result you expect by searching the MMS authorities module, try searching the [Library of Congress Linked Data Service](https://id.loc.gov/)
     - It is possible that the name you are searching exists in the [Library of Congress Linked Data Service](https://id.loc.gov/) but does not exist in the MMS authorities module
@@ -72,7 +72,7 @@ _The individual parsed parts that together make up the full name_
     - Select the radio button for **Free text**
     - If the authority exists in LCNAF but it is not appearing for selection from the MMS authorities module, input the LCNAF label manually
     - If the authority exists in VIAF:
-        - Input the name as it been used in an NYPL catalog record
+        - Input the name as it has been used in an NYPL catalog record
         - If no NYPL catalog record with that name exists, select and input a name string from VIAF that most closely adheres to <a href="#lc-name-guidelines">LC name formatting guidelines</a>
         - If none of the VIAF labels meet this criteria, construct and input the name according to <a href="#lc-name-guidelines">LC name formatting guidelines</a>
     - If a name does not appear in LC or VIAF, construct and input the name according to <a href="#lc-name-guidelines">LC name formatting guidelines</a>
