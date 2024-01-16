@@ -52,7 +52,7 @@ The Metadata Service Unit (MSU) has a policy that all metadata in NYPL Digital C
   - If you wish to address description transcribed directly from the resource (e.g a title or caption written by the resource’s creator that is visible in the digitized content), see [Addressing Description in Transcribed Elements](#addressing-description-in-transcribed-elements)
   - If you wish to address description created by Library staff, see [Addressing Description Created by Library Staff](#addressing-description-created-by-library-staff)
 - For the workflow related to resources that depict harmful or graphic content ("content"), see [Addressing Harmful Content](#addressing-harmful-content)
-- For workflows related to the intentional creation of new metadata grounded in best practices developed to minimize bias and harm, see [Creating Inclusive Metadata](#creating-inclusive-metadata)
+- For workflows related to the intentional creation of new metadata grounded in best practices developed to minimize bias and harm, see [Inclusive Metadata](#inclusive-metadata)
 
 #### Addressing Description in Transcribed Elements
 - Determine which [metadata element](/metadata-documentation/metadata/element/) contains the transcribed harmful, biased, offensive, outdated, or inaccurate description and follow the corresponding steps
@@ -75,7 +75,6 @@ The Metadata Service Unit (MSU) has a policy that all metadata in NYPL Digital C
 >
 > The official caption of a photograph incorrectly identified the people in the photograph:
 > [https://metadata.nypl.org/items/4951434?section=desc_md 🔒](https://metadata.nypl.org/items/4951434?section=desc_md)
-
 
 {: .note-title }
 > Example
