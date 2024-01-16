@@ -15,7 +15,7 @@ nav_exclude: true
 
 # Exhibitions
 
-## Process and Guidance
+## Process & Guidance
 [📄 Exhibitions: process and guidance](https://docs.google.com/document/d/1PUz_SIB0Xs2zCQHOsRJSwUEVXMPKTZt-ZNYxUWXD34o/edit){: .btn }
 
 ## Checklist
