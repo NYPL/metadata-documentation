@@ -31,36 +31,11 @@ A word, phrase, character, or group of characters, normally appearing in a resou
 - If no title appears on the resource, devise a unique and descriptive title
     - Briefly describe the nature of resource, e.g. a map, or the subject of the resource, or both
     - Choice and format of title elements should be governed by the relevant [content standard](/metadata-documentation/metadata/guidelines/#content-standards)
-    - Use [inclusive descriptive practices](/metadata-documentation/metadata/inclusive-reparative)
+    - Use [inclusive descriptive practices](/metadata-documentation/metadata/inclusive-reparative/)
     - See [By Material](/metadata-documentation/metadata/material/) and [By Division](/metadata-documentation/metadata/division/) for guidelines on constructing titles specific to corresponding resources
 
-## Workflows
-
-### Addressing Incorrect or Offensive Titles
-
-The following workflow details how to provide new titles for resources that have titles that are incorrect, offensive, not descriptive, or have other issues, while maintaining a record of the source of the original title and why it has been deprecated
-
-1. Add a new **Title** element that addresses the issues in the original **Title** element (see [Guidelines](#guidelines))
-    1. If correcting only a specific portion of the text, enclose the corrected text in brackets, e.g. "[their]" to replace "[thier]"
-    1. Check **Primary** and **Supplied** for the new **Title** element
-1. In the original **Title** element:
-    1. Uncheck **Primary**
-    1. In the **Part Name** box, enter the source of the original title in square brackets (i.e. "[caption title]")
-1. If further clarification is needed about the original or updated title, add a [Note](/metadata-documentation/metadata/element/note/) with type **Content**
-
-{: .note-title }
-> Example
->
-> The official caption of a photograph incorrectly identified the people in the photograph:
-> [https://metadata.nypl.org/items/4951434?section=desc_md 🔒](https://metadata.nypl.org/items/4951434?section=desc_md)
-
-
-{: .note-title }
-> Example
->
-> The division wished to add a more descriptive title than what appeared on the image:
-> [https://metadata.nypl.org/items/6232674?section=desc_md 🔒](https://metadata.nypl.org/items/6232674?section=desc_md)
-
+{: .note }
+> See [Reparative Description › Workflows (For MSU Staff)](/metadata-documentation/metadata/inclusive-reparative/#addressing-transcribed-title-elements) for workflows to follow in the event the **Title** element is found to be harmful, biased, offensive, outdated, or inaccurate.
 
 ## Subelements
 
