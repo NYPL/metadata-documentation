@@ -72,7 +72,7 @@ The Metadata Management System (MMS) supports four types of records that contain
       | -- Item
 ```
 
-### Collection with Both Containers and Items
+### Collection with Both Containers & Items
 ```
 | -- Collection
    | -- Container
