@@ -23,7 +23,7 @@ This page provides context and workflows that support inclusive and reparative d
   - Reparative description: the remediation of existing metadata that is harmful, biased, offensive, outdated, or inaccurate
 - In addition to the general workflows and best practices described below, the MSU leads and participates in several [Projects](/metadata-documentation/projects/) related to inclusive and reparative description
 
-## Workflows (For Non-MSU Staff)
+## Reparative Workflows (For Non-MSU Staff)
 
 {: .note }
 The Metadata Service Unit (MSU) has a policy that all metadata in NYPL Digital Collections (DC) and Metadata Management System (MMS) is consistent with any corresponding description that exists in other Library systems. If harmful description or content found in DC/MMS also exists in other Library systems (i.e. catalog records, finding aids, or TMS records), MSU will work with you to ensure updates are made in those other systems first. If a source record has already been updated in another Library system that corresponds to digitized material in DC/MMS, let us know via our [contact form](/metadata-documentation/contact/form/).
@@ -42,7 +42,7 @@ The Metadata Service Unit (MSU) has a policy that all metadata in NYPL Digital C
       - Adding additional contextual notes, especially when subject expertise is needed
       - Suppressing content
 
-## Workflows (For MSU Staff)
+## Reparative Workflows (For MSU Staff)
 
 - For workflows related to language used to describe material that is harmful, biased, offensive, outdated, or inaccurate ("description"), determine which of the following workflows is applicable:
   - If you wish to address description transcribed directly from the resource (e.g a title or caption written by the resource’s creator that is visible in the digitized content), see [Addressing Description in Transcribed Elements](#addressing-description-in-transcribed-elements)
