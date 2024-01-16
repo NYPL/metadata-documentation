@@ -25,7 +25,7 @@ Provides an overview of reviewing feedback relating to metadata in the Metadata 
   - **DC Feedback Form**: clicking the **Feedback** button in the lower right corner of any page on [NYPL Digital Collections](https://digitalcollections.nypl.org/)
   - **Metadata Reporting Form**: submitted via [Metadata Reporting Form](/metadata-documentation/contact/form/)
   - **Email**: received at metadata [at] nypl [dot] org or by an individual MSU staff member and forwarded to ClickUp
-    - To forward emails to ClickUp via a personalized forwarding address
+    - To forward metadata feedback emails to ClickUp via a personalized forwarding address
         - Navigate to [Metadata Services › Remediation Projects › Metadata Feedback 🔒](https://app.clickup.com/2305128/v/gr/26b38-7748) in ClickUp
         - Click the **•••** next to **Metadata Feedback**
         - Click **✉ Email to List**
