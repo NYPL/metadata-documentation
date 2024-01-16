@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Deleting Records and Captures
+title: Deleting Records & Captures
 permalink: /workflows/remediation/deleting/
 parent: Remediation
 grand_parent: MMS › Workflows
