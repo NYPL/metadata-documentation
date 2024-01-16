@@ -66,7 +66,7 @@ If a link to or from Digital Collections is absent or broken, please let us know
 <dd><tt><a href="https://archives.nypl.org/the/21423">https://archives.nypl.org/<span style="background: #ffcc99; border: 1px solid #5c5962;">the</span>/<span style="background: #ccccff; border: 1px solid #5c5962;">21423</span></a></tt></dd>
 </dl>
 
-#### Via Archives EAD ID and Archives Components ID
+#### Via Archives EAD ID & Archives Components ID
 - When an [Archives EAD ID](https://nypl.github.io/metadata-documentation/metadata/element/identifier/#archives-ead-id) is present on an MMS item, the **Archives EAD ID** link will automatically appear on that item's page on DC
     - From an item view, the **Archives EAD ID** link can be found towards the end of the descriptive metadata in the **Identifiers** section as **Archives EAD ID**
     - Clicking the link will take you to the item's finding aid component in the Archives Portal and will resolve to a URL that uses the [Archives components id](/metadata-documentation/metadata/element/identifier/other-local/#archives-components-id)
