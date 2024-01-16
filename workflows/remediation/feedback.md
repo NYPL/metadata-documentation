@@ -66,6 +66,5 @@ Provides an overview of reviewing feedback relating to metadata in the Metadata 
 > The steps for routing feedback tasks can be found in [metadata-admin 🔒](https://github.com/NYPL/metadata-admin/blob/main/clickup.md#metadata-feedback).
 
 ### See Also
-- [Addressing Incorrect or Offensive Titles](/metadata-documentation/metadata/element/title/#addressing-incorrect-or-offensive-titles) for instructions on providing new titles for resources that have titles that are incorrect, offensive, not descriptive, or have other issues
 - [Inclusive and Reparative Description](/metadata-documentation/metadata/inclusive-reparative/) for guidance on how to create or update metadata according to relevant best practices
 - [Search by Image](https://chrome.google.com/webstore/detail/search-by-image/cnojnbdhbhnkbcieeekonklommdnndci) to install a Chrome browser extension that allows you to perform reverse image searches, which may be useful for researching images that are the subject of metadata feedback
