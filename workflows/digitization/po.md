@@ -29,7 +29,7 @@ Provides an overview of the workflow for Public Orders (POs), particularly in re
     - See [Metadata Liaisons and Contacts 🔒](https://docs.google.com/spreadsheets/d/1P-YDJigon640fTCLP4Ig4-zmzqrX88v5M24ShuxFNVY/edit#gid=0&range=F2:F37) to identify who should create metadata records for POs for each division
 Steps
 
-### Requesting Metadata Creation (For PRS Staff)
+## Requesting Metadata Creation (For PRS Staff)
 
 {: .note }
 Before requesting metadata creation, ensure your ClickUp settings are configured to assign you as a watcher to tasks you create in [your notification settings 🔒](https://app.clickup.com/2305128/settings/notifications). Under **Watcher settings: When do you want to be added as a watcher on a task?**, check that **When I create a task or subtask** is selected.
@@ -51,7 +51,7 @@ Before requesting metadata creation, ensure your ClickUp settings are configured
     1. Has the person who requested the metadata added to the ClickUp task as a watcher
 1. The request will appear in [New Digitization Tracking 🔒](https://app.clickup.com/2305128/v/l/6-164664866-1?pr=18903295) in the **Create Metadata** section
 
-### Metadata Creation (For MSU Staff)
+## Metadata Creation (For MSU Staff)
 1. Monitor your [ClickUp notifications 🔒](https://app.clickup.com/2305128/notifications) and [Metadata Services › New Digitization › New Digitization Tracking 🔒](https://app.clickup.com/2305128/v/l/6-164664866-1) for metadata creation tasks that have been assigned to you
     1. Incoming PO metadata requests will have a task name that begins with PO and the status of **Create Metadata**
 1. Review the task description to determine what item(s) need to be created in MMS
@@ -77,7 +77,7 @@ Before requesting metadata creation, ensure your ClickUp settings are configured
     1. Add a comment to the ClickUp task, noting that metadata has been created and including an @ tag of the requesting PRS staff member's name so they receive a notification
     1. Toggle the ClickUp task **Status** to **In Progress**
 
-### Post-Metadata Creation
+## Post-Metadata Creation
 - The next steps following metadata creation include:
     - PRS staff creates the corresponding [Work Order (WO)](/metadata-documentation/workflows/digitization/wos/) and assigns capture identifiers
     - PRS staff coordinate shipment of material to DIS
