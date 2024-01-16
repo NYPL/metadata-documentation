@@ -4,7 +4,7 @@ title: Deleting Records and Captures
 permalink: /workflows/remediation/deleting/
 parent: Remediation
 grand_parent: MMS › Workflows
-nav_order: 5
+nav_order: 4
 nav_exclude: true
 ---
 
