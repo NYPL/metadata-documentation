@@ -8,7 +8,7 @@ nav_order: 3
 
 <style>code { white-space : pre-wrap !important; word-break: break-word; }</style>
 
-# Inclusive and Reparative Description
+# Inclusive & Reparative Description
 {: .no_toc }
 
 This page provides context and workflows that support inclusive and reparative description in the context of the Metadata Management System (MMS)
