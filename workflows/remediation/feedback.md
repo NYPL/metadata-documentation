@@ -41,7 +41,7 @@ Provides an overview of reviewing feedback relating to metadata in the Metadata 
    1. Was the metadata transcribed or supplied?
    1. Does the same metadata exist elsewhere in MMS/DC?
    1. Is it appropriate to contact [division staff](https://docs.google.com/spreadsheets/d/1P-YDJigon640fTCLP4Ig4-zmzqrX88v5M24ShuxFNVY/edit) for guidance or confirmation?
-   1. Is there any relevant MSU documentation to consult, i.e. [Addressing Incorrect or Offensive Titles](/metadata-documentation/metadata/element/title/#addressing-incorrect-or-offensive-titles) and [Inclusive and Reparative Description](/metadata-documentation/metadata/guidelines/#inclusive-and-reparative-description)?
+   1. Is there any relevant MSU documentation to consult, i.e. [Addressing Incorrect or Offensive Titles](/metadata-documentation/metadata/element/title/#addressing-incorrect-or-offensive-titles) and [Inclusive and Reparative Description](/metadata-documentation/metadata/inclusive-reparative/)?
 1. If you determine that metadata should _not_ be updated:
    1. Add a comment to the ClickUp task, noting that feedback has been reviewed and include your reasoning as to why no action was deemed necessary
    1. Toggle the ClickUp task **Status** to **Closed**
@@ -62,5 +62,5 @@ Provides an overview of reviewing feedback relating to metadata in the Metadata 
 
 ### See Also
 - [Addressing Incorrect or Offensive Titles](/metadata-documentation/metadata/element/title/#addressing-incorrect-or-offensive-titles) for instructions on providing new titles for resources that have titles that are incorrect, offensive, not descriptive, or have other issues
-- [Inclusive and Reparative Description](/metadata-documentation/metadata/guidelines/#inclusive-and-reparative-description) for guidance on how to create or update metadata according to relevant best practices
+- [Inclusive and Reparative Description](/metadata-documentation/metadata/inclusive-reparative/) for guidance on how to create or update metadata according to relevant best practices
 - [Search by Image](https://chrome.google.com/webstore/detail/search-by-image/cnojnbdhbhnkbcieeekonklommdnndci) to install a Chrome browser extension that allows you to perform reverse image searches, which may be useful for researching images that are the subject of metadata feedback
