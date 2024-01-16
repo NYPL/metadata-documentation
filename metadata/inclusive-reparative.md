@@ -6,6 +6,8 @@ parent: MMS › Metadata
 nav_order: 3
 ---
 
+<style>code { white-space : pre-wrap !important; word-break: break-word; }</style>
+
 # Inclusive and Reparative Description
 {: .no_toc }
 
