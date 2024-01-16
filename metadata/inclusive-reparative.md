@@ -23,7 +23,9 @@ This page provides context and workflows that support inclusive and reparative d
   - Reparative description: the remediation of existing metadata that is harmful, biased, offensive, outdated, or inaccurate
 - In addition to the general workflows and best practices described below, the MSU leads and participates in several [Projects](/metadata-documentation/projects/) related to inclusive and reparative description
 
-## Reparative Workflows (For Non-MSU Staff)
+## Reparative Description
+
+### Workflows (For Non-MSU Staff)
 
 {: .note }
 The Metadata Service Unit (MSU) has a policy that all metadata in NYPL Digital Collections (DC) and Metadata Management System (MMS) is consistent with any corresponding description that exists in other Library systems. If harmful description or content found in DC/MMS also exists in other Library systems (i.e. catalog records, finding aids, or TMS records), MSU will work with you to ensure updates are made in those other systems first. If a source record has already been updated in another Library system that corresponds to digitized material in DC/MMS, let us know via our [contact form](/metadata-documentation/contact/form/).
@@ -42,7 +44,7 @@ The Metadata Service Unit (MSU) has a policy that all metadata in NYPL Digital C
       - Adding additional contextual notes, especially when subject expertise is needed
       - Suppressing content
 
-## Reparative Workflows (For MSU Staff)
+### Workflows (For MSU Staff)
 
 - For workflows related to language used to describe material that is harmful, biased, offensive, outdated, or inaccurate ("description"), determine which of the following workflows is applicable:
   - If you wish to address description transcribed directly from the resource (e.g a title or caption written by the resource’s creator that is visible in the digitized content), see [Addressing Description in Transcribed Elements](#addressing-description-in-transcribed-elements)
@@ -50,12 +52,12 @@ The Metadata Service Unit (MSU) has a policy that all metadata in NYPL Digital C
 - For the workflow related to resources that depict harmful or graphic content ("content"), see [Addressing Harmful Content](#addressing-harmful-content)
 - For workflows related to the intentional creation of new metadata grounded in best practices developed to minimize bias and harm, see [Creating Inclusive Metadata](#creating-inclusive-metadata)
 
-### Addressing Description in Transcribed Elements
+#### Addressing Description in Transcribed Elements
 - Determine which [metadata element](/metadata-documentation/metadata/element/) contains the transcribed harmful, biased, offensive, outdated, or inaccurate description and follow the corresponding steps
   - [Title](#addressing-transcribed-title-elements)
   - [Non-Title Elements](#addressing-transcribed-non-title-elements) (e.g., Abstract or Note)
 
-#### Addressing Transcribed Title Elements
+##### Addressing Transcribed Title Elements
 
 1. Add a new **Title** element that addresses the issues in the original **Title** element (see [Title element guidelines](/metadata-documentation/metadata/element/title/#guidelines))
    1. If correcting only a specific portion of the text, enclose the corrected text in brackets, e.g. "[their]" to replace "thier"
@@ -79,12 +81,12 @@ The Metadata Service Unit (MSU) has a policy that all metadata in NYPL Digital C
 > The division wished to add a more descriptive title than what appeared on the image:
 > [https://metadata.nypl.org/items/6232674?section=desc_md 🔒](https://metadata.nypl.org/items/6232674?section=desc_md)
 
-#### Addressing Transcribed Non-Title Elements
+##### Addressing Transcribed Non-Title Elements
 
 1. Ensure the transcribed description is clearly contextualized and attributed
 1. [Add a harmful description note](#adding-a-harmful-description-note)
 
-### Addressing Description Created by Library Staff
+#### Addressing Description Created by Library Staff
 
 1. Determine which of the following criteria applies and follow the corresponding steps:
    1. Description was created by Library staff and matches description from the finding aid, [add a harmful description note](#adding-a-harmful-description-note)
@@ -102,7 +104,7 @@ The Metadata Service Unit (MSU) has a policy that all metadata in NYPL Digital C
          1. [Revise the metadata](#revising-harmful-description)
       1. If the MMS/DC record _will not_ be updated, [add a harmful description note](#adding-a-harmful-description-note)
 
-### Adding a Harmful Description Note
+#### Adding a Harmful Description Note
 
 1. Add a new **Note** element by copying and pasting the following text:
 ```
@@ -112,7 +114,7 @@ This record may contain language that is harmful, inaccurate, or outdated. For m
    1. If the above text does not seem applicable, discuss with the [Manager, Metadata Services](/metadata-documentation/contact/#our-team)
    1. For the note **Type**, select **content**
 
-### Revising Harmful Description
+#### Revising Harmful Description
 
 1. Confirm you have met all the requirements necessary to revise metadata in MMS
    - Description was created by Library staff
@@ -124,7 +126,7 @@ This record may contain language that is harmful, inaccurate, or outdated. For m
 1. If further clarification is needed about the original or updated metadata, add a [Note](/metadata-documentation/metadata/element/note/)
    1. For the note **Type**, select **content**
 
-### Addressing Harmful Content
+#### Addressing Harmful Content
 
 1. Consult with [division staff 🔒](https://docs.google.com/spreadsheets/d/1P-YDJigon640fTCLP4Ig4-zmzqrX88v5M24ShuxFNVY/edit#gid=0\&range=F2:F37) if you encounter harmful, difficult, or offensive content on MMS/DC or it is [reported](/metadata-documentation/workflows/remediation/feedback/) to you
    1. Division staff may request one or both of the following steps:
@@ -145,7 +147,7 @@ This record may contain language that is harmful, inaccurate, or outdated. For m
    1. If the above text does not seem applicable, discuss with the [Manager, Metadata Services](/metadata-documentation/contact/#our-team)
 1. For the note **Type**, select **content**
 
-## Creating Inclusive Description
+## Inclusive Description
 
 ### Describing People
 
