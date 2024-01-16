@@ -53,7 +53,7 @@ Last updated September 2023
 
 Last updated September 2023
 {: .float-right .fs-2 .text-grey-dk-000 }
-### Name Element and Name Subject URIs
+### Name Element & Name Subject URIs
 
 | Dates | beginning August 2020 |
 | Collaborators | Access Services; SASB Periodicals Section; General Humanities Operations; Preservation of Audio and Moving Image |
@@ -174,7 +174,7 @@ Last updated November 2023
 
 Last updated September 2023
 {: .float-right .fs-2 .text-grey-dk-000 }
-### Inclusive and Reparative Description
+### Inclusive & Reparative Description
 
 | Dates | beginning April 2022 |
 | Collaborators | DEIA in Collections: Collections Access Working Group; Digital Collections Services; Curatorial Divisions |
