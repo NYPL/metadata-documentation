@@ -22,8 +22,8 @@ search_exclude: true
 {:toc}
 
 ## Acronyms
-- Always write out the first time a name appears on a page with acronym in brackets, i.e. "Metadata Management System (MMS)"
-- Subsequent references in the same page can use acronym, i.e. "MMS"
+- Always write out the first time a name appears on a page with acronym in brackets, i.e. `Metadata Management System (MMS)``
+- Subsequent references in the same page can use acronym, i.e. `MMS`
 
 ## Capitalization
 - Use Title Case for page title and headers
@@ -36,6 +36,10 @@ search_exclude: true
 - If there are links to other relevant resources either within metadata-documentation or beyond, include a "See Also" section with each link as its own bullet point, i.e.
   **See Also**
   [Metadata Liaisons and Contacts 🔒](/metadata-documentation/resources/glossary/#:~:text=nypl.org/work_orders%20%F0%9F%94%92-,See%20Also,for%20a%20complete%20list%20of%20research%20library%20division%20acronyms%20and%20names,-DIRES%20Onboarding%20Terms) for a complete list of research library division acronyms and names
+
+## Titles & Headers
+- Use Title Case for page title and headers
+- Use `&` for `and` unless the `and` is part of an official name or is interface text
 
 ## Periods
 - Avoid use of periods except in notes and narrative text (such as the [Projects](/metadata-documentation/projects/) page), try to separate out sentences with bullet points
