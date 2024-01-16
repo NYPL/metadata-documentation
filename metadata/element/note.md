@@ -33,14 +33,14 @@ General textual information relating to a resource
 - Use the free text field to enter a note
 - Ensure a note [**Type**](#type) is selected
 - For notes describing the physical details of the original object, use the [Note](/metadata-documentation/metadata/element/physical-description/#note) subelement of [Physical Description](/metadata-documentation/metadata/element/physical-description/)
-- Use [inclusive descriptive practices](/metadata-documentation/metadata/guidelines/#inclusive-and-reparative-description)
+- Use [inclusive descriptive practices](/metadata-documentation/metadata/inclusive-reparative)
 
 ## Workflows
 
 ### Flagging Harmful or Difficult Content
 
 {: .note }
-The following workflow details how to add a **Note** for instances where the _content_ of the resource may be considered harmful, offensive, or have other issues. For additional workflows and general practices related to instances where _description_ may be considered harmful or offensive, see [Inclusive and Reparative Description](/metadata-documentation/metadata/guidelines/#inclusive-and-reparative-description).
+The following workflow details how to add a **Note** for instances where the _content_ of the resource may be considered harmful, offensive, or have other issues. For additional workflows and general practices related to instances where _description_ may be considered harmful or offensive, see [Inclusive and Reparative Description](/metadata-documentation/metadata/inclusive-reparative).
 
 1. Consult with relevant [Division staff 🔒](https://docs.google.com/spreadsheets/d/1P-YDJigon640fTCLP4Ig4-zmzqrX88v5M24ShuxFNVY/edit#gid=0&range=F2:F37) if you encounter harmful or offensive content on Digital Collections or it is [reported](/metadata-documentation/workflows/remediations/feedback/) to you
     1. Division staff may request one or both of the following steps:
