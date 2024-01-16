@@ -6,8 +6,6 @@ parent: MMS › Metadata
 nav_order: 2
 ---
 
-<style>code { white-space : pre-wrap !important; word-break: break-word; }</style>
-
 # General Guidelines
 {: .no_toc }
 
