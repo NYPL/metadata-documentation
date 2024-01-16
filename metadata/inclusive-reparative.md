@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Inclusive and Reparative Description
+title: Inclusive & Reparative Description
 permalink: /metadata/inclusive-reparative/
 parent: MMS › Metadata
 nav_order: 3
