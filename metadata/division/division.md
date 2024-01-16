@@ -3,7 +3,7 @@ layout: page
 title: By Division
 permalink: /metadata/division/
 parent: MMS › Metadata
-nav_order: 6
+nav_order: 7
 has_children: true
 ---
 
