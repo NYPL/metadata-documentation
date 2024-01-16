@@ -60,12 +60,17 @@ _Identifies what type of note is recorded_
     - See [MODS &lt;note&gt; Types](https://www.loc.gov/standards/mods/mods-notes.html) for a complete list of types
     - Refer to **MARC Equivalent** column to see corresponding MARC field for each type
     - Look up fields in the [OCLC Bibliographic Formats and Standards](https://www.oclc.org/bibformats/en.html) for more detailed documentation
-- **Admin** notes do not appear publicly on [Digital Collections](/metadata-documentation/resources/glossary/#digital-collections) and should be used to record information such as:
+- Select **admin** for notes that should not appear publicly on [Digital Collections](/metadata-documentation/resources/glossary/#digital-collections)
+  - Admin notes can be used for:
     - Identifying uncataloged material
-    - Documenting reparative description changes
-    - Known issues with digitized assets
-- Box and folder information from finding aid imports may appear in [Call number/Shelf Locator](/metadata-documentation/metadata/element/location/#call-number--shelf-locator) in the [Location](/metadata-documentation/metadata/element/location/) element or a **Note** with **admin** as the **Type**
-    - Check with the division as to whether adding box and folder information to **Note** (**admin**) or **Location** (**Call number/Shelf Locator**) is preferred
+      - Use `Uncataloged (YYYY-MM-DD INITIALS)`
+    - Documenting [reparative description](/metadata-documentation/metadata/inclusive-reparative/#workflows-for-msu-staff) changes
+    - Indicating known issues with digitized assets
+    - Storing box and folder information from finding aid imports
+      - Check with the division as to whether adding box and folder information to **Note (admin)** or **Location (Call number/Shelf Locator)** is preferred
+  - Sign admin notes with `(YYYY-MM-DD INITIALS)`
+    - Replace `YYYY-MM-DD` with the date in [ISO 8601](https://www.iso.org/iso-8601-date-and-time-format.html) format
+    - Replace `INITIALS` with your initials (see [MMS Database › Quick Reference › User IDs 🔒](https://github.com/NYPL/metadata-tools/blob/master/_mms-database-and-sql-queries/mms-db_quick-reference.md#user-ids))
 - If there is not an appropriate **Type** for the information in your respective note, use **content**
     - See [MARC 500](https://www.oclc.org/bibformats/en/5xx/500.html)
     - Do not use **Note** type **content** for individual contents of a resource, instead see [Table of Contents](/metadata-documentation/metadata/element/table-of-contents/) or [Abstract](/metadata-documentation/metadata/element/abstract/)
