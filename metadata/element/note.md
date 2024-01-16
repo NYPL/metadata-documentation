@@ -33,33 +33,10 @@ General textual information relating to a resource
 - Use the free text field to enter a note
 - Ensure a note [**Type**](#type) is selected
 - For notes describing the physical details of the original object, use the [Note](/metadata-documentation/metadata/element/physical-description/#note) subelement of [Physical Description](/metadata-documentation/metadata/element/physical-description/)
-- Use [inclusive descriptive practices](/metadata-documentation/metadata/inclusive-reparative)
-
-## Workflows
-
-### Flagging Harmful or Difficult Content
+- Use [inclusive descriptive practices](/metadata-documentation/metadata/inclusive-reparative/)
 
 {: .note }
-The following workflow details how to add a **Note** for instances where the _content_ of the resource may be considered harmful, offensive, or have other issues. For additional workflows and general practices related to instances where _description_ may be considered harmful or offensive, see [Inclusive and Reparative Description](/metadata-documentation/metadata/inclusive-reparative).
-
-1. Consult with relevant [Division staff 🔒](https://docs.google.com/spreadsheets/d/1P-YDJigon640fTCLP4Ig4-zmzqrX88v5M24ShuxFNVY/edit#gid=0&range=F2:F37) if you encounter harmful or offensive content on Digital Collections or it is [reported](/metadata-documentation/workflows/remediations/feedback/) to you
-    1. Division staff may request one or both of the following steps:
-        1. The resource can be suppressed from public view in Digital Collections (resources cannot be removed from MMS)
-        1. A note can be added to the descriptive metadata
-    1. If the Division requests suppression:
-        1. Navigate to the **Rights and use** tab of an item record
-        1. Select **Suppress** from website
-        1. Do not select a **Reason**
-        1. Add an explanation in the **Notes** field of the suppression prompt, e.g. `division requested suppression for harmful content [add date]`
-        1. Click the **Suppress record** button
-    1. If the Division requests a note:
-        1. Add a new **Note** element by copying and pasting the following text:
-        ```
-This record may contain content that is harmful or difficult to view. For more information, please refer to NYPL's Statement on Potentially Harmful Content for Digital Collections: https://digitalcollections.nypl.org/about#nypl_harmful_content_statement
-        ```
-            1. Add the above text without alteration as consistent usage will allow staff to locate harmful content records in the future
-            1. If the above text does not seem applicable, discuss with the [Manager, Metadata Services](/metadata-documentation/contact/#our-team)
-        1. Select **content** as the **Type**
+> See [Reparative Description › Workflows (For MSU Staff)](/metadata-documentation/metadata/inclusive-reparative/#addressing-transcribed-title-elements) for workflows to follow in the event you wish to use the **Note** element to indicate description or content found to be harmful, biased, offensive, outdated, or inaccurate.
 
 ---
 
