@@ -31,7 +31,7 @@ A word, phrase, character, or group of characters, normally appearing in a resou
 - If no title appears on the resource, devise a unique and descriptive title
     - Briefly describe the nature of resource, e.g. a map, or the subject of the resource, or both
     - Choice and format of title elements should be governed by the relevant [content standard](/metadata-documentation/metadata/guidelines/#content-standards)
-    - Use [inclusive descriptive practices](/metadata-documentation/metadata/guidelines/#inclusive-and-reparative-description)
+    - Use [inclusive descriptive practices](/metadata-documentation/metadata/inclusive-reparative)
     - See [By Material](/metadata-documentation/metadata/material/) and [By Division](/metadata-documentation/metadata/division/) for guidelines on constructing titles specific to corresponding resources
 
 ## Workflows
