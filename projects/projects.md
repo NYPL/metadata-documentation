@@ -178,13 +178,13 @@ Last updated September 2023
 
 | Dates | beginning April 2022 |
 | Collaborators | DEIA in Collections: Collections Access Working Group; Digital Collections Services; Curatorial Divisions |
-| Related Links | [General Guidelines › Inclusive and Reparative Description](/metadata-documentation/metadata/inclusive-reparative/); [NYPL's Statement on Potentially Harmful Content](https://digitalcollections.nypl.org/about#nypl_harmful_content_statement) |
+| Related Links | [General Guidelines › Inclusive & Reparative Description](/metadata-documentation/metadata/inclusive-reparative/); [NYPL's Statement on Potentially Harmful Content](https://digitalcollections.nypl.org/about#nypl_harmful_content_statement) |
 
 #### Overview
 {: .no_toc }
 
 - MSU is committed to integrating inclusive and reparative description into our everyday work and has led several efforts to address harmful description and content on NYPL Digital Collections
-- Informed by MSU staff's participation in professional development and the Library’s [DEIA in Collections: Collections Access Working Group](#deia-in-collections-collections-access-working-group), MSU maintains internal guidelines and workflows, which can be found at [General Guidelines › Inclusive and Reparative Description](/metadata-documentation/metadata/inclusive-reparative/)
+- Informed by MSU staff's participation in professional development and the Library’s [DEIA in Collections: Collections Access Working Group](#deia-in-collections-collections-access-working-group), MSU maintains internal guidelines and workflows, which can be found at [MMS › Metadata › Inclusive & Reparative Description](/metadata-documentation/metadata/inclusive-reparative/)
 - MSU is developing ideas for specific holistic remediation projects to align extant legacy description with updated guidelines
 - Inclusive and reparative description efforts will continue to evolve based on feedback from Library staff and patrons; please [contact us](/metadata-documentation/contact/form/) if you have ideas, concerns, or questions related to NYPL Digital Collections content and description
 
