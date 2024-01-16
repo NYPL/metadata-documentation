@@ -24,11 +24,16 @@ Provides an overview of reviewing feedback relating to metadata in the Metadata 
 - Feedback on metadata may be received by the MSU in several ways including:
   - **DC Feedback Form**: clicking the **Feedback** button in the lower right corner of any page on [NYPL Digital Collections](https://digitalcollections.nypl.org/)
   - **Metadata Reporting Form**: submitted via [Metadata Reporting Form](/metadata-documentation/contact/form/)
-  - **Email**: received at metadata [at] nypl [dot] org or by an individual MSU staff member
+  - **Email**: received at metadata [at] nypl [dot] org or by an individual MSU staff member and forwarded to ClickUp
+    - To forward emails to ClickUp via a personalized forwarding address
+        - Navigate to [Metadata Services › Remediation Projects › Metadata Feedback 🔒](https://app.clickup.com/2305128/v/gr/26b38-7748) in ClickUp
+        - Click the **•••** next to **Metadata Feedback**
+        - Click **✉ Email to List**
+        - Click **Copy** to copy the email address to your clipboard and paste it into your email program
 - Feedback from the **DC Feedback Form** and **Metadata Reporting Form** is routed into the [Metadata Services ClickUp 🔒](https://app.clickup.com/2305128/v/gr/26b38-7748) as it is received
 
 ## Steps (For MSU Staff)
-1. Monitor your [ClickUp notifications 🔒](https://app.clickup.com/2305128/notifications) and [Metadata Services › Remediation Projects › Metadata Feedback](https://app.clickup.com/2305128/v/gr/26b38-7748) for feedback tasks that have been assigned to you
+1. Monitor your [ClickUp notifications 🔒](https://app.clickup.com/2305128/notifications) and [Metadata Services › Remediation Projects › Metadata Feedback 🔒](https://app.clickup.com/2305128/v/gr/26b38-7748) for feedback tasks that have been assigned to you
    1. Each MSU staff member also has a dedicated tab that contains their open feedback tasks grouped by division
       1. To add your respective tab to your favorites in ClickUp, click the **•••** on your tab name and click **⭐ Favorite**
    1. Metadata Feedback views use ClickUp's table display so that the **Feedback Text** and other relevant details are easily seen
