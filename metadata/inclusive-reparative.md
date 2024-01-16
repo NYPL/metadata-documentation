@@ -19,8 +19,8 @@ This page provides context and workflows that support inclusive and reparative d
 
 ## Overview
 - Recognizing that libraries are not neutral, the Metadata Services Unit (MSU) has prioritized two parallel efforts:
-  - Inclusive description: the intentional creation of new metadata grounded in best practices developed to minimize bias and harm
-  - Reparative description: the remediation of existing metadata that is harmful, biased, offensive, outdated, or inaccurate
+  - [Inclusive description](#inclusive-description): the intentional creation of new metadata grounded in best practices developed to minimize bias and harm
+  - [Reparative description](#reparative-description): the remediation of existing metadata that is harmful, biased, offensive, outdated, or inaccurate
 - In addition to the general workflows and best practices described below, the MSU leads and participates in several [Projects](/metadata-documentation/projects/) related to inclusive and reparative description
 
 ## Reparative Description
