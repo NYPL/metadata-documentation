@@ -26,8 +26,8 @@ search_exclude: true
 - Subsequent references in the same page can use acronym, i.e. `MMS`
 
 ## Capitalization
-- Use Title Case for page title and headers
-- Use Sentence case for body text, bullet points, and notes
+- Use [Chicago Manual of Style Title Case](https://titlecaseconverter.com/?style=CMOS&showExplanations=0&keepAllCaps=1&multiLine=1&highlightChanges=0&convertOnPaste=0&straightQuotes=0) for page title and headers
+- Use [sentence case](https://titlecaseconverter.com/?style=SC&showExplanations=0&keepAllCaps=1&multiLine=1&highlightChanges=0&convertOnPaste=0&straightQuotes=0) for body text, bullet points, and notes
 - Avoid all caps unless an acronym (some text element's styles such as its "Heading 4" are made all caps by Just the Docs style sheet)
 
 ## Structure
@@ -38,7 +38,7 @@ search_exclude: true
   [Metadata Liaisons and Contacts 🔒](/metadata-documentation/resources/glossary/#:~:text=nypl.org/work_orders%20%F0%9F%94%92-,See%20Also,for%20a%20complete%20list%20of%20research%20library%20division%20acronyms%20and%20names,-DIRES%20Onboarding%20Terms) for a complete list of research library division acronyms and names
 
 ## Titles & Headers
-- Use Title Case for page title and headers
+- Use [Chicago Manual of Style Title Case](https://titlecaseconverter.com/?style=CMOS&showExplanations=0&keepAllCaps=1&multiLine=1&highlightChanges=0&convertOnPaste=0&straightQuotes=0) for page title and headers
 - Use `&` for `and` unless the `and` is part of an official name or is interface text
 
 ## Periods
