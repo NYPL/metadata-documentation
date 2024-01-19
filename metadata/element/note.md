@@ -68,7 +68,7 @@ _Identifies what type of note is recorded_
     - Indicating known issues with digitized assets
     - Storing box and folder information from finding aid imports
       - Check with the division as to whether adding box and folder information to **Note (admin)** or **Location (Call number/Shelf Locator)** is preferred
-      - It is not necessary to sign (`(YYYY-MM-DD INITIALS)`) admin notes that contain box and folder information
+      - It is not necessary to sign admin notes that contain box and folder information
   - Sign admin notes that you write yourself with `(YYYY-MM-DD INITIALS)`
     - Replace `YYYY-MM-DD` with the date in [ISO 8601](https://www.iso.org/iso-8601-date-and-time-format.html) format
     - Replace `INITIALS` with your initials (see [MMS Database › Quick Reference › User IDs 🔒](https://github.com/NYPL/metadata-tools/blob/master/_mms-database-and-sql-queries/mms-db_quick-reference.md#user-ids))
