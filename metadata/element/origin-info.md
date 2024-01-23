@@ -112,8 +112,12 @@ _A place associated with the event_
 #### Guidelines
 {: .no_toc }
 - Provide a free text description of the place the resource was created or issued
-  - Spell out names of cities, states, countries, etc., in lieu of abbreviations
-  - Further guidance on choice and format of the **Place** subelement should be governed by the relevant [content standard](/metadata-documentation/metadata/guidelines/#content-standards)
+  - Syntax of a **Place** subelement that has been [imported](/metadata-documentation/workflows/importing/) or transcribed directly from the source can remain as-is
+    - See [content standard](/metadata-documentation/metadata/guidelines/#content-standards)
+  - If the place is not imported or transcribed but still can be determined, add a **Place** subelement with the authorized heading for the place as it appears in a controlled vocabulary, listed here in order of preference:
+    - [Library of Congress Name Authority File (LCNAF) - Geographic](https://id.loc.gov/search/?q=rdftype:Geographic\&q=cs%3Ahttp%3A%2F%2Fid.loc.gov%2Fauthorities%2Fnames)
+    - [Library of Congress Subject Headings (LCSH) - Geographic](https://id.loc.gov/search/?q=\&q=memberOf%3Ahttp%3A%2F%2Fid.loc.gov%2Fauthorities%2Fsubjects%2Fcollection_GeographicSubdivisions\&q=cs%3Ahttp%3A%2F%2Fid.loc.gov%2Fauthorities%2Fsubjects)
+    - If the place is not imported, transcribed, or findable in a controlled vocabulary, add a **Place** subelement with the place name spelled it out in its fullest form
 - Do not include brackets in the **Place** subelement
   - Check the Supplied box if the **Place** was not directly transcribed from the resource but instead provided by the person creating the description
 - Leave the **Value type** dropdown as **text**
