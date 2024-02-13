@@ -137,7 +137,9 @@ This record may contain language that is harmful, inaccurate, or outdated. For m
       1. Navigate to the **Rights and use** tab of an item record
       1. Select **Suppress from website**
       1. Do not select a **Reason**
-      1. Add an explanation in the **Notes** field of the suppression prompt, e.g. `division requested suppression for harmful content [add date]`
+      1. Add an explanation in the **Notes** field of the suppression prompt, e.g. `division requested suppression for harmful content (YYYY-MM-DD INITIALS)`
+         1. Replace `YYYY-MM-DD` with the date in [ISO 8601](https://www.iso.org/iso-8601-date-and-time-format.html) format
+         1. Replace `INITIALS` with your initials (see [MMS Database › Quick Reference › User IDs 🔒](https://github.com/NYPL/metadata-tools/blob/master/_mms-database-and-sql-queries/mms-db_quick-reference.md#user-ids))
       1. Click the **Suppress record** button
    1. If the Division requests a note:
       1. Add a new **Note** element by copying and pasting the following text:
