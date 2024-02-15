@@ -55,16 +55,11 @@ Provides an overview of the process of approving records in the Metadata Managem
 1. If additional input is needed before approving any records, toggle the ClickUp task **Status** to **On Hold** and describe what you are waiting for in a comment
     1. If your question is for the division, email the **Primary division contact** listed for that division in the [Metadata Liaisons and Contacts 🔒](https://docs.google.com/spreadsheets/d/1P-YDJigon640fTCLP4Ig4-zmzqrX88v5M24ShuxFNVY/edit)
     1. If your question is for Digital Imaging Services (DIS) staff, tag the [Manager, Metadata Services](/metadata-documentation/contact/), in a comment on the ClickUp task
-1. Once all records have been approved, review whether all item records have rights assigned by reviewing the **Rights** section found in the **Overview** tab of the MMS record(s):
-    1. If rights information has been specified for all items in the scope of the approval, toggle the **Rights** field of the ClickUp task to **Rights Completed** and proceed with closing the task
-        1. **Rights** can either be set at the item-level or inherited from above, both meet the requirement and can be considered completed
-    1. If rights information has not been specified for all items in the scope of the approval:
-        1. Toggle the **Rights** field of the ClickUp task to **Rights Needed** and the **Status** to **On Hold**
-        1. Add the Digitization Coordinator (DC) to the **DC (only if Rights Needed)** field of the ClickUp task
-        1. If you are unsure who is the Digitization Coordinator (DC) for a given approval, discuss with the [Manager, Metadata Services](/metadata-documentation/contact/)
-        1. Add a comment to the ClickUp task to provide the URLs for the records needing rights and tag the DC with an @ symbol
-        1. Once the DC sets the Rights field to Rights Completed, the task status will automatically be updated to **In Progress**
-        1. Determine whether the ClickUp task is ready to be closed or should be set back to **On Hold** for any reason, add a comment if necessary
+1. Once all records have been approved, review whether all item records have rights metadata assigned by reviewing the **Rights** section found in the **Overview** tab of the MMS record(s):
+   1. If rights metadata has been specified for all items in the scope of the approval, toggle the **Rights** field of the ClickUp task to **Rights Completed** and proceed with closing the task
+      1. Rights metadata can either be set at the item-level or inherited from above, both meet the requirement and can be considered completed
+   1. If rights metadata has not been specified for all items in the scope of the approval, follow the steps to [request rights metadata](/metadata-documentation/workflows/rights/#steps-for-msu-staff)
+      1. Once the DC sets the **Rights** field of the ClickUp task to **Rights Completed**, determine whether the approval is complete or if the ClickUp task should be set back to **On Hold** for any reason and add a comment if necessary to explain
 1. When an approval is complete:
     1. Add a comment to the ClickUp task, noting that metadata has been reviewed and approved and that rights are in place
     1. Toggle the ClickUp task **Status** to **Closed**
