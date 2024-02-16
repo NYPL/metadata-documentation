@@ -37,7 +37,7 @@ See [General Guidelines › Rights](/metadata-documentation/metadata/guidelines/
 1. Open the ClickUp task that corresponds to the record that needs rights metadata:
    1. [Metadata Services › New Digitization › New Digitization Approvals 🔒](https://app.clickup.com/2305128/v/l/6-180919377-1) for incoming approvals that correspond to newly digitized material
    1. [Metadata Services › New Digitization › New Digitization Tracking 🔒](https://app.clickup.com/2305128/v/l/6-164664866-1) for tasks that correlate to digitization of materials currently underway
-   1. [Metadata Services › Remediation › Remediation Projects › Remediation Tasks 🔒](https://app.clickup.com/2305128/v/l/26b38-8667) for tasks generated as part of remediation projects such as backlog approvals, reimports, et al.
+   1. [Metadata Services › Remediation › Remediation Projects › Remediation Tasks 🔒](https://app.clickup.com/2305128/v/l/26b38-8667) for tasks generated as part of remediation projects such as backlog approvals, reimports, etc.
 1. Toggle the **Rights** field of the ClickUp task to **Rights Needed**
    1. For approvals, toggle **Status** to **On Hold**
 1. Add the Digitization Coordinator (DC) to the **DC (only if Rights Needed)** field of the ClickUp task
