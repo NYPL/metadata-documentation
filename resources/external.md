@@ -31,6 +31,7 @@ Links to documentation created by other Library divisions, departments, and unit
 - [Digitization](https://confluence.nypl.org/display/DIG/Digitization)
     - [Derivatives for Reflective and Transmissive Media Digitization](https://confluence.nypl.org/display/DIG/Derivatives+for+Reflective+and+Transmissive+Media+Digitization)
     - [Rights Code Cheat Sheet](https://confluence.nypl.org/display/DIG/Rights+Codes+Cheat+Sheet)
+- [ILS Team 🔒](https://sites.google.com/nypl.org/ilsteam/)
 - [Media Preservation](https://nypl.github.io/ami-preservation/)
     - [Media Preservation Labs](https://nypl.github.io/ami-preservation/pages/amiLabs/ami-labs.html)
     - [Media Preservation Services](https://nypl.github.io/ami-preservation/pages/mps/mps-about.html)
