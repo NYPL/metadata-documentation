@@ -75,4 +75,4 @@ Do Not Use
 ---
 
 ## See Also
-- [Top-level Element: &lt;abstract&gt;](https://www.loc.gov/standards/mods/userguide/abstract.htmls) for official MODS documentation from the Library of Congress
+- [Top-level Element: &lt;abstract&gt;](https://www.loc.gov/standards/mods/userguide/abstract.html) for official MODS documentation from the Library of Congress
