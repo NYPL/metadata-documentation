@@ -45,7 +45,7 @@ This page describes different methods of restructuring records and captures in t
    1. Ensure no metadata elements were inadvertently lost or added as a result of the move by reviewing the **Descriptive metadata** tab of the container 
    1. Ensure all child items within the container meet the [minimum metadata requirements](/metadata-documentation/metadata/guidelines/#minimum-metadata-requirements) by reviewing the **Descriptive metadata** tab of the respective item record(s)
    1. Ensure all child items within the container have rights assigned by reviewing the **Rights section** found in the **Overview** tab of the respective item record(s)
-      1. If rights are needed, follow the [rights workflow](/metadata-documentation/workflows/rights/) and include a link to the previous location of the container if rights were assigned there
+      1. If rights are needed, follow the [rights](/metadata-documentation/workflows/rights/) workflow and include a link to the previous location of the container if rights were assigned there
 1. Once you have confirmed all metadata elements and rights are in place in the container's new location, you may [delete](/metadata-documentation/workflows/remediation/deleting/) any collection or container records that are now empty and no longer needed as a result of moving the container
 
 ### Moving Items
@@ -100,7 +100,7 @@ This page describes different methods of restructuring records and captures in t
    1. Ensure no metadata elements were inadvertently lost or added as a result of the move by reviewing the **Descriptive metadata** tab of the item(s)
    1. Ensure item(s) meet the [minimum metadata requirements](/metadata-documentation/metadata/guidelines/#minimum-metadata-requirements) by reviewing the **Descriptive metadata** tab
    1. Ensure item(s) have rights assigned by reviewing the **Rights section** found in the **Overview** tab
-      1. If rights are needed, follow the [rights workflow](/metadata-documentation/workflows/rights/) and include a link to the previous location of the container if rights were assigned there
+      1. If rights are needed, follow the [rights](/metadata-documentation/workflows/rights/) workflow and include a link to the previous location of the container if rights were assigned there
 1. Once you have confirmed all metadata elements and rights are in place in the item's new location, you may [delete](/metadata-documentation/workflows/remediation/deleting/) any collection or container records that are now empty and no longer needed as a result of moving the item
 
 #### Moving Items Within a Collection
@@ -131,7 +131,7 @@ This page describes different methods of restructuring records and captures in t
    1. Ensure no metadata elements were inadvertently lost or added as a result of the move by reviewing the **Descriptive metadata** tab of the item(s)
    1. Ensure item(s) meet the [minimum metadata requirements](/metadata-documentation/metadata/guidelines/#minimum-metadata-requirements) by reviewing the **Descriptive metadata** tab
    1. Ensure item(s) have rights assigned by reviewing the **Rights section** found in the **Overview** tab
-      1. If rights are needed, follow the [rights workflow](/metadata-documentation/workflows/rights/) and include a link to the previous location of the container if rights were assigned there
+      1. If rights are needed, follow the [rights](/metadata-documentation/workflows/rights/) workflow and include a link to the previous location of the container if rights were assigned there
 1. Once you have confirmed all metadata elements and rights are in place in the item's new location, you may [delete](/metadata-documentation/workflows/remediation/deleting/) any collection or container records that are now empty and no longer needed as a result of moving the item
 
 ### Moving Captures
@@ -206,7 +206,7 @@ This page describes different methods of restructuring records and captures in t
    1. Ensure no metadata elements were inadvertently lost as a result of the move by reviewing the **Descriptive metadata** tab of the item
    1. Ensure item meets the [minimum metadata requirements](/metadata-documentation/metadata/guidelines/#minimum-metadata-requirements) by reviewing the **Descriptive metadata** tab
    1. Ensure item(s) have rights assigned by reviewing the **Rights section** found in the **Overview** tab
-      1. If rights are needed, follow the [rights workflow](/metadata-documentation/workflows/rights/) and include a link to the previous location of the container if rights were assigned there
+      1. If rights are needed, follow the [rights](/metadata-documentation/workflows/rights/) workflow and include a link to the previous location of the container if rights were assigned there
 
 ### Converting Captures
 
