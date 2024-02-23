@@ -58,7 +58,7 @@ Deleted records and captures cannot be restored within MMS, so take caution to e
 
 ## Deleting Captures
 
-NOTE
+{: .note }
 See [Troubleshooting Issues](https://nypl.github.io/metadata-documentation/workflows/troubleshooting/) to confirm there is not an issue with the asset before deleting the capture.
 
 - Review the [deleting records and captures overview](#overview) to ensure your capture is ready to be deleted
