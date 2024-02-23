@@ -11,6 +11,8 @@ nav_exclude: true
 # Restructuring Records & Captures
 {: .no_toc }
 
+This page describe different methods of reimporting records and captures in the Metadata Management System (MMS)
+
 ## Table of contents
 {: .no_toc .text-delta }
 
