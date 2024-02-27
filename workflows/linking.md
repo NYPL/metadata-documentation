@@ -24,7 +24,7 @@ If a link to or from Digital Collections is absent or broken, please let us know
 
 ### Digital Collections → Research Catalog
 
-- When a [bnumber](/metadata-documentation/metadata/element/identifier/#nypl-catalog-id-b-number) is present in MMS for an collection, container, or item, a link to the Research Catalog will automatically appear on that entity's page on DC
+- When a [bnumber](/metadata-documentation/metadata/element/identifier/bnumber/) is present in MMS for an collection, container, or item, a link to the Research Catalog will automatically appear on that entity's page on DC
     - From a collection or container view, the linked bnumber can be found on the **About** tab in the **Identifiers** section as **NYPL catalog ID (B-number)**
     - From an item view, a link can be found in two places:
         - In the right column titled **View This Item Elsewhere** in a box titled **NYPL Catalog** and **View this item in the NYPL Catalog**
@@ -33,7 +33,7 @@ If a link to or from Digital Collections is absent or broken, please let us know
 
 ### Research Catalog → Digital Collections
 
-- When a [bnumber](/metadata-documentation/metadata/element/identifier/#nypl-catalog-id-b-number) is added in MMS to a collection, container, or item that has met the [criteria to appear in DC](/metadata-documentation/dc/criteria/), a link to DC will be added to the corresponding catalog record
+- When a [bnumber](/metadata-documentation/metadata/element/identifier/bnumber/) is added in MMS to a collection, container, or item that has met the [criteria to appear in DC](/metadata-documentation/dc/criteria/), a link to DC will be added to the corresponding catalog record
     - In the [Research Catalog](/metadata-documentation/resources/glossary/#research-catalog), the link can be found under the **Available Online** heading or the **Connect to:** section as **NYPL Digital Collections**
     - In the [Legacy Catalog](/metadata-documentation/resources/glossary/#legacy-catalog), the link can be found under the **Connect to:** heading as NYPL Digital Collections
     - Links to DC are added to the bibliographic record in Sierra
@@ -50,7 +50,7 @@ If a link to or from Digital Collections is absent or broken, please let us know
 ### Digital Collections → Archives Portal
 
 #### Via MSS Unit ID
-- When an [MSS Unit ID](/metadata-documentation/metadata/element/identifier/#mss-unit-id) is present on an MMS collection, container, or item, the **MSS Unit ID** numeric string will automatically appear on that entity's page on DC
+- When an [MSS Unit ID](/metadata-documentation/metadata/element/identifier/mss-unit/) is present on an MMS collection, container, or item, the **MSS Unit ID** numeric string will automatically appear on that entity's page on DC
     - From a collection or container view, the collection's **MSS Unit ID** numeric string can be found on the **About** tab in the **Identifiers** section as **MSS Unit ID**
     - From an item view, the **MSS Unit ID** numeric string can be found towards the end of the descriptive metadata in the **Identifiers** section as **MSS Unit ID**
 - The **MSS Unit ID** identifiers on DC do not link to the [Archives Portal](/metadata-documentation/resources/glossary/#archives-portal)
@@ -67,7 +67,7 @@ If a link to or from Digital Collections is absent or broken, please let us know
 </dl>
 
 #### Via Archives EAD ID & Archives Components ID
-- When an [Archives EAD ID](https://nypl.github.io/metadata-documentation/metadata/element/identifier/#archives-ead-id) is present on an MMS item, the **Archives EAD ID** link will automatically appear on that item's page on DC
+- When an [Archives EAD ID](https://nypl.github.io/metadata-documentation/metadata/element/identifier/archives-ead/) is present on an MMS item, the **Archives EAD ID** link will automatically appear on that item's page on DC
     - From an item view, the **Archives EAD ID** link can be found towards the end of the descriptive metadata in the **Identifiers** section as **Archives EAD ID**
     - Clicking the link will take you to the item's finding aid component in the Archives Portal and will resolve to a URL that uses the [Archives components id](/metadata-documentation/metadata/element/identifier/other-local/#archives-components-id)
 
