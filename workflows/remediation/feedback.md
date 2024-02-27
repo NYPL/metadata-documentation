@@ -30,6 +30,7 @@ Provides an overview of reviewing feedback relating to metadata in the Metadata 
         - Click the **•••** next to **Metadata Feedback**
         - Click **✉ Email to List**
         - Click **Copy** to copy the email address to your clipboard and paste it into your email program
+            - Save the email address to your contacts to easily forward metadata feedback as you receive it
 - Feedback from the **DC Feedback Form** and **Metadata Reporting Form** is routed into the [Metadata Services ClickUp 🔒](https://app.clickup.com/2305128/v/gr/26b38-7748) as it is received
 
 ## Steps (For MSU Staff)
