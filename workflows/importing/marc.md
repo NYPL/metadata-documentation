@@ -68,5 +68,5 @@ If a MARC record contains a link to a finding aid, [import the finding aid](/met
    1. If importing more than one MARC record, you can then search MMS for each record to proceed with next steps
 1. Review and [restructure](/metadata-documentation/workflows/remediation/restructuring/) your new record(s) as needed
    1. See [Converting Between Record Types](/metadata-documentation/workflows/remediation/restructuring/#converting-between-record-types) for how to convert between record types, such as converting a collection to a container
-   1. See [Moving Records and Captures](/metadata-documentation/workflows/remediation/restructuring/#moving-records-and-captures) for how to move content to a new location
+   1. See [Moving Records](/metadata-documentation/workflows/remediation/restructuring/#moving-records) for how to move content to a new location
 1. Proceed with next steps according to the relevant [digitization](/metadata-documentation/workflows/digitization/) or [remediation](/metadata-documentation/workflows/remediation/) workflow
