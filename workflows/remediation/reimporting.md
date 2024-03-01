@@ -34,7 +34,7 @@ This page describes whether and how to reimport previously-imported records into
       1. There are significant changes to the descriptive metadata that would be labor-intensive to change manually
       1. The extent of changes is unknown
       1. The structure of the source record differs significantly from the structure of the records in MMS
-         1. Any change to the structure of a finding aid typically warrants reimport as [Archives EAD ID](/metadata-documentation/metadata/element/identifier/archives-ead/) and [Archives components id](/metadata-documentation/metadata/element/identifier/other-local/#archives-collections-id) may have changed
+         1. Any change to the structure of a finding aid typically warrants reimport as [Archives EAD ID](/metadata-documentation/metadata/element/identifier/archives-ead/) and [Archives Components ID](/metadata-documentation/metadata/element/identifier/archives-components/) may have changed
       1. A better, more specific source record is available
          1. New records may be created that describe material at an item-level that was previously described at the collection- or container-level
    1. Programmatic approaches to remediating the existing record may be preferable in particularly complex cases
