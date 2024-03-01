@@ -48,7 +48,7 @@ Identifier that correlates [EAD](/metadata-documentation/resources/glossary/#enc
 
 ## Use With
 - [MSS Unit ID](/metadata-documentation/metadata/element/identifier/mss-unit/), which should always be present through inheritance for a record with an **Archives EAD ID**
-- [Other local Identifier (Archives components id)](/metadata-documentation/metadata/element/identifier/other-local/#archives-collections-id), which are automatically imported into container and/or item records alongside **Archives EAD ID**s for collections with EAD-encoded finding aids
+- [Archives Collections ID](/metadata-documentation/metadata/element/identifier/archives-collections/), which are automatically imported into container and/or item records alongside **Archives EAD ID**s for collections with EAD-encoded finding aids
 
 ## See Also
 - [Linking Between Systems › Archives Portal](/metadata-documentation/workflows/linking/#archives-portal) for an overview of how archives-related identifiers create links between Digital Collections and the Archives Portal
