@@ -47,7 +47,7 @@ This page describes whether and how to reimport previously-imported records into
       1. [MARC Records](/metadata-documentation/workflows/importing/marc/)
       1. [Finding Aids](/metadata-documentation/workflows/importing/finding-aids/)
       1. [TMS Records](/metadata-documentation/workflows/importing/tms/)
-   1. [Restructure](/metadata-documentation/workflows/remediation/restructuring/) the new record by [moving records and captures](/metadata-documentation/workflows/remediation/restructuring/#moving-records-and-captures) from the legacy record(s), [converting record types](/metadata-documentation/workflows/remediation/restructuring/#converting-between-record-types) as needed
+   1. [Restructure](/metadata-documentation/workflows/remediation/restructuring/) the new record by [moving records](/metadata-documentation/workflows/remediation/restructuring/#moving-records) from the legacy record(s), [converting record types](/metadata-documentation/workflows/remediation/restructuring/#converting-between-record-types) as needed
       1. If it is unclear where a record or capture belongs, contact the division
       1. [Approve](/metadata-documentation/workflows/approvals/) the new record(s) as you go based on the approval status of the legacy record(s)
    1. If rights are needed for the reimported records, request they be added following the [rights workflow](/metadata-documentation/workflows/rights/)
