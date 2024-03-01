@@ -32,7 +32,6 @@ Deleted records cannot be restored within MMS, so take caution to ensure all cri
    - If a rights profile needs to be moved, follow the [rights](/metadata-documentation/workflows/rights/) workflow and include a link to the empty record
 
 ## Deleting Collections
-
 1. Confirm the collection record is empty, either:
    1. There are no item records within the collection
    1. Item records exist in the collection but do not have associated assets
@@ -44,7 +43,6 @@ Deleted records cannot be restored within MMS, so take caution to ensure all cri
    1. Click **Delete collection and all contents** if the collection contains child containers or items that you have verified are no longer needed
 
 ## Deleting Containers
-
 1. Confirm the container is empty, either:
    1. There are no item records within the container
    1. Item records exist in the container but do not have associated assets
@@ -56,7 +54,6 @@ Deleted records cannot be restored within MMS, so take caution to ensure all cri
    1. Click **Delete collection and all children** if the container contains child containers or items that you have verified are no longer needed
 
 ## Deleting Items
-
 1. Confirm the item is empty, either:
    1. There are no capture records attached to the item
    1. Capture records are attached to the item but do not have associated assets
@@ -65,7 +62,6 @@ Deleted records cannot be restored within MMS, so take caution to ensure all cri
 1. At the bottom of the table containing the overview of the item, click **Delete this item**
 
 ## Deleting Captures
-
 1. Confirm the capture record is empty, both:
    1. There is no value in the **Capture IDs** field on a capture record or on the **Capture inventory** tab of the parent item record
    1. There is not an issue with the asset
