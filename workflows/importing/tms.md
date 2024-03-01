@@ -69,5 +69,5 @@ This page describes how to create records in the Metadata Management System (MMS
    1. If importing more than one TMS record, you can then search MMS for each record to proceed with next steps
 1. Review and [restructure](/metadata-documentation/workflows/remediation/restructuring/) your new record(s) as needed
    1. See [Print Collection](/metadata-documentation/division/wallach/#print-collection) and [Photography Collection](/metadata-documentation/division/wallach/#photography-collection) guidelines to determine what structure is appropriate for an item
-   1. See [Moving Records and Captures](/metadata-documentation/workflows/remediation/restructuring/#moving-records-and-captures) for how to move content to a new location
+   1. See [Moving Records](/metadata-documentation/workflows/remediation/restructuring/#moving-records) for how to move content to a new location
 1. Proceed with next steps according to the relevant [digitization](/metadata-documentation/workflows/digitization/) or [remediation](/metadata-documentation/workflows/remediation/) workflow
