@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Restructuring Records & Captures
+title: Restructuring Records
 permalink: /workflows/remediation/restructuring/
 parent: Remediation
 grand_parent: MMS › Workflows
@@ -8,10 +8,10 @@ nav_order: 2
 nav_exclude: true
 ---
 
-# Restructuring Records & Captures
+# Restructuring Records
 {: .no_toc }
 
-This page describes different methods of restructuring records and captures in the Metadata Management System (MMS)
+This page describes different methods of restructuring records in the Metadata Management System (MMS)
 
 ## Table of contents
 {: .no_toc .text-delta }
@@ -19,7 +19,7 @@ This page describes different methods of restructuring records and captures in t
 1. TOC
 {:toc}
 
-## Moving Records and Captures
+## Moving Records
 
 ### Moving Collections
 
@@ -182,7 +182,7 @@ This page describes different methods of restructuring records and captures in t
 
 ### Converting Items
 
-- Item records can only be converted if there are no captures attached to the item record
+- Item records can only be converted if there are no capture records attached to the item record
 - The workflow for converting item records is based on an item's current location and destination
 
 #### Converting Standalone Items to Collections
