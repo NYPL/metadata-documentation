@@ -28,7 +28,7 @@ Identifier that connects an archives collection from the [Archives Portal](/meta
 > Known Issue
 >
 > [**MSS Unit ID**](/metadata-documentation/metadata/element/identifier/mss-unit/) is currently being erroneously imported as the **Archives Collections ID** value when [importing a finding aid](/metadata-documentation/workflows/importing/finding-aids/). 
-> <small><br>Last checked September 2023</small>
+> <small><br>Last checked February 2024</small>
 
 - The **Archives Collections ID** is automatically populated into records when [importing finding aids](/metadata-documentation/workflows/importing/finding-aids/)
 - If adding a **Archives Collections ID** manually for a collection or standalone item, it can be located in the [Archives Portal Admin Interface](/metadata-documentation/resources/glossary/#archives-portal-admin-interface)
