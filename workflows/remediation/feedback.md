@@ -42,6 +42,7 @@ Provides an overview of reviewing feedback relating to metadata in the Metadata 
 1. Once you have selected a feedback task to work on, toggle its status to **In Progress**
 1. Review the **Feedback Text** and determine next steps based on the following considerations (discuss with the [Manager, Metadata Services](/metadata-documentation/contact/), if you are uncertain how to proceed):
    1. Has the feedback been submitted by a NYPL staff member or by a patron?
+      1. If the feedback was submitted by a NYPL Archival Processing staff member to notify MSU of an updated finding aid, the related workflow on [Reimporting Metadata](/metadata-documentation/workflows/remediation/reimporting/#reviewing-a-finding-aid-update-from-archival-processing)
    1. Can you verify the accuracy of the feedback, either based on the submitter or through your own research?
    1. Where did the original metadata come from?
    1. Was the metadata transcribed or supplied?
@@ -67,5 +68,6 @@ Provides an overview of reviewing feedback relating to metadata in the Metadata 
 > The steps for routing feedback tasks can be found in [metadata-admin 🔒](https://github.com/NYPL/metadata-admin/blob/main/clickup.md#metadata-feedback).
 
 ### See Also
+- [Reimporting Metadata › Reviewing a Finding Aid Update from Archival Processing](/metadata-documentation/workflows/remediation/reimporting/#reviewing-a-finding-aid-update-from-archival-processing) for steps that should be followed in the event metadata feedback indicates a finding aid update
 - [Inclusive & Reparative Description](/metadata-documentation/metadata/inclusive-reparative/) for guidance on how to create or update metadata according to relevant best practices
 - [Search by Image](https://chrome.google.com/webstore/detail/search-by-image/cnojnbdhbhnkbcieeekonklommdnndci) to install a Chrome browser extension that allows you to perform reverse image searches, which may be useful for researching images that are the subject of metadata feedback
