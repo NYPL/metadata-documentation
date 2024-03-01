@@ -86,6 +86,12 @@ _Identifies the type of identifier that is recorded, for example ISBN, ISSN, ISN
 <dt><a href="/metadata-documentation/metadata/element/identifier/ami-project/">AMI Project</a></dt>
 <dd>name of the project under which the media original was digitized</dd>
 
+<dt><a href="/metadata-documentation/metadata/element/identifier/archives-collections/">Archives Collections ID</a></dt>
+<dd>identifier that connects an archives collection from the [Archives Portal](/metadata-documentation/resources/glossary/#archives-portal) and the [Archives Portal Admin Interface](/metadata-documentation/resources/glossary/#archives-portal-admin-interface) to the MMS collection or standalone item record, present only for EAD-encoded finding aids</dd>
+
+<dt><a href="/metadata-documentation/metadata/element/identifier/archives-components/">Archives Components ID</a></dt>
+<dd>identifier that connects archives components from the [Archives Portal](/metadata-documentation/resources/glossary/#archives-portal) and the [Archives Portal Admin Interface](/metadata-documentation/resources/glossary/#archives-portal-admin-interface) to the MMS container or item records, present only for EAD-encoded finding aids</dd>
+
 <dt><a href="/metadata-documentation/metadata/element/identifier/archives-ead/">Archives EAD ID</a></dt>
 <dd>identifier that correlates EAD-encoded finding aid components to their MMS container or item records, facilitating the display of digitized assets in the Archives Portal</dd>
 
