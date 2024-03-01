@@ -46,7 +46,7 @@ Collection-level identifier for an archival collection in the [Archives Portal](
 
 ## Use With
 - [NYPL catalog ID (B-number)](/metadata-documentation/metadata/element/identifier/bnumber/), which is automatically imported into the collection or standalone item record when importing either an EAD or PDF finding aid
-- [Other local Identifier (Archives collections id)](/metadata-documentation/metadata/element/identifier/other-local/#archives-collections-id), which is automatically imported into the collection or standalone item record when importing an EAD finding aid
+- [Archives Collections ID)](/metadata-documentation/metadata/element/identifier/archives-collections/), which is automatically imported into the collection or standalone item record when importing an EAD finding aid
 
 ## See Also
 - [Linking Between Systems › Archives Portal](/metadata-documentation/workflows/linking/#archives-portal) for an overview of how archives-related identifiers create links between Digital Collections and the Archives Portal
