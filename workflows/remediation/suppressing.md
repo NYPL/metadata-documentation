@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Suppressing Records & Captures
+title: Suppressing Records
 permalink: /workflows/remediation/suppressing/
 parent: Remediation
 grand_parent: MMS › Workflows
@@ -13,7 +13,7 @@ nav_exclude: true
 >
 > This page is still being developed. Links to legacy documentation may appear to facilitate our migration process. [Contact us](/metadata-documentation/contact/) with any questions or feedback.
 
-# Suppressing Records & Captures
+# Suppressing Records
 
 ## Collections
 
