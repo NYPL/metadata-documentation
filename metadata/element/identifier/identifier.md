@@ -36,7 +36,7 @@ A unique standard number or code that distinctively identifies a resource
     - Ensure at least one required identifier exists at the item level:
         - [**NYPL catalog ID (B-number)**](/metadata-documentation/metadata/element/identifier/bnumber/) for material described in [Sierra](/metadata-documentation/resources/glossary/#sierra)
         - [**MSS Unit ID**](/metadata-documentation/metadata/element/identifier/mss-unit/) for material described in the [Archives Portal](/metadata-documentation/resources/glossary/#archives-portal)
-        - [**TMS ID**](/metadata-documentation/metadata/element/identifier/tms/) for material described in the [Prints and Photographs Online Catalog](/metadata-documentation/resources/glossary/#prints-and-photographs-online-catalog)
+        - [**TMS ID**](/metadata-documentation/metadata/element/identifier/tms/) for material described in [TMS](/metadata-documentation/resources/glossary/#the-museum-system)
     - Required identifiers can either be assigned to the item itself or [inherited](/metadata-documentation/metadata/guidelines/#inheritance) from a collection or container
     - If you are unable to add one of the above required identifiers, discuss with the [Manager, Metadata Services](/metadata-documentation/contact/), before proceeding further
 - Additional identifier requirements include:
