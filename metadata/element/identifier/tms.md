@@ -46,5 +46,4 @@ Unique numeric identifier assigned to individual objects by the The Museum Syste
 
 ## See Also
 - [The Museum System](/metadata-documentation/resources/glossary/#the-museum-system) for a corresponding definition in our glossary
-- [Prints and Photographs Online Catalog](/metadata-documentation/resources/glossary/#prints-photographs-online-catalog) for a corresponding definition in our glossary
 - [Importing TMS Records](/metadata-documentation/workflows/importing/tms/) for a step-by-step of the process of importing records from TMS into the Metadata Management System (MMS)
