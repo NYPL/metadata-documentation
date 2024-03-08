@@ -151,7 +151,7 @@ On this page you will find common terms used within the work of the Metadata Ser
 <dd><a href="#public-order">Public Order</a> (or Photo Order)</dd>
 
 <dt>PPOC</dt>
-<dd><a href="#prints-photographs-online-catalog">Prints and Photographs Online Catalog</a> (deprecated)</dd>
+<dd><a href="#prints-photographs-online-catalog">Prints & Photographs Online Catalog</a> (deprecated)</dd>
 
 <dt>PRS</dt>
 <dd><a href="#permissions-reproduction-services">Permissions and Reproduction Services</a></dd>
@@ -407,7 +407,7 @@ On this page you will find common terms used within the work of the Metadata Ser
 <dd>former <a href="#digital-research">Digital Research</a> division, now divided into <a href="#media-preservation-services">Media Preservation Services</a> and <a href="#media-preservation-labs">Media Preservation Labs</a></dd>
 
 <a name="prints-photographs-online-catalog"></a>
-<dt>Prints and Photographs Online Catalog</dt>
+<dt>Prints & Photographs Online Catalog</dt>
 <dd>former website for the collections of the Miriam and Ira D. Wallach Division of Art, Prints, and Photographs; previously accessible at <a href="https://wallachprintsandphotos.nypl.org/">wallachprintsandphotos.nypl.org</a>; used <a href="#the-museum-system">The Museum System</a> as its backend database</dd>
 
 <a name="public-order"></a>
@@ -472,7 +472,7 @@ On this page you will find common terms used within the work of the Metadata Ser
 
 <a name="the-museum-system"></a>
 <dt>The Museum System</dt>
-<dd>collections management system software used by the Miriam and Ira D. Wallach Division of Art, Prints, and Photographs; previously served as the backend for the <a href="#prints-photographs-online-catalog">Prints and Photographs Online Catalog</a></dd>
+<dd>collections management system software used by the Miriam and Ira D. Wallach Division of Art, Prints, and Photographs; previously served as the backend for the <a href="#prints-photographs-online-catalog">Prints & Photographs Online Catalog</a></dd>
 
 <a name="the-repo"></a>
 <dt>The Repo</dt>
