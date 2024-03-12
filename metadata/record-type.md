@@ -86,6 +86,7 @@ The Metadata Management System (MMS) supports four types of records that contain
 ```
 
 ## See Also
+* [Restructuring Records](/metadata-documentation/workflows/remediation/restructuring/) for different methods of restructuring records in MMS including [converting between record types](/metadata-documentation/workflows/remediation/restructuring/#converting-between-record-types)
 * [Inheritance](/metadata-documentation/metadata/guidelines/#inheritance) for an explanation of how metadata elements from Collections and Containers can be set to inherit down to contained Containers and/or Items
 * [By Element](/metadata-documentation/metadata/element/) for field-specific metadata guidance, which may include guidelines for specific record types
 * [Digital Collections API: A note about our data model](https://api.repo.nypl.org/#data-model) for an explanation of record types in relation to the application programming interface for Digital Collections
