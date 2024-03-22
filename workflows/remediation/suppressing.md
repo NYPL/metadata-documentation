@@ -30,11 +30,10 @@ This page describes the process of suppressing records in the Metadata Managemen
 
 ## Suppressing Collections
 
-### Suppressing Collections for Harmful Content (For MSU Staff)
+### Suppressing Collections for Harmful Content
 {: .d-inline .v-align-middle .mr-2 }
 For MSU Staff
 {: .d-inline .v-align-middle .label .label-purple .mx-1 }
-
 1. Review the [suppressing records overview](#overview) to ensure the collection qualifies for suppression
 1. Navigate to the **Rights and use** tab of the collection
 1. Click the checkbox to **Suppress from website**
@@ -47,7 +46,10 @@ For MSU Staff
 
 ## Suppressing Containers
 
-### Suppressing Containers for Harmful Content (For MSU Staff)
+### Suppressing Containers for Harmful Content
+{: .d-inline .v-align-middle .mr-2 }
+For MSU Staff
+{: .d-inline .v-align-middle .label .label-purple .mx-1 }
 1. Review the [suppressing records overview](#overview) to ensure the container qualifies for suppression
 1. Navigate to the **Rights and use** tab of the container
 1. Click the checkbox to **Suppress from website**
@@ -60,7 +62,10 @@ For MSU Staff
 
 ## Suppressing Items
 
-### Suppressing Items for Harmful Content (For MSU Staff)
+### Suppressing Items for Harmful Content
+{: .d-inline .v-align-middle .mr-2 }
+For MSU Staff
+{: .d-inline .v-align-middle .label .label-purple .mx-1 }
 1. Review the [suppressing records overview](#overview) to ensure the item qualifies for suppression
 1. Navigate to the **Rights and use** tab of the item
 1. Click the checkbox to **Suppress from website**
@@ -73,18 +78,20 @@ For MSU Staff
 
 ## Suppressing Captures
 
+### Requesting Duplicate Captures Be Suppressed
+{: .d-inline .v-align-middle .mr-2 }
+For MSU Staff
+{: .d-inline .v-align-middle .label .label-purple .mx-1 }
+- [Digital Imaging Services (DIS)](/metadata-documentation/resources/glossary/#digital-imaging-services) manages capture suppression
+  - Capture suppression only occurs in the event of duplicate captures, see [suppressing records overview](#overview)
+  - Follow the steps on [DIS's](/metadata-documentation/resources/glossary/#digital-imaging-services) [Duplicate captures documentation 🔒](https://docs.google.com/document/d/1o8CiVXBgUkI9kI9duAd0acAKIhEiZj8gnOREEMNUB18/edit)
+  - Report duplicate captures to the [Duplicate captures log 🔒](https://docs.google.com/spreadsheets/u/0/d/1jpjta0goQIIaEPesCayWtfSyda5QgGaWxwoiLLyaBmk/edit)
+
 ### Suppressing Duplicate Captures
-
-{: .msu }
-> - [Digital Imaging Services (DIS)](/metadata-documentation/resources/glossary/#digital-imaging-services) manages capture suppression
->   - Capture suppression only occurs in the event of duplicate captures, see [suppressing records overview](#overview)
->   - Follow the steps on [DIS's](/metadata-documentation/resources/glossary/#digital-imaging-services) [Duplicate captures documentation 🔒](https://docs.google.com/document/d/1o8CiVXBgUkI9kI9duAd0acAKIhEiZj8gnOREEMNUB18/edit)
->   - Report duplicate captures to the [Duplicate captures log 🔒](https://docs.google.com/spreadsheets/u/0/d/1jpjta0goQIIaEPesCayWtfSyda5QgGaWxwoiLLyaBmk/edit)
-
+{: .d-inline .v-align-middle .mr-2 }
 For DIS Staff
+{: .d-inline .v-align-middle .label .label-purple .mx-1 }
 - See [Duplicate captures documentation 🔒](https://docs.google.com/document/d/1o8CiVXBgUkI9kI9duAd0acAKIhEiZj8gnOREEMNUB18/edit)
 
 ## See Also
 - [Inclusive & Reparative Description › Addressing Harmful Content](/metadata-documentation/metadata/inclusive-reparative/#addressing-harmful-content) for the context of working with a Division to determine whether suppressing content or adding a note is preferred
-
-#test
