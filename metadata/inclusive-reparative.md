@@ -133,14 +133,10 @@ This record may contain language that is harmful, inaccurate, or outdated. For m
    1. Division staff may request one or both of the following steps:
       1. The resource can be suppressed from public view in Digital Collections (resources cannot be deleted from MMS)
       1. A note can be added to the descriptive metadata
-   1. If the Division requests suppression:
-      1. Navigate to the **Rights and use** tab of an item record
-      1. Select **Suppress from website**
-      1. Do not select a **Reason**
-      1. Add an explanation in the **Notes** field of the suppression prompt, e.g. `division requested suppression for harmful content (YYYY-MM-DD INITIALS)`
-         1. Replace `YYYY-MM-DD` with the date in [ISO 8601](https://www.iso.org/iso-8601-date-and-time-format.html) format
-         1. Replace `INITIALS` with your initials (see [MMS Database › Quick Reference › User IDs 🔒](https://github.com/NYPL/metadata-tools/blob/master/_mms-database-and-sql-queries/mms-db_quick-reference.md#user-ids))
-      1. Click **Suppress record**
+   1. If the Division requests suppression, follow the steps that correspond to the record type you want to [suppress](/metadata-documentation/workflows/remediation/suppressing/):
+      1. [Collections](/metadata-documentation/workflows/remediation/suppressing/#suppressing-collections-for-harmful-content-for-msu-staff)
+      1. [Containers](/metadata-documentation/workflows/remediation/suppressing/#suppressing-containers-for-harmful-content-for-msu-staff)
+      1. [Items](/metadata-documentation/workflows/remediation/suppressing/#suppressing-items-for-harmful-content-for-msu-staff)
    1. If the Division requests a note:
       1. Add a new **Note** element by copying and pasting the following text:
       ```
