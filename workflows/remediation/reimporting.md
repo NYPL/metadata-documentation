@@ -23,7 +23,10 @@ This page describes whether and how to reimport previously-imported records into
 - Metadata [imported](/metadata-documentation/workflows/importing/) into MMS from a [MARC record](/metadata-documentation/workflows/importing/marc/), [finding aid](/metadata-documentation/workflows/importing/finding-aids/), or [TMS record](/metadata-documentation/workflows/importing/tms/) is not automatically kept in sync when changes are made to the source record
 - When changes are made to the source record, it may be necessary to reimport metadata to ensure description in MMS aligns with description found in other systems
 
-## Steps (For MSU Staff)
+## Steps
+{: .d-inline .v-align-middle .mr-2 }
+For MSU Staff
+{: .d-inline .v-align-middle .label .label-purple .mx-1 }
 
 ### Determining Whether to Reimport Metadata
 1. If you are notified or become aware of updated or new MARC records, finding aids, or TMS records that correspond to records in MMS, cross-reference the MMS record with its source to determine the extent of changes
