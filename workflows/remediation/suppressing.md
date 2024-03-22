@@ -77,3 +77,6 @@ This page describes the process of suppressing records in the Metadata Managemen
 
 ### Suppressing Duplicate Captures (For DIS Staff)
 - See [Duplicate captures documentation 🔒](https://docs.google.com/document/d/1o8CiVXBgUkI9kI9duAd0acAKIhEiZj8gnOREEMNUB18/edit)
+
+## See Also
+- [Inclusive & Reparative Description › Addressing Harmful Content](/metadata-documentation/metadata/inclusive-reparative/#addressing-harmful-content) for the context of working with a Division to determine whether suppressing content or adding a note is preferred
