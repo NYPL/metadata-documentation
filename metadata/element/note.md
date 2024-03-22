@@ -36,7 +36,7 @@ General textual information relating to a resource
 - Use [inclusive descriptive practices](/metadata-documentation/metadata/inclusive-reparative/)
 
 {: .note }
-> See [Reparative Description › Workflows (For MSU Staff)](/metadata-documentation/metadata/inclusive-reparative/#addressing-transcribed-title-elements) for workflows to follow in the event you wish to use the **Note** element to indicate description or content found to be harmful, biased, offensive, outdated, or inaccurate.
+> See [Reparative Description › Workflows](/metadata-documentation/metadata/inclusive-reparative/#addressing-transcribed-title-elements) for workflows to follow in the event you wish to use the **Note** element to indicate description or content found to be harmful, biased, offensive, outdated, or inaccurate.
 
 ---
 
@@ -64,7 +64,7 @@ _Identifies what type of note is recorded_
   - Admin notes can be used for:
     - Identifying uncataloged material
       - Use `Uncataloged (YYYY-MM-DD INITIALS)`
-    - Documenting [reparative description](/metadata-documentation/metadata/inclusive-reparative/#workflows) changes
+    - Documenting [reparative description](/metadata-documentation/metadata/inclusive-reparative/#workflows-for-msu-staff) changes
     - Indicating known issues with digitized assets
     - Storing box and folder information from finding aid imports
       - Check with the division as to whether adding box and folder information to **Note (admin)** or **Location (Call number/Shelf Locator)** is preferred
