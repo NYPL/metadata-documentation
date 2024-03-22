@@ -64,7 +64,7 @@ _Identifies what type of note is recorded_
   - Admin notes can be used for:
     - Identifying uncataloged material
       - Use `Uncataloged (YYYY-MM-DD INITIALS)`
-    - Documenting [reparative description](/metadata-documentation/metadata/inclusive-reparative/#workflows-for-msu-staff) changes
+    - Documenting [reparative description](/metadata-documentation/metadata/inclusive-reparative/#workflows) changes
     - Indicating known issues with digitized assets
     - Storing box and folder information from finding aid imports
       - Check with the division as to whether adding box and folder information to **Note (admin)** or **Location (Call number/Shelf Locator)** is preferred
