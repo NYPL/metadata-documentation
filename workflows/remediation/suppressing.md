@@ -33,7 +33,7 @@ This page describes the process of suppressing records in the Metadata Managemen
 ### Suppressing Collections for Harmful Content (For MSU Staff)
 {: .d-inline .v-align-middle .mr-2 }
 For MSU Staff
-{: .d-inline .v-align-middle .label .label-red .mx-1 }
+{: .d-inline .v-align-middle .label .label-purple .mx-1 }
 
 1. Review the [suppressing records overview](#overview) to ensure the collection qualifies for suppression
 1. Navigate to the **Rights and use** tab of the collection
