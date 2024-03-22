@@ -33,7 +33,10 @@ Provides an overview of reviewing feedback relating to metadata in the Metadata 
             - Save the email address to your contacts to easily forward metadata feedback as you receive it
 - Feedback from the **DC Feedback Form** and **Metadata Reporting Form** is routed into the [Metadata Services ClickUp 🔒](https://app.clickup.com/2305128/v/gr/26b38-7748) as it is received
 
-## Steps (For MSU Staff)
+## Steps
+{: .d-inline .v-align-middle .mr-2 }
+For MSU Staff
+{: .d-inline .v-align-middle .label .label-purple .mx-1 }
 1. Monitor your [ClickUp notifications 🔒](https://app.clickup.com/2305128/notifications) and [Metadata Services › Remediation Projects › Metadata Feedback 🔒](https://app.clickup.com/2305128/v/gr/26b38-7748) for feedback tasks that have been assigned to you
    1. Each MSU staff member also has a dedicated tab that contains their open feedback tasks grouped by division
       1. To add your respective tab to your favorites in ClickUp, click the **•••** on your tab name and click **⭐ Favorite**
