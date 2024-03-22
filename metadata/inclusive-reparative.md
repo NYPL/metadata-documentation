@@ -27,14 +27,15 @@ This page provides context and workflows that support inclusive and reparative d
 
 ## Reparative Description
 
-### Workflows
-{: .d-inline .v-align-middle .mr-2 }
-For Non-MSU Staff
-{: .d-inline .v-align-middle .label .label-purple .mx-1 }
+### Workflows for Non-MSU Staff
 
 {: .note }
 The Metadata Service Unit (MSU) has a policy that all metadata in NYPL Digital Collections (DC) and Metadata Management System (MMS) is consistent with any corresponding description that exists in other Library systems. If harmful description or content found in DC/MMS also exists in other Library systems (i.e. catalog records, finding aids, or TMS records), MSU will work with you to ensure updates are made in those other systems first. If a source record has already been updated in another Library system that corresponds to digitized material in DC/MMS, let us know via our [contact form](/metadata-documentation/contact/form/).
 
+#### Working with MSU Staff
+{: .d-inline .v-align-middle .mr-2 }
+For Non-MSU Staff
+{: .d-inline .v-align-middle .label .label-purple .mx-1 }
 1. Use the [contact form](/metadata-documentation/contact/form/) to notify the MSU when you encounter either of the following in NYPL Digital Collections (DC) or its backend, Metadata Management System (MMS):
    1. Language used to describe materials that is harmful, biased, offensive, outdated, or inaccurate ("description")
    1. Resources that depict harmful or graphic content ("content")
@@ -49,11 +50,7 @@ The Metadata Service Unit (MSU) has a policy that all metadata in NYPL Digital C
       - Adding additional contextual notes, especially when subject expertise is needed
       - Suppressing content
 
-### Workflows
-{: .d-inline .v-align-middle .mr-2 }
-For MSU Staff
-{: .d-inline .v-align-middle .label .label-purple .mx-1 }
-
+### Workflows for MSU Staff
 - For workflows related to language used to describe material that is harmful, biased, offensive, outdated, or inaccurate ("description"), determine which of the following workflows is applicable:
   - If you wish to address description transcribed directly from the resource (e.g a title or caption written by the resource’s creator that is visible in the digitized content), see [Addressing Description in Transcribed Elements](#addressing-description-in-transcribed-elements)
   - If you wish to address description created by Library staff, see [Addressing Description Created by Library Staff](#addressing-description-created-by-library-staff)
@@ -61,12 +58,17 @@ For MSU Staff
 - For workflows related to the intentional creation of new metadata grounded in best practices developed to minimize bias and harm, see [Inclusive Metadata](#inclusive-metadata)
 
 #### Addressing Description in Transcribed Elements
+{: .d-inline .v-align-middle .mr-2 }
+For MSU Staff
+{: .d-inline .v-align-middle .label .label-purple .mx-1 }
 - Determine which [metadata element](/metadata-documentation/metadata/element/) contains the transcribed harmful, biased, offensive, outdated, or inaccurate description and follow the corresponding steps
   - [Title](#addressing-transcribed-title-elements)
   - [Non-Title Elements](#addressing-transcribed-non-title-elements) (e.g., Abstract or Note)
 
 ##### Addressing Transcribed Title Elements
-
+{: .d-inline .v-align-middle .mr-2 }
+For MSU Staff
+{: .d-inline .v-align-middle .label .label-purple .mx-1 }
 1. Add a new **Title** element that addresses the issues in the original **Title** element (see [Title element guidelines](/metadata-documentation/metadata/element/title/#guidelines))
    1. If correcting only a specific portion of the text, enclose the corrected text in brackets, e.g. "[their]" to replace "thier"
    1. Check **Primary** and **Supplied** for the new **Title** element
@@ -89,12 +91,16 @@ For MSU Staff
 > [https://metadata.nypl.org/items/6232674?section=desc_md 🔒](https://metadata.nypl.org/items/6232674?section=desc_md)
 
 ##### Addressing Transcribed Non-Title Elements
-
+{: .d-inline .v-align-middle .mr-2 }
+For MSU Staff
+{: .d-inline .v-align-middle .label .label-purple .mx-1 }
 1. Ensure the transcribed description is clearly contextualized and attributed
 1. [Add a harmful description note](#adding-a-harmful-description-note)
 
 #### Addressing Description Created by Library Staff
-
+{: .d-inline .v-align-middle .mr-2 }
+For MSU Staff
+{: .d-inline .v-align-middle .label .label-purple .mx-1 }
 1. Determine which of the following criteria applies and follow the corresponding steps:
    1. Description was created by Library staff and matches description from the finding aid, [add a harmful description note](#adding-a-harmful-description-note)
    1. Description was created by Library staff and matches description from the MARC record:
@@ -112,7 +118,9 @@ For MSU Staff
       1. If the MMS/DC record _will not_ be updated, [add a harmful description note](#adding-a-harmful-description-note)
 
 #### Adding a Harmful Description Note
-
+{: .d-inline .v-align-middle .mr-2 }
+For MSU Staff
+{: .d-inline .v-align-middle .label .label-purple .mx-1 }
 1. Add a new **Note** element by copying and pasting the following text:
 ```
 This record may contain language that is harmful, inaccurate, or outdated. For more information, including information about how to contact us to report potentially harmful language, please refer to NYPL's Statement on Potentially Harmful Content for Digital Collections: https://digitalcollections.nypl.org/about#nypl_harmful_content_statement
@@ -122,7 +130,9 @@ This record may contain language that is harmful, inaccurate, or outdated. For m
    1. For the note **Type**, select **content**
 
 #### Revising Harmful Description
-
+{: .d-inline .v-align-middle .mr-2 }
+For MSU Staff
+{: .d-inline .v-align-middle .label .label-purple .mx-1 }
 1. Confirm you have met all the requirements necessary to revise metadata in MMS
    - Description was created by Library staff
    - Description is updated in the source record _or_ description exists exclusively in MMS/DC
@@ -134,7 +144,9 @@ This record may contain language that is harmful, inaccurate, or outdated. For m
    1. For the note **Type**, select **content**
 
 #### Addressing Harmful Content
-
+{: .d-inline .v-align-middle .mr-2 }
+For MSU Staff
+{: .d-inline .v-align-middle .label .label-purple .mx-1 }
 1. Consult with [division staff 🔒](https://docs.google.com/spreadsheets/d/1P-YDJigon640fTCLP4Ig4-zmzqrX88v5M24ShuxFNVY/edit#gid=0\&range=F2:F37) if you encounter harmful, difficult, or offensive content on MMS/DC or it is [reported](/metadata-documentation/workflows/remediation/feedback/) to you
    1. Division staff may request one or both of the following steps:
       1. The resource can be suppressed from public view in Digital Collections (resources cannot be deleted from MMS)
