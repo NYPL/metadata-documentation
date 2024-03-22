@@ -51,7 +51,10 @@ Before requesting metadata creation, ensure your ClickUp settings are configured
     1. Has the person who requested the metadata added to the ClickUp task as a watcher
 1. The request will appear in [New Digitization Tracking 🔒](https://app.clickup.com/2305128/v/l/6-164664866-1?pr=18903295) in the **Create Metadata** section
 
-## Metadata Creation (For MSU Staff)
+## Metadata Creation
+{: .d-inline .v-align-middle .mr-2 }
+For MSU Staff
+{: .d-inline .v-align-middle .label .label-purple .mx-1 }
 1. Monitor your [ClickUp notifications 🔒](https://app.clickup.com/2305128/notifications) and [Metadata Services › New Digitization › New Digitization Tracking 🔒](https://app.clickup.com/2305128/v/l/6-164664866-1) for metadata creation tasks that have been assigned to you
     1. Incoming PO metadata requests will have a task name that begins with PO and the status of **Create Metadata**
 1. Review the task description to determine what item(s) need to be created in MMS
