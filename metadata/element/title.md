@@ -35,7 +35,7 @@ A word, phrase, character, or group of characters, normally appearing in a resou
     - See [By Material](/metadata-documentation/metadata/material/) and [By Division](/metadata-documentation/metadata/division/) for guidelines on constructing titles specific to corresponding resources
 
 {: .note }
-> See [Reparative Description › Workflows (For MSU Staff)](/metadata-documentation/metadata/inclusive-reparative/#addressing-transcribed-title-elements) for workflows to follow in the event the **Title** element is found to be harmful, biased, offensive, outdated, or inaccurate.
+> See [Reparative Description › Workflows](/metadata-documentation/metadata/inclusive-reparative/#addressing-transcribed-title-elements) for workflows to follow in the event the **Title** element is found to be harmful, biased, offensive, outdated, or inaccurate.
 
 ## Subelements
 
