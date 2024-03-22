@@ -62,7 +62,7 @@ callouts:
     color: purple
   msu:
     title: For MSU Staff Only
-    color: gray
+    color: purple
 
 mermaid:
   # Version of mermaid library
