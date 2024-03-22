@@ -45,7 +45,7 @@ See [General Guidelines › Rights](/metadata-documentation/metadata/guidelines/
    1. If you are unsure who is the Digitization Coordinator (DC), discuss with the [Manager, Metadata Services](/metadata-documentation/contact/)
 1. Add a comment to the ClickUp task to specify the URLs for the records needing rights and tag the DC with an @ symbol
 1. Once the DC sets the Rights field to **Rights Completed**, a ClickUp bot will add a comment to the task indicating  `✅ rights completed`
-   1. For approvals, the task status will automatically be updated to **In Progress**, and the next [approvals steps](/metadata-documentation/workflows/approvals/#steps-for-msu-staff) can be taken
+   1. For approvals, the task status will automatically be updated to **In Progress**, and the next [approvals steps](/metadata-documentation/workflows/approvals/#steps) can be taken
 
 ## Steps (For CIP Staff)
 
