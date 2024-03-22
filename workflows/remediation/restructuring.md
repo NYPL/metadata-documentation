@@ -136,7 +136,7 @@ This page describes different methods of restructuring records in the Metadata M
 
 ### Moving Captures
 
-1. Navigate to the **Capture inventory** tab of item where the capture(s) you would like to move is located
+1. Navigate to the **Capture inventory** tab of the item where the capture(s) you would like to move is located
 1. Locate the capture(s) you would like to move
 1. To move a single capture:
    1. In the **Move** column of the capture's row, click **Move to new item**
