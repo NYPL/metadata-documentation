@@ -27,7 +27,10 @@ This page provides context and workflows that support inclusive and reparative d
 
 ## Reparative Description
 
-### Workflows (For Non-MSU Staff)
+### Workflows
+{: .d-inline .v-align-middle .mr-2 }
+For Non-MSU Staff
+{: .d-inline .v-align-middle .label .label-purple .mx-1 }
 
 {: .note }
 The Metadata Service Unit (MSU) has a policy that all metadata in NYPL Digital Collections (DC) and Metadata Management System (MMS) is consistent with any corresponding description that exists in other Library systems. If harmful description or content found in DC/MMS also exists in other Library systems (i.e. catalog records, finding aids, or TMS records), MSU will work with you to ensure updates are made in those other systems first. If a source record has already been updated in another Library system that corresponds to digitized material in DC/MMS, let us know via our [contact form](/metadata-documentation/contact/form/).
@@ -40,13 +43,16 @@ The Metadata Service Unit (MSU) has a policy that all metadata in NYPL Digital C
       - Whether your submission relates to description or content
       - If it is related to description, whether the description was created by Library staff or was transcribed directly (e.g. a title or caption written by the resource’s creator that is visible in the digitized content)
       - If the description was created by Library staff, whether that description exists exclusively in DC/MMS or was imported from another source such as a MARC record or finding aid
-   1. The liaison will implement the appropriate [workflows](#workflows-for-msu-staff)
+   1. The liaison will implement the appropriate [workflows](#workflows)
    1. The liaison may also reach out to division staff to discuss any additional actions that may needed to address the reported issue such as:
       - Updating any source record(s)
       - Adding additional contextual notes, especially when subject expertise is needed
       - Suppressing content
 
-### Workflows (For MSU Staff)
+### Workflows
+{: .d-inline .v-align-middle .mr-2 }
+For MSU Staff
+{: .d-inline .v-align-middle .label .label-purple .mx-1 }
 
 - For workflows related to language used to describe material that is harmful, biased, offensive, outdated, or inaccurate ("description"), determine which of the following workflows is applicable:
   - If you wish to address description transcribed directly from the resource (e.g a title or caption written by the resource’s creator that is visible in the digitized content), see [Addressing Description in Transcribed Elements](#addressing-description-in-transcribed-elements)
@@ -134,9 +140,9 @@ This record may contain language that is harmful, inaccurate, or outdated. For m
       1. The resource can be suppressed from public view in Digital Collections (resources cannot be deleted from MMS)
       1. A note can be added to the descriptive metadata
    1. If the Division requests suppression, follow the steps that correspond to the record type you want to [suppress](/metadata-documentation/workflows/remediation/suppressing/):
-      1. [Collections](/metadata-documentation/workflows/remediation/suppressing/#suppressing-collections-for-harmful-content-for-msu-staff)
-      1. [Containers](/metadata-documentation/workflows/remediation/suppressing/#suppressing-containers-for-harmful-content-for-msu-staff)
-      1. [Items](/metadata-documentation/workflows/remediation/suppressing/#suppressing-items-for-harmful-content-for-msu-staff)
+      1. [Collections](/metadata-documentation/workflows/remediation/suppressing/#suppressing-collections-for-harmful-content)
+      1. [Containers](/metadata-documentation/workflows/remediation/suppressing/#suppressing-containers-for-harmful-content)
+      1. [Items](/metadata-documentation/workflows/remediation/suppressing/#suppressing-items-for-harmful-content)
    1. If the Division requests a note:
       1. Add a new **Note** element by copying and pasting the following text:
       ```
