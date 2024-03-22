@@ -24,7 +24,10 @@ Provides an overview of the process of approving records in the Metadata Managem
     - Backlog approvals are generated through [remediation projects](/metadata-documentation/workflows/remediation/)
     - New digitization approvals should be prioritized over tasks derived from remediation projects
 
-## Steps (For MSU Staff)
+## Steps
+{: .d-inline .v-align-middle .mr-2 }
+For MSU Staff
+{: .d-inline .v-align-middle .label .label-purple .mx-1 }
 1. Monitor your [ClickUp notifications 🔒](https://app.clickup.com/2305128/notifications) and the following lists for approval tasks that have been assigned to you:
     1. [Metadata Services › New Digitization › New Digitization Approvals 🔒](https://app.clickup.com/2305128/v/l/6-180919377-1) for incoming approvals that correspond to newly digitized material
     1. [Metadata Services › Remediation › Remediation Projects › Remediation Tasks 🔒](https://app.clickup.com/2305128/v/l/26b38-8667) for tasks generated as part of remediation projects such as backlog approvals, reimports, et al.
@@ -58,7 +61,7 @@ Provides an overview of the process of approving records in the Metadata Managem
 1. Once all records have been approved, review whether all item records have rights metadata assigned by reviewing the **Rights** section found in the **Overview** tab of the MMS record(s):
    1. If rights metadata has been specified for all items in the scope of the approval, toggle the **Rights** field of the ClickUp task to **Rights Completed** and proceed with closing the task
       1. Rights metadata can either be set at the item-level or inherited from above, both meet the requirement and can be considered completed
-   1. If rights metadata has not been specified for all items in the scope of the approval, follow the steps to [request rights metadata](/metadata-documentation/workflows/rights/#steps-for-msu-staff)
+   1. If rights metadata has not been specified for all items in the scope of the approval, follow the steps to [request rights metadata](/metadata-documentation/workflows/rights/#steps)
       1. Once the DC sets the **Rights** field of the ClickUp task to **Rights Completed**, determine whether the approval is complete or if the ClickUp task should be set back to **On Hold** for any reason and add a comment if necessary to explain
 1. When an approval is complete:
     1. Add a comment to the ClickUp task, noting that metadata has been reviewed and approved and that rights are in place
