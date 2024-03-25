@@ -184,7 +184,7 @@ Last updated September 2023
 {: .no_toc }
 
 - MSU is committed to integrating inclusive and reparative description into our everyday work and has led several efforts to address harmful description and content on NYPL Digital Collections
-- Informed by MSU staff's participation in professional development and the Library’s [DEIA in Collections: Collections Access Working Group](#deia-in-collections-collections-access-working-group), MSU maintains internal guidelines and workflows, which can be found at [MMS › Metadata › Inclusive & Reparative Description](/metadata-documentation/metadata/inclusive-reparative/)
+- Informed by MSU staff's participation in professional development and the Library's [DEIA in Collections: Collections Access Working Group](#deia-in-collections-collections-access-working-group), MSU maintains internal guidelines and workflows, which can be found at [MMS › Metadata › Inclusive & Reparative Description](/metadata-documentation/metadata/inclusive-reparative/)
 - MSU is developing ideas for specific holistic remediation projects to align extant legacy description with updated guidelines
 - Inclusive and reparative description efforts will continue to evolve based on feedback from Library staff and patrons; please [contact us](/metadata-documentation/contact/form/) if you have ideas, concerns, or questions related to NYPL Digital Collections content and description
 
