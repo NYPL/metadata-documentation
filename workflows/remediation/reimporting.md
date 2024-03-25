@@ -23,12 +23,10 @@ This page describes whether and how to reimport previously-imported records into
 - Metadata [imported](/metadata-documentation/workflows/importing/) into MMS from a [MARC record](/metadata-documentation/workflows/importing/marc/), [finding aid](/metadata-documentation/workflows/importing/finding-aids/), or [TMS record](/metadata-documentation/workflows/importing/tms/) is not automatically kept in sync when changes are made to the source record
 - When changes are made to the source record, it may be necessary to reimport metadata to ensure description in MMS aligns with description found in other systems
 
-## Steps
+## Determining Whether to Reimport Metadata
 {: .d-inline .v-align-middle .mr-2 }
 For MSU Staff
 {: .d-inline .v-align-middle .label .label-purple .mx-1 }
-
-### Determining Whether to Reimport Metadata
 1. If you are notified or become aware of updated or new MARC records, finding aids, or TMS records that correspond to records in MMS, cross-reference the MMS record with its source to determine the extent of changes
    1. Manual updates to the record may be preferable if:
       1. You know exactly what the changes in the source record(s) are, and it is not labor-intensive to make the changes in the existing MMS record
@@ -56,11 +54,14 @@ For MSU Staff
    1. If rights are needed for the reimported records, request they be added following the [rights workflow](/metadata-documentation/workflows/rights/)
       1. Include a link to the legacy record(s) if rights were assigned there
    1. Once you have confirmed all metadata elements and rights are in place for the reimported record(s), you may [delete](/metadata-documentation/workflows/remediation/deleting/) the legacy record(s) that are now empty and no longer needed as a result of the reimport
-   1. If the legacy record had a [NYPL catalog ID (B-number)](/metadata-documentation/metadata/element/identifier/bnumber/) as an [Identifier](/metadata-documentation/metadata/element/identifier/), ensure that the catalog record’s link to NYPL Digital Collections (DC) gets updated
+   1. If the legacy record had a [NYPL catalog ID (B-number)](/metadata-documentation/metadata/element/identifier/bnumber/) as an [Identifier](/metadata-documentation/metadata/element/identifier/), ensure that the catalog record's link to NYPL Digital Collections (DC) gets updated
       1. In the relevant ClickUp task, add a comment indicating the [bnumber](/metadata-documentation/metadata/element/identifier/bnumber/) with the tag `@MSU Sierra Editors`
       1. Do not close the ClickUp task until someone with Sierra edit access has confirmed the catalog record has been updated
 
-### Reviewing a Finding Aid Update from Archival Processing
+## Reviewing a Finding Aid Update from Archival Processing
+{: .d-inline .v-align-middle .mr-2 }
+For MSU Staff
+{: .d-inline .v-align-middle .label .label-purple .mx-1 }
 
 {: .note }
 These steps follow the [related workflow for Archival Processing staff](#notifying-msu-of-an-updated-finding-aid), which will populate a task in [Metadata Services › New Digitization › Metadata Feedback 🔒](https://app.clickup.com/2305128/v/l/26b38-2943).
@@ -75,9 +76,10 @@ These steps follow the [related workflow for Archival Processing staff](#notifyi
    1. A Python library such as [xmldiff](https://pypi.org/project/xmldiff/)
 1. Proceed with [determining whether to reimport metadata](#determining-whether-to-reimport-metadata)
 
-## Steps (For Archival Processing Staff)
-
-### Notifying MSU of an Updated Finding Aid
+## Notifying MSU of an Updated Finding Aid
+{: .d-inline .v-align-middle .mr-2 }
+For Archival Processing Staff
+{: .d-inline .v-align-middle .label .label-purple .mx-1 }
 1. Before updating a finding aid in [ArchivesSpace](/metadata-documentation/resources/glossary/#archivesspace), search in the Metadata Management System (MMS) using [Advanced Search 🔒](https://metadata.nypl.org/searches/advanced) to determine whether it has been imported into MMS previously
    1. Select **MSS Unit ID** from the dropdown
    1. Enter the identifier for the archival collection (see [MSS Unit ID › Guidelines](/metadata-documentation/metadata/element/identifier/mss-unit/#guidel))
