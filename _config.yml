@@ -60,9 +60,6 @@ callouts:
   mods:
     title: MODS Documentation
     color: purple
-  msu:
-    title: For MSU Staff Only
-    color: purple
 
 mermaid:
   # Version of mermaid library
