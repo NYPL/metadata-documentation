@@ -29,7 +29,10 @@ Provides an overview of the workflow for Public Orders (POs), particularly in re
     - See [Metadata Liaisons and Contacts 🔒](https://docs.google.com/spreadsheets/d/1P-YDJigon640fTCLP4Ig4-zmzqrX88v5M24ShuxFNVY/edit#gid=0&range=F2:F37) to identify who should create metadata records for POs for each division
 Steps
 
-## Requesting Metadata Creation (For PRS Staff)
+## Requesting Metadata Creation
+{: .d-inline .v-align-middle .mr-2 }
+For PRS Staff
+{: .d-inline .v-align-middle .label .label-purple .mx-1 }
 
 {: .note }
 Before requesting metadata creation, ensure your ClickUp settings are configured to assign you as a watcher to tasks you create in [your notification settings 🔒](https://app.clickup.com/2305128/settings/notifications). Under **Watcher settings: When do you want to be added as a watcher on a task?**, check that **When I create a task or subtask** is selected.
