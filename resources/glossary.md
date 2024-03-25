@@ -488,7 +488,7 @@ On this page you will find common terms used within the work of the Metadata Ser
 
 <a name="work-order"></a>
 <dt>Work Order</dt>
-<dd>list of items to be digitized within the <a href="#metadata-management-system">Metadata Management System</a>; often correspond to <a href="#public-order">Public Orders</a> or ongoing digitization projects; accessible at <a href="https://metadata.nypl.org/work_orders">metadata.nypl.org/work_orders 🔒</a></dd>
+<dd>list in the <a href="#metadata-management-system">Metadata Management System</a> of capture records ready to be connected with digital assets; often correspond to <a href="#public-order">Public Orders</a> or ongoing digitization projects; accessible at <a href="https://metadata.nypl.org/work_orders">metadata.nypl.org/work_orders 🔒</a></dd>
 
 </dl>
 
