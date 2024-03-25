@@ -45,7 +45,7 @@ For MSU Staff
 1. Once you have selected a feedback task to work on, toggle its status to **In Progress**
 1. Review the **Feedback Text** and determine next steps based on the following considerations (discuss with the [Manager, Metadata Services](/metadata-documentation/contact/), if you are uncertain how to proceed):
    1. Has the feedback been submitted by a NYPL staff member or by a patron?
-      1. If the feedback was submitted by a NYPL Archival Processing staff member to notify MSU of an updated finding aid, the related workflow on [Reimporting Metadata](/metadata-documentation/workflows/remediation/reimporting/#reviewing-a-finding-aid-update-from-archival-processing)
+      1. If the feedback was submitted by a NYPL Archival Processing staff member to notify MSU of an updated finding aid, see the related workflow on [Reimporting Metadata](/metadata-documentation/workflows/remediation/reimporting/#reviewing-a-finding-aid-update-from-archival-processing)
    1. Can you verify the accuracy of the feedback, either based on the submitter or through your own research?
    1. Where did the original metadata come from?
    1. Was the metadata transcribed or supplied?
