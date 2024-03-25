@@ -30,7 +30,7 @@ This page describes the process of suppressing records in the Metadata Managemen
 
 ## Suppressing Collections
 
-### Suppressing Collections for Harmful Content
+### Suppressing Collections for Harmful Content 
 {: .d-inline .v-align-middle .mr-2 }
 For MSU Staff
 {: .d-inline .v-align-middle .label .label-purple .mx-1 }
