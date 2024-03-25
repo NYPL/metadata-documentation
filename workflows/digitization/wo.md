@@ -27,7 +27,7 @@ For best practices and workflows for work orders not covered on this page, conta
    - Work orders typically function as a list of material to be digitized by DIS, but they may also be used for importing assets digitized by external vendors or collaborators
    - Work orders are accessible in MMS at [metadata.nypl.org/work_orders 🔒](https://metadata.nypl.org/work_orders)
    - Work orders are necessary for both internal and vendor digitization
-   - Work orders names often correspond to [Public Orders (POs)](/metadata-documentation/workflows/digitization/po/) or ongoing digitization projects
+   - Work orders names often correspond to [Public Orders (POs)](/metadata-documentation/workflows/digitization/po/), [Exhibitions](/metadata-documentation/workflows/digitization/exhibitions/), or ongoing digitization projects
    - When the status of a work order is [updated](#updating-the-status-of-a-work-order) to **Completed**, the associated capture records are added to a queue for the system to update their status from **Not Captured Yet** to **Captured**
      - If you notice that a capture record has an asset visible in the **Thumbnail** column of the **Capture inventory** tab of an item but still has the status **Not Captured Yet,** see [Troubleshooting Issues](/metadata-documentation/workflows/troubleshooting/)
 - Depending on the relevant digitization workflow, work orders may be created by members of:
