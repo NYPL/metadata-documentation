@@ -69,10 +69,10 @@ Deleted records cannot be restored within MMS, so take caution to ensure all cri
 1. Confirm the container record is no longer needed for reference, see [deleting records overview](#overview)
 1. Navigate to the **Capture inventory** tab of the item record
 1. To delete a single capture:
-   1. In the **Delete** column of the capture’s row, click **X**
+   1. In the **Delete** column of the capture's row, click **X**
 1. To delete multiple captures:
    1. Locate the captures you would like to delete
-   1. In the **☐** (checkbox) column of the captures’ rows, select all the captures you would like to delete
+   1. In the **☐** (checkbox) column of the captures' rows, select all the captures you would like to delete
       1. Click checkbox at the top of the column to select all captures
    1. Open the **Actions on checked captures:** dropdown menu above the captures
    1. Select **Delete** and click **Go**
