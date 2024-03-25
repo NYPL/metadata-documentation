@@ -42,7 +42,7 @@ For Non-MSU Staff
 1. Your submission will be reviewed by the [MSU liaison](/metadata-documentation/contact/#our-team) for the Library division or collection that holds the resource
    1. The liaison will review your submission to evaluate:
       - Whether your submission relates to description or content
-      - If it is related to description, whether the description was created by Library staff or was transcribed directly (e.g. a title or caption written by the resource’s creator that is visible in the digitized content)
+      - If it is related to description, whether the description was created by Library staff or was transcribed directly (e.g. a title or caption written by the resource's creator that is visible in the digitized content)
       - If the description was created by Library staff, whether that description exists exclusively in DC/MMS or was imported from another source such as a MARC record or finding aid
    1. The liaison will implement the appropriate [workflows](#workflows)
    1. The liaison may also reach out to division staff to discuss any additional actions that may needed to address the reported issue such as:
@@ -52,7 +52,7 @@ For Non-MSU Staff
 
 ### Workflows for MSU Staff
 - For workflows related to language used to describe material that is harmful, biased, offensive, outdated, or inaccurate ("description"), determine which of the following workflows is applicable:
-  - If you wish to address description transcribed directly from the resource (e.g a title or caption written by the resource’s creator that is visible in the digitized content), see [Addressing Description in Transcribed Elements](#addressing-description-in-transcribed-elements)
+  - If you wish to address description transcribed directly from the resource (e.g a title or caption written by the resource's creator that is visible in the digitized content), see [Addressing Description in Transcribed Elements](#addressing-description-in-transcribed-elements)
   - If you wish to address description created by Library staff, see [Addressing Description Created by Library Staff](#addressing-description-created-by-library-staff)
 - For the workflow related to resources that depict harmful or graphic content ("content"), see [Addressing Harmful Content](#addressing-harmful-content)
 - For workflows related to the intentional creation of new metadata grounded in best practices developed to minimize bias and harm, see [Inclusive Metadata](#inclusive-metadata)
