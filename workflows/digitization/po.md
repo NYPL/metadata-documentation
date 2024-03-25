@@ -54,7 +54,7 @@ Before requesting metadata creation, ensure your ClickUp settings are configured
     1. Has the person who requested the metadata added to the ClickUp task as a watcher
 1. The request will appear in [New Digitization Tracking 🔒](https://app.clickup.com/2305128/v/l/6-164664866-1?pr=18903295) in the **Create Metadata** section
 
-## Metadata Creation
+## Creating Metadata
 {: .d-inline .v-align-middle .mr-2 }
 For MSU Staff
 {: .d-inline .v-align-middle .label .label-purple .mx-1 }
