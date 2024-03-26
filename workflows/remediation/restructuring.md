@@ -19,16 +19,18 @@ This page describes different methods of restructuring records in the Metadata M
 1. TOC
 {:toc}
 
-## Moving Records
+## Steps
 
-### Moving Collections
+### Moving Records
+
+#### Moving Collections
 
 - Collection records cannot be moved
   - If you need to move a collection record, it must first be [converted](#converting-collections)
 
-### Moving Containers
+#### Moving Containers
 
-#### Moving Containers Within a Collection
+##### Moving Containers Within a Collection
 
 1. Navigate to the **Overview** tab of the collection or container record where the container you would like to move is located
 1. In the table that lists containers below the overview, locate the container you would like to move
@@ -48,13 +50,13 @@ This page describes different methods of restructuring records in the Metadata M
       1. If rights are needed, follow the [rights](/metadata-documentation/workflows/rights/) workflow and include a link to the previous location of the container if rights were assigned there
 1. Once you have confirmed all metadata elements and rights are in place in the container's new location, you may [delete](/metadata-documentation/workflows/remediation/deleting/) any collection or container records that are now empty and no longer needed as a result of moving the container
 
-### Moving Items
+#### Moving Items
 
-#### Moving Items out of a Collection or Container to Be a Standalone Item
+##### Moving Items out of a Collection or Container to Be a Standalone Item
 
 - See [Converting Items](#converting-items)
 
-#### Moving Standalone Items to a Collection or Container
+##### Moving Standalone Items to a Collection or Container
 
 1. Navigate to any tab of the item record
 1. Below the title and UUID of the item record, click **Move to new collection**
@@ -71,7 +73,7 @@ This page describes different methods of restructuring records in the Metadata M
    1. Ensure no redundant metadata elements were added as a result of the move by reviewing the **Descriptive metadata** tab of the item
    1. Ensure the item retained its rights profile by reviewing the **Rights section** found in the **Overview tab** of the item record
 
-#### Moving Items to a Different Collection
+##### Moving Items to a Different Collection
 
 1. Navigate to the **Overview** tab of the collection or container record where the item(s) you would like to move is located
 1. In the table that lists items below the overview (and containers, if any), locate the item(s) you would like to move
@@ -103,7 +105,7 @@ This page describes different methods of restructuring records in the Metadata M
       1. If rights are needed, follow the [rights](/metadata-documentation/workflows/rights/) workflow and include a link to the previous location of the container if rights were assigned there
 1. Once you have confirmed all metadata elements and rights are in place in the item's new location, you may [delete](/metadata-documentation/workflows/remediation/deleting/) any collection or container records that are now empty and no longer needed as a result of moving the item
 
-#### Moving Items Within a Collection
+##### Moving Items Within a Collection
 
 1. Navigate to the **Overview** tab of the collection or container record where the item(s) you would like to move is located
 1. In the table that lists items below the overview (and containers, if any), locate the item(s) you would like to move
@@ -134,7 +136,7 @@ This page describes different methods of restructuring records in the Metadata M
       1. If rights are needed, follow the [rights](/metadata-documentation/workflows/rights/) workflow and include a link to the previous location of the container if rights were assigned there
 1. Once you have confirmed all metadata elements and rights are in place in the item's new location, you may [delete](/metadata-documentation/workflows/remediation/deleting/) any collection or container records that are now empty and no longer needed as a result of moving the item
 
-### Moving Captures
+#### Moving Captures
 
 1. Navigate to the **Capture inventory** tab of the item where the capture(s) you would like to move is located
 1. Locate the capture(s) you would like to move
@@ -155,49 +157,49 @@ This page describes different methods of restructuring records in the Metadata M
    1. Use the **Reorder** or **Reorder (with thumbnails)** if you need to change the order of the capture(s)
 1. Once you have confirmed the capture has been successfully to its new location, you may [delete](/metadata-documentation/workflows/remediation/deleting/) any item records that are now empty and no longer needed as a result of moving the capture
 
-## Converting Between Record Types
+### Converting Between Record Types
 
-### Converting Collections
+#### Converting Collections
 
 - Collection records can only be converted if there are no records within the collection
 - Collection records can only be converted to item records
 
-#### Converting Collections to Items
+##### Converting Collections to Items
 
 1. Navigate to any tab of the collection record
 1. Below the title and UUID of the item record, click **Change object type**
 1. Confirm **Item** is selected in the dropdown menu and click **Submit**
 1. The item can remain a standalone item or be [moved to a collection or container](#moving-standalone-items-to-a-collection-or-container)
 
-### Converting Containers
+#### Converting Containers
 
 - Container records can only be converted if there are no records within the container
 - Container records can only be converted to item records
 
-#### Converting Containers to Items
+##### Converting Containers to Items
 
 1. Navigate to any tab of the container record
 1. Below the title and UUID of the item record, click **Change object type**
 1. Confirm **Item** is selected in the dropdown menu and click **Submit**
 
-### Converting Items
+#### Converting Items
 
 - Item records can only be converted if there are no capture records attached to the item record
 - The workflow for converting item records is based on an item's current location and destination
 
-#### Converting Standalone Items to Collections
+##### Converting Standalone Items to Collections
 
 1. Navigate to any tab of the item record
 1. Below the title and UUID of the item record, click **Change object type**
 1. Confirm **Collection** is selected in the dropdown menu and click **Submit**
 
-#### Converting Items Within a Collection to Containers
+##### Converting Items Within a Collection to Containers
 
 1. Navigate to any tab of the item record
 1. Below the title and UUID of the item record, click **Change object type**
 1. Confirm **Container** is selected in the dropdown menu and click **Submit**
 
-#### Converting Items Within a Collection or Container to Standalone Items
+##### Converting Items Within a Collection or Container to Standalone Items
 
 1. Navigate to the **Overview** tab of the collection or container record where the item you would like to convert is located
 1. In the table that lists items below the overview (and containers, if any), locate the item you would like to convert
@@ -208,7 +210,7 @@ This page describes different methods of restructuring records in the Metadata M
    1. Ensure item(s) have rights assigned by reviewing the **Rights section** found in the **Overview** tab
       1. If rights are needed, follow the [rights](/metadata-documentation/workflows/rights/) workflow and include a link to the previous location of the container if rights were assigned there
 
-### Converting Captures
+#### Converting Captures
 
 - Capture records cannot be converted
 
