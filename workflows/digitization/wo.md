@@ -36,7 +36,9 @@ For best practices and workflows for work orders not covered on this page, conta
    - [Permissions and Reproduction Services (PRS)](/metadata-documentation/resources/glossary/#permissions-reproduction-services)
    - [Metadata Services Unit (MSU)](/metadata-documentation/resources/glossary/#metadata-services-unit)
 
-## Creating a Work Order
+## Steps
+
+### Creating a Work Order
 
 {: .note }
 New work orders can also be created when [adding records to a work order](#adding-records-to-a-work-order).
@@ -51,7 +53,7 @@ New work orders can also be created when [adding records to a work order](#addin
    1. A confirmation message will be displayed: `Work order created, now you can search items and add them to it.`
 1. Proceed with [adding records to the work order](#adding-records-to-a-work-order)
 
-## Editing a Work Order
+### Editing a Work Order
 
 {: .note }
 These steps cover editing a work order's metadata including **Name**, **Due date**, **Photographer**, **Priority**, and **Status**. See corresponding documentation to [add](#adding-records-to-a-work-order) or [remove](#removing-records-from-a-work-order) records from a work order.
@@ -71,7 +73,7 @@ These steps cover editing a work order's metadata including **Name**, **Due date
 1. Edit the work order's metadata fields as needed
 1. Click **Save**
 
-## Adding Records to a Work Order
+### Adding Records to a Work Order
 1. Before adding records to a work order, determine which [record type(s)](/metadata-documentation/metadata/record-type/) should be added:
    1. Consult with DIS to determine their preference (if any)
    1. Add the most specific record appropriate
@@ -91,7 +93,7 @@ These steps cover editing a work order's metadata including **Name**, **Due date
    1. [Item](#adding-items-to-a-work-order)
    1. [Capture](#adding-captures-to-a-work-order)
 
-### Adding Collections to a Work Order
+#### Adding Collections to a Work Order
 
 {: .note }
 The **Add Collection to Work Order** button may be replaced by an error message on large collections ( `Item too large to add to a work order directly. Please choose a subset of available items or contact admin.`). Instead, create multiple work orders where each contains a subset of the records (see [adding records to a work order](#adding-records-to-a-work-order)).
@@ -109,7 +111,7 @@ The **Add Collection to Work Order** button may be replaced by an error message 
    1. Click **Create order and add object**
 1. Navigate to [**Work orders 🔒**](https://metadata.nypl.org/work_orders) to locate and review your work order
 
-### Adding Containers to a Work Order
+#### Adding Containers to a Work Order
 1. Navigate to any tab of the container you would like to add to a work order
 1. Below the title and UUID of the item record, click **Add Container to Work Order** 
 1. If your work order already exists:
@@ -123,9 +125,9 @@ The **Add Collection to Work Order** button may be replaced by an error message 
    1. Click **Create order and add object**
 1. Navigate to [**Work orders 🔒**](https://metadata.nypl.org/work_orders) to locate and review your work order
 
-### Adding Items to a Work Order
+#### Adding Items to a Work Order
 
-#### Adding an Single Item to a Work Order
+##### Adding an Single Item to a Work Order
 1. Navigate to any tab of the collection you would like to add to a work order
 1. Below the title and UUID of the item record, click **Add Item to Work Order** 
 1. If your work order already exists:
@@ -139,7 +141,7 @@ The **Add Collection to Work Order** button may be replaced by an error message 
    1. Click **Create order and add object**
 1. Navigate to [**Work orders 🔒**](https://metadata.nypl.org/work_orders) to locate and review your work order
 
-#### Adding Multiple Items to a Work Order
+##### Adding Multiple Items to a Work Order
 1. Navigate to the **Overview** tab of the collection or container where the item(s) you would like to add to a work order are located
 1. In the table that lists items below the overview (and containers, if any), locate the item(s) you would like to add to a work order
 1. In the **☐** (checkbox) column of the items' rows, select all the items you would like to add to a work order
@@ -161,7 +163,7 @@ The **Add Collection to Work Order** button may be replaced by an error message 
    1. If you were not redirected, navigate to [**Work orders 🔒**](https://metadata.nypl.org/work_orders) to locate the work order
    1. Review your work order
 
-### Adding Captures to a Work Order
+#### Adding Captures to a Work Order
 1. Navigate to the **Capture inventory tab** of the item where the capture(s) you would like to add is located
 1. Locate the capture(s) you would like to add to a work order
 1. In the **☐** (checkbox) column of the captures' rows, select the capture(s) you would like to add to the work order
@@ -183,7 +185,7 @@ The **Add Collection to Work Order** button may be replaced by an error message 
    1. If you were not redirected, navigate to [**Work orders 🔒**](https://metadata.nypl.org/work_orders) to locate the work order
    1. Review your work order
 
-## Removing Records from a Work Order
+### Removing Records from a Work Order
 
 {: .note }
 Only the exact record that was added to a work order may be removed from a work order. For example, if a collection record was added to a work order, only the collection record may be removed from the work order; container or item records that are part of the collection cannot be removed.
@@ -196,7 +198,7 @@ Only the exact record that was added to a work order may be removed from a work 
    1. Click **Remove from Current Work Order** below the title and UUID of the record
       1. A confirmation message will be displayed: `Record removed from current work order`
 
-## Deleting a Work Order
+### Deleting a Work Order
 
 {: .note }
 Work orders can only be deleted if they are in **Draft** status, see [Updating the Status of a Work Order](#updating-the-status-of-a-work-order).
@@ -206,7 +208,7 @@ Work orders can only be deleted if they are in **Draft** status, see [Updating t
 1. From a work order:
    1. Click **Destroy** under the title of the work order
 
-## Updating the Status of a Work Order
+### Updating the Status of a Work Order
 {: .d-inline .v-align-middle .mr-2 }
 For DIS Staff
 {: .d-inline .v-align-middle .label .label-purple .mx-1 }
