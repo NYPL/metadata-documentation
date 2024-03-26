@@ -23,7 +23,9 @@ This page describes whether and how to reimport previously-imported records into
 - Metadata [imported](/metadata-documentation/workflows/importing/) into MMS from a [MARC record](/metadata-documentation/workflows/importing/marc/), [finding aid](/metadata-documentation/workflows/importing/finding-aids/), or [TMS record](/metadata-documentation/workflows/importing/tms/) is not automatically kept in sync when changes are made to the source record
 - When changes are made to the source record, it may be necessary to reimport metadata to ensure description in MMS aligns with description found in other systems
 
-## Determining Whether to Reimport Metadata
+## Workflow for MSU Staff
+
+### Determining Whether to Reimport Metadata
 {: .d-inline .v-align-middle .mr-2 }
 For MSU Staff
 {: .d-inline .v-align-middle .label .label-purple .mx-1 }
@@ -58,7 +60,7 @@ For MSU Staff
       1. In the relevant ClickUp task, add a comment indicating the [bnumber](/metadata-documentation/metadata/element/identifier/bnumber/) with the tag `@MSU Sierra Editors`
       1. Do not close the ClickUp task until someone with Sierra edit access has confirmed the catalog record has been updated
 
-## Reviewing a Finding Aid Update from Archival Processing
+### Reviewing a Finding Aid Update from Archival Processing
 {: .d-inline .v-align-middle .mr-2 }
 For MSU Staff
 {: .d-inline .v-align-middle .label .label-purple .mx-1 }
@@ -76,7 +78,9 @@ These steps follow the [related workflow for Archival Processing staff](#notifyi
    1. A Python library such as [xmldiff](https://pypi.org/project/xmldiff/)
 1. Proceed with [determining whether to reimport metadata](#determining-whether-to-reimport-metadata)
 
-## Notifying MSU of an Updated Finding Aid
+## Workflow for Archival Processing Staff
+
+### Notifying MSU of an Updated Finding Aid
 {: .d-inline .v-align-middle .mr-2 }
 For Archival Processing Staff
 {: .d-inline .v-align-middle .label .label-purple .mx-1 }
