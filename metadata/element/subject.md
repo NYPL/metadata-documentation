@@ -43,7 +43,7 @@ A term or phrase representing the primary topic(s) on which a work is focused
     - The selected subject type will determine which **Authority** is searched, and consequently which terms are available
     - Reference relevant guidelines for the record's [division](https:///metadata-documentation/metadata/division/) and [material](https:///metadata-documentation/metadata/material/) to determine whether there is any relevant preference for terms from a particular **Authority**
   - To verify a result is appropriate, click the linked **Authorized Term** to view the corresponding record in the source **Authority**
-    - Review the selected record to ensure the subject you are adding can be used as you intend, e.g. do not add subdivision as a main subject
+    - Review the selected record to ensure the subject you are adding can be used as you intend, i.e. do not add subdivision as a main subject
   - Once you have confirmed the correct result, click the **Use this term** button in the **Action** column
   - Selecting a subject from the MMS authorities module automatically populates the [**Type**](#type) (where applicable), [**Authority**](#authority) and [**Value URI** ](#value-uri)attributes
 - If you are not receiving the result you expect by searching the MMS authorities module, try searching the [Library of Congress Linked Data Service](https://id.loc.gov/)
@@ -121,7 +121,7 @@ _A name used as a subject_
 {: .no_toc }
 - Use the **Name** subelement of **Subject** when the content of the resource is _about_ a person, organization, or event
   - Use the top-level [**Name**](https:///metadata-documentation/metadata/element/name/) element when adding people, organizations, families, or events associated with the creation or production of the resource or part of the resource
-  - For personal names, use indirect order (i.e. “last name, first name”)
+  - For personal names, use indirect order (e.g. "last name, first name")
 - Searching the authorities module within a **Name** subelement will return **Authorized Terms** from the following vocabularies, listed here in order of preference:
   - [LC/NACO authority file (LCNAF)](https://id.loc.gov/authorities/names.html)
   - [LC Subject Headings (LCSH)](https://id.loc.gov/authorities/subjects.html)
