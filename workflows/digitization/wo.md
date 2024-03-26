@@ -77,7 +77,7 @@ These steps cover editing a work order's metadata including **Name**, **Due date
 1. Before adding records to a work order, determine which [record type(s)](/metadata-documentation/metadata/record-type/) should be added:
    1. Consult with DIS to determine their preference (if any)
    1. Add the most specific record appropriate
-      1. This is typically the lowest record in the hierarchy where everything contained or associated with the record will be digitized, i.e. item > container or container > collection
+      1. This is typically the lowest record in the hierarchy where everything contained or associated with the record will be digitized, e.g. item > container or container > collection
       1. Do not add a collection or container to a work order unless every item and capture record will be digitized for that work order
       1. Add the collection or container record to a work order only if every item and capture within it will be digitized as this is more efficient than adding every item record
    1. For large collections, create multiple work orders where each contains a subset of the records
