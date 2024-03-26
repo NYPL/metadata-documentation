@@ -62,7 +62,7 @@ _The date that the resource was published, released, or issued_ <a href="https:/
   - Use **Date created** for most unpublished materials
   - Use **Date issued** for most published materials
   - Do not use **Date captured**, **Copyright date**, or **Other date**
-    - Dates related to ownership, copyright, gift, etc. can be expressed as free text in a [**Note**](/metadata-documentation/metadata/element/note/) element with the [**Type**](/metadata-documentation/metadata/element/note/#type) "date" with a prefix for context, i.e. "Gift: 1937"
+    - Dates related to ownership, copyright, gift, etc. can be expressed as free text in a [**Note**](/metadata-documentation/metadata/element/note/) element with the [**Type**](/metadata-documentation/metadata/element/note/#type) "date" with a prefix for context, e.g. "Gift: 1937"
 - Add the relevant date(s) encoded as a **Single date** or **Date range**
   - Select **Single date** if you know the point in time a resource was created or issued
     - If adding more than one **Single date** field, select the most relevant encoded date as **Key date**
@@ -79,7 +79,7 @@ _The date that the resource was published, released, or issued_ <a href="https:/
     - Select **questionable** for questionable dates
 - Generally, dates should not be recorded free text using the **Text (for non-Gregorian calendar dates)** option
   - Non-Gregorian dates, decades, and seasons should be converted to their corresponding Gregorian date/range
-    - Add a [**Note**](/metadata-documentation/metadata/element/note/) element with the [**Type**](/metadata-documentation/metadata/element/note/#type) "date" with a prefix for context that specifies the original calendar type, date, and date type, i.e. "Date issued: 1003 (Islamic calendar)" or "Date created: 1743 (Julian calendar)"
+    - Add a [**Note**](/metadata-documentation/metadata/element/note/) element with the [**Type**](/metadata-documentation/metadata/element/note/#type) "date" with a prefix for context that specifies the original calendar type, date, and date type, e.g. "Date issued: 1003 (Islamic calendar)" or "Date created: 1743 (Julian calendar)"
   - "Circa" or "approximate" dates can be recorded as an encoded date/range with the use of the relevant **Qualifier**
   - Dates provides as seasons, can be recorded using **Date range** to record the range of months that correspond to that season
     - Seasons in the Northern Hemisphere:
@@ -92,10 +92,10 @@ _The date that the resource was published, released, or issued_ <a href="https:/
       - Spring: record month range 10–12
       - Summer: record month range 01–03
       - Fall: record month range 04–06
-    - Add a [Note](/metadata-documentation/metadata/element/note/) element with the [Type](/metadata-documentation/metadata/element/note/#type) "date" with a prefix for context that specifies the original calendar type, date, and date type, i.e. "Date issued: Summer 1968"
+    - Add a [Note](/metadata-documentation/metadata/element/note/) element with the [Type](/metadata-documentation/metadata/element/note/#type) "date" with a prefix for context that specifies the original calendar type, date, and date type, e.g. "Date issued: Summer 1968"
   - If you believe there to be a reason to record a date as **Text (for non-Gregorian calendar dates)**, discuss with the [Manager, Metadata Services](/metadata-documentation/contact/), before proceeding further
 - For reprints, add the date of the reprint in the **Date issued field**, not the date of the original item's creation or issuance
-  - You may put the original print date in a [**Note**](/metadata-documentation/metadata/element/note/) element with the [**Type**](/metadata-documentation/metadata/element/note/#type) "date" with a prefix for context, i.e. "Original: 1920"
+  - You may put the original print date in a [**Note**](/metadata-documentation/metadata/element/note/) element with the [**Type**](/metadata-documentation/metadata/element/note/#type) "date" with a prefix for context, e.g. "Original: 1920"
 
 ---
 
