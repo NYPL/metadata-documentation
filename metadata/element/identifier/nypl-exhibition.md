@@ -41,7 +41,7 @@ Identifier for digitized surrogates of material included in exhibitions at the N
                 - LPA = Library for the Performing Arts
                 - SC = Schomburg Center for Research in Black Culture
             - Exhibition year (in two-digit format)
-                - Refers to the anticipated year the exhibition is expected to open, which may vary from actual exhibition dates or remain static for rotating exhibitions, i.e. _Treasures_
+                - Refers to the anticipated year the exhibition is expected to open, which may vary from actual exhibition dates or remain static for rotating exhibitions, e.g. _Treasures_
             - Exhibition sequence for the year
                 - SASB exhibitions begin with 001
                 - LPA exhibitions begin with 501
