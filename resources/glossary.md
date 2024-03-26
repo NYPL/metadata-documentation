@@ -352,7 +352,7 @@ On this page you will find common terms used within the work of the Metadata Ser
 
 <a name="link-minter"></a>
 <dt>Link Minter</dt>
-<dd>a tool to support persistence of Digital Collections URLs in the event of a future systems migration, accessible at <a href="https://link-minter.nypl.org/">link-minter.nypl.org</a></dd>
+<dd>former tool used to generate persistent Digital Collections URLs beginning `link-minter.nypl.org`; no longer in use as of 2024</a></dd>
 
 <a name="long-island-city"></a>
 <dt>Long Island City</dt>
