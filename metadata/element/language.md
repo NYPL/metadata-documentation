@@ -31,7 +31,7 @@ The language in which the content of a resource is expressed
 - When consistently applied, this element can allow users to filter [Digital Collections](/metadata-documentation/resources/glossary/#digital-collections) search results by language
 
 ## Guidelines
-- The **Language** element is required when language is primary to understanding the resource (i.e., if [**Type of Resource**](/metadata-documentation/metadata/element/type-of-resource/) is set to **text**, or if it is set to **sound recording** or **moving image** and verbal content is present)
+- The **Language** element is required when language is primary to understanding the resource (e.g., if [**Type of Resource**](/metadata-documentation/metadata/element/type-of-resource/) is set to **text**, or if it is set to **sound recording** or **moving image** and verbal content is present)
     - This requirement includes when the resource is in English
 - For resources where textual content is not the primary focus, such as image captions or sheet music lyrics, including the language of this content is optional but highly recommended
 - For resources that contain multiple languages, this element is repeatable
