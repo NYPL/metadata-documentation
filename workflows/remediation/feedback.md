@@ -24,16 +24,29 @@ Provides an overview of reviewing feedback relating to metadata in the Metadata 
 - Feedback on metadata may be received by the MSU in several ways including:
   - **DC Feedback Form**: clicking the **Feedback** button in the lower right corner of any page on [NYPL Digital Collections](https://digitalcollections.nypl.org/)
   - **Metadata Reporting Form**: submitted via [Metadata Reporting Form](/metadata-documentation/contact/form/)
-  - **Email**: received at metadata [at] nypl [dot] org or by an individual MSU staff member and forwarded to ClickUp
-    - To forward metadata feedback emails to ClickUp via a personalized forwarding address
-        - Navigate to [Metadata Services › Remediation Projects › Metadata Feedback 🔒](https://app.clickup.com/2305128/v/gr/26b38-7748) in ClickUp
-        - Click the **•••** next to **Metadata Feedback**
-        - Click **✉ Email to List**
-        - Click **Copy** to copy the email address to your clipboard and paste it into your email program
-            - Save the email address to your contacts to easily forward metadata feedback as you receive it
+  - **Email**: received at metadata [at] nypl [dot] org or by an individual MSU staff member and [forwarded to ClickUp](#forwarding-metadata-feedback-emails-to-clickup)
 - Feedback from the **DC Feedback Form** and **Metadata Reporting Form** is routed into the [Metadata Services ClickUp 🔒](https://app.clickup.com/2305128/v/gr/26b38-7748) as it is received
 
-## Steps
+## Steps for MSU Staff
+
+### Forwarding Metadata Feedback Emails to ClickUp
+{: .d-inline .v-align-middle .mr-2 }
+For MSU Staff
+{: .d-inline .v-align-middle .label .label-purple .mx-1 }
+1. Retrieve your personalized forwarding email address 
+   1. Navigate to [Metadata Services › Remediation Projects › Metadata Feedback 🔒](https://app.clickup.com/2305128/v/gr/26b38-7748) in ClickUp
+   1. Click the **•••** next to **Metadata Feedback**
+   1. Click **✉ Email to List**
+   1. Click **Copy** to copy the email address to your clipboard
+   1. [Add the email address to your contacts](https://support.google.com/contacts/answer/1069522?hl=en) with a name you will remember, i.e. `ClickUp list: Metadata Feedback`
+1. Forward the email to the `ClickUp list: Metadata Feedback` email address
+   1. Optionally, add `<assign me>` in the subject of the email to assign the task to yourself or add `<assign firstnamelastname@nypl.org>` in the subject of the email to assign the task to someone else, replacing `firstnamelastname` with an email address associated with another ClickUp user
+1. Open ClickUp and locate the task in your notifications or in [Metadata Services › Remediation Projects › Metadata Feedback 🔒](https://app.clickup.com/2305128/v/gr/26b38-7748)
+   1. The new task will use the subject of the email as its task name and the **Feedback Source**: **Email**
+   1. Populate custom fields (**Page URL**, **Feedback Tags**, **Division(s)**) and assignee as appropriate
+1. Proceed with [reviewing the metadata feedback](#reviewing-metadata-feedback)
+
+### Reviewing Metadata Feedback
 {: .d-inline .v-align-middle .mr-2 }
 For MSU Staff
 {: .d-inline .v-align-middle .label .label-purple .mx-1 }
@@ -70,7 +83,7 @@ For MSU Staff
 >
 > The steps for routing feedback tasks can be found in [metadata-admin 🔒](https://github.com/NYPL/metadata-admin/blob/main/clickup.md#metadata-feedback).
 
-### See Also
+## See Also
 - [Reimporting Metadata › Reviewing a Finding Aid Update from Archival Processing](/metadata-documentation/workflows/remediation/reimporting/#reviewing-a-finding-aid-update-from-archival-processing) for steps that should be followed in the event metadata feedback indicates a finding aid update
 - [Inclusive & Reparative Description](/metadata-documentation/metadata/inclusive-reparative/) for guidance on how to create or update metadata according to relevant best practices
 - [Search by Image](https://chrome.google.com/webstore/detail/search-by-image/cnojnbdhbhnkbcieeekonklommdnndci) to install a Chrome browser extension that allows you to perform reverse image searches, which may be useful for researching images that are the subject of metadata feedback
