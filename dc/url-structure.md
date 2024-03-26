@@ -85,7 +85,7 @@ For nested containers, the URL structure pattern following <tt>?tab=navigation&r
 ## Item URLs
 
 {: .note }
-Item URLs *can* be generated with the item UUID (i.e. <tt>https://digitalcollections.nypl.org/items/<span style="background: #ccccff; border: 1px solid #5c5962;">item UUID</span></tt>), but this URL structure does not work consistently for audio and moving image resources, so we recommend using the UUID of the first capture of an item to construct item URLs.
+Item URLs *can* be generated with the item UUID (e.g. <tt>https://digitalcollections.nypl.org/items/<span style="background: #ccccff; border: 1px solid #5c5962;">item UUID</span></tt>), but this URL structure does not work consistently for audio and moving image resources, so we recommend using the UUID of the first capture of an item to construct item URLs.
 
 <dl>
 
