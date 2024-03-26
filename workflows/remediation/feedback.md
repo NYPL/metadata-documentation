@@ -64,7 +64,7 @@ For MSU Staff
    1. Was the metadata transcribed or supplied?
    1. Does the same metadata exist elsewhere in MMS/DC?
    1. Is it appropriate to contact [division staff](https://docs.google.com/spreadsheets/d/1P-YDJigon640fTCLP4Ig4-zmzqrX88v5M24ShuxFNVY/edit) for guidance or confirmation?
-   1. Is there any relevant MSU documentation to consult, i.e. [Inclusive & Reparative Description](/metadata-documentation/metadata/inclusive-reparative/)?
+   1. Is there any relevant MSU documentation to consult, e.g. [Inclusive & Reparative Description](/metadata-documentation/metadata/inclusive-reparative/)?
 1. If you determine that metadata should _not_ be updated:
    1. Add a comment to the ClickUp task, noting that feedback has been reviewed and include your reasoning as to why no action was deemed necessary
    1. Toggle the ClickUp task **Status** to **Closed**
