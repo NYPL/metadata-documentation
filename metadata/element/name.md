@@ -56,7 +56,7 @@ _The individual parsed parts that together make up the full name_
     - Select the radio button for **Authority data search**
     - Click **Select from controlled terms** to bring up the authorities module
     - Look up the name you wish to add in the search box
-        - For personal names, search in indirect order (i.e. "last name, first name")
+        - For personal names, search in indirect order (e.g. "last name, first name")
     - The order of preference for names are:
         - LC Name Authority File (LCNAF)
         - Virtual International Authority File (VIAF)
