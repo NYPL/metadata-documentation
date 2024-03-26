@@ -27,7 +27,7 @@ Provides an overview of reviewing feedback relating to metadata in the Metadata 
   - **Email**: received at metadata [at] nypl [dot] org or by an individual MSU staff member and [forwarded to ClickUp](#forwarding-metadata-feedback-emails-to-clickup)
 - Feedback from the **DC Feedback Form** and **Metadata Reporting Form** is routed into the [Metadata Services ClickUp 🔒](https://app.clickup.com/2305128/v/gr/26b38-7748) as it is received
 
-## Steps for MSU Staff
+## Workflow for MSU Staff
 
 ### Forwarding Metadata Feedback Emails to ClickUp
 {: .d-inline .v-align-middle .mr-2 }
