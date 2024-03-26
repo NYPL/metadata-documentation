@@ -19,6 +19,7 @@ Access to the Metadata Management System (MMS) requires a personal user account 
 - MMS user accounts are only provided in conjunction with a training session
   - You will receive a calendar invite with a Google Meet link for a virtual one-hour training session at the time your account is created
   - You should plan to share your screen during your training session
+- Anyone with an MMS user account is added to the [MMS Users Google Group 🔒](https://groups.google.com/a/nypl.org/g/mmsusers) to receive information about service outages or interruptions, larger bugs and fixes, or other announcements related to MMS
 
 ## Password Resets
 - To reset your password, contact the [Manager, Metadata Services](/metadata-documentation/contact/#our-team), via the email address found in [Lair 🔒](https://lair.nypl.org/-/departments/library-sites-and-services/research-libraries/metadata-services-unit)
