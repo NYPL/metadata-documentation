@@ -38,7 +38,7 @@ For MSU Staff
    1. Click the **•••** next to **Metadata Feedback**
    1. Click **✉ Email to List**
    1. Click **Copy** to copy the email address to your clipboard
-   1. [Add the email address to your contacts](https://support.google.com/contacts/answer/1069522?hl=en) with a name you will remember, i.e. `ClickUp list: Metadata Feedback`
+   1. [Add the email address to your contacts](https://support.google.com/contacts/answer/1069522?hl=en) with a name you will remember, e.g. `ClickUp list: Metadata Feedback`
 1. Forward the email to the `ClickUp list: Metadata Feedback` email address
    1. Optionally, add `<assign me>` in the subject of the email to assign the task to yourself or add `<assign firstnamelastname@nypl.org>` in the subject of the email to assign the task to someone else, replacing `firstnamelastname` with an email address associated with another ClickUp user
 1. Open ClickUp and locate the task in your notifications or in [Metadata Services › Remediation Projects › Metadata Feedback 🔒](https://app.clickup.com/2305128/v/gr/26b38-7748)
