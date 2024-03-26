@@ -24,7 +24,9 @@ Provides an overview of the process of approving records in the Metadata Managem
     - Backlog approvals are generated through [remediation projects](/metadata-documentation/workflows/remediation/)
     - New digitization approvals should be prioritized over tasks derived from remediation projects
 
-## Steps
+## Workflow for MSU Staff
+
+### Approving Records
 {: .d-inline .v-align-middle .mr-2 }
 For MSU Staff
 {: .d-inline .v-align-middle .label .label-purple .mx-1 }
