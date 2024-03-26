@@ -28,7 +28,7 @@ This page describes the process of suppressing records in the Metadata Managemen
   - See [Troubleshooting Issues](/metadata-documentation/workflows/troubleshooting/) if you encounter other types of problems with capture records or associated assets
 - Discuss with the [Manager, Metadata Services](/metadata-documentation/contact/#our-team), before suppressing records for any other reason
 
-## Suppressing Collections
+## Workflow for MSU Staff
 
 ### Suppressing Collections for Harmful Content 
 {: .d-inline .v-align-middle .mr-2 }
@@ -44,8 +44,6 @@ For MSU Staff
    1. Replace `INITIALS` with your initials (see [MMS Database › Quick Reference › User IDs 🔒](https://github.com/NYPL/metadata-tools/blob/master/_mms-database-and-sql-queries/mms-db_quick-reference.md#user-ids))
 1. Click **Suppress record**
 
-## Suppressing Containers
-
 ### Suppressing Containers for Harmful Content
 {: .d-inline .v-align-middle .mr-2 }
 For MSU Staff
@@ -59,8 +57,6 @@ For MSU Staff
    1. Replace `YYYY-MM-DD` with the date in [ISO 8601](https://www.iso.org/iso-8601-date-and-time-format.html) format
    1. Replace `INITIALS` with your initials (see [MMS Database › Quick Reference › User IDs 🔒](https://github.com/NYPL/metadata-tools/blob/master/_mms-database-and-sql-queries/mms-db_quick-reference.md#user-ids))
 1. Click **Suppress record**
-
-## Suppressing Items
 
 ### Suppressing Items for Harmful Content
 {: .d-inline .v-align-middle .mr-2 }
@@ -76,8 +72,6 @@ For MSU Staff
    1. Replace `INITIALS` with your initials (see [MMS Database › Quick Reference › User IDs 🔒](https://github.com/NYPL/metadata-tools/blob/master/_mms-database-and-sql-queries/mms-db_quick-reference.md#user-ids))
 1. Click **Suppress record**
 
-## Suppressing Captures
-
 ### Requesting Duplicate Captures Be Suppressed
 {: .d-inline .v-align-middle .mr-2 }
 For MSU Staff
@@ -86,6 +80,8 @@ For MSU Staff
   - Capture suppression only occurs in the event of duplicate captures, see [suppressing records overview](#overview)
   - Follow the steps on [DIS's](/metadata-documentation/resources/glossary/#digital-imaging-services) [Duplicate captures documentation 🔒](https://docs.google.com/document/d/1o8CiVXBgUkI9kI9duAd0acAKIhEiZj8gnOREEMNUB18/edit)
   - Report duplicate captures to the [Duplicate captures log 🔒](https://docs.google.com/spreadsheets/u/0/d/1jpjta0goQIIaEPesCayWtfSyda5QgGaWxwoiLLyaBmk/edit)
+
+## Workflow for DIS Staff
 
 ### Suppressing Duplicate Captures
 {: .d-inline .v-align-middle .mr-2 }
