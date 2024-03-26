@@ -100,7 +100,7 @@ Required
     - Start with the [template based on number of captures per item](/metadata-documentation/workflows/importing/csv/mms_template_for_cap_num.csv)
     - Populate the **cap_num** column with the number of captures for each item in the corresponding row
       - The **cap_num** value can be zero if you do not wish to add any captures to the item
-    - The **item_number** column should increase by an increment of one for each row (i.e., `1`, `2`, `3`, `4`…) as each row represents a single item
+    - The **item_number** column should increase by an increment of one for each row (e.g., `1`, `2`, `3`, `4`…) as each row represents a single item
   - By identifier associated with each capture:
     - Start with the [template based on identifier associated with each capture (one capture per row)](/metadata-documentation/workflows/importing/csv/mms_template_for_cap_ids.csv)
     - Populate a **cap_iden** column to add each capture identifier to its own row
