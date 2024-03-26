@@ -27,9 +27,10 @@ Provides an overview of the workflow for Public Orders (POs), particularly in re
     - Requests for previously digitized materials are delivered to patrons from existing files
 - The steps below apply to divisions for which Metadata Services Unit (MSU) staff create metadata records for POs
     - See [Metadata Liaisons and Contacts 🔒](https://docs.google.com/spreadsheets/d/1P-YDJigon640fTCLP4Ig4-zmzqrX88v5M24ShuxFNVY/edit#gid=0&range=F2:F37) to identify who should create metadata records for POs for each division
-Steps
 
-## Requesting Metadata Creation
+## Workflow for PRS Staff
+
+### Requesting Metadata Creation
 {: .d-inline .v-align-middle .mr-2 }
 For PRS Staff
 {: .d-inline .v-align-middle .label .label-purple .mx-1 }
@@ -54,7 +55,9 @@ Before requesting metadata creation, ensure your ClickUp settings are configured
     1. Has the person who requested the metadata added to the ClickUp task as a watcher
 1. The request will appear in [New Digitization Tracking 🔒](https://app.clickup.com/2305128/v/l/6-164664866-1?pr=18903295) in the **Create Metadata** section
 
-## Creating Metadata
+## Workflow for MSU Staff
+
+### Creating Metadata
 {: .d-inline .v-align-middle .mr-2 }
 For MSU Staff
 {: .d-inline .v-align-middle .label .label-purple .mx-1 }
