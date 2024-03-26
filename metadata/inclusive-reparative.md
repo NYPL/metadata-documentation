@@ -29,7 +29,7 @@ This page provides context and workflows that support inclusive and reparative d
 
 ### Workflows for Non-MSU Staff
 - The Metadata Service Unit (MSU) has a policy that all metadata in NYPL Digital Collections (DC) and Metadata Management System (MMS) is consistent with any corresponding description that exists in other Library systems
-   - If harmful description or content found in DC/MMS also exists in other Library systems (i.e. catalog records, finding aids, or TMS records), MSU will work with you to ensure updates are made in those other systems first
+   - If harmful description or content found in DC/MMS also exists in other Library systems (e.g. catalog records, finding aids, or TMS records), MSU will work with you to ensure updates are made in those other systems first
    - If a source record has already been updated in another Library system that corresponds to digitized material in DC/MMS, let us know via our [contact form](/metadata-documentation/contact/form/)
 
 #### Initiating Reparative Description Process
@@ -74,7 +74,7 @@ For MSU Staff
    1. Check **Primary** and **Supplied** for the new **Title** element
 1. In the original **Title** element:
    1. Uncheck **Primary**
-   1. In the **Part Name** box, enter the source of the original title in square brackets (i.e. "\[caption title]")
+   1. In the **Part Name** box, enter the source of the original title in square brackets (e.g. "\[caption title]")
 1. If further clarification is needed about the original or updated title, add a [**Note**](/metadata-documentation/metadata/element/note/)
    1. For the note **Type**, select **content**
 
