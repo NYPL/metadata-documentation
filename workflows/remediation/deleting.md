@@ -11,7 +11,7 @@ nav_exclude: true
 # Deleting Records
 {: .no_toc }
 
-This page describes the process of deleting records in the Metadata Management System (MMS)
+Describes the process of deleting records in the Metadata Management System (MMS)
 
 ## Table of contents
 {: .no_toc .text-delta }
