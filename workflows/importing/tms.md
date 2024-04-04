@@ -11,7 +11,7 @@ nav_exclude: true
 # Importing TMS Records
 {: .no_toc }
 
-This page describes how to create records in the Metadata Management System (MMS) by importing metadata from records cataloged in [The Museum System](/metadata-documentation/resources/glossary/#the-museum-system) (TMS)
+Describes how to create records in the Metadata Management System (MMS) by importing metadata from records cataloged in [The Museum System](/metadata-documentation/resources/glossary/#the-museum-system) (TMS)
 
 ## Table of contents
 {: .no_toc .text-delta }
