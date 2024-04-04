@@ -11,7 +11,7 @@ nav_order: 3
 # Inclusive & Reparative Description
 {: .no_toc }
 
-This page provides context and workflows that support inclusive and reparative description in the context of the Metadata Management System (MMS)
+Provides context and workflows that support inclusive and reparative description in the context of the Metadata Management System (MMS)
 
 ## Table of contents
 {: .no_toc .text-delta }
