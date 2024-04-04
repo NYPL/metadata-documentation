@@ -57,7 +57,7 @@ For MSU Staff
       1. Include a link to the legacy record(s) if rights were assigned there
    1. Once you have confirmed all metadata elements and rights are in place for the reimported record(s), you may [delete](/metadata-documentation/workflows/remediation/deleting/) the legacy record(s) that are now empty and no longer needed as a result of the reimport
    1. If the legacy record had a [NYPL catalog ID (B-number)](/metadata-documentation/metadata/element/identifier/bnumber/) as an [Identifier](/metadata-documentation/metadata/element/identifier/), ensure that the catalog record's link to NYPL Digital Collections (DC) gets updated
-      1. In the relevant ClickUp task, add a comment indicating the [bnumber](/metadata-documentation/metadata/element/identifier/bnumber/) with the tag `@MSU Sierra Editors`
+      1. In the relevant ClickUp task, add a comment indicating the [bnumber](/metadata-documentation/metadata/element/identifier/bnumber/) with the tag `@MSU Sierra Contact(s)`
       1. Do not close the ClickUp task until someone with Sierra edit access has confirmed the catalog record has been updated
 
 ### Reviewing a Finding Aid Update from Archival Processing
