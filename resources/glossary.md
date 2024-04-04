@@ -288,7 +288,7 @@ Common terms used within the work of the Metadata Services Unit (MSU)
 
 <a name="early-access-viewer"></a>
 <dt>Early Access Viewer</dt>
-<dd>web application that allows research staff to preview and share audio moving image items that are digitized but not fully described, cataloged, or rights-cleared and are not yet ingested into the <a href="#metadata-management-system">Metadata Management System</a> or available through <a href="#digital-collections">Digital Collections</a></dd>
+<dd>web application that allows research staff to preview and share audio and moving image items that are digitized but not fully described, cataloged, or rights-cleared and are not yet ingested into the <a href="#metadata-management-system">Metadata Management System</a> or available through <a href="#digital-collections">Digital Collections</a></dd>
 
 <a name="encoded-archival-description"></a>
 <dt>Encoded Archival Description</dt>
