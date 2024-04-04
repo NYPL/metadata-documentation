@@ -11,7 +11,7 @@ nav_exclude: true
 # Restructuring Records
 {: .no_toc }
 
-This page describes different methods of restructuring records in the Metadata Management System (MMS)
+Describes different methods of restructuring records in the Metadata Management System (MMS)
 
 ## Table of contents
 {: .no_toc .text-delta }
