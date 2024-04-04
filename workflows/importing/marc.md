@@ -11,7 +11,7 @@ nav_exclude: true
 # Importing MARC Records
 {: .no_toc }
 
-This page describes how to create records in the Metadata Management System (MMS) by importing metadata from MARC records found in the Library catalog
+Describes how to create records in the Metadata Management System (MMS) by importing metadata from MARC records found in the Library catalog
 
 {: .note }
 If a MARC record contains a link to a finding aid, [import the finding aid](/metadata-documentation/workflows/importing/finding-aids) instead of the MARC record.
