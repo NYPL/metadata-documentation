@@ -11,7 +11,7 @@ nav_exclude: true
 # Importing Finding Aids
 {: .no_toc }
 
-This page describes how to create records in the Metadata Management System (MMS) by importing metadata from finding aids found in the [Archives Portal](/metadata-documentation/resources/glossary/#archives-portal)
+Describes how to create records in the Metadata Management System (MMS) by importing metadata from finding aids found in the [Archives Portal](/metadata-documentation/resources/glossary/#archives-portal)
 
 ## Table of contents
 {: .no_toc .text-delta }
