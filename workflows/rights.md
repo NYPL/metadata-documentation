@@ -9,7 +9,7 @@ nav_order: 7
 # Rights
 {: .no_toc }
 
-This page describes the process when Metadata Services Unit (MSU) requests rights metadata be added to records in the Metadata Management System (MMS) by [Copyright and Information Policy](/metadata-documentation/resources/glossary/#copyright-information-policy) (CIP)
+Describes the process when Metadata Services Unit (MSU) requests rights metadata be added to records in the Metadata Management System (MMS) by [Copyright and Information Policy](/metadata-documentation/resources/glossary/#copyright-information-policy) (CIP)
 
 ## Table of contents
 {: .no_toc .text-delta }
