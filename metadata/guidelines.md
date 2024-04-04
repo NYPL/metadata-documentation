@@ -9,7 +9,7 @@ nav_order: 2
 # General Guidelines
 {: .no_toc }
 
-This page provides broader guidance on standards and best practices for metadata in the context of the Metadata Management System (MMS)
+Provides broader guidance on standards and best practices for metadata in the context of the Metadata Management System (MMS)
 
 ## Table of contents
 {: .no_toc .text-delta }
