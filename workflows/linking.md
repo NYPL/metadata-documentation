@@ -43,7 +43,6 @@ If a link to or from Digital Collections is absent or broken, please let us know
     - This workflow is still being refined, but our current goal is to supply refreshed data to the Library's ILS Team on a regular basis so they can perform batch updates
     - Past batches of supplied links can be found in the [Data Supplied to ILS Team 🔒](https://drive.google.com/drive/folders/1ktPZqRYoIv0yJIWTwLDeRhM766GKaDU7?usp=sharing) folder in Google Drive
     - Library staff with relevant permissions can access related scripts in our [metadata-tools 🔒](https://github.com/NYPL/metadata-tools/tree/master/_quarterly_bnumber) repo
-- Use our [Contact Form](/metadata-documentation/contact/form/) if links from the Research Catalog to DC are absent or broken
 
 ## Archives Portal
 
@@ -88,7 +87,13 @@ If a link to or from Digital Collections is absent or broken, please let us know
 </dl>
 
 ### Archives Portal → Digital Collections
-- When a digitized asset is available via the Archives Portal (via [Archives EAD ID](/metadata-documentation/metadata/element/identifier/archives-ead/)), an icon and clickable link will be present to the left of the associated finding aid component
-    - For non-AMI materials, the icon will be a film strip (🎞️)
-    - For AMI materials, the icon will either be music notes (🎶) for sound recordings or a film camera (📽️) for moving images
-- For all three icons, opening the link in a new tab will take the user directly to the corresponding record on Digital Collections
+- Digitized assets for records that are [available globally](/metadata-documentation/dc/criteria/) in Digital Collections are displayed in the Archives Portal
+    - For EAD-encoded finding aids, an icon and clickable link will be present to the left of the associated finding aid component ([example](https://archives.nypl.org/mss/3306#detailed))
+        - This connection is made via the [Archives EAD ID](/metadata-documentation/metadata/element/identifier/archives-ead/)
+        - The icon displayed is determined by the type of digitized asset
+            - For images, the icon will be a film strip (🎞️)
+            - For sound recordings, the icon will be music notes (🎶)
+            - For moving images, the icon will be a film camera (📽️)
+    - For PDF finding aids, thumbnails will display on the **Overview** tab of the collection ([example](https://archives.nypl.org/dan/23194#:~:text=is%20mostly%20undated.-,DIGITAL%20ASSETS,-1%20Images))
+        - This connection is made via the [MSS Unit ID](/metadata-documentation/metadata/element/identifier/mss-unit/)
+- Right clicking and opening any icon or thumbnail in a new tab will take the user directly to the corresponding record on Digital Collections
