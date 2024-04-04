@@ -11,7 +11,7 @@ nav_exclude: true
 # Suppressing Records
 {: .no_toc }
 
-This page describes the process of suppressing records in the Metadata Management System (MMS)
+Describes the process of suppressing records in the Metadata Management System (MMS)
 
 ## Table of contents
 {: .no_toc .text-delta }
