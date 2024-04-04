@@ -23,7 +23,7 @@ table th:nth-of-type(3) {
 # Importing CSV Data
 {: .no_toc }
 
-This page describes how to create records in the Metadata Management System (MMS) by importing a comma-separated values (CSV) file
+Describes how to create records in the Metadata Management System (MMS) by importing a comma-separated values (CSV) file
 
 ## Table of contents
 {: .no_toc .text-delta }
