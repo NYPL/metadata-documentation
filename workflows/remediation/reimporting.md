@@ -11,7 +11,7 @@ nav_exclude: true
 # Reimporting Metadata
 {: .no_toc }
 
-This page describes whether and how to reimport previously-imported records into the Metadata Management System (MMS) from other sources used by the Library to manage description
+Describes whether and how to reimport previously-imported records into the Metadata Management System (MMS) from other sources used by the Library to manage description
 
 ## Table of contents
 {: .no_toc .text-delta }
