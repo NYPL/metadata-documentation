@@ -9,7 +9,7 @@ nav_order: 4
 # Glossary
 {: .no_toc }
 
-On this page you will find common terms used within the work of the Metadata Services Unit (MSU)
+Common terms used within the work of the Metadata Services Unit (MSU)
 
 ## Table of contents
 {: .no_toc .text-delta }
