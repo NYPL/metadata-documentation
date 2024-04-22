@@ -392,7 +392,7 @@ Common terms used within the work of the Metadata Services Unit (MSU)
 
 <a name="mms-database"></a>
 <dt>MMS Database</dt>
-<dd><a href="#structured-query-language">SQL</a> database that powers the <a href="#metadata-management-system">Metadata Management System</a>'s graphical user interface</dd>
+<dd><a href="#structured-query-language">SQL</a> database that powers the <a href="#metadata-management-system">Metadata Management System</a></dd>
 
 <a name="permissions-reproduction-services"></a>
 <dt>Permissions and Reproduction Services</dt>
