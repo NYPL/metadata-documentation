@@ -78,7 +78,7 @@ _Used as the tag for any topical subjects that are not appropriate in the &lt;ge
   - [Thesaurus for Graphic Materials (TGM) ](https://www.loc.gov/pictures/collection/tgm/)
     - Prioritize for visual materials
   - [Library of Congress Genre/Form Terms (LCGFT) ](https://www.loc.gov/catdir/cpso/genreformgeneral.html)
-    - Use only as a **Topic** subject element if term relates to what the resources is “of” or “about”
+    - Use only as a **Topic** subject element if term relates to what the resources is "of" or "about"
     - If the term describes the nature of the content or function of the resource, relocate the term to the [**Genre**](https:///metadata-documentation/metadata/element/genre/) element
 - Do not select an **Authorized Term** from [Virtual International Authority File (VIAF)](https://viaf.org/)
 - See [MARC 650](https://www.oclc.org/bibformats/en/6xx/650.html) and resources listed under [See Also](#see-also) for information on when and how to use **Topical** subject headings and subdivisions, including when it is appropriate to enter a term that does not appear in one of the vocabularies
