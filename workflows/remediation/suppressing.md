@@ -28,7 +28,7 @@ Describes the process of suppressing records in the Metadata Management System (
   - See [Troubleshooting Issues](/metadata-documentation/workflows/troubleshooting/) if you encounter other types of problems with capture records or associated assets
 - Discuss with the [Manager, Metadata Services](/metadata-documentation/contact/#our-team), before suppressing records for any other reason
 
-## Workflows for MSU Staff
+## Steps for MSU Staff
 
 ### Suppressing Collections for Harmful Content 
 {: .d-inline .v-align-middle .mr-2 }
@@ -81,7 +81,7 @@ For MSU Staff
   - Follow the steps on [DIS's](/metadata-documentation/resources/glossary/#digital-imaging-services) [Duplicate captures documentation 🔒](https://docs.google.com/document/d/1o8CiVXBgUkI9kI9duAd0acAKIhEiZj8gnOREEMNUB18/edit)
   - Report duplicate captures to the [Duplicate captures log 🔒](https://docs.google.com/spreadsheets/u/0/d/1jpjta0goQIIaEPesCayWtfSyda5QgGaWxwoiLLyaBmk/edit)
 
-## Workflows for DIS Staff
+## Steps for DIS Staff
 
 ### Suppressing Duplicate Captures
 {: .d-inline .v-align-middle .mr-2 }
