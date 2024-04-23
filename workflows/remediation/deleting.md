@@ -61,7 +61,7 @@ Deleted records cannot be restored within MMS, so take caution to ensure all cri
 
 ### Deleting Captures
 1. Confirm the capture record meets the [criteria for deletion](/metadata-documentation/workflows/remediation/deleting/#overview)
-   1. Captures with identifiers in the Capture IDs field should never be deleted, see [Capture Records in MMS with No Assets](/metadata-documentation/workflows/troubleshooting/#capture-record-in-mms-with-no-assets)
+   1. Captures with identifiers in the **Capture IDs** field should never be deleted, see [Capture Records in MMS with No Assets](/metadata-documentation/workflows/troubleshooting/#capture-record-in-mms-with-no-assets)
 1. Navigate to the **Capture inventory** tab of the item record
 1. To delete a single capture:
    1. In the **Delete column** of the capture's row, click **X**
