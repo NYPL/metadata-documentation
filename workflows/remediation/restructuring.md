@@ -149,8 +149,8 @@ Describes different methods of restructuring records in the Metadata Management 
    1. Open the **Actions on checked captures:** dropdown menu above the captures
    1. Select **Move to new item** and click **Go**
 1. In the pop-up:
-   1. To indicate the destination item by title, begin typing the title in the **Parent item:** field and select the item from the search results
-   1. To indicate the destination item by **Record ID**, use the **Or enter valid item id** field
+   1. To indicate the destination item by title, begin typing the title in the **Move to:** field and select the item from the search results
+   1. To indicate the destination item by **Record ID**, use either the **Move to:** or the **Or enter valid item id** field
       1. The **Record ID** of the item can be located as the numeric slug of the URL for the item in MMS, e.g., [https://metadata.nypl.org/items/**4902530**](https://metadata.nypl.org/items/4902530)
    1. Click **Move**
 1. Review the capture in its new location
