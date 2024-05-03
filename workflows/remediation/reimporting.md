@@ -23,7 +23,7 @@ Describes whether and how to reimport previously-imported records into the Metad
 - Metadata [imported](/metadata-documentation/workflows/importing/) into MMS from a [MARC record](/metadata-documentation/workflows/importing/marc/), [finding aid](/metadata-documentation/workflows/importing/finding-aids/), or [TMS record](/metadata-documentation/workflows/importing/tms/) is not automatically kept in sync when changes are made to the source record
 - When changes are made to the source record, it may be necessary to reimport metadata to ensure description in MMS aligns with description found in other systems
 
-## Workflows for MSU Staff
+## Steps for MSU Staff
 
 ### Determining Whether to Reimport Metadata
 {: .d-inline .v-align-middle .mr-2 }
@@ -78,7 +78,7 @@ These steps follow the [related workflow for Archival Processing staff](#notifyi
    1. A Python library such as [xmldiff](https://pypi.org/project/xmldiff/)
 1. Proceed with [determining whether to reimport metadata](#determining-whether-to-reimport-metadata)
 
-## Workflows for Archival Processing Staff
+## Steps for Archival Processing Staff
 
 ### Notifying MSU of an Updated Finding Aid
 {: .d-inline .v-align-middle .mr-2 }

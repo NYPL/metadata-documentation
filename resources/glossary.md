@@ -380,7 +380,7 @@ Common terms used within the work of the Metadata Services Unit (MSU)
 
 <a name="metadata-management-system"></a>
 <dt>Metadata Management System</dt>
-<dd>the Library's browser-based interface for creating and managing metadata, rights profiles, and digital assets for <a href="#digital-collections">Digital Collections</a>; accessible at <a href="https://metadata.nypl.org">metadata.nypl.org</a>; powered by <a href="#structured-query-language">SQL</a> database colloquially called <a href="#the-database">The Database</a> in a <a href="#digital-collections-services">Digital Collections Services</a> context</dd>
+<dd>the Library's browser-based interface for creating and managing metadata, rights profiles, and digital assets for <a href="#digital-collections">Digital Collections</a>; accessible at <a href="https://metadata.nypl.org">metadata.nypl.org</a>; powered by <a href="#mms-database">MMS Database</a></dd>
 
 <a name="metadata-object-description-schema"></a>
 <dt>Metadata Object Description Schema</dt>
@@ -389,6 +389,10 @@ Common terms used within the work of the Metadata Services Unit (MSU)
 <a name="metadata-services-unit"></a>
 <dt>Metadata Services Unit</dt>
 <dd>unit within <a href="#special-collections-processing">Special Collections Processing</a> that improves the discovery of library resources and strengthens data interoperability across the library; primary office located at the <a href="#library-services-center">Library Services Center</a></dd>
+
+<a name="mms-database"></a>
+<dt>MMS Database</dt>
+<dd><a href="#structured-query-language">SQL</a> database that powers the <a href="#metadata-management-system">Metadata Management System</a></dd>
 
 <a name="permissions-reproduction-services"></a>
 <dt>Permissions and Reproduction Services</dt>
@@ -465,10 +469,6 @@ Common terms used within the work of the Metadata Services Unit (MSU)
 <a name="structured-query-language"></a>
 <dt>Structured Query Language</dt>
 <dd>a programming language designed for managing data held in a relational database management system; some data stored in the <a href="#metadata-management-system">Metadata Management System</a> can be queried via SQL</dd>
-
-<a name="the-database"></a>
-<dt>The Database</dt>
-<dd>colloquial name used by <a href="#digital-collections-services">Digital Collections Services</a> for the <a href="#structured-query-language">SQL</a> database that powers the <a href="#metadata-management-system">Metadata Management System</a>'s graphical user interface</dd>
 
 <a name="the-museum-system"></a>
 <dt>The Museum System</dt>

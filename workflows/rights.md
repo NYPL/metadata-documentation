@@ -32,7 +32,7 @@ See [General Guidelines › Rights](/metadata-documentation/metadata/guidelines/
     - If you need to create new ClickUp tasks to request rights metadata, discuss with the [Manager, Metadata Services](/metadata-documentation/contact/)
 - Staff outside MSU should [contact CIP 🔒](https://lair.nypl.org/-/departments/library-sites-and-services/research-libraries/copyright-information-policy) directly when rights metadata updates or corrections are needed
 
-## Workflows for MSU Staff
+## Steps for MSU Staff
 
 ### Requesting Rights Metadata
 {: .d-inline .v-align-middle .mr-2 }
@@ -52,7 +52,7 @@ For MSU Staff
 1. Once the DC sets the Rights field to **Rights Completed**, a ClickUp bot will add a comment to the task indicating  `✅ rights completed`
    1. For approvals, the task status will automatically be updated to **In Progress**, and the next [approvals steps](/metadata-documentation/workflows/approvals/#steps) can be taken
 
-## Workflows for CIP Staff
+## Steps for CIP Staff
 
 ### Adding Rights Metadata
 {: .d-inline .v-align-middle .mr-2 }
