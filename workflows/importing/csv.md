@@ -42,7 +42,6 @@ Describes how to create records in the Metadata Management System (MMS) by impor
    1. [Template based on identifier associated with each capture (one capture per row)](/metadata-documentation/workflows/importing/csv/mms_template_for_cap_ids.csv)
 1. Open the CSV template file in your preferred CSV or spreadsheet editor
    1. Prepare your data according to the [CSV data preparation guidelines](#csv-data-preparation-guidelines)
-      1. Ensure your data does not contain diacritics as CSV import cannot currently process CSVs contain diacritic characters
    1. Save your new CSV file using UTF encoding
       1. Do not use UTF-8 encoding as doing so can result in a **no method error** during upload
 1. Navigate to the **Descriptive metadata import from CSV** page in MMS:
