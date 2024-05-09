@@ -214,6 +214,52 @@ Describes different methods of restructuring records in the Metadata Management 
 
 - Capture records cannot be converted
 
-## See Also
+### Consolidating Records
 
+{: .note }
+Consolidating records (previously known as container collapsing) refers to the process of converting a [collection](/metadata-documentation/metadata/record-type/#collections) or [container](/metadata-documentation/metadata/record-type/#containers) record that represents a fully digitized book or book-like object to a single [item](/metadata-documentation/metadata/record-type/#items). When item-level description for each part of the object (such as a page or leaf) is unnecessary or does not contain unique metadata, this restructuring is preferred. These steps describe the process of moving captures associated with legacy item records within a collection or container to a new target item record that represents the entire digitized object.
+
+#### Consolidating Collections or Containers to Items
+1. Confirm the conditions for consolidating the collection or container have been met:
+   1. The book or book-like object is fully digitized
+   1. The existing item records within the collection or container do not include unique item-level metadata that is necessary to retain
+      1. One indication of non-unique metadata is when the collection or container record and all item records within it share the same [title element](/metadata-documentation/metadata/element/title/)
+   1. The [Manager, Metadata Services](/metadata-documentation/contact/#our-team) has confirmed consolidation is appropriate
+1. Create a new ClickUp task in [Remediation Projects 🔒](https://app.clickup.com/2305128/v/l/26b38-3903) and populate the custom fields
+   1. **Status**:
+      1. **Idea** for tasks that could be worked on in the future
+      1. **In Progress** for tasks that you will begin working on
+   1. **Item count**: add the number of items that will exist after consolidation
+   1. **Remediation Tags**: `consolidating records`
+   1. Any other custom fields as appropriate
+1. Review legacy items to identify any unique metadata elements that would be appropriate to relocate to the target item(s)
+   1. When consolidating a small number of legacy item records, review the item records individually in MMS
+   1. When consolidating a large number of legacy item records, see the documentation for [Preparing to Consolidate Records 🔒](https://github.com/NYPL/metadata-tools/blob/master/_mms-database-and-sql-queries/mms-db_example-sql-queries.md#preparing-to-consolidate-records) in pgAdmin
+      1. If you need assistance programmatically reviewing the existing metadata of legacy item records, contact [Manager, Metadata Services](/metadata-documentation/contact/#our-team)
+1. Create or identify a target item record(s) where the captures will be relocated
+   1. Depending on the source of the description for the book or book-like object [import](/metadata-documentation/workflows/importing/) or [create](/metadata-documentation/workflows/creating/) a target item record
+   1. Alternately, one of the legacy item records—such as the first item within the collection or container—can be used as the target item record
+      1. This can be helpful if legacy item record(s) already have a [rights profile](/metadata-documentation/workflows/rights/)
+1. Update the target item record(s) based on any unique metadata elements you identified in your review of legacy items
+   1. Relocate unique metadata to target item(s)
+      1. If the metadata element only applies to some of the captures rather than all of the captures (e.g., [Photo Order (PO)](/metadata-documentation/metadata/element/identifier/po/#guidelines), [NYPL Exhibition ID](/metadata-documentation/metadata/element/identifier/nypl-exhibition/#guidelines)), add an [admin note](/metadata-documentation/metadata/element/note/#type) to indicate which captures are associated with the element
+      1. Only add [subjects](/metadata-documentation/metadata/element/subject/) from legacy items to target item(s) if the subject applies to a majority of the digitized object
+   1. Confirm the target item record(s) meet the [Minimum Metadata Requirements](/metadata-documentation/metadata/guidelines/#minimum-metadata-requirements)
+1. Review the legacy items and respective capture and update as needed
+   1. If unique titles exist on the legacy items and are worth preserving, update the capture record's **Name** to use the legacy item title
+   1. If unique titles do not exist on the legacy items, the capture record's **Name** can remain generic or updated to a number sequence (e.g. 1, 2, 3) to support preserving original order of the captures
+   1. If there is a combination of legacy items with and without unique titles, a combination of the above approaches can be used
+1. [Move captures](/metadata-documentation/workflows/remediation/restructuring/#moving-captures) from each legacy item to the target item(s)
+   1. Ensure the original order of captures is preserved
+   1. If there are duplicate captures, see [Suppressing Duplicate Captures](/metadata-documentation/workflows/remediation/suppressing/#suppressing-duplicate-captures)
+   1. If captures are suppressed, contact [Manager, Metadata Services](/metadata-documentation/contact/#our-team) to request assistance
+1. [Approve](/metadata-documentation/workflows/approvals/#approving-records) the target item record
+   1. If rights are needed for the target item record, request they be added following the [rights workflow](/metadata-documentation/workflows/rights/)
+      1. Include a link to the legacy record(s) if rights were assigned there
+1. Once you have confirmed all captures have been successfully to the target record, you may [delete](/metadata-documentation/workflows/remediation/deleting/) any item records that are now empty and no longer needed as a result of moving the captures
+1. If the legacy collection or container record had a [NYPL catalog ID (B-number)](/metadata-documentation/metadata/element/identifier/bnumber/) as an [Identifier](/metadata-documentation/metadata/element/identifier/), ensure that the catalog record's link to NYPL Digital Collections (DC) gets updated
+    1. In the relevant ClickUp task, add a comment indicating the [bnumber](/metadata-documentation/metadata/element/identifier/bnumber/) with the tag `@MSU Sierra Contact(s)`
+    1. Do not close the ClickUp task until someone with Sierra edit access has confirmed the catalog record has been updated
+
+## See Also
 - [Record Types](/metadata-documentation/metadata/record-type/) for an overview of the four types of records in MMS that contain descriptive content and provide organization for digitized material
