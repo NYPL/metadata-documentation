@@ -102,7 +102,10 @@ For MSU Staff
 For MSU Staff
 {: .d-inline .v-align-middle .label .label-purple .mx-1 }
 1. Determine which of the following criteria applies and follow the corresponding steps:
-   1. Description was created by Library staff and matches description from the finding aid, [add a harmful description note](#adding-a-harmful-description-note)
+   1. Description was created by Library staff and matches description from the finding aid:
+      1. For [divisions served by Archival Processing](https://docs.google.com/document/d/1tiIm0R8P0A_sOH3RUKsPgUKXAThqXT074QeIEokD6uk/edit#heading=h.gh2654hr28xp), work with Archival Processing to update the source finding aid using their [Archival Processing Unit Description Remediation Request](https://docs.google.com/forms/d/e/1FAIpQLSexaz5kCcCdw99U67Z7sVCgemlXpofl9HuegMmGYxcN8zBGCA/viewform) form
+      1. For divisions _not_ served by Archival Processing, discuss with the [Manager, Metadata Services](/metadata-documentation/contact/) as the relevant contact can vary by division
+      1. If the source finding aid _will not_ be updated, [add a harmful description note](#adding-a-harmful-description-note) instead
    1. Description was created by Library staff and matches description from the MARC record:
       1. Work with [division staff 🔒](https://docs.google.com/spreadsheets/d/1P-YDJigon640fTCLP4Ig4-zmzqrX88v5M24ShuxFNVY/edit) to update the source MARC record
          1. If necessary, submit a ticket via ServiceNow ([BookOps › Cataloging 🔒](https://nyplprod.service-now.com/nyplsp?id=sc_cat_item\&sys_id=37d54594c4504d00f254019b5f40e91f)) with the **Inquiry type**: **Sierra bib record error** indicating who in the division is the point person for the request
@@ -112,7 +115,7 @@ For MSU Staff
       1. Work with [division staff](https://docs.google.com/spreadsheets/d/1P-YDJigon640fTCLP4Ig4-zmzqrX88v5M24ShuxFNVY/edit) to determine how to update the source TMS record
          1. When the source TMS record is updated, [revise the metadata](#revising-harmful-description) in MMS to match
       1. If the source TMS record _will not_ be updated, [add a harmful description note](#adding-a-harmful-description-note) instead
-   1. Description exists exclusively in MMS/DC,
+   1. Description exists exclusively in MMS/DC:
       1. Work with [division staff](https://docs.google.com/spreadsheets/d/1P-YDJigon640fTCLP4Ig4-zmzqrX88v5M24ShuxFNVY/edit) to determine how to update the MMS/DC record
          1. [Revise the metadata](#revising-harmful-description)
       1. If the MMS/DC record _will not_ be updated, [add a harmful description note](#adding-a-harmful-description-note)
