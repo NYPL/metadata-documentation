@@ -77,6 +77,11 @@ For MSU Staff
       1. To request an update to a finding aid for a division _not_ served by Archival Processing, discuss with the [Manager, Metadata Services](/metadata-documentation/contact/) as the relevant contact can vary by division
    1. If the feedback was submitted by an NYPL staff member and their contact information is included in the task, you may reach out to them to let them know the changes have been made
    1. Add a comment to the ClickUp task, noting that changes were implemented to address the feedback
+   1. Ensure the following custom fields are populated in the ClickUp task to support reporting:
+      1. **Division(s)**
+      1. **Feedback Source**
+      1. **Research Library**
+      1. **Total Items**
    1. Toggle the ClickUp task **Status** to **Closed**
 
 {: .note-title }
