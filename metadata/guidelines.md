@@ -76,6 +76,6 @@ MMS item records must include the following seven descriptive metadata elements/
 - Rights information can be found on the **Overview** and **Rights and use** tabs of a record
     - The **Rights** section of the **Overview** tab indicates whether rights are set at that record's level or inherited as well as information about when rights were created or updated rights and by whom
     - The **Rights and use** tab displays what is shown on the **Overview** tab as well as **Approved uses** and a **Rights Research and Copyright Information Summary**
-        - Codes used for the **Copyright status** in the **Rights Research and Copyright Information Summary** are defined on the [Rights Codes Cheat Sheet](https://confluence.nypl.org/x/BIBy)
+        - Codes used for the **Copyright status** in the **Rights Research and Copyright Information Summary** are defined on the [Rights Codes Cheat Sheet 🔒](https://confluence.nypl.org/x/BIBy)
 - Rights are added and maintained by [Copyright and Information Policy](/metadata-documentation/resources/glossary/#copyright-information-policy)
 - See [MMS › Workflows › Rights](/metadata-documentation/workflows/rights/) for the process when Metadata Services Unit (MSU) requests rights metadata be added to records in the Metadata Management System (MMS) by Copyright and Information Policy (CIP)
