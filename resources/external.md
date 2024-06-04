@@ -25,7 +25,7 @@ Links to documentation created by other Library divisions, departments, and unit
 - [Digital 🔒](https://confluence.nypl.org/display/DIGTL/)
     - [Digital Asset Management 🔒](https://confluence.nypl.org/x/eoH2AQ)
     - [Derivatives for Reflective and Transmissive Media Digitization 🔒](https://confluence.nypl.org/x/AYBy)
-    - [Rights Code Cheat Sheet 🔒](https://confluence.nypl.org/x/BIBy)
+    - [Rights Codes Cheat Sheet 🔒](https://confluence.nypl.org/x/BIBy)
 - [Digital Preservation](https://nypl.github.io/digpres/)
     - [Born Digital](https://nypl.github.io/born-digital-docs/)
     - [Digital Archives](https://nypl.github.io/digarch/)
