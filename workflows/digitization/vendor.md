@@ -21,7 +21,7 @@ Provides an overview of the workflow for vendor digitization
 
 ## Overview
 
-- Vendor digitization refers to any digitization not completed by the Library’s [Digital Imaging Services](https://nypl.github.io/metadata-documentation/resources/glossary/#digital-imaging-services)
+- Vendor digitization refers to any digitization not completed by the Library's [Digital Imaging Services](https://nypl.github.io/metadata-documentation/resources/glossary/#digital-imaging-services)
 
 ## Steps for Non-MSU Staff
 
@@ -39,7 +39,7 @@ Complete the [Contact Form for Completed Vendor Digitization](/metadata-document
 For MSU Staff
 {: .d-inline .v-align-middle .label .label-purple .mx-1 }
 
-{: .note-title }
+{: .note }
 > Vendor digitization can be identified by the following characteristics:
 > * Work order will display **Vendor** as the **Photographer**
 > * Approval task in ClickUp will not have a corresponding **Digital Imaging Ticket** relationship
