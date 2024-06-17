@@ -21,7 +21,7 @@ Provides an overview of the workflow for vendor digitization
 
 ## Overview
 
-- Vendor digitization refers to any digitization not completed by the Library's [Digital Imaging Services](https://nypl.github.io/metadata-documentation/resources/glossary/#digital-imaging-services)
+- Vendor digitization refers to any digitization not completed by the Library's [Digital Imaging Services](/metadata-documentation/resources/glossary/#digital-imaging-services)
 
 ## Steps for Non-MSU Staff
 
