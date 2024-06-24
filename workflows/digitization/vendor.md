@@ -40,8 +40,6 @@ For MSU Staff
 {: .d-inline .v-align-middle .label .label-purple .mx-1 }
 
 {: .note }
-> Note
->
 > Vendor digitization can be identified by the following characteristics:
 > * Work order will display **Vendor** as the **Photographer**
 > * Approval task in ClickUp will not have a corresponding **Digital Imaging Ticket** relationship
