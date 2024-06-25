@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Vendor Digitizaiton
+title: Vendor Digitization
 permalink: /workflows/digitization/vendor/
 parent: Digitization
 grand_parent: MMS › Workflows
