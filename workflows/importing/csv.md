@@ -235,7 +235,7 @@ Required if Not Inherited
 {: .d-inline .v-align-middle .mr-2 }
 Required if Not Inherited
 {: .d-inline .v-align-middle .label .label-blue .mx-1 }
-[View Full MSU Documentation for Element →](/metadata-documentation/metadata/element/origin-info/#date)
+[View Full MSU Documentation for Subelement →](/metadata-documentation/metadata/element/origin-info/#date)
 {: .d-inline .v-align-middle .text-zeta .ml-2 }
 
 #### Guidelines
@@ -281,6 +281,36 @@ Required if Not Inherited
 | End date: BCE | originInfo_dateendbcyear | Use this field for BCE dates |
 | End date: qualifier | originInfo_dateendqualifier |  |
 | End date: key date? | originInfo_dateendkeydate | Any non-blank value will indicate a date as the key date, and only one key date can be indicated per item |
+
+---
+
+### Extent
+{: .d-inline .v-align-middle .mr-2 }
+[View Full MSU Documentation for Subelement →](/metadata-documentation/metadata/element/physical-description/#extent)
+{: .d-inline .v-align-middle .text-zeta .ml-2 }
+
+#### Guidelines
+{: .no_toc }
+- Populate a **physicalDescription_extent** column for for each item
+
+| Data to Be Imported | Column Header | Usage Note |
+|:------------------- |:------------- |:---------- |
+| Extent | physicalDescription_extent | |
+
+---
+
+### Abstract
+{: .d-inline .v-align-middle .mr-2 }
+[View Full MSU Documentation for Element →](/metadata-documentation/metadata/element/abstract/)
+{: .d-inline .v-align-middle .text-zeta .ml-2 }
+
+#### Guidelines
+{: .no_toc }
+- Populate a **abstract** column for for each item
+
+| Data to Be Imported | Column Header | Usage Note |
+|:------------------- |:------------- |:---------- |
+| Abstract | abstract | |
 
 ---
 
