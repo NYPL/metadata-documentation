@@ -110,7 +110,7 @@ Replace `A$2:A` with the range and `A2` with the cell containing the string you 
     "http://viaf.org/viaf/" + value + "/viaf.json"
     ```
 1. Allow time for OpenRefine to fetch the JSON data
-    - Progress will be indicated by a message at the top of the screen
+    1. Progress will be indicated by a message at the top of the screen
 
 #### Fetching Redirected VIAF Identifiers
 1. Follow the steps to [fetch data from VIAF](#fetching-data-from-viaf)
