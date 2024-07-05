@@ -112,7 +112,7 @@ Replace `A$2:A` with the range and `A2` with the cell containing the string you 
 1. Allow time for OpenRefine to fetch the JSON data
     - Progress will be indicated by a message at the top of the screen
 
-#### Retrieving Redirected VIAF Identifiers
+#### Fetching Redirected VIAF Identifiers
 1. Follow the steps to [fetch data from VIAF](#fetching-data-from-viaf)
 1. In the header of a column containing VIAF JSON, navigate to **▼** › **Add column based on this column…**
 1. In the prompt, enter a **New column name**, paste the below expression in the **Expression** field, and click the **OK** button
@@ -123,7 +123,7 @@ Replace `A$2:A` with the range and `A2` with the cell containing the string you 
     1. In the header of the newly created column, navigate to **▼** › **Facet** › **Customized facets** › **Facet by blank (null or empty string)**
     1. In the **Facet / Filter** tab in the left column of OpenRefine, find the facet corresponding to the newly created column and select **false**
 
-#### Retrieving Library of Congress Identifiers from VIAF
+#### Fetching Library of Congress Identifiers from VIAF
 1. Follow the steps to [fetch data from VIAF](#fetching-data-from-viaf)
 1. In the header of a column containing VIAF JSON, navigate to **▼** › **Add column based on this column…**
 1. In the prompt, enter a **New column name**, paste the below expression in the **Expression** field, and click the **OK** button
