@@ -120,7 +120,7 @@ Replace `A$2:A` with the range and `A2` with the cell containing the string you 
     value.parseJson().redirect.directto
     ```
 1. Optional: To facet your data to display only rows with redirects:
-    1. In the header of the newly created column, navigate to **▼** › **Facet** › **Customized facet** › **Customized facet** › **Facet by blank (null or empty string)**
+    1. In the header of the newly created column, navigate to **▼** › **Facet** › **Customized facets** › **Facet by blank (null or empty string)**
     1. In the **Facet / Filter** tab in the left column of OpenRefine, find the facet corresponding to the newly created column and select **false**
 
 #### Retrieving Library of Congress Identifiers from VIAF
@@ -131,11 +131,11 @@ Replace `A$2:A` with the range and `A2` with the cell containing the string you 
     value.parseJson().sources.source.find(/"LC\|([^"]+)"/)[0].replace("\"", "").split("|")[1].replace(" ", "")
     ```
 1. Optional: To facet your data to display only rows with Library of Congress identifiers:
-    1. In the header of the newly created column, navigate to **▼** › **Facet** › **Customized facet** › **Customized facet** › **Facet by blank (null or empty string)**
+    1. In the header of the newly created column, navigate to **▼** › **Facet** › **Customized facets** › **Facet by blank (null or empty string)**
     1. In the **Facet / Filter** tab in the left column of OpenRefine, find the facet corresponding to the newly created column and select **false**
 
 {: .note }
-This same technique can be used to retrieve additional identifiers from VIAF by replacing `LC` with the code that corresponds to the respective authority source code, which can be found in the URL when hovering over respective contributor on the [VIAF homepage](https://viaf.org/).
+This same technique can be used to retrieve additional identifiers from VIAF by replacing `LC` with the code that corresponds to the respective authority source code, which can be found in the URL of the respective contributor's page on the [VIAF homepage](https://viaf.org/).
 
 ## See Also
 - [MMS Database and SQL Queries 🔒](https://github.com/NYPL/metadata-tools/tree/master/_mms-database-and-sql-queries) for example SQL queries, navigation information, and quick reference
