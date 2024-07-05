@@ -104,17 +104,38 @@ Replace `A$2:A` with the range and `A2` with the cell containing the string you 
 
 ### Fetching Data from VIAF
 1. Prepare a column in OpenRefine containing VIAF identifiers
-1. In the column's header, navigate to **▼** › **Add column by fetching URLs…**
+1. In the header of a column containing VIAF identifiers, navigate to **▼** › **Add column by fetching URLs…**
 1. In the prompt, enter a **New column name**, paste the below GREL in the **Expression** field, and click the **OK** button
     ```
     "http://viaf.org/viaf/" + value + "/viaf.json"
     ```
+1. Allow time for OpenRefine to fetch the JSON data
+    - Progress will be indicated by a message at the top of the screen
 
-#### Updating Deprecated VIAF Identifiers
+#### Retrieving Redirected VIAF Identifiers
 1. Follow the steps to [fetch data from VIAF](#fetching-data-from-viaf)
+1. In the header of a column containing VIAF JSON, navigate to **▼** › **Add column based on this column…**
+1. In the prompt, enter a **New column name**, paste the below expression in the **Expression** field, and click the **OK** button
+    ```
+    value.parseJson().redirect.directto
+    ```
+1. Optional: To facet your data to display only rows with redirects:
+    1. In the header of the newly created column, navigate to **▼** › **Facet** › **Customized facet** › **Customized facet** › **Facet by blank (null or empty string)**
+    1. In the **Facet / Filter** tab in the left column of OpenRefine, find the facet corresponding to the newly created column and select **false**
 
-#### Retrieving Additional Identifiers from VIAF
+#### Retrieving Library of Congress Identifiers from VIAF
 1. Follow the steps to [fetch data from VIAF](#fetching-data-from-viaf)
+1. In the header of a column containing VIAF JSON, navigate to **▼** › **Add column based on this column…**
+1. In the prompt, enter a **New column name**, paste the below expression in the **Expression** field, and click the **OK** button
+    ```
+    value.parseJson().sources.source.find(/"LC\|([^"]+)"/)[0].replace("\"", "").split("|")[1].replace(" ", "")
+    ```
+1. Optional: To facet your data to display only rows with Library of Congress identifiers:
+    1. In the header of the newly created column, navigate to **▼** › **Facet** › **Customized facet** › **Customized facet** › **Facet by blank (null or empty string)**
+    1. In the **Facet / Filter** tab in the left column of OpenRefine, find the facet corresponding to the newly created column and select **false**
+
+{: .note }
+This same technique can be used to retrieve additional identifiers from VIAF by replacing `LC` with the code that corresponds to the respective authority source code, which can be found in the URL when hovering over respective contributor on the [VIAF homepage](https://viaf.org/).
 
 ## See Also
 - [MMS Database and SQL Queries 🔒](https://github.com/NYPL/metadata-tools/tree/master/_mms-database-and-sql-queries) for example SQL queries, navigation information, and quick reference
