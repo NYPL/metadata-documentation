@@ -135,7 +135,7 @@ Replace `A$2:A` with the range and `A2` with the cell containing the string you 
     1. In the **Facet / Filter** tab in the left column of OpenRefine, find the facet corresponding to the newly created column and select **false**
 
 {: .note }
-This same technique can be used to retrieve additional identifiers from VIAF by replacing `LC` with the code that corresponds to the respective authority source code, which can be found in the URL of the respective contributor's page on the [VIAF homepage](https://viaf.org/).
+This same technique can be used to retrieve additional identifiers from VIAF by replacing `LC` with the code that corresponds to the respective [authority source code](https://www.oclc.org/developer/api/oclc-apis/viaf/authority-cluster.en.html#:~:text=Authority%20Source%20Codes).
 
 ## See Also
 - [MMS Database and SQL Queries 🔒](https://github.com/NYPL/metadata-tools/tree/master/_mms-database-and-sql-queries) for example SQL queries, navigation information, and quick reference
