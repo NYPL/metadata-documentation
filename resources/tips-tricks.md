@@ -100,6 +100,22 @@ Replace `A$2:A` with the range and `A2` with the cell containing the string you 
 1. Enter **http** in both the **Find** and **Replace with** fields
 1. Click **Replace all** twice
 
+## OpenRefine
+
+### Fetching Data from VIAF
+1. Prepare a column in OpenRefine containing VIAF identifiers
+1. In the column's header, navigate to **▼** › **Add column by fetching URLs…**
+1. In the prompt, enter a **New column name**, paste the below GREL in the **Expression** field, and click the **OK** button
+    ```
+    "http://viaf.org/viaf/" + value + "/viaf.json"
+    ```
+
+#### Updating Deprecated VIAF Identifiers
+1. Follow the steps to [fetch data from VIAF](#fetching-data-from-viaf)
+
+#### Retrieving Additional Identifiers from VIAF
+1. Follow the steps to [fetch data from VIAF](#fetching-data-from-viaf)
+
 ## See Also
 - [MMS Database and SQL Queries 🔒](https://github.com/NYPL/metadata-tools/tree/master/_mms-database-and-sql-queries) for example SQL queries, navigation information, and quick reference
 - [Wikidata:WikiProject New York Public Library/Queries](https://www.wikidata.org/wiki/Wikidata:WikiProject_New_York_Public_Library/Queries) for reusable SPARQL queries for Wikidata
