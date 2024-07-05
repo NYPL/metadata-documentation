@@ -31,7 +31,7 @@ If a MARC record contains a link to a finding aid, [import the finding aid](/met
 
 1. Determine the bnumber of the MARC record you want to import
    1. In the [Research Catalog](/metadata-documentation/resources/glossary/#research-catalog) or [Legacy Catalog](/metadata-documentation/resources/glossary/#legacy-catalog): the bnumber can be found within the URL displayed in your address bar when viewing a record
-   1. In [Sierra](/metadata-documentation/resources/glossary/#sierra): the full bnumber is shown at the top of a bibliographic record; remove the final digit (check digit) for the bnumber as it should be used in MMS
+   1. In [Sierra](/metadata-documentation/resources/glossary/#sierra): the full bnumber is shown at the top of a bibliographic record; remove the final digit ([check digit](https://documentation.iii.com/sierrahelp/Content/sril/sril_records_numbers.html#check_digit)) for the bnumber as it should be used in MMS
    1. See [NYPL catalog ID (B-number)](/metadata-documentation/metadata/element/identifier/bnumber/) for additional context and guidelines
 1. Check that a record does not already exist in MMS that corresponds to the bnumber
    1. Search MMS for the bnumber
