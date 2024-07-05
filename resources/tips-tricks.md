@@ -105,7 +105,7 @@ Replace `A$2:A` with the range and `A2` with the cell containing the string you 
 ### Fetching Data from VIAF
 1. Prepare a column in OpenRefine containing VIAF identifiers
 1. In the header of a column containing VIAF identifiers, navigate to **▼** › **Add column by fetching URLs…**
-1. In the prompt, enter a **New column name**, paste the below GREL in the **Expression** field, and click the **OK** button
+1. In the prompt, enter a **New column name**, paste the below expression in the **Expression** field, and click the **OK** button
     ```
     "http://viaf.org/viaf/" + value + "/viaf.json"
     ```
