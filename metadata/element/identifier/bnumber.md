@@ -29,7 +29,7 @@ Primary identifier for a bibliographic record in [Sierra](/metadata-documentatio
 - If adding a **NYPL catalog ID (B-number)** to a record manually:
     - Include the record type indicator (lower-case `b`) followed by the unique record number (typically 8 digits) as it appears in the address bar when viewing a record in the [Research Catalog](/metadata-documentation/resources/glossary/#research-catalog) or [Legacy Catalog](/metadata-documentation/resources/glossary/#legacy-catalog)
         - If the bnumber is not displaying in the address bar of a record in the [Legacy Catalog](/metadata-documentation/resources/glossary/#legacy-catalog), click **🔗 Permanent link for this record**
-    - Do not include the final check digit when retrieving the **NYPL catalog ID (B-number)** from the bibliographic record in Sierra
+    - Do not include the final [check digit](https://documentation.iii.com/sierrahelp/Content/sril/sril_records_numbers.html#check_digit) when retrieving the **NYPL catalog ID (B-number)** from the bibliographic record in Sierra
     - Do not include any spaces or punctuation
 - The following guidelines generally apply to usage of **NYPL catalog IDs (B-numbers)** in most cases, but there may be exceptions
     - A **NYPL catalog ID (B-number)** should generally only be assigned to one record in the Metadata Management System
@@ -54,3 +54,4 @@ Primary identifier for a bibliographic record in [Sierra](/metadata-documentatio
 - [Linking Between Systems › Research Catalog](/metadata-documentation/workflows/linking/#research-catalog) for full explanation of how links between Digital Collections and the library catalog function and are maintained
 - [Importing Metadata › Importing MARC Records](/metadata-documentation/workflows/importing/marc/) for the workflow of using a **NYPL catalog IDs (B-numbers)** to import a MARC record into MMS
 - [Importing Metadata › Importing MARC Records](/metadata-documentation/workflows/importing/marc/) for the workflow of using a **NYPL catalog ID (B-number)** to import a MARC record into MMS
+- [Sierra Reference › How Innovative Systems Store Information › Record Numbers](https://documentation.iii.com/sierrahelp/Content/sril/sril_records_numbers.html) for the vendor's documentation describing record numbers in Sierra
