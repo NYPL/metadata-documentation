@@ -20,10 +20,10 @@ Describes how to create records in the Metadata Management System (MMS) by impor
 {:toc}
 
 ## Overview
-- Records for [Print Collection](/metadata-documentation/division/wallach/#print-collection) and [Photography Collection](/metadata-documentation/division/wallach/#photography-collection) cataloged in [The Museum System](/metadata-documentation/resources/glossary/#the-museum-system) (TMS) ~~and accessible via the [Prints & Photographs Online Catalog](https://wallachprintsandphotos.nypl.org/) (PPOC)~~ can be imported into MMS using the [TMS ID](/metadata-documentation/metadata/element/identifier/tms/)
+- Records for [Print Collection](/metadata-documentation/division/print/) and [Photography Collection](/metadata-documentation/division/photography/) cataloged in [The Museum System](/metadata-documentation/resources/glossary/#the-museum-system) (TMS) ~~and accessible via the [Prints & Photographs Online Catalog](https://wallachprintsandphotos.nypl.org/) (PPOC)~~ can be imported into MMS using the [TMS ID](/metadata-documentation/metadata/element/identifier/tms/)
 - TMS records always correspond an [item](/metadata-documentation/metadata/record-type/#items) in MMS
   - The **Alternate Titles** field in PPOC may indicate the name of the series to which an item belongs, which may correlate with a collection or container in MMS where the item should be located
-  - See [Print Collection](/metadata-documentation/division/wallach/#print-collection) and [Photography Collection](/metadata-documentation/division/wallach/#photography-collection) guidelines to determine what structure is appropriate for an item
+  - See [Print Collection](/metadata-documentation/division/print/) and [Photography Collection](/metadata-documentation/division/photography/) guidelines to determine what structure is appropriate for an item
 
 {: .warning-title }
 > Known Issue
@@ -33,12 +33,12 @@ Describes how to create records in the Metadata Management System (MMS) by impor
 
 ## Steps
 1. Determine the appropriate structure for the TMS record, and if necessary, find or create the necessary collection and/or container record(s)
-   1. See [Print Collection](/metadata-documentation/division/wallach/#print-collection) and [Photography Collection](/metadata-documentation/division/wallach/#photography-collection) guidelines to determine what structure is appropriate for an item
+   1. See [Print Collection](/metadata-documentation/division/print/) and [Photography Collection](/metadata-documentation/division/photography/) guidelines to determine what structure is appropriate for an item
    1. The **Alternate Titles** field in the [Prints & Photographs Online Catalog](https://wallachprintsandphotos.nypl.org/) may indicate the name of the series to which an item belongs
       1. Search MMS for the value in **Alternate Titles** to check that a record does not already exist that corresponds to the series
       1. Search the [Research Catalog](/metadata-documentation/resources/glossary/#research-catalog) or [Legacy Catalog](/metadata-documentation/resources/glossary/#legacy-catalog) for the value in **Alternate Titles** to see if the series is represented by a MARC record
          1. If you find a MARC record for the series, [import the MARC record](/metadata-documentation/workflows/importing/marc/)
-   1. If you have confirmed the item should be in a collection or container and verified that it does not yet exist, [create the collection or container](/metadata-documentation/workflows/creating/) according to the [Print Collection](/metadata-documentation/division/wallach/#print-collection) and [Photography Collection](/metadata-documentation/division/wallach/#photography-collection) guidelines
+   1. If you have confirmed the item should be in a collection or container and verified that it does not yet exist, [create the collection or container](/metadata-documentation/workflows/creating/) according to the [Print Collection](/metadata-documentation/division/print/) and [Photography Collection](/metadata-documentation/division/photography/) guidelines
 1. Determine the [TMS ID](/metadata-documentation/metadata/element/identifier/tms/) of the TMS record you want to import
    1. In the [Prints & Photographs Online Catalog](https://wallachprintsandphotos.nypl.org/), the TMS ID can be found as the numeric slug in the URL displayed in your address bar when viewing a record
    1. See [TMS ID](/metadata-documentation/metadata/element/identifier/tms/) for additional context and guidelines
@@ -72,6 +72,6 @@ Describes how to create records in the Metadata Management System (MMS) by impor
    1. If importing only one TMS record, the new record will be displayed
    1. If importing more than one TMS record, you can then search MMS for each record to proceed with next steps
 1. Review and [restructure](/metadata-documentation/workflows/remediation/restructuring/) your new record(s) as needed
-   1. See [Print Collection](/metadata-documentation/division/wallach/#print-collection) and [Photography Collection](/metadata-documentation/division/wallach/#photography-collection) guidelines to determine what structure is appropriate for an item
+   1. See [Print Collection](/metadata-documentation/division/print/) and [Photography Collection](/metadata-documentation/division/photography/) guidelines to determine what structure is appropriate for an item
    1. See [Moving Records](/metadata-documentation/workflows/remediation/restructuring/#moving-records) for how to move content to a new location
 1. Proceed with next steps according to the relevant [digitization](/metadata-documentation/workflows/digitization/) or [remediation](/metadata-documentation/workflows/remediation/) workflow
