@@ -45,8 +45,8 @@ Collection-level identifier for an archival collection in the [Archives Portal](
 - Set **MSS Unit ID**s added to collections to be **Inheritable**
 
 ## Use With
-- [NYPL catalog ID (B-number)](/metadata-documentation/metadata/element/identifier/bnumber/), which is automatically imported into the collection or standalone item record when importing either an EAD or PDF finding aid
-- [Archives Collections ID)](/metadata-documentation/metadata/element/identifier/archives-collections/), which is automatically imported into the collection or standalone item record when importing an EAD finding aid
+- [NYPL catalog ID (B-number)](/metadata-documentation/metadata/element/identifier/bnumber/), which is automatically imported into the collection or standalone item record when importing either an EAD-encoded or PDF finding aid
+- [Archives Collections ID)](/metadata-documentation/metadata/element/identifier/archives-collections/), which is automatically imported into the collection or standalone item record when importing an EAD-encoded finding aid
 
 ## See Also
 - [Linking Between Systems › Archives Portal](/metadata-documentation/workflows/linking/#archives-portal) for an overview of how archives-related identifiers create links between Digital Collections and the Archives Portal
