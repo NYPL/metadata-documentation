@@ -56,7 +56,7 @@ _A table of contents for the resource_
 {: .d-inline .v-align-middle .mr-2 }
 Do Not Use
 {: .d-inline .v-align-middle .label .label-red .mx-1 }
-[View MODS Documentation →](https://www.loc.gov/standards/mods/userguide/abstract.html#type)
+[View MODS Documentation →](https://www.loc.gov/standards/mods/userguide/tableofcontents.html#type)
 {: .d-inline .v-align-middle .text-zeta .ml-2 }
 
 _Identifies what type of summary is recorded_
