@@ -26,7 +26,8 @@ A table of contents for the resource
 - A structured list of the contents of the resource for keyword searching to increase discovery
 
 ## Guidelines
--   Structure the contents of the resources according to the relevant [content standard](/metadata-documentation/metadata/guidelines/#content-standards)
+- Structure the contents of the resources according to the relevant [content standard](/metadata-documentation/metadata/guidelines/#content-standards)
+    - For bibliographic materials, see [MARC 505](https://www.oclc.org/bibformats/en/5xx/505.html)
 - For a free text description of the contents of the resource, use [Abstract](/metadata-documentation/metadata/element/abstract/)
 
 ## Subelements
