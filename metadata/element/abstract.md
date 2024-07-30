@@ -28,7 +28,6 @@ A summary of the content of the resource
 - To provide end users with information about the resource that assists them in making a judgment about its likely usefulness, and provides context, if needed, for controlled vocabulary in other metadata elements in the record
 
 ## Guidelines
-- Recommended for collection-level records to provide context
 - For a structured list of the contents of the resource, use [Table of Contents](/metadata-documentation/metadata/element/table-of-contents/)
 
 ## Subelements
