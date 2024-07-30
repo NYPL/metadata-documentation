@@ -57,7 +57,7 @@ _The date that the resource was published, released, or issued_ <a href="https:/
 
 - Date is a required element
   - If no date can be found, you must estimate a date or date range (i.e. decade or century)
-  - If a container- or item-level record has a narrower date than is inherited from a higher-level collection or container, disinherit the **Origin Info** element and add the narrower date to a given container or item
+  - If a container or item record has a narrower date than is inherited from a higher-level collection or container, disinherit the **Origin Info** element and add the narrower date to a given container or item
 - Select the appropriate date **Type** from the dropdown
   - Use **Date created** for most unpublished materials
   - Use **Date issued** for most published materials
