@@ -45,6 +45,7 @@ The Metadata Management System (MMS) supports four types of records that contain
 * Besides system-generated fields, captures have two editable fields:
     * **Name**: typically the same as the image ID generated during digitization process, but can be manually edited if deemed necessary
     * **Relationship**: a drop-down menu of values that can provide detail about what the capture is or how it relates to the item
+      * For captures that show only a portion of an item, select **detail view (of an image, map, etc.)** as the **Relationship**
 
 ## Hierarchy Examples
 
