@@ -28,6 +28,8 @@ A summary of the content of the resource
 - To provide end users with information about the resource that assists them in making a judgment about its likely usefulness, and provides context, if needed, for controlled vocabulary in other metadata elements in the record
 
 ## Guidelines
+- Structure the summary of the content of the resource according to the relevant [content standard](/metadata-documentation/metadata/guidelines/#content-standards)
+    - For bibliographic materials, see [MARC 520](https://www.oclc.org/bibformats/en/5xx/520.html)
 - For a structured list of the contents of the resource, use [Table of Contents](/metadata-documentation/metadata/element/table-of-contents/)
 
 ## Subelements
