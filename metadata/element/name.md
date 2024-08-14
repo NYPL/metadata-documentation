@@ -31,7 +31,7 @@ The name of a person, organization, or event (conference, meeting, etc.) associa
 - Use the **Name** element only for people, organizations, families, or events associated with the creation or production of the resource or part of the resource
     - When the content of the resource is about or depicts a person, organization, or event, add the name as a [**Name Subject**](/metadata-documentation/metadata/element/subject/#name)
 - Use of an authority with a URI is required, if one exists
-- If importing metadata, pay special attention to **Name** elements to ensure they are consistently imported with the appropriate [Role](#Role)
+- If importing metadata, pay special attention to **Name** elements to ensure they are consistently imported with the appropriate [**Role**](#Role)
     - Whether **Name** elements are imported into MMS from a [finding aid](h/metadata-documentation/workflows/importing/finding-aids/) depends on the level of description that exists in the [Archives Portal](/metadata-documentation/resources/glossary/#archives-portal)
     - If **Name** elements are missing, it may be helpful to reference the **Added Author** fields in corresponding library catalog record (linked as **Call number** from the Archives Portal finding aid)
 
