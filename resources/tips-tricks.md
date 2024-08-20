@@ -56,6 +56,12 @@ Replace both instances of `A2` with the cell containing the full bnumber
 =LEFT(A2,(SUM(LEN(A2)-1)))
 ```
 
+### Library of Congress Identifier → Library of Congress Label
+Replace `A2` with the cell containing the Library of Congress identifier
+```
+=INDEX(IMPORTXML("http://id.loc.gov/authorities/names/"&A2, "//meta[@name='dc.subject']/@content"), 2)
+```
+
 ### Import List of Relator Name Elements
 Use this function to import relator names into a standalone tab in your spreadsheet for data validation
 ```
