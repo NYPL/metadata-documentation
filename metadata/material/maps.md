@@ -39,7 +39,7 @@ Provides guidelines for metadata specific to maps (or records with `cartographic
   - Add as a **Note** and set the **Type** to **content** if the local note does not relate to the physical characteristics of the resource
   - Alternately, relocate the note to a [**Note**](/metadata-documentation/metadata/element/physical-description/#note) subelement of [**Physical Description**](/metadata-documentation/metadata/element/physical-description/) if the local note relates to the physical characteristics of the resource
 - The source record's [MARC 255](https://www.oclc.org/bibformats/en/2xx/255.html) including [$a](https://www.oclc.org/bibformats/en/2xx/255.html#subfielda) ("Statement of scale"), [$b](https://www.oclc.org/bibformats/en/2xx/255.html#subfieldb) ("Statement of projection"), and [$c](https://www.oclc.org/bibformats/en/2xx/255.html#subfieldc) ("Statement of coordinates") can remain as a **Note** with the **Type** to **content**
-- The [current version of MODS](/metadata-documentation/metadata/guidelines/#metadata-schema) used by the Metadata Management System does not yet support [Subelement: \<place>\z<cartographics>](https://www.loc.gov/standards/mods/userguide/origininfo.html#oiplacecartographics)
+- The [current version of MODS](/metadata-documentation/metadata/guidelines/#metadata-schema) used by the Metadata Management System does not yet support [Subelement: &lt;place&gt;&lt;cartographics&gt;](https://www.loc.gov/standards/mods/userguide/origininfo.html#oiplacecartographics)
 
 ## See Also
 
