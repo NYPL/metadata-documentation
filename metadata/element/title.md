@@ -27,8 +27,8 @@ A word, phrase, character, or group of characters, normally appearing in a resou
 {:toc}
 
 ## Guidelines
-- If a title appears on the resource, transcribe it into a title field
-- If no title appears on the resource, devise a unique and descriptive title
+- If a title, headline, byline, or image caption appears on the resource, transcribe it into a title field
+- If no title, headline, byline, or image caption is visible, devise a unique and descriptive title
     - Briefly describe the nature of resource, e.g. a map, or the subject of the resource, or both
     - Choice and format of title elements should be governed by the relevant [content standard](/metadata-documentation/metadata/guidelines/#content-standards)
     - Use [inclusive descriptive practices](/metadata-documentation/metadata/inclusive-reparative/)
@@ -145,12 +145,13 @@ _Indicates whether the content of the element has been supplied from external so
 
 #### Guidelines
 {: .no_toc }
-- If no title appears on the resource, devise a unique and descriptive title according the [guidelines](#guidelines) and check **Supplied**
+- If no title, headline, byline, or image caption is visible, devise a unique and descriptive title according the [guidelines](#guidelines) and check **Supplied**
 - Do not check **Supplied** for the following as they are not replacements for missing titles
     - Collection titles
     - Container titles
     - Titles describing correspondence, manuscripts, or other archival materials
 - Do not enclose titles checked as **Supplied** in brackets
+- Optionally, for an item record with a title from an external source such as a processing document, add a **Title** element accompanied by a [**Note**](/metadata-documentation/metadata/element/note/) element describing the title's source with the [**Type**](/metadata-documentation/metadata/element/note/#type): **content**
 
 ---
 
