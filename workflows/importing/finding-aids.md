@@ -62,3 +62,6 @@ Describes how to create records in the Metadata Management System (MMS) by impor
       1. If converting an item into a container, set the [Archives EAD ID](/metadata-documentation/metadata/element/identifier/archives-ead/) and the [Note](/metadata-documentation/metadata/element/note/) containing box and folder information to be **Inheritable**
    1. See [By Material › Archival Collections](/metadata-documentation/metadata/material/archival-collections/) for additional guidelines
 1. Proceed with next steps according to the relevant [digitization](/metadata-documentation/workflows/digitization/) or [remediation](/metadata-documentation/workflows/remediation/) workflow
+
+## See Also
+-  [Archival Collections](/metadata-documentation/metadata/material/archival-collections/) for metadata guidelines specific to archival collections described in MMS
