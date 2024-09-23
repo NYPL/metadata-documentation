@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Maps (Cartographic Resources)
+title: Maps
 permalink: /metadata/material/maps/
 parent: By Material
 grand_parent: MMS › Metadata
