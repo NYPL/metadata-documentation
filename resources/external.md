@@ -34,7 +34,7 @@ Links to documentation created by other Library divisions, departments, and unit
 - [Media Preservation](https://nypl.github.io/ami-preservation/)
     - [Media Preservation Labs](https://nypl.github.io/ami-preservation/pages/amiLabs/ami-labs.html)
     - [Media Preservation Services](https://nypl.github.io/ami-preservation/pages/mps/mps-about.html)
-- [Preservation and Collections Processing](https://sites.google.com/nypl.org/specialcollections/home)
+- [Preservation and Collections Processing](https://sites.google.com/nypl.org/specialcollections/home) ([Documentation](https://nypl.github.io/pres-docs/))
 - [Research Library Technical Services](https://sites.google.com/a/bookops.org/nypl-rl-tech-services/rl-technical-services)
     - [Classification Schedules](https://sites.google.com/a/bookops.org/nypl-rl-tech-services/rl-technical-services/rl-classification-schedules)
         - [Billings Classification](https://sites.google.com/a/bookops.org/nypl-rl-tech-services/rl-technical-services/rl-classification-schedules#h.pv5znc8ax4y)
