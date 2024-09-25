@@ -45,7 +45,7 @@ Liaison to Schomburg Center for Research in Black Culture divisions: Art and Art
 
 **Zoe Waldron**, Metadata Specialist
 {: .text-grey-dk-300 .fs-5 .mt-5 .mb-0}
-Liaison to Stephen A. Schwarzman Building divisions: Dorot Jewish Division; General Research Division; Map Division; Milstein Division; Spencer Collection; Wallach Division (Art & Architecture Collection; Photography Collection; Picture Collection; Print Collection)
+Liaison to Stephen A. Schwarzman Building divisions: Dorot Jewish Division; General Research Division; Map Division; Milstein Division; Wallach Division (Art & Architecture Collection; Photography Collection; Picture Collection; Print Collection; Spencer Collection)
 {: .mt-1 .mb-0 }
 
 {: .highlight }
