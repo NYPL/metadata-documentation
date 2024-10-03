@@ -28,15 +28,15 @@ nav_order: 3
     1. Basic search filtering
 1. Advanced search
 1. [Anatomy of MMS records](/metadata-documentation/metadata/record-type/)
-    1. Data model
-    1. Bnumber search
-    1. Items
-    1. Containers
-    1. Collections
+    1. [Data model](/metadata/guidelines/)
+    1. [Bnumber](/metadata/element/identifier/bnumber/) search
+    1. [Items](/metadata/record-type/#items)
+    1. [Containers](/metadata/record-type/#containers)
+    1. [Collections](/metadata/record-type/#collections)
 1. [Criteria for appearance](/metadata-documentation/dc/criteria/)
 1. Connecting MMS to/from DC
     1. From MMS to DC
     1. [From DC to MMS](/metadata-documentation/dc/linker/)
-1. MSU Documentation
+1. [MSU Documentation](https://nypl.github.io/metadata-documentation/)
     1. [Glossary](/metadata-documentation/resources/glossary/)
 1. Questions?
