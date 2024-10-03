@@ -76,9 +76,9 @@ Provides guidelines for metadata specific to archival collections described in t
 
 ---
 
-### Origin Info
+### Genre
 {: .d-inline .v-align-middle .mr-2 }
-[View MSU Documentation for Element →](/metadata-documentation/metadata/element/origin-info/)
+[View MSU Documentation for Element →](/metadata-documentation/metadata/element/genre/)
 {: .d-inline .v-align-middle .text-zeta .ml-2 }
 
 - For container records that have a genre term as a [**Title**](/metadata-documentation/metadata/element/title/) (e.g. `Correspondence` or `Manuscripts`):
