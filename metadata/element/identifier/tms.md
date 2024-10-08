@@ -45,7 +45,8 @@ Unique numeric identifier assigned to individual objects by the The Museum Syste
 </dl>
 
 ## Inheritance
-- Not applicable as **TMS ID** should be assigned at the item level
+- **TMS ID** is typically assigned at the item level and not set to be inheritable
+    - In rare cases where **TMS ID** is added to collections and containers, consider whether **TMS ID** should be **Inheritable** on a case-by-case basis
 
 ## Use With
 - [TMS Object Number](/metadata-documentation/metadata/element/identifier/tms-object-number/#tms-object-number), the local classmark that corresponds to the **TMS ID**
