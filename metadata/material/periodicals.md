@@ -82,7 +82,7 @@ Provides guidelines for metadata specific to periodicals such as magazines and n
         - E.g. `Volume 1, number 1 (January/March 1974)`
       - See [MARC 362](https://www.oclc.org/bibformats/en/3xx/362.html) for additional examples
 - For an item record representing a portion of a partially-digitized issue:
-  - **Title**: periodical title (may be shortened for long titles)
+  - **Title**: enter the periodical title (may be shortened for long titles)
   - **Part Number**: enter the volume, issue, and/or page numbers
     - To indicate the volume number, enter `Volume` followed by the volume number
       - E.g. `Volume 20`
