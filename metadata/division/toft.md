@@ -51,16 +51,7 @@ Provides guidelines for metadata describing material from the Theatre on Film an
   - Add the **Role**: **Production personnel**
 - For any **Name** elements where the relator was not imported and is not a [MARC relator term](https://www.loc.gov/marc/relators/relaterm.html) (e.g. **Orchestrations** or **Musical supervision)**:
   - Add the **Role**: **Contributor**
-
----
-
-### Subject
-{: .d-inline .v-align-middle .mr-2 }
-[View MSU Documentation for Element →](/metadata-documentation/metadata/element/subject/)
-{: .d-inline .v-align-middle .text-zeta .ml-2 }
-
-- Add **Title** subject(s) based on [MARC 700 $i $a $d $t $o](https://www.oclc.org/bibformats/en/7xx/700.html) ("container of (work)") and [MARC 730 $i $a](https://www.oclc.org/bibformats/en/7xx/730.html) ("container of (expression)") fields in the source catalog record
-
+  
 ---
 
 ### Note
