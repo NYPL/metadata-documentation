@@ -45,7 +45,8 @@ Local classmark assigned by the Print Collection and Photography Collection of t
 </dl>
 
 ## Inheritance
-- Not applicable as **TMS Object Number** should be assigned at the item level
+- **TMS Object Number** is typically assigned at the item level and not set to be inheritable
+    - In rare cases where **TMS Object Number** is added to collections and containers, consider whether **TMS Object Number** should be **Inheritable** on a case-by-case basis
 
 ## Use With
 - [TMS ID](/metadata-documentation/metadata/element/identifier/tms/), the unique numeric identifier that corresponds to the **TMS Object Number**
