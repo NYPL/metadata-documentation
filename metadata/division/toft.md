@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Theatre on Tape and Film
+title: Theatre on Film and Tape Archive
 permalink: /division/toft/
 parent: By Division
 grand_parent: MMS › Metadata
