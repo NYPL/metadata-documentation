@@ -8,7 +8,6 @@ nav_exclude: true
 ---
 
 # Audio & Moving Image (AMI)
-
 {: .no_toc }
 
 Provides guidelines for metadata specific to audio and moving image (AMI) materials described in the Metadata Management System (MMS)
