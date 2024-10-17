@@ -59,7 +59,7 @@ Provides guidelines for metadata describing material from the Theatre on Film an
 [View MSU Documentation for Element →](/metadata-documentation/metadata/element/note/)
 {: .d-inline .v-align-middle .text-zeta .ml-2 }
 
-- If removing a **Name** element for TOFT directors (`Hoffman, Patrick` and `Corwin, Betty L.`), ensure their names are instead included in a [**Note**](https://docs.google.com/document/d/1729J2drDizJ3juW-RH3KIewgNvKLBo85o6nn82pjPMA/edit#note) element with the **Type**: **statement of responsibility**
+- If removing a **Name** element for TOFT directors (`Hoffman, Patrick` and `Corwin, Betty L.`), ensure their names are instead included in a **Note** element with the **Type**: **statement of responsibility**
   - The format of their names within the **statement of responsibility** should follow:
     - `Theatre on Film and Tape Archive, Patrick Hoffman, director`
     - `Theatre on Film and Tape Archive, Betty L. Corwin, director`
