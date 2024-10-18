@@ -2,8 +2,8 @@
 layout: page
 title:
 permalink: /metadata/template
-parent: By Material
-grand_parent: MMS › Metadata
+parent: 
+grand_parent: 
 nav_exclude: true
 search_exclude: true
 ---
