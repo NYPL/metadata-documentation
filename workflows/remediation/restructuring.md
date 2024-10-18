@@ -257,7 +257,7 @@ Consolidating records (previously known as container collapsing) refers to the p
    1. If rights are needed for the target item record, request they be added following the [rights workflow](/metadata-documentation/workflows/rights/)
       1. Include a link to the legacy record(s) if rights were assigned there
 1. Once you have confirmed all captures have been successfully to the target record, you may [delete](/metadata-documentation/workflows/remediation/deleting/) any item records that are now empty and no longer needed as a result of moving the captures
-1. If the legacy collection or container record had a [NYPL catalog ID (B-number)](/metadata-documentation/metadata/element/identifier/bnumber/) as an [Identifier](/metadata-documentation/metadata/element/identifier/), ensure that the catalog record's link to NYPL Digital Collections (DC) gets updated
+1. If the legacy collection or container record had a [NYPL catalog ID (B-number)](/metadata-documentation/metadata/element/identifier/bnumber/) as an [Identifier](/metadata-documentation/metadata/element/identifier/) and it meets the [criteria to appear on DC](/metadata-documentation/dc/criteria/), ensure that the catalog record's link to NYPL Digital Collections (DC) gets updated
     1. In the relevant ClickUp task, add a comment indicating the [bnumber](/metadata-documentation/metadata/element/identifier/bnumber/) with the tag `@MSU Sierra Contact(s)`
     1. Do not close the ClickUp task until someone with Sierra edit access has confirmed the catalog record has been updated
 
