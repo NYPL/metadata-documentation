@@ -131,4 +131,4 @@ Provides guidelines for metadata specific to audio and moving image (AMI) materi
 ## See Also
 
 - [Audio and Moving Image (AMI)](/metadata-documentation/workflows/digitization/ami/) for guidelines pertaining to the ingest of AMI into MMS
-- [AMI Metadata Overview](https://nypl.github.io/ami-preservation/pages/ami-metadata.html) for documentation of metadata requirements and controlled vocabulary from the Library’s Media Preservation units
+- [AMI Metadata Overview](https://nypl.github.io/ami-preservation/pages/ami-metadata.html) for documentation of metadata requirements and controlled vocabulary from the Library's Media Preservation units
