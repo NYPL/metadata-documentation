@@ -104,6 +104,7 @@ Last updated October 2024
 ### NYPL Wikidata Working Group
 
 | Dates | beginning June 2023 |
+| MSU Members | Emma C., Karly W., Sarah A.
 | Collaborators | Bob K. (Music Division), David L. (Photography Collection), Gina M. (Copyright and Information Policy), Samie K. (Audio and Moving Image Description), Stacey F. (Archival Processing) |
 | Related Links | [WikiProject](https://www.wikidata.org/wiki/Wikidata:WikiProject_New_York_Public_Library){: .btn } [Google Group 🔒](https://groups.google.com/a/nypl.org/g/wikidata){: .btn } [Slack 🔒](https://nyplpscp.slack.com/archives/C05C3EMCBL7){: .btn } |
 
