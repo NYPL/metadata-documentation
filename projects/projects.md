@@ -99,7 +99,7 @@ While the Library only holds one archival collection of [Friedman-Abeles photogr
 
 ---
 
-Last updated September 2023
+Last updated October 2024
 {: .float-right .fs-2 .text-grey-dk-000 }
 ### NYPL Wikidata Working Group
 
@@ -111,9 +111,9 @@ Last updated September 2023
 {: .no_toc }
 
 - MSU leads the NYPL Wikidata Working Group, which began meeting monthly in July 2023
-- The group's current focus is to establish and document best practices for the use of Wikidata to link to Library collections and resources on the [Wikidata:WikiProject New York Public Library page](https://www.wikidata.org/wiki/Wikidata:WikiProject_New_York_Public_Library)
-- The group plans to open up to anyone interested in Wikidata at the Library in the future
-- In the meantime, any Library staff members are welcome to join the #wikidata channel in the [Preservation and Collections Processing Slack 🔒](https://nyplpscp.slack.com/archives/C05C3EMCBL7) for updates and discussion;  [contact us](/metadata-documentation/contact/) for an invitation
+- The working group's current focus is to establish and document best practices for the use of Wikidata to link to Library collections and resources on the [Wikidata:WikiProject New York Public Library page](https://www.wikidata.org/wiki/Wikidata:WikiProject_New_York_Public_Library)
+- Any Library staff interested in becoming a member the working group can [contact us](/metadata-documentation/contact/) for details
+- Regardless of membership in the working group, all Library staff are welcome to join the #wikidata channel in the [Preservation and Collections Processing Slack 🔒](https://nyplpscp.slack.com/archives/C05C3EMCBL7) for updates and discussion;  [contact us](/metadata-documentation/contact/) for an invitation
 
 ---
 
