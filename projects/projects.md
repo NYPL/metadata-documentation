@@ -114,7 +114,7 @@ Last updated October 2024
 - MSU leads the NYPL Wikidata Working Group, which began meeting monthly in July 2023
 - The working group's current focus is to establish and document best practices for the use of Wikidata to link to Library collections and resources on the [Wikidata:WikiProject New York Public Library page](https://www.wikidata.org/wiki/Wikidata:WikiProject_New_York_Public_Library)
 - Any Library staff interested in becoming a member the working group can [contact us](/metadata-documentation/contact/) for details
-- Regardless of membership in the working group, all Library staff are welcome to join the #wikidata channel in the [Preservation and Collections Processing Slack 🔒](https://nyplpscp.slack.com/archives/C05C3EMCBL7) for updates and discussion;  [contact us](/metadata-documentation/contact/) for an invitation
+- Regardless of membership in the working group, all Library staff are welcome to join the `#wikidata` channel in the [Preservation and Collections Processing Slack 🔒](https://nyplpscp.slack.com/archives/C05C3EMCBL7) for updates and discussion; [contact us](/metadata-documentation/contact/) for an invitation
 
 ---
 
