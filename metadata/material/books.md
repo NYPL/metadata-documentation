@@ -30,19 +30,19 @@ Provides guidelines for metadata specific to books described in the Metadata Man
 - For partially-digitized books, structure the book as a collection with a child item for each page or consecutive page range:
 ```
     | -- Collection = book
-       | -- Item = page(s)
+        | -- Item = page(s)
 ```
 - For multi-volume works where a volume is fully-digitized, structure the multi-volume work as a collection with a child item for each volume:
 ```
     | -- Collection = multi-volume book
-       | -- Item = individual volume
+        | -- Item = individual volume
 ```
 - For multi-volume containing a mix of partially- and fully-digitized volumes, structure using a hybrid approach:
 ```
     | -- Collection = multi-volume book
-       | -- Item = individual volume
-       | -- Container = individual volume
-          | -- Item = page(s)
+        | -- Item = individual volume
+        | -- Container = individual volume
+            | -- Item = page(s)
 ```
 - Reorder containers and items as needed to maintain sequential order
 
