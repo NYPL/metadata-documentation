@@ -179,6 +179,7 @@ For MSU Staff
 ### External Resources for Inclusive Description
 
 - [The DEI Metadata Handbook](https://iastate.pressbooks.pub/isudp-2024-153/)
+- [Inclusive Metadata Toolkit](https://osf.io/yf96h)
 - [Society of American Archivists Description Section › Inclusive Description](https://www2.archivists.org/groups/description-section/inclusive-description)
 - [Yale University Reparative Archival Description Working Group](https://guides.library.yale.edu/c.php?g=1140330\&p=8319098)
 - [Harvard University › Guidelines for Inclusive and Conscientious Description](https://wiki.harvard.edu/confluence/display/hmschommanual/Guidelines+for+Inclusive+and+Conscientious+Description)
