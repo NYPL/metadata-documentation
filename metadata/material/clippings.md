@@ -47,7 +47,7 @@ Provides guidelines for metadata specific to [clippings](https://dictionary.arch
         | -- Item = full sheet
             | -- Capture = full sheet
 ```
-- E.g., [George Brashear scrapbooks](https://metadata.nypl.org/collection/126590)
+  - E.g., [George Brashear scrapbooks](https://metadata.nypl.org/collection/126590)
 - Item record(s) should contain metadata for the item as a whole, not its individual components
 - A collection with multiple items, each having multiple captures
 ```
@@ -65,7 +65,7 @@ Provides guidelines for metadata specific to [clippings](https://dictionary.arch
             | -- Capture = detail view
             | -- Capture = detail view
 ```
-- E.g., [Alexander Anderson scrapbooks](http://metadata.nypl.org/collection/25829)
+  - E.g., [Alexander Anderson scrapbooks](http://metadata.nypl.org/collection/25829)
 - Item record(s) should contain metadata for the individual item, not its parent collection or container
 
 ---
@@ -84,20 +84,6 @@ Provides guidelines for metadata specific to [clippings](https://dictionary.arch
   - Transcribe each title, headline, byline, or image caption into a single **Title** element separated by `;`
   - Add a separate **Title** element for each clipping containing the respective title, headline, byline, or image caption and check **Primary** for one **Title** element
 - See [DCRM(G): Descriptive Cataloging of Rare Materials (Graphics)](https://rbms.info/dcrm/dcrmg/) (“1. Title and Statement of Responsibility Area”) for additional guidelines and examples
-
----
-
-### Identifier
-{: .d-inline .v-align-middle .mr-2 }
-[View MSU Documentation for Element →](/metadata-documentation/metadata/element/identifier/)
-{: .d-inline .v-align-middle .text-zeta .ml-2 }
-
----
-
-### Type of Resource
-{: .d-inline .v-align-middle .mr-2 }
-[View MSU Documentation for Element →](/metadata-documentation/metadata/element/type-of-resource/)
-{: .d-inline .v-align-middle .text-zeta .ml-2 }
 
 ---
 
@@ -156,8 +142,6 @@ Provides guidelines for metadata specific to [clippings](https://dictionary.arch
   - Add single name element
 - For multiple clippings each with a different author:
   - Add name element for each author
-  - Use **Table of Contents** to specify author for each respective title, headline, byline, and image caption
-    - E.g. [`Rev. Joseph Benson, Late Editor of the Methodist Magazine / Jackson Pinxt. ; Holl Sculpt. -- Rev. Joseph Benson / drawing by J. Jackson, R.A., ; engraving by E. Mackenzie`](https://metadata.nypl.org/items/3102112?section=desc_md#:~:text=to%20a%20sheet.-,Table%20of%20Contents,Benson%20/%20drawing%20by%20J.%20Jackson%2C%20R.A.%2C%20%3B%20engraving%20by%20E.%20Mackenzie,-Subject)
 
 ---
 
@@ -177,6 +161,17 @@ Provides guidelines for metadata specific to [clippings](https://dictionary.arch
   - [Portraits](https://docs.google.com/spreadsheets/d/1NGlV94Iufe0p3EJdoJDX7SgvH-LUYqWLEuB1Az3DmbM/edit#gid=1262013027\&range=A247)
   - [Prints](https://docs.google.com/spreadsheets/d/1NGlV94Iufe0p3EJdoJDX7SgvH-LUYqWLEuB1Az3DmbM/edit#gid=1262013027\&range=A256)
   - [Title pages](https://docs.google.com/spreadsheets/d/1NGlV94Iufe0p3EJdoJDX7SgvH-LUYqWLEuB1Az3DmbM/edit#gid=1262013027\&range=A333)
+
+---
+
+### Table of Contents
+{: .d-inline .v-align-middle .mr-2 }
+[View MSU Documentation for Element →](/metadata-documentation/metadata/element/table-of-contents/)
+{: .d-inline .v-align-middle .text-zeta .ml-2 }
+
+- For multiple clippings each with a different author:
+  - Use **Table of Contents** to specify author for each respective title, headline, byline, and image caption
+    - E.g. [`Rev. Joseph Benson, Late Editor of the Methodist Magazine / Jackson Pinxt. ; Holl Sculpt. -- Rev. Joseph Benson / drawing by J. Jackson, R.A., ; engraving by E. Mackenzie`](https://metadata.nypl.org/items/3102112?section=desc_md#:~:text=to%20a%20sheet.-,Table%20of%20Contents,Benson%20/%20drawing%20by%20J.%20Jackson%2C%20R.A.%2C%20%3B%20engraving%20by%20E.%20Mackenzie,-Subject)
 
 ---
 
