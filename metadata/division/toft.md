@@ -69,4 +69,4 @@ Provides guidelines for metadata describing material from the Theatre on Film an
 ## See Also
 
 - [Theatre on Film and Tape Archive (Internal Documentation) 🔒](https://docs.google.com/document/d/1ukxv__9sH0-CkDDYB3zkmp3_xkTl4O1Ae5qk5YSQ_3Y/edit) for the respective [MSU Liason's 🔒](https://docs.google.com/spreadsheets/d/1P-YDJigon640fTCLP4Ig4-zmzqrX88v5M24ShuxFNVY/edit?gid=0) internal documentation and notes related to the Theatre on Film and Tape Archive
-- [MMS › Metadata › By Material › Audio and Moving Image (AMI)](/metadata-documentation/metadata/material/ami/) for guidelines for metadata specific to audio and moving image materials described in MMS
+- [MMS › Metadata › By Material › Audio & Moving Image (AMI)](/metadata-documentation/metadata/material/ami/) for guidelines for metadata specific to audio and moving image materials described in MMS
