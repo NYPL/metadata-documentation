@@ -8,7 +8,7 @@ has_children: true
 ---
 
 # By Division
-{: .no_toc .text-delta }
+{: .no_toc }
 
 These pages provide division-specific guidelines for record structure and the use of Metadata Object Description Schema (MODS) elements in the Metadata Management System (MMS)
 
