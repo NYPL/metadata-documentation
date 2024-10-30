@@ -7,13 +7,13 @@ grand_parent: MMS › Metadata
 nav_exclude: true
 ---
 
+# Manuscripts and Archives Division
+{: .no_toc }
+
 {: .highlight-title }
 > 🚧 Under Construction
 >
-> This page is still being developed. Links to legacy documentation may appear to facilitate our migration process. [Contact us](/metadata-documentation/contact/) with any questions or feedback.
-
-# Manuscripts and Archives Division
-{: .no_toc }
+> This page is still being developed. [Contact us](/metadata-documentation/contact/) with any questions or feedback.
 
 ## Table of contents
 {: .no_toc .text-delta }
