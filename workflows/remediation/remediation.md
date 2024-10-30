@@ -8,6 +8,6 @@ has_children: true
 ---
 
 # Remediation
-{: .no_toc .text-delta }
+{: .no_toc }
 
 These pages describe various workflows related to remediation of metadata records in the Metadata Management System (MMS)
