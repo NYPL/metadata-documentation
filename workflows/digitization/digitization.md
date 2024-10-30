@@ -8,6 +8,6 @@ has_children: true
 ---
 
 # Digitization
-{: .no_toc .text-delta }
+{: .no_toc }
 
 These pages describe workflows related to new digitization, particularly in relation to metadata creation in the Metadata Management System (MMS)
