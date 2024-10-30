@@ -25,5 +25,5 @@ Filename of the digitized asset
 - Ingest of AMI into MMS is currently paused, and thus there are not current guidelines for **Capture Original Filename**, but legacy data may exist in MMS
 
 ## See Also
-- [Audio and Moving Image (AMI) › Identifier](/metadata-documentation/metadata/material/ami/#identifier) for guidelines on the use of identifiers for AMI including **Capture Original Filename**
+- [Audio & Moving Image (AMI) › Identifier](/metadata-documentation/metadata/material/ami/#identifier) for guidelines on the use of identifiers for AMI including **Capture Original Filename**
 - [AMI Metadata Overview](https://nypl.github.io/ami-preservation/pages/ami-metadata.html) for documentation of metadata requirements and controlled vocabulary from the Library's Media Preservation units
