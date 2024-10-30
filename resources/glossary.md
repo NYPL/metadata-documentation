@@ -396,7 +396,7 @@ Common terms used within the work of the Metadata Services Unit (MSU)
 
 <a name="mms-qa"></a>
 <dt>MMS QA</dt>
-<dd>quality assurance version of the the <a href="#metadata-management-system">Metadata Management System</a> that functions as a non-production test envionment; accessible at <a href="https://qa-metadata.nypl.org/">qa-metadata.nypl.org</a></dd>
+<dd>quality assurance version of the the <a href="#metadata-management-system">Metadata Management System</a> that functions as a non-production test environment; accessible at <a href="https://qa-metadata.nypl.org/">qa-metadata.nypl.org</a></dd>
 
 <a name="permissions-reproduction-services"></a>
 <dt>Permissions and Reproduction Services</dt>
