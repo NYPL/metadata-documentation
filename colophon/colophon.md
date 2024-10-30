@@ -7,12 +7,8 @@ has_children: true
 has_toc: false
 ---
 
-{: .highlight-title }
-> 🚧 Under Construction
->
-> This page is still being developed. Links to legacy documentation may appear to facilitate our migration process. [Contact us](/metadata-documentation/contact/) with any questions or feedback.
-
 # About This Site
+{: .no_toc }
 
 ## Built With
 - [GitHub Pages](https://pages.github.com/)
@@ -21,6 +17,5 @@ has_toc: false
 
 ## Documentation Resources
 - [MSU Documentation Style Guide](/metadata-documentation/colophon/style-guide)
-- [Committing to Documentation › Writing Documentation
-](https://ctodocs.github.io/ctod/write-documentation.html)
+- [Committing to Documentation › Writing Documentation](https://ctodocs.github.io/ctod/write-documentation.html)
 - [Microsoft Writing Style Guide](https://learn.microsoft.com/en-us/style-guide/welcome/)
