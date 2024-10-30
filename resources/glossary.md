@@ -394,6 +394,10 @@ Common terms used within the work of the Metadata Services Unit (MSU)
 <dt>MMS Database</dt>
 <dd><a href="#structured-query-language">SQL</a> database that powers the <a href="#metadata-management-system">Metadata Management System</a></dd>
 
+<a name="mms-qa"></a>
+<dt>MMS QA</dt>
+<dd>quality assurance version of the the <a href="#metadata-management-system">Metadata Management System</a> that functions as a non-production test envionment; accessible at <a href="https://qa-metadata.nypl.org/">qa-metadata.nypl.org</a></dd>
+
 <a name="permissions-reproduction-services"></a>
 <dt>Permissions and Reproduction Services</dt>
 <dd>unit within <a href="#digital-collections-services">Digital Collections Services</a></dd>
