@@ -14,15 +14,15 @@ table th:nth-of-type(2) {
 }
 </style>
 
-{: .highlight-title }
-> 🚧 Under Construction
->
-> This page is still being developed. [Contact us](/metadata-documentation/contact/) with any questions or feedback.
-
 # Projects
 {: .no_toc }
 
 An overview of projects initiated by or involving the Metadata Services Unit (MSU) and other collaborators throughout the Library
+
+{: .highlight-title }
+> 🚧 Under Construction
+>
+> This page is still being developed. [Contact us](/metadata-documentation/contact/) with any questions or feedback.
 
 ## Table of contents
 {: .no_toc .text-delta }
