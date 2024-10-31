@@ -7,9 +7,7 @@ nav_order: 5
 has_children: true
 ---
 
-{: .highlight-title }
-> 🚧 Under Construction
->
-> This page is still being developed. Links to legacy documentation may appear to facilitate our migration process. [Contact us](/metadata-documentation/contact/) with any questions or feedback.
-
 # Remediation
+{: .no_toc }
+
+These pages describe various workflows related to remediation of metadata records in the Metadata Management System (MMS)

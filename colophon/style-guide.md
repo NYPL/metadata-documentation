@@ -7,11 +7,6 @@ nav_exclude: true
 search_exclude: true
 ---
 
-{: .highlight-title }
-> 🚧 Under Construction
->
-> This page is still being developed. [Contact us](/metadata-documentation/contact/) with any questions or feedback.
-
 # MSU Documentation Style Guide
 {: .no_toc }
 

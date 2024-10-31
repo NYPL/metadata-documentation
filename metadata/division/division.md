@@ -7,12 +7,8 @@ nav_order: 7
 has_children: true
 ---
 
-{: .highlight-title }
-> 🚧 Under Construction
->
-> This page is still being developed. Links to legacy documentation may appear to facilitate our migration process. [Contact us](/metadata-documentation/contact/) with any questions or feedback.
-
 # By Division
+{: .no_toc }
 
 These pages provide division-specific guidelines for record structure and the use of Metadata Object Description Schema (MODS) elements in the Metadata Management System (MMS)
 

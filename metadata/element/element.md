@@ -9,6 +9,8 @@ has_toc: false
 ---
 
 # By Element
+{: .no_toc }
+
 These pages describe our local practices for each of the [Metadata Object Description Schema](/metadata-documentation/resources/glossary/#metadata-object-description-schema) (MODS) elements in the [Metadata Management System](/metadata-documentation/resources/glossary/#metadata-management-system) (MMS)
 
 {: .note }

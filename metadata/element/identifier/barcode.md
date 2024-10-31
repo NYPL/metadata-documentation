@@ -39,4 +39,4 @@ Unique identifier assigned to physical object
 - Do not set **Barcode**s added to collections or containers to be Inheritable
 
 ## See Also
-- [Audio and Moving Image (AMI) › Identifier](/metadata-documentation/metadata/material/ami/#identifier) for guidelines on the use of identifiers for AMI including Barcode
+- [Audio & Moving Image (AMI) › Identifier](/metadata-documentation/metadata/material/ami/#identifier) for guidelines on the use of identifiers for AMI including Barcode

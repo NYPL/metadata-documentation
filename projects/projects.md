@@ -14,15 +14,15 @@ table th:nth-of-type(2) {
 }
 </style>
 
-{: .highlight-title }
-> 🚧 Under Construction
->
-> This page is still being developed. [Contact us](/metadata-documentation/contact/) with any questions or feedback.
-
 # Projects
 {: .no_toc }
 
 An overview of projects initiated by or involving the Metadata Services Unit (MSU) and other collaborators throughout the Library
+
+{: .highlight-title }
+> 🚧 Under Construction
+>
+> This page is still being developed. [Contact us](/metadata-documentation/contact/) with any questions or feedback.
 
 ## Table of contents
 {: .no_toc .text-delta }
@@ -105,7 +105,7 @@ Last updated October 2024
 
 | Dates | beginning June 2023 |
 | MSU Members | Emma C., Karly W., Sarah A.
-| Collaborators | Bob K. (Music Division), David L. (Photography Collection), Gina M. (Copyright and Information Policy), Samie K. (Audio and Moving Image Description), Stacey F. (Archival Processing) |
+| Collaborators | Bob K. (Music Division), David L. (Photography Collection), Samie K. (Audio and Moving Image Description), Stacey F. (Archival Processing), Gina M. (Copyright and Information Policy), Daniel A. (Special Projects Team) |
 | Related Links | [WikiProject](https://www.wikidata.org/wiki/Wikidata:WikiProject_New_York_Public_Library){: .btn } [Google Group 🔒](https://groups.google.com/a/nypl.org/g/wikidata){: .btn } [Slack 🔒](https://nyplpscp.slack.com/archives/C05C3EMCBL7){: .btn } |
 
 #### Overview

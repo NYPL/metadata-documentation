@@ -11,7 +11,7 @@ nav_exclude: true
 # Audio & Moving Image (AMI)
 {: .no_toc }
 
-Provides an overview of workflows pertaining to the ingest of Audio and Moving Image (AMI) into the Metadata Management System (MMS)
+Provides an overview of workflows pertaining to the ingest of audio and moving image (AMI) assets into the Metadata Management System (MMS)
 
 ## Table of contents
 {: .no_toc .text-delta }
@@ -36,4 +36,4 @@ Ingest of AMI into MMS is currently paused. The following legacy documents do no
         - Workflow for archival AMI collections that are ready for description in MMS
 
 ## See Also
-- [Audio and Moving Image (AMI)](/metadata-documentation/metadata/material/ami/) for guidelines on metadata elements for AMI
+- [Audio & Moving Image (AMI)](/metadata-documentation/metadata/material/ami/) for guidelines on metadata elements for AMI

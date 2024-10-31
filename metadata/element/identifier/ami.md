@@ -28,5 +28,5 @@ Unique identifier of an audio or moving image item assigned during inventory in 
 - Ingest of AMI into MMS is currently paused, and thus there are not current guidelines for **AMI Identifier**, but legacy data may exist in MMS
 
 ## See Also
-- [Audio and Moving Image (AMI) › Identifier](/metadata-documentation/metadata/material/ami/#identifier) for general guidelines on the use of identifiers for AMI
+- [Audio & Moving Image (AMI) › Identifier](/metadata-documentation/metadata/material/ami/#identifier) for general guidelines on the use of identifiers for AMI
 - [SPEC Manual: Objects](https://docs.google.com/document/d/1dP3zDqTT4uX_EsocFeUJ2VLgPMJechInvOzrcCtMsoU/edit), which describes "AMI ID" (or "CMS AMI ID") as one of the identifiers generated and found in SPEC
