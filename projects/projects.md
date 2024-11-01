@@ -99,7 +99,7 @@ While the Library only holds one archival collection of [Friedman-Abeles photogr
 
 ---
 
-Last updated October 2024
+Last updated November 2024
 {: .float-right .fs-2 .text-grey-dk-000 }
 ### NYPL Wikidata Working Group
 
