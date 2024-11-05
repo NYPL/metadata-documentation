@@ -74,7 +74,7 @@ For MSU Staff
         1. Add the PO number _without_ the "PO" at the beginning
         1. Add the PO number at the item level, rather than at the container or collection level, to be clear about what material is tied to the PO
         1. In some cases, the PO will be for part of an object and [Digital Imaging Services](/metadata-documentation/resources/glossary/#digital-imaging-services) (DIS) will photograph an entire object (e.g., a single page of a pamphlet, a page from a book or periodical)
-            1. In these cases, add the PO number to the record _and_ a [**Note**](/metadata-documentation/metadata/element/note/) element with the [**Type**](/metadata-documentation/metadata/element/note/#type) "admin" specifying exactly what part of the item was digitized for the the PO
+            1. In these cases, add the PO number to the record _and_ a [**Note**](/metadata-documentation/metadata/element/note/) element with the [**Type**](/metadata-documentation/metadata/element/note/#type) "admin" specifying exactly what part of the item was digitized for the PO
     1. Item record(s) should remain in **Draft** status in MMS until the material is digitized
         1. Once an item is digitized, a corresponding task will be generated in [New Digitization Approvals 🔒](https://app.clickup.com/2305128/v/l/6-180919377-1) and the status can be updated according to the [Approval](/metadata-documentation/workflows/approvals/) workflow
 1. Copy the URL(s) of the newly created item(s) in MMS and paste them back into the ClickUp task
