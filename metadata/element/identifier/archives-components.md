@@ -36,7 +36,7 @@ Identifier that connects archives components from the [Archives Portal](/metadat
         - A link to the **Archives Components ID** can be constructed with a d ([https://archives.nypl.org/the/21738#**d**448691](https://archives.nypl.org/the/21738#d448691)) to allow a user to view the digitized assets within a lightbox
     - In the [Archives Portal Admin Interface](/metadata-documentation/resources/glossary/#archives-portal-admin-interface), the **Archives Components ID** can be found in records with **/components/** in the URL using the following methods:
         - As the numeric slug of the url, e.g., [https://archives.nypl.org/admin/components/**448691**](https://archives.nypl.org/admin/components/448691)
-        - As the value of the the **id** field ([see example](https://archives.nypl.org/admin/components/1418303#:~:text=id,1418303))
+        - As the value of the **id** field ([see example](https://archives.nypl.org/admin/components/1418303#:~:text=id,1418303))
 
 ## Format
 
