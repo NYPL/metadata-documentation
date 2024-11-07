@@ -72,7 +72,7 @@ For MSU Staff
    1. Update the record(s) in MMS following any relevant guidelines in MSU documentation
    1. If appropriate, a [Note](/metadata/element/note/) element with the [Type](/metadata/element/note/#type) "admin" describing any changes you've made
    1. Determine whether the metadata exists in other systems such as a catalog record or finding aid, and if so, request that it be updated
-      1. To request an update to a catalog record, submit a ticket via ServiceNow ([BookOps › Cataloging 🔒](https://nyplprod.service-now.com/nyplsp?id=sc_cat_item&sys_id=37d54594c4504d00f254019b5f40e91f)) with the *Inquiry type*: *Sierra bib record error*
+      1. To request an update to a catalog record, submit a ticket via ServiceNow ([BookOps › Cataloging 🔒](https://nyplprod.service-now.com/nyplsp?id=sc_cat_item&sys_id=37d54594c4504d00f254019b5f40e91f&sysparm_category=2c3832e1139ee740c82e7e276144b022)) with the *Inquiry type*: *Sierra bib record error*
       1. To request an update to a finding aid for a [division served by Archival Processing](https://docs.google.com/document/d/1tiIm0R8P0A_sOH3RUKsPgUKXAThqXT074QeIEokD6uk/edit#heading=h.gh2654hr28xp), complete the [Archival Processing Unit Description Remediation Request](https://docs.google.com/forms/d/e/1FAIpQLSexaz5kCcCdw99U67Z7sVCgemlXpofl9HuegMmGYxcN8zBGCA/viewform) form
       1. To request an update to a finding aid for a division _not_ served by Archival Processing, discuss with the [Manager, Metadata Services](/metadata-documentation/contact/) as the relevant contact can vary by division
    1. If the feedback was submitted by an NYPL staff member and their contact information is included in the task, you may reach out to them to let them know the changes have been made
