@@ -35,13 +35,13 @@ Materials described in the [Dictionary catalog of the Henry W. and Albert A. Ber
   - Structure the item or container record for an individual edition or copy of a book within a container for that author
     - For fully-digitized books:
 ```
-    | -- Collection = [Berg Collection printed books](https://metadata.nypl.org/collection/79490)
+    | -- Collection = Berg Collection printed books
       | -- Container = container for works by author
         | -- Item = book
 ```
     - For partially-digitized books:
 ```
-  | -- Collection = [Berg Collection printed books](https://metadata.nypl.org/collection/79490)
+  | -- Collection = Berg Collection printed books
     | -- Container = container for works by author
       | -- Container = book
         | -- Item = page(s)
