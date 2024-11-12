@@ -53,7 +53,7 @@ Provides guidelines for metadata describing material from the Photography Collec
         | -- Container = series
             | -- Item = photograph
 ```
-- For individual photographs that are not part of a larger collection or series (e.g. [Dancer](https://metadata.nypl.org/items/3371530)), structure a collection record for the primary creator with a child item for each photograph:
+- For individual photographs that are not part of a larger collection or series (e.g. [Woman on the boardwalk, Coney Island, N.Y.](https://metadata.nypl.org/items/4628918)), structure a collection record for the primary creator with a child item for each photograph:
 ```
     | -- Collection = primary creator
         | -- Item = photograph
@@ -119,5 +119,5 @@ Provides guidelines for metadata describing material from the Photography Collec
 ---
 
 ## See Also
-- [Wallach Division: Photography Collection (Internal Documentation) 🔒](https://docs.google.com/document/d/1Kt90vsEINm0jgRXquCOXRpsSWvZM7ASE6ugFs7-ukNo/edit) for the respective [MSU Liason’s 🔒](https://docs.google.com/spreadsheets/d/1P-YDJigon640fTCLP4Ig4-zmzqrX88v5M24ShuxFNVY/edit?gid=0) internal documentation and notes related to the Photography Collection
+- [Wallach Division: Photography Collection (Internal Documentation) 🔒](https://docs.google.com/document/d/1Kt90vsEINm0jgRXquCOXRpsSWvZM7ASE6ugFs7-ukNo/edit) for the respective [MSU Liason's 🔒](https://docs.google.com/spreadsheets/d/1P-YDJigon640fTCLP4Ig4-zmzqrX88v5M24ShuxFNVY/edit?gid=0) internal documentation and notes related to the Photography Collection
 - [Importing TMS Records](/metadata-documentation/workflows/importing/tms/) for the workflow to create records in the Metadata Management System (MMS) by importing metadata from records cataloged in The Museum System (TMS)
