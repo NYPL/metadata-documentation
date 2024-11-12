@@ -28,7 +28,7 @@ Contains internal information for MSU staff members
 
 [metadata-documentation](https://github.com/NYPL/metadata-documentation/)
 {: .fw-500 .text-grey-dk-300 .fs-5 .mt-5 .mb-0}
-Contains the files for our [public documentation site](https://nypl.github.io/metadata-documentation/) that covers our best practices, workflows, resources, etc.
+Contains the files for our [public documentation site](/metadata-documentation/) that covers our best practices, workflows, resources, etc.
 {: .mt-1 .mb-0 }
 
 [metadata-projects 🔒](https://github.com/NYPL/metadata-projects/)
