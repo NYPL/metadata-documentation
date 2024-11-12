@@ -28,7 +28,7 @@ Describes how to create records in the Metadata Management System (MMS) by impor
 {: .warning-title }
 > Known Issue
 >
-> The [Prints & Photographs Online Catalog](https://nypl.github.io/metadata-documentation/resources/glossary/#prints-photographs-online-catalog) was sunset in February 2024. Updated details for locating **TMS ID** values will be added once they are available.
+> The [Prints & Photographs Online Catalog](/metadata-documentation/resources/glossary/#prints-photographs-online-catalog) was sunset in February 2024. Updated details for locating **TMS ID** values will be added once they are available.
 > <small><br>Last checked February 2024</small>
 
 ## Steps
