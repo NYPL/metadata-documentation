@@ -7,7 +7,6 @@ grand_parent: MMS › Metadata
 nav_exclude: true
 ---
 
-<style>code { white-space : pre-wrap !important; word-break: break-word; }</style>
 
 # Berg Collection
 {: .no_toc }
@@ -43,8 +42,8 @@ Materials described in the [Dictionary catalog of the Henry W. and Albert A. Ber
 ```
     - For partially-digitized books:
 ```
-  | -- Collection = Berg Collection printed books
-    | -- Container = container for works by author
+    | -- Collection = Berg Collection printed books
+      | -- Container = container for works by author
       | -- Container = book
         | -- Item = page(s)
 ```
@@ -93,7 +92,7 @@ Materials described in the [Dictionary catalog of the Henry W. and Albert A. Ber
 
 - For collection records that correspond to materials itemized in the [Berg Collection Uncataloged Manuscripts](https://archives.nypl.org/brg/19347) finding aid:
   - Enter [Archives EAD ID](/metadata-documentation/metadata/element/identifier/archives-ead/) based on the corresponding reference item record in the [MMS QA](/metadata-documentation/resources/glossary/#mms-qa) [collection](https://qa-metadata.nypl.org/collection/129034) and set it to inherit
-  - Enter [Archives Components ID](/metadata-documentation/metadata/element/identifier/archives-components/) in the collection record ****based on the corresponding reference item record in the [MMS QA](/metadata-documentation/resources/glossary/#mms-qa) [collection](https://qa-metadata.nypl.org/collection/129034)
+  - Enter [Archives Components ID](/metadata-documentation/metadata/element/identifier/archives-components/) in the collection record based on the corresponding reference item record in the [MMS QA](/metadata-documentation/resources/glossary/#mms-qa) [collection](https://qa-metadata.nypl.org/collection/129034)
 
 ---
 
