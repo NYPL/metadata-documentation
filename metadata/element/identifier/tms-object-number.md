@@ -31,7 +31,7 @@ Local classmark assigned by the Print Collection and Photography Collection of t
 {: .warning-title }
 > Known Issue
 >
-> The [Prints & Photographs Online Catalog](https://nypl.github.io/metadata-documentation/resources/glossary/#prints-photographs-online-catalog) was sunset in February 2024. Updated details for locating **TMS Object Number** values will be added once they are available.
+> The [Prints & Photographs Online Catalog](/metadata-documentation/resources/glossary/#prints-photographs-online-catalog) was sunset in February 2024. Updated details for locating **TMS Object Number** values will be added once they are available.
 > <small><br>Last checked February 2024</small>
 
 ## Format
