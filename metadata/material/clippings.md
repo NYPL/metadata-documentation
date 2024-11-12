@@ -79,7 +79,7 @@ Provides guidelines for metadata specific to [clippings](https://dictionary.arch
   - Add a **Title** element for the aggregation as a whole
     - E.g., [The Billy Rose Theatre Collection clipping file](https://metadata.nypl.org/containers/268759)
 - For an item record where only one clipping is visible:
-  - Transcribe the **Title** from the clipping’s title, headline, byline, or image caption as appropriate to the clipping
+  - Transcribe the **Title** from the clipping's title, headline, byline, or image caption as appropriate to the clipping
 - For an item record with multiple clippings, either:
   - Transcribe each title, headline, byline, or image caption into a single **Title** element separated by `;`
   - Add a separate **Title** element for each clipping containing the respective title, headline, byline, or image caption and check **Primary** for one **Title** element
