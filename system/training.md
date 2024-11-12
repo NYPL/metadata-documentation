@@ -37,6 +37,6 @@ nav_order: 3
 1. Connecting MMS to/from DC
     1. From MMS to DC
     1. [From DC to MMS](/metadata-documentation/dc/linker/)
-1. [MSU Documentation](https://nypl.github.io/metadata-documentation/)
+1. [MSU Documentation](/metadata-documentation/)
     1. [Glossary](/metadata-documentation/resources/glossary/)
 1. Questions?
