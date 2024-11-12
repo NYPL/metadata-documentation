@@ -119,5 +119,5 @@ Provides guidelines for metadata describing material from the Print Collection i
 ---
 
 ## See Also
-- [Wallach Division: Print Collection (Internal Documentation) 🔒](https://docs.google.com/document/d/1HSGFwkRD52qnWlLcmcS-eFvOyb1Jay-kcyZ0PawIAD4/edit) for the respective [MSU Liason’s 🔒](https://docs.google.com/spreadsheets/d/1P-YDJigon640fTCLP4Ig4-zmzqrX88v5M24ShuxFNVY/edit?gid=0) internal documentation and notes related to the Print Collection
+- [Wallach Division: Print Collection (Internal Documentation) 🔒](https://docs.google.com/document/d/1HSGFwkRD52qnWlLcmcS-eFvOyb1Jay-kcyZ0PawIAD4/edit) for the respective [MSU Liason's 🔒](https://docs.google.com/spreadsheets/d/1P-YDJigon640fTCLP4Ig4-zmzqrX88v5M24ShuxFNVY/edit?gid=0) internal documentation and notes related to the Print Collection
 - [Importing TMS Records](/metadata-documentation/workflows/importing/tms/) for the workflow to create records in the Metadata Management System (MMS) by importing metadata from records cataloged in The Museum System (TMS)
