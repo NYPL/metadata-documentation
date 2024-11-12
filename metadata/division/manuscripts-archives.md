@@ -23,7 +23,7 @@ Provides guidelines for metadata describing material from the Manuscripts and Ar
 ## Guidelines
 
 {: .note }
-Materials described by the [Miscellaneous personal name files D-Z](https://archives.nypl.org/mss/2016) finding aid are technically uncataloged but do not require special permission from the Manager, Metadata Services for [metadata to be created](https://nypl.github.io/metadata-documentation/workflows/creating/) in MMS.
+Materials described by the [Miscellaneous personal name files D-Z](https://archives.nypl.org/mss/2016) finding aid are technically uncataloged but do not require special permission from the Manager, Metadata Services for [metadata to be created](/metadata-documentation/workflows/creating/) in MMS.
 
 ---
 
@@ -34,7 +34,7 @@ Materials described by the [Miscellaneous personal name files D-Z](https://archi
 
 - For materials itemized in the [Miscellaneous personal name files D-Z](https://archives.nypl.org/mss/2016) finding aid:
   - Do not import the finding aid into MMS
-  - Create a new collection record in MMS based on the corresponding reference item record in the [collection](https://qa-metadata.nypl.org/collection/129052) that has been imported into [MMS QA](https://nypl.github.io/metadata-documentation/resources/glossary/#mms-qa)
+  - Create a new collection record in MMS based on the corresponding reference item record in the [collection](https://qa-metadata.nypl.org/collection/129052) that has been imported into [MMS QA](/metadata-documentation/resources/glossary/#mms-qa)
   - Ensure metadata elements align with the additional relevant guidelines outlined on this page
 
 ---
@@ -57,8 +57,8 @@ Materials described by the [Miscellaneous personal name files D-Z](https://archi
 {: .d-inline .v-align-middle .text-zeta .ml-2 }
 
 - For collection records that correspond to materials itemized in the [Miscellaneous personal name files D-Z](https://archives.nypl.org/mss/2016) finding aid:
-  - Enter [Archives EAD ID](https://nypl.github.io/metadata-documentation/metadata/element/identifier/archives-ead/) based on the corresponding reference item record in the [MMS QA](https://nypl.github.io/metadata-documentation/resources/glossary/#mms-qa) [collection](https://qa-metadata.nypl.org/collection/129052) and set it to inherit
-  - Enter [Archives Components ID](https://nypl.github.io/metadata-documentation/metadata/element/identifier/archives-components/) in the collection record ****based on the corresponding reference item record in the [MMS QA](https://nypl.github.io/metadata-documentation/resources/glossary/#mms-qa) [collection](https://qa-metadata.nypl.org/collection/129052)
+  - Enter [Archives EAD ID](/metadata-documentation/metadata/element/identifier/archives-ead/) based on the corresponding reference item record in the [MMS QA](/metadata-documentation/resources/glossary/#mms-qa) [collection](https://qa-metadata.nypl.org/collection/129052) and set it to inherit
+  - Enter [Archives Components ID](/metadata-documentation/metadata/element/identifier/archives-components/) in the collection record ****based on the corresponding reference item record in the [MMS QA](/metadata-documentation/resources/glossary/#mms-qa) [collection](https://qa-metadata.nypl.org/collection/129052)
 
 ---
 
