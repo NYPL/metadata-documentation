@@ -69,14 +69,20 @@ For MSU Staff
 These steps follow the [related workflow for Archival Processing staff](#notifying-msu-of-an-updated-finding-aid), which will populate a task in [Metadata Services › New Digitization › Metadata Feedback 🔒](https://app.clickup.com/2305128/v/l/26b38-2943).
 
 1. Open the ClickUp task for the finding aid update
-1. Check whether an XML file has been attached to the ClickUp task that represents a previous version of the finding aid
-   1. If no XML is attached, review details shared by Archival Processing staff to confirm the previous version of the finding aid was not XML-encoded, in which case, skip to the steps to [reimport](#determining-whether-to-reimport-metadata) the finding aid
-   1. If an XML file is attached, download it and proceed with the next steps
-1. [Download](/metadata-documentation/resources/tips-tricks/#view-xml-in-archives-portal) the current version of the XML from the Archives Portal
-1. Compare the two XML files to determine the extent of changes using one of the following tools:
-   1. A browser-based tool such as [XML Compare](https://extendsclass.com/xml-diff.html)
-   1. A Python library such as [xmldiff](https://pypi.org/project/xmldiff/)
-1. Proceed with [determining whether to reimport metadata](#determining-whether-to-reimport-metadata)
+1. Check whether an original XML file has been attached to the ClickUp task that represents a previous version of the finding aid
+   1. If no XML is attached, review details shared by Archival Processing staff to confirm the previous version of the finding aid was not XML-encoded, in which case, skip to the steps to [reimport](/metadata-documentation/workflows/remediation/reimporting/#determining-whether-to-reimport-metadata) the finding aid
+   1. If an original XML file is attached, download it and proceed with the next steps
+1. [Download](/metadata-documentation/resources/tips-tricks/#view-xml-in-archives-portal) the modified version of the XML from the Archives Portal
+1. Reformat both the original and modified XML files:
+   1. First, remove line breaks using the [Line Break Removal Tool](https://www.textfixer.com/tools/remove-line-breaks.php)
+   1. Second, convert the XML as pretty print using the [XML Pretty Print](https://www.samltool.com/prettyprint.php) tool
+1. Load the reformatted original and modified XML files into the [Online Xml Compare Tool](https://www.textcompare.org/xml)
+   1. Click **Choose Original File** to upload the orginal version of the XML file, and click **Choose Modified File** to upload the modified XML file
+   1. Delete all lines containing `<dao>` tags from the modified XML file
+      1. `<dao>` tags are automatically added to the underlying XML when the file is prepared for display on Digital Collections
+   1. Compare the XML to determine the extent of changes
+   1. If the XML files are too large to compare, add a comment to the relevant ClickUp task with the tag `@MSU Archives Portal Contact(s)` to request the original and modified XML file be compared programatically
+1. Proceed with [determining whether to reimport metadata](/metadata-documentation/workflows/remediation/reimporting/#determining-whether-to-reimport-metadata)
 
 ## Steps for Archival Processing Staff
 
