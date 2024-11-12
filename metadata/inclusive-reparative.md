@@ -108,7 +108,7 @@ For MSU Staff
       1. If the source finding aid _will not_ be updated, [add a harmful description note](#adding-a-harmful-description-note) instead
    1. Description was created by Library staff and matches description from the MARC record:
       1. Work with [division staff 🔒](https://docs.google.com/spreadsheets/d/1P-YDJigon640fTCLP4Ig4-zmzqrX88v5M24ShuxFNVY/edit) to update the source MARC record
-         1. If necessary, submit a ticket via ServiceNow ([BookOps › Cataloging 🔒](https://nyplprod.service-now.com/nyplsp?id=sc_cat_item\&sys_id=37d54594c4504d00f254019b5f40e91f)) with the **Inquiry type**: **Sierra bib record error** indicating who in the division is the point person for the request
+         1. If necessary, submit a ticket via ServiceNow ([BookOps › Cataloging 🔒](https://nyplprod.service-now.com/nyplsp?id=sc_cat_item&sys_id=37d54594c4504d00f254019b5f40e91f&sysparm_category=2c3832e1139ee740c82e7e276144b022)) with the **Inquiry type**: **Sierra bib record error** indicating who in the division is the point person for the request
          1. When the source MARC record is updated, [revise the metadata](#revising-harmful-description) in MMS to match
       1. If the source MARC record _will not_ be updated, [add a harmful description note](#adding-a-harmful-description-note) instead
    1. Description was created by Library staff and matches description from a TMS record:

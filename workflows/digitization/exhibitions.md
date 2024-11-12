@@ -98,7 +98,7 @@ For MSU Staff
    1. Add the exhibition identifier to each item in an [Identifier](/metadata-documentation/metadata/element/identifier/po/) element using [NYPL Exhibition ID](/metadata-documentation/metadata/element/identifier/nypl-exhibition/) as the type
       1. Add the exhibition identifier at the item level, rather than at the container or collection level, to be clear about what material is tied to the exhibition
       1. In some cases, the exhibition identifier will be for part of an object and [Digital Imaging Services](/metadata-documentation/resources/glossary/#digital-imaging-services) (DIS) will photograph an entire object (e.g., a single page of a pamphlet, a page from a book or periodical)
-         1. In these cases, add the exhibition identifier to the record and a [Note](/metadata-documentation/metadata/element/note/) element with the [Type](/metadata-documentation/metadata/element/note/#type) "admin" specifying exactly what part of the item was digitized for the the exhibition
+         1. In these cases, add the exhibition identifier to the record and a [Note](/metadata-documentation/metadata/element/note/) element with the [Type](/metadata-documentation/metadata/element/note/#type) "admin" specifying exactly what part of the item was digitized for the exhibition
    1. Item record(s) should remain in Draft status in MMS until the material is digitized
       1. Once an item is digitized, a corresponding task will be generated in [New Digitization Approvals 🔒](https://app.clickup.com/2305128/v/l/6-180919377-1) and the status can be updated according to the [Approval](/metadata-documentation/workflows/approvals/) workflow
 1. Create or update [work order(s)](/metadata-documentation/workflows/digitization/wos/) in MMS

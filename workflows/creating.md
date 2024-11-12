@@ -55,7 +55,7 @@ See [MMS › Metadata › By Record Type](/metadata-documentation/metadata/recor
 ### Creating Collections
 1. Review the [overview](#overview) to confirm it is appropriate to create a new collection record
 1. Navigate to the **Create Collection** form in MMS
-   1. Via the the menu bar of MMS, navigate to **Collections** › **New**
+   1. Via the menu bar of MMS, navigate to **Collections** › **New**
    1. Via the **Collections** page, click the **Create Collection** button at the top of the page
 1. Complete the **Create Collection** form
    1. Add [Title](/metadata-documentation/metadata/element/title/) (required)
@@ -68,7 +68,7 @@ See [MMS › Metadata › By Record Type](/metadata-documentation/metadata/recor
 #### Creating Containers in Collections
 1. Review the [overview](#overview) to confirm it is appropriate to create a new container record
 1. Navigate to the **Overview** tab of the collection where the container should be located in MMS
-1. Click **Add Containers** below the overview and above the the item section
+1. Click **Add Containers** below the overview and above the item section
 1. Complete the **Create Container** form
    1. Add [Title](/metadata-documentation/metadata/element/title/) (required)
    1. Additional [elements](/metadata-documentation/metadata/element/) may be added as appropriate to align the container record with any relevant [material](/metadata-documentation/metadata/material/)- or [division](/metadata-documentation/metadata/division/)-specific guidelines and ensure all items within it meet the [minimum metadata requirements](/metadata-documentation/metadata/guidelines/#minimum-metadata-requirements)
@@ -77,7 +77,7 @@ See [MMS › Metadata › By Record Type](/metadata-documentation/metadata/recor
 #### Creating Containers in Containers
 1. Review the [overview](#overview) to confirm it is appropriate to create a new container record
 1. Navigate to the **Overview** tab of the container where the container should be located in MMS
-1. Click **Add Sub-Containers** below the overview and above the the item section
+1. Click **Add Sub-Containers** below the overview and above the item section
 1. Complete the **Create Container** form
    1. Add [Title](/metadata-documentation/metadata/element/title/) (required)
    1. Additional [elements](/metadata-documentation/metadata/element/) may be added as appropriate to align the container record with any relevant [material](/metadata-documentation/metadata/material/)- or [division](/metadata-documentation/metadata/division/)-specific guidelines and ensure all items within it meet the [minimum metadata requirements](/metadata-documentation/metadata/guidelines/#minimum-metadata-requirements)
@@ -88,7 +88,7 @@ See [MMS › Metadata › By Record Type](/metadata-documentation/metadata/recor
 #### Creating Standalone Items
 1. Review the [overview](#overview) to confirm it is appropriate to create a new item record
 1. Navigate to the **Create Item** form in MMS
-   1. Via the the menu bar of MMS, navigate to **Items** › **New**
+   1. Via the menu bar of MMS, navigate to **Items** › **New**
    1. Via the **Items** page, click the **Create Item** button at the top of the page
 1. Complete the **Create item** form
    1. Add all [minimum metadata requirements](/metadata-documentation/metadata/guidelines/#minimum-metadata-requirements)

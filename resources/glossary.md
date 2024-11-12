@@ -252,7 +252,7 @@ Common terms used within the work of the Metadata Services Unit (MSU)
 
 <a name="dam-portfolio"></a>
 <dt>DAM Portfolio</dt>
-<dd>one of four portfolios within the the Library's Digital Product Team; centered on staff tools, digital rights management, and patron access to our unique digital collections including the <a href="#metadata-management-system">Metadata Management System</a>, <a href="#digital-collections">Digital Collections</a>, and the <a href="#archives-portal">Archives Portal</a></dd>
+<dd>one of four portfolios within the Library's Digital Product Team; centered on staff tools, digital rights management, and patron access to our unique digital collections including the <a href="#metadata-management-system">Metadata Management System</a>, <a href="#digital-collections">Digital Collections</a>, and the <a href="#archives-portal">Archives Portal</a></dd>
 
 <a name="describing-archives-a-content-standard"></a>
 <dt>Describing Archives: A Content Standard</dt>
@@ -396,7 +396,7 @@ Common terms used within the work of the Metadata Services Unit (MSU)
 
 <a name="mms-qa"></a>
 <dt>MMS QA</dt>
-<dd>quality assurance version of the the <a href="#metadata-management-system">Metadata Management System</a> that functions as a non-production test environment; accessible at <a href="https://qa-metadata.nypl.org/">qa-metadata.nypl.org</a></dd>
+<dd>quality assurance version of the <a href="#metadata-management-system">Metadata Management System</a> that functions as a non-production test environment; accessible at <a href="https://qa-metadata.nypl.org/">qa-metadata.nypl.org</a></dd>
 
 <a name="permissions-reproduction-services"></a>
 <dt>Permissions and Reproduction Services</dt>

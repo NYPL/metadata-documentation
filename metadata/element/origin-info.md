@@ -28,7 +28,7 @@ Information about the origin of the resource, including place of origin or publi
 
 ## Purpose
 - To allow end users to discover resources by date
-- To provide context regarding the the publication and origination of the material
+- To provide context regarding the publication and origination of the material
 - To be used by [Copyright and Information Policy](/metadata-documentation/resources/glossary/#copyright-and-information-policy) to make copyright determinations and to apply appropriate rights profiles in MMS
 
 ## Guidelines

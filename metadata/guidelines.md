@@ -53,7 +53,7 @@ Provides broader guidance on standards and best practices for metadata in the co
 - Inherited metadata elements can be found in the **Descriptive metadata** tab of a container or item record under **Inherited elements**
     - Elements in gray are inherited from another record
     - Yellow highlighted elements are inheritable from a given record
-    - Click the the **Override** link in the **Inherited elements** section to disinherit a metadata element
+    - Click the **Override** link in the **Inherited elements** section to disinherit a metadata element
         - If **Override** is clicked on a collection or container, the metadata element will also be disinherited from all records contained by that record
 
 ## Minimum Metadata Requirements
