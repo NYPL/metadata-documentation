@@ -36,16 +36,16 @@ Materials described in the [Dictionary catalog of the Henry W. and Albert A. Ber
   - Structure the item or container record for an individual edition or copy of a book within a container for that author
     - For fully-digitized books:
 ```
-    | -- Collection = Berg Collection printed books
-      | -- Container = container for works by author
-        | -- Item = book
+  | -- Collection = Berg Collection printed books
+    | -- Container = container for works by author
+      | -- Item = book
 ```
     - For partially-digitized books:
 ```
-    | -- Collection = Berg Collection printed books
-      | -- Container = container for works by author
-      | -- Container = book
-        | -- Item = page(s)
+  | -- Collection = Berg Collection printed books
+    | -- Container = container for works by author
+    | -- Container = book
+      | -- Item = page(s)
 ```
     - Re-order the author containers within the collection as needed to maintain alphabetical order
   - Alternately, if requested by the division, printed books may located in the [Miscellaneous](https://metadata.nypl.org/containers/510234?section=overview) container as printed books in a container indicating whether the book is about or owned by a particular author
