@@ -103,7 +103,9 @@ Materials described in the [Dictionary catalog of the Henry W. and Albert A. Ber
 
 - For collection records that correspond to materials itemized in the [Berg Collection Uncataloged Manuscripts](https://archives.nypl.org/brg/19347) finding aid:
   - Add a **Note** element with the **Type**: **admin** by copying and pasting the following text:
-    `Collection is component of "Berg Collection Uncataloged Manuscripts" (https://archives.nypl.org/brg/19347#archives_component_id) (YYYY-MM-DD INITIALS)`
+```
+    Collection is component of "Berg Collection Uncataloged Manuscripts" (https://archives.nypl.org/brg/19347#archives_component_id) (YYYY-MM-DD INITIALS)
+```
     - Replace `YYYY-MM-DD` with the date in [ISO 8601](https://www.iso.org/iso-8601-date-and-time-format.html) format
     - Replace `INITIALS` with your initials (see [MMS Database › Quick Reference › User IDs 🔒](https://github.com/NYPL/metadata-tools/blob/master/_mms-database-and-sql-queries/mms-db_quick-reference.md#user-ids))
     - Set the element to inherit
