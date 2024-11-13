@@ -7,6 +7,7 @@ grand_parent: MMS › Metadata
 nav_exclude: true
 ---
 
+<style>code { white-space : pre-wrap !important; word-break: break-word; }</style>
 
 # Berg Collection
 {: .no_toc }
