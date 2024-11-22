@@ -146,6 +146,7 @@ This same technique can be used to retrieve additional identifiers from VIAF by 
 ## See Also
 - [MMS Database and SQL Queries 🔒](https://github.com/NYPL/metadata-tools/tree/master/_mms-database-and-sql-queries) for example SQL queries, navigation information, and quick reference
 - [Wikidata:WikiProject New York Public Library/Queries](https://www.wikidata.org/wiki/Wikidata:WikiProject_New_York_Public_Library/Queries) for reusable SPARQL queries for Wikidata
+- [Regex Resources for Catalogers and Others in the Library](https://ruthtillman.com/post/regex-catalogers/) for an overview of Regular Expressions for a library audience
 - [BenCollins: Spreadsheets](https://benlcollins.com/spreadsheets) for scripts and templates that can be used when working in Google Sheets
     - [VLOOKUP Function in Google Sheets: The Essential Guide](https://benlcollins.com/spreadsheets/vlookup-function/)
     - [Applying Conditional Formatting Across An Entire Row In Google Sheets](https://www.benlcollins.com/spreadsheets/conditional-formatting-entire-row/)
