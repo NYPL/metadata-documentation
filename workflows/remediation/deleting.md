@@ -30,7 +30,7 @@ Deleted records cannot be restored within MMS, so take caution to ensure all cri
 - Item, container, and collection records should only be deleted if there are no associated capture records or assets
   - For items, confirm that the text `No captures yet created for this item.` is present on the **Capture inventory** tab
   - For containers or collections, confirm that the text `Total items in this Container 0` or `Total items in this Collection 0` is present on the **Lightbox view** tab
-  - If capture records exist but display a broken image icon appears instead of thumbnails, see [Capture Records in MMS with No Assets](/metadata-documentation/workflows/troubleshooting/#capture-record-in-mms-with-no-assets)
+  - If capture records exist but display a broken image icon appears instead of thumbnails, see [Capture Records in MMS with Broken Image Icons](/metadata-documentation/workflows/troubleshooting/#capture-records-in-mms-with-broken-image-icons)
 - Before deleting a record, confirm it is no longer needed for reference
   - Ensure all necessary metadata elements from the record have been replicated elsewhere if needed
   - Ensure the rights profile from the record has been replicated elsewhere by a Digitization Coordinator (DC) if needed
@@ -61,7 +61,7 @@ Deleted records cannot be restored within MMS, so take caution to ensure all cri
 
 ### Deleting Captures
 1. Confirm the capture record meets the [criteria for deletion](/metadata-documentation/workflows/remediation/deleting/#overview)
-   1. Captures with identifiers in the **Capture IDs** field should never be deleted, see [Capture Records in MMS with No Assets](/metadata-documentation/workflows/troubleshooting/#capture-record-in-mms-with-no-assets)
+   1. Captures with identifiers in the **Capture IDs** field should never be deleted, see [Capture Records in MMS with Broken Image Icons](/metadata-documentation/workflows/troubleshooting/#capture-records-in-mms-with-broken-image-icons)
 1. Navigate to the **Capture inventory** tab of the item record
 1. To delete a single capture:
    1. In the **Delete column** of the capture's row, click **X**
