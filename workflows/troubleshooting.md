@@ -30,20 +30,15 @@ For Non-MSU Staff
 MSU does not troubleshoot image asset issues, but you can follow the below steps so that the issue can be logged for reference by [Digital Collections Services](/metadata-documentation/resources/glossary/#digital-collections-services).
 
 1. Report issues with image assets via the DC Feedback Form
-
    1. Open the record in Digital Collections with the image asset issue
-
-   2. Click the **Feedback** button in the lower left corner
-
-   3. Explain the issue and click **Send**
+   1. Click the **Feedback** button in the lower left corner
+   1. Explain the issue and click **Send**
 
 For MSU Staff
 {: .d-inline .v-align-middle .label .label-purple .mx-1 }
 
 1. If you receive a new digitization approval where an image asset has an issue (such as image quality, distortion, or orientation), contact the [Manager, Metadata Services](/metadata-documentation/contact/#our-team)
-
-2. If you encounter issues with image assets outside of the new digitization workflow, submit it via the DC Feedback Form, see steps above
-
+1. If you encounter issues with image assets outside of the new digitization workflow, submit it via the DC Feedback Form, see steps above
 
 #### Audio and Moving Image Asset Issues in MMS/DC
 
@@ -81,8 +76,8 @@ For MSU Staff
 1. If you did not create the capture in error, navigate to the **Capture inventory** tab of the capture’s item record
    1. If the item is on a recently created [work order](/metadata-documentation/workflows/digitization/wos/) with a **Draft** __or **Submitted** __status, no action is required as the capture is likely awaiting digitization
    2. If the item is not on a recently created [work order](/metadata-documentation/workflows/digitization/wos/) with a **Draft** or **Submitted** status
-      1. If there are **image\_id** values present in the **Capture IDs** field, follow the instructions on the [Orphan Image Assets Log](https://docs.google.com/spreadsheets/d/1BB85F6kqpaY9yVmShTf0ksZSH51ZxH4oOPMvXR2tldY/edit?gid=2059872853#gid=2059872853)
-      1. If there are no **image\_id** values present in the **Capture IDs** field, follow the instructions on the [Captures With No Assets Log](https://docs.google.com/spreadsheets/d/1IUelXEJAtj9qbp0RmVTQ3KxFO7izTt8viQS9j9j-ZAs/edit?gid=2059872853#gid=2059872853)
+      1. If there are **image_id** values present in the **Capture IDs** field, follow the instructions on the [Orphan Image Assets Log](https://docs.google.com/spreadsheets/d/1BB85F6kqpaY9yVmShTf0ksZSH51ZxH4oOPMvXR2tldY/edit?gid=2059872853#gid=2059872853)
+      1. If there are no **image_id** values present in the **Capture IDs** field, follow the instructions on the [Captures With No Assets Log](https://docs.google.com/spreadsheets/d/1IUelXEJAtj9qbp0RmVTQ3KxFO7izTt8viQS9j9j-ZAs/edit?gid=2059872853#gid=2059872853)
 1. If you created the capture in error, see [Deleting Captures](/metadata-documentation/workflows/remediation/deleting/#deleting-captures)
 
 #### Capture Records in MMS with Inaccurate Captured Status
@@ -193,4 +188,4 @@ For MSU Staff
 ## See Also
 - [Contact Form](/metadata-documentation/contact/form/) for non-MSU staff to report issues to MSU
 - [Metadata Feedback](/metadata-documentation/workflows/remediation/feedback/) for an overview of reviewing feedback relating to metadata MMS and DC for MSU staff
-- [Removal of Captures with Broken Image Assets \[Pilot\] 🔒](https://github.com/NYPL/metadata-projects/tree/main/x_completed/2022-2023_removal-of-caps-w-broken-image-assets_pilot) on GitHub for additional documentation of a workflow related to broken image assets
+- [Removal of Captures with Broken Image Assets [Pilot] 🔒](https://github.com/NYPL/metadata-projects/tree/main/x_completed/2022-2023_removal-of-caps-w-broken-image-assets_pilot) on GitHub for additional documentation of a workflow related to broken image assets
