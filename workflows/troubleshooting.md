@@ -62,9 +62,15 @@ For MSU Staff
 1. Add playback issues with audio and moving image (AMI) to the [AMI Asset Issues Log 🔒](https://docs.google.com/spreadsheets/d/1p_12hPb--qOhAuerch07i9ivuzpZEyFABpHhlXpRJ0w/edit) 
 1. If the issue was brought to your attention via a [Metadata Feedback](/metadata-documentation/workflows/remediation/feedback/) task in ClickUp, update the task status to **Closed**
 
-### Capture Record Issues in MMS For MSU Staff
+### Capture Record Issues in MMS
+{: .d-inline .v-align-middle .mr-2 }
+For MSU Staff
+{: .d-inline .v-align-middle .label .label-purple .mx-1 }
 
-#### Capture Records in MMS with Broken Image Icons For MSU Staff
+#### Capture Records in MMS with Broken Image Icons
+{: .d-inline .v-align-middle .mr-2 }
+For MSU Staff
+{: .d-inline .v-align-middle .label .label-purple .mx-1 }
 
 {: .warning-title }
 > Known Issue
@@ -79,7 +85,10 @@ For MSU Staff
       1. If there are no **image\_id** values present in the **Capture IDs** field, follow the instructions on the [Captures With No Assets Log](https://docs.google.com/spreadsheets/d/1IUelXEJAtj9qbp0RmVTQ3KxFO7izTt8viQS9j9j-ZAs/edit?gid=2059872853#gid=2059872853)
 1. If you created the capture in error, see [Deleting Captures](/metadata-documentation/workflows/remediation/deleting/#deleting-captures)
 
-#### Capture Records in MMS with Inaccurate Captured Status For MSU Staff
+#### Capture Records in MMS with Inaccurate Captured Status
+{: .d-inline .v-align-middle .mr-2 }
+For MSU Staff
+{: .d-inline .v-align-middle .label .label-purple .mx-1 }
 
 {: .warning-title }
 > Known Issue
@@ -100,7 +109,10 @@ For MSU Staff
    1. Items not on active work orders will not display a **On a Work Order, Awaiting Digitization** button
       1. Report instances that meet all the outlined criteria to [Manager, Metadata Services](/metadata-documentation/contact/) who will notify the [DAM Portfolio](/metadata-documentation/resources/glossary/#dam-portfolio) team
 
-#### Duplicate Captures in MMS For MSU Staff
+#### Duplicate Captures in MMS
+{: .d-inline .v-align-middle .mr-2 }
+For MSU Staff
+{: .d-inline .v-align-middle .label .label-purple .mx-1 }
 
 See [Suppressing Records › Requesting Duplicate Captures Be Suppressed](/metadata-documentation/workflows/remediation/suppressing/#requesting-duplicate-captures-be-suppressed)
 
