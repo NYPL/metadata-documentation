@@ -71,10 +71,10 @@ For MSU Staff
 > <small><br>Last checked October 2024</small>
 
 1. If you did not create the capture in error, navigate to the **Capture inventory** tab of the capture’s item record
-   1. If the item is on a recently created [work order](/metadata-documentation/workflows/digitization/wos/) with a **Draft** __or **Submitted** __status, no action is required as the capture is likely awaiting digitization
+   1. If the item is on a recently created [work order](/metadata-documentation/workflows/digitization/wos/) with a **Draft** or **Submitted** status, no action is required as the capture is likely awaiting digitization
    2. If the item is not on a recently created [work order](/metadata-documentation/workflows/digitization/wos/) with a **Draft** or **Submitted** status
-      1. If there are **image_id** values present in the **Capture IDs** field, follow the instructions on the [Orphan Image Assets Log](https://docs.google.com/spreadsheets/d/1BB85F6kqpaY9yVmShTf0ksZSH51ZxH4oOPMvXR2tldY/edit?gid=2059872853#gid=2059872853)
-      1. If there are no **image_id** values present in the **Capture IDs** field, follow the instructions on the [Captures With No Assets Log](https://docs.google.com/spreadsheets/d/1IUelXEJAtj9qbp0RmVTQ3KxFO7izTt8viQS9j9j-ZAs/edit?gid=2059872853#gid=2059872853)
+      1. If there are **image_id** values present in the **Capture IDs** field, follow the instructions on the [Orphan Image Assets Log 🔒](https://docs.google.com/spreadsheets/d/1BB85F6kqpaY9yVmShTf0ksZSH51ZxH4oOPMvXR2tldY/edit?gid=2059872853#gid=2059872853)
+      1. If there are no **image_id** values present in the **Capture IDs** field, follow the instructions on the [Captures With No Assets Log 🔒](https://docs.google.com/spreadsheets/d/1IUelXEJAtj9qbp0RmVTQ3KxFO7izTt8viQS9j9j-ZAs/edit?gid=2059872853#gid=2059872853)
 1. If you created the capture in error, see [Deleting Captures](/metadata-documentation/workflows/remediation/deleting/#deleting-captures)
 
 #### Capture Records in MMS with Inaccurate Captured Status
