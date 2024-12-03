@@ -29,7 +29,7 @@ For best practices and workflows for work orders not covered on this page, conta
    - Work orders are necessary for both internal and vendor digitization
    - Work orders names often correspond to [Public Orders (POs)](/metadata-documentation/workflows/digitization/po/), [Exhibitions](/metadata-documentation/workflows/digitization/exhibitions/), or ongoing digitization projects
    - When the status of a work order is [updated](#updating-the-status-of-a-work-order) to **Completed**, the associated capture records are added to a queue for the system to update their status from **Not Captured Yet** to **Captured**
-     - If you notice that a capture record has an asset visible in the **Thumbnail** column of the **Capture inventory** tab of an item but still has the status **Not Captured Yet,** see [Troubleshooting Issues](/metadata-documentation/workflows/troubleshooting/)
+     - If you notice that a capture record has an asset visible in the **Thumbnail** column of the **Capture inventory** tab of an item but still has the status **Not Captured Yet,** see [Capture Records in MMS with Inaccurate Captured Status](/metadata-documentation/workflows/troubleshooting/#capture-records-in-mms-with-inaccurate-captured-status)
 - Depending on the relevant digitization workflow, work orders may be created by members of:
    - [Digital Imaging Services (DIS)](/metadata-documentation/resources/glossary/#digital-imaging-services)
    - [Copyright and Information Policy (CIP)](/metadata-documentation/resources/glossary/#copyright-information-policy) ("Digitization Coordinators")
