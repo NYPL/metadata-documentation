@@ -69,12 +69,13 @@ For MSU Staff
 {: .d-inline .v-align-middle .mr-2 }
 For MSU Staff
 {: .d-inline .v-align-middle .label .label-purple .mx-1 }
-1. Add a new **Title** element that addresses the issues in the original **Title** element (see [Title element guidelines](/metadata-documentation/metadata/element/title/#guidelines))
-   1. If correcting only a specific portion of the text, enclose the corrected text in brackets, e.g. "[their]" to replace "thier"
-   1. Check **Primary** and **Supplied** for the new **Title** element
+1. Add a new **Title** element that addresses the issues in the original **Title** element based on the relevant [guidelines](/metadata-documentation/metadata/element/title/#guidelines)
+   1. Check **Primary**
+   1. If [supplying](/metadata-documentation/metadata/element/title/#supplied) an entirely new title element, check **Supplied**
+   1. If addressing only a specific portion of the text, enclose the corrected text in brackets, e.g. "[their]" to replace "thier" and do not check **Supplied**
 1. In the original **Title** element:
    1. Uncheck **Primary**
-   1. In the **Part Name** box, enter the source of the original title in square brackets (e.g. "\[caption title]")
+   1. In the **Part Name** box, enter the source of the original title in square brackets (e.g. "`[caption title]`")
 1. If further clarification is needed about the original or updated title, add a [**Note**](/metadata-documentation/metadata/element/note/)
    1. For the note **Type**, select **content**
 
