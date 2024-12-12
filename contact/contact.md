@@ -22,10 +22,7 @@ For issues pertaining to the functionality of the Digital Collections website (l
 
 ## Our Team
 
-**Molly O'Brien**, Manager
-{: .text-grey-dk-300 .fs-5 .mt-5 .mb-0}
-
-**Karly Wildenhaus**, Senior Metadata Specialist
+**Karly Wildenhaus**, Interim Manager, Metadata Services
 {: .text-grey-dk-300 .fs-5 .mt-5 .mb-0}
 
 **Sarah Adams**, Senior Metadata Specialist
