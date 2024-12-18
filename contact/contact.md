@@ -16,9 +16,9 @@ Use our [contact form](/metadata-documentation/contact/form/) to:
 - Request a properly formatted Digital Collections URL
 - Ask a question or make a suggestion related to our documentation
 
-For all other enquiries, email metadata [at] nypl [dot] org
+For issues pertaining to the Metadata Management System or any other enquiries related to metadata at NYPL, email metadata [at] nypl [dot] org
 
-For issues pertaining to the functionality of the Digital Collections website (loading, assets, searching, indexing, etc.), email digitalcollections [at] nypl [dot] org
+For issues pertaining to the Digital Collections website (loading, assets, searching, indexing, etc.), email digitalcollections [at] nypl [dot] org
 
 ## Our Team
 
