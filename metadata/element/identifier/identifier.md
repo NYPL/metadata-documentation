@@ -5,6 +5,7 @@ permalink: /metadata/element/identifier/
 parent: By Element
 grand_parent: MMS › Metadata
 nav_exclude: true
+has_toc: false
 nav_order: 3
 ---
 

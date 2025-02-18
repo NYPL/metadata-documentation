@@ -74,7 +74,7 @@ Consult the respective [element](/metadata-documentation/metadata/element/) guid
 - [Getty Art & Architecture Thesaurus (AAT)](https://www.getty.edu/research/tools/vocabularies/aat/)
 
 ### Vocabularies That Can Be Manually Added
-- [Virtual Internet Authority File (VIAF)](http://viaf.org/)
+- [Virtual International Authority File (VIAF)](http://viaf.org/)
 
 ### Vocabularies Used in MMS Dropdown Fields
 - [ISO 639-2 Language Codes](https://www.loc.gov/standards/iso639-2/php/code_list.php) 

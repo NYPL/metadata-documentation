@@ -10,11 +10,6 @@ nav_order: 1
 Welcome to the documentation site of the Metadata Services Unit (MSU) of the New York Public Library
 {: .fs-6 .fw-300 }
 
-{: .highlight-title }
-> 🚧 Under Construction
->
-> This site is still being developed. [Contact us](/metadata-documentation/contact/) with any questions or feedback.
-
 Located within New York Public Library's [Special Collections Processing](https://sites.google.com/nypl.org/specialcollections/special-collections-processing) department, our unit:
 - Increases access and discovery of library resources
 - Strengthens data interoperability across the library

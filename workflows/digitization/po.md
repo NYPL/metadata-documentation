@@ -51,7 +51,7 @@ Before requesting metadata creation, ensure your ClickUp settings are configured
 1. Click **Create Task**, which will create a task that:
     1. Has **Status** of **Create Metadata**
     1. Is assigned to the relevant MSU liaison based on **Division**
-    1. Is assigned to Digitization Coordinator for POs to notify them that rights may be needed
+    1. Is assigned to Digitization Coordinator based on **Division**
     1. Has the person who requested the metadata added to the ClickUp task as a watcher
 1. The request will appear in [New Digitization Tracking 🔒](https://app.clickup.com/2305128/v/l/6-164664866-1?pr=18903295) in the **Create Metadata** section
 
