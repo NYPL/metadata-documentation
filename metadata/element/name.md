@@ -103,7 +103,7 @@ _Designates the relationship (role) of the entity to the resource described in t
 - Every **Name** element requires a **Role** be selected from the dropdown
 - To include multiple roles for one name, create a new **Name** element for each **Role**
 - Use the most precise known **Role** known (e.g., **Author** or **Addressee** rather than the more general role **Correspondent**)
-- Use **Contributor** for **Name** elements where the **Role** is unknown and/or can not be determined
+- Use **Contributor** for **Name** elements where the **Role** is unknown, can not be determined, and/or a more precise role cannot be found in the dropdown
 - For [finding aid imports](/metadata-documentation/workflows/importing/finding-aids/), ensure that the archives collection creator listed the Archives Portal is present as a **Name** element with the role **Creator**
     - If there are multiple **Name** elements, see the guidelines for the [Primary](/metadata-documentation/metadata/element/name/#primary) attribute
     - See [MARC Code List for Relators](https://www.loc.gov/marc/relators/) and [Personal Names-General Information $e](https://www.loc.gov/marc/bibliographic/bdx00.html)
