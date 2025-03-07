@@ -74,7 +74,7 @@ Consistent usage and formatting of **NYPL Exhibition IDs** allow construction of
 <dt>URL structure</dt>
 <dd><tt>https://digitalcollections.nypl.org/search/index?filters[identifier_idx_local_exhibition]=<span style="background: #ffccff; border: 1px solid #5c5962;">exhibition number</span></tt></dd>
 <dt>URL example</dt>
-<dd><a href="https://digitalcollections.nypl.org/search/index?filters[identifier_idx_local_exhibition]=TL%2020.01"><tt>https://digitalcollections.nypl.org/search/index?filters[identifier][]=<span style="background: #ffccff; border: 1px solid #5c5962;">TL+20.01</span></tt></a></dd>
+<dd><a href="https://digitalcollections.nypl.org/search/index?filters[identifier_idx_local_exhibition]=TL%2020.01"><tt>https://digitalcollections.nypl.org/search/index?filters[identifier_idx_local_exhibition]=<span style="background: #ffccff; border: 1px solid #5c5962;">TL+20.01</span></tt></a></dd>
 </dl>
 
 ## Inheritance
