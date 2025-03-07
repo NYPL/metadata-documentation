@@ -43,7 +43,17 @@ Identifier of the Photo Order (also known as a [Public Order](/metadata-document
 <dt>Preferred structure</dt>
 <dd><tt><span style="background: #ffccff; border: 1px solid #5c5962;">unique numeric identifier</span></tt></dd>
 <dt>Example</dt>
-<dd><a href="https://metadata.nypl.org/items/6269140?section=desc_md#:~:text=Photo%20Order%3A-,64824,-Location"><tt><span style="background: #ffccff; border: 1px solid #5c5962;">64824</span></tt></a></dd>
+<dd><a href="https://metadata.nypl.org/items/6269140?section=desc_md#:~:text=Photo%20Order%3A-,64824,-Location"><tt><span style="background: #ffccff; border: 1px solid #5c5962;">66120</span></tt></a></dd>
+</dl>
+
+### URL Format to Search Digital Collections
+
+Consistent usage and formatting of **Photo Order** values allow construction of a URL that searches Digital Collections for any publicly accessible items related to that digitization request:
+<dl>
+<dt>URL structure</dt>
+<dd><tt>https://digitalcollections.nypl.org/search/index?filters[identifier_idx_local_photo_order]=<span style="background: #ffccff; border: 1px solid #5c5962;">unique numeric identifier</span></tt></dd>
+<dt>URL example</dt>
+<dd><a href="https://digitalcollections.nypl.org/search/index?filters[identifier_idx_local_photo_order]=66120"><tt>https://digitalcollections.nypl.org/search/index?filters[identifier_idx_local_photo_order]=<span style="background: #ffccff; border: 1px solid #5c5962;">66120</span></tt></a></dd>
 </dl>
 
 ## Inheritance
