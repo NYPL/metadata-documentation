@@ -105,7 +105,7 @@ Last updated November 2024
 
 | Dates | beginning June 2023 |
 | MSU Members | Emma C., Karly W., Sarah A.
-| Collaborators | Imani G. (Audio and Moving Image Description), Bob K. (Music Division), David L. (Photography Collection), Samie K. (Audio and Moving Image Description), Stacey F. (Archival Processing), Gina M. (Copyright and Information Policy), Daniel A. (Special Projects Team) |
+| Collaborators | Imani G. (Audio and Moving Image Description), Bob K. (Music Division), David L. (Photography Collection), Samie K. (Audio and Moving Image Description), Gina M. (Copyright and Information Policy), Daniel A. (Special Projects Team) |
 | Related Links | [WikiProject](https://www.wikidata.org/wiki/Wikidata:WikiProject_New_York_Public_Library){: .btn } [Google Group 🔒](https://groups.google.com/a/nypl.org/g/wikidata){: .btn } [Slack 🔒](https://nyplpscp.slack.com/archives/C05C3EMCBL7){: .btn } |
 
 #### Overview
