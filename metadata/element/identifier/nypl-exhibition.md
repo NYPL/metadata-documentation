@@ -62,25 +62,19 @@ Ensure spacing and periods match below example, i.e. a space after the exhibitio
 
 <dl>
 <dt>Preferred structure</dt>
-<dd><tt><span style="background: #ffccff; border: 1px solid #5c5962;">exhibition number</span>.<span style="background: #ccffff; border: 1px solid #5c5962;">exhibition number</span></tt></dd>
+<dd><tt><span style="background: #ffccff; border: 1px solid #5c5962;">exhibition number</span>.<span style="background: #ccffff; border: 1px solid #5c5962;">item number</span></tt></dd>
 <dt>Example</dt>
 <dd><a href="https://metadata.nypl.org/items/5955168?section=desc_md#:~:text=NYPL%20Exhibition%20ID%3A-,TL%2020.01.FORT09,-Location"><tt><span style="background: #ffccff; border: 1px solid #5c5962;">TL 20.01</span>.<span style="background: #ccffff; border: 1px solid #5c5962;">FORT09</span></tt></a><br><a href="https://metadata.nypl.org/items/6320535?section=desc_md#:~:text=NYPL%20Exhibition%20ID%3A-,LPA%2023.501.246,-Location"><tt><span style="background: #ffccff; border: 1px solid #5c5962;">LPA 23.501</span>.<span style="background: #ccffff; border: 1px solid #5c5962;">246</span></tt></a><br><a href="https://metadata.nypl.org/items/5234639?section=desc_md#:~:text=NYPL%20Exhibition%20ID%3A-,SC%2017.701.015,-Identifier"><tt><span style="background: #ffccff; border: 1px solid #5c5962;">SC 17.701</span>.<span style="background: #ccffff; border: 1px solid #5c5962;">015</span></tt></a></dd>
 </dl>
 
 ### URL Format to Search Digital Collections
 
-{: .warning-title }
-> Known Issue
->
-> Constructing a URL to search Digital Collections by an **NYPL Exhibition ID** is not currently working.
-> <small><br>Last checked October 2024</small>
-
 Consistent usage and formatting of **NYPL Exhibition IDs** allow construction of a URL that searches Digital Collections for any publicly accessible items related to that exhibition:
 <dl>
 <dt>URL structure</dt>
-<dd><tt>https://digitalcollections.nypl.org/search/index?filters[identifier][]=<span style="background: #ffccff; border: 1px solid #5c5962;">exhibition number</span>*</tt></dd>
+<dd><tt>https://digitalcollections.nypl.org/search/index?filters[identifier_idx_local_exhibition]=<span style="background: #ffccff; border: 1px solid #5c5962;">exhibition number</span></tt></dd>
 <dt>URL example</dt>
-<dd><a href="https://digitalcollections.nypl.org/search/index?filters[identifier][]=TL+20.01*"><tt>https://digitalcollections.nypl.org/search/index?filters[identifier][]=<span style="background: #ffccff; border: 1px solid #5c5962;">TL+20.01</span>*</tt></a></dd>
+<dd><a href="https://digitalcollections.nypl.org/search/index?filters[identifier_idx_local_exhibition]=TL%2020.01"><tt>https://digitalcollections.nypl.org/search/index?filters[identifier_idx_local_exhibition]=<span style="background: #ffccff; border: 1px solid #5c5962;">TL+20.01</span></tt></a></dd>
 </dl>
 
 ## Inheritance
@@ -89,4 +83,4 @@ Consistent usage and formatting of **NYPL Exhibition IDs** allow construction of
 ## See Also
 - [MMS › Workflows › Digitization › Exhibitions](/metadata-documentation/workflows/digitization/exhibitions/) for an overview of the workflow of digitizing materials for NYPL exhibitions
 - [ClickUp › Metadata Services › New Digitization › New Digitization Tracking 🔒](https://app.clickup.com/2305128/v/l/6-164664866-1) for ClickUp tasks that correlate to digitization of materials for NYPL exhibitions currently underway
-- [Exhibitions Master List 🔒](https://docs.google.com/spreadsheets/d/11-bgNRs2iO6HLG8OQv7quP8KUHCUNxJgC3nIapA0Do0/edit) for a list of all exhibition identifiers
+- [Exhibitions Master List 🔒](https://docs.google.com/spreadsheets/d/11-bgNRs2iO6HLG8OQv7quP8KUHCUNxJgC3nIapA0Do0/edit) for a list of all exhibition numbers
