@@ -28,11 +28,11 @@ nav_order: 3
     1. Basic search filtering
 1. Advanced search
 1. [Anatomy of MMS records](/metadata-documentation/metadata/record-type/)
-    1. [Data model](/metadata/guidelines/)
-    1. [Bnumber](/metadata/element/identifier/bnumber/) search
-    1. [Items](/metadata/record-type/#items)
-    1. [Containers](/metadata/record-type/#containers)
-    1. [Collections](/metadata/record-type/#collections)
+    1. [Data model](/metadata-documentation/guidelines/)
+    1. [Bnumber](/metadata-documentation/element/identifier/bnumber/) search
+    1. [Items](/metadata-documentation/record-type/#items)
+    1. [Containers](/metadata-documentation/record-type/#containers)
+    1. [Collections](/metadata-documentation/record-type/#collections)
 1. [Criteria for appearance](/metadata-documentation/dc/criteria/)
 1. Connecting MMS to/from DC
     1. From MMS to DC
