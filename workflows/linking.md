@@ -87,6 +87,13 @@ If a link to or from Digital Collections is absent or broken, please let us know
 </dl>
 
 ### Archives Portal → Digital Collections
+
+{: .warning-title }
+> Known Issue
+>
+> The automated display of digitized assets in Archives Portal display is currently not working as expected. The issue has been shared with Digital for further investigation.
+> <small><br>Last checked February 2025</small>
+
 - Digitized assets for records that are [available globally](/metadata-documentation/dc/criteria/) in Digital Collections are displayed in the Archives Portal
     - For EAD-encoded finding aids, an icon and clickable link will be present to the left of the associated finding aid component ([example](https://archives.nypl.org/mss/3306#detailed))
         - This connection is made via the [Archives EAD ID](/metadata-documentation/metadata/element/identifier/archives-ead/)
