@@ -39,15 +39,21 @@ For PRS Staff
 Before requesting metadata creation, ensure your ClickUp settings are configured to assign you as a watcher to tasks you create in [your notification settings 🔒](https://app.clickup.com/2305128/settings/notifications). Under **Watcher settings: When do you want to be added as a watcher on a task?**, check that **When I create a task or subtask** is selected.
 
 1. Navigate to [Metadata Services › New Digitization › New Digitization Tracking 🔒](https://app.clickup.com/2305128/v/l/6-164664866-1?pr=18903295) in ClickUp
-1. From the upper right corner of the list, click **Add Task**
-1. Click the **🪄 Templates** button (bottom left of the add task prompt), then click **Use Template**
-1. Search for **PO Metadata Creation**, hover over the template, and click **Quick Use**
-    1. After using the **PO Metadata Creation** template for the first time, it will appear when clicking the **🪄 Templates** button under **Recent Templates**
+1. Set the **PO Metadata Creation** template as the default template if you have not done so already
+    1. In the upper right corner of the list, click the **▼** on the right side of the **Add Task** button
+    1. Click **Pin a Template**
+    1. Click the **▼** on the right side of the **Add Task** button again
+    1. Click the wand icon next to **PO Metadata Creation**
+    1. Click **Set as Default Task Template**
+1. In the upper right corner of the list, click the **Add Task** button
+    1. Ensure the **PO Metadata Creation** template populates, if not, return to the previous step to set it as the default template
 1. Replace the task name with the PO number, e.g. `PO1234`
 1. Populate template in the task description with any relevant information
     1. Ensure you provide links to **Source Record(s)**, such as a link to the corresponding finding aid or catalog record
     1. If requesting metadata creation for uncataloged material, add a comment on the ClickUp task once it is created and tag the [Manager, Metadata Services](/metadata-documentation/contact/), with an @ symbol
+1. Click the **Show custom fields** button at the bottom of the template
 1. Add the **Division** in the custom fields
+    1. **Research Library** and **DC (only if Rights Needed)** will autopopulate after the task is created
 1. Click **Create Task**, which will create a task that:
     1. Has **Status** of **Create Metadata**
     1. Is assigned to the relevant MSU liaison based on **Division**
