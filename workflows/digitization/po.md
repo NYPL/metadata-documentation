@@ -35,9 +35,6 @@ Provides an overview of the workflow for Public Orders (POs), particularly in re
 For PRS Staff
 {: .d-inline .v-align-middle .label .label-purple .mx-1 }
 
-{: .note }
-Before requesting metadata creation, ensure your ClickUp settings are configured to assign you as a watcher to tasks you create in [your notification settings 🔒](https://app.clickup.com/2305128/settings/notifications). Under **Watcher settings: When do you want to be added as a watcher on a task?**, check that **When I create a task or subtask** is selected.
-
 1. Navigate to [Metadata Services › New Digitization › New Digitization Tracking 🔒](https://app.clickup.com/2305128/v/l/6-164664866-1?pr=18903295) in ClickUp
 1. Set the **PO Metadata Creation** template as the default template if you have not done so already
     1. In the upper right corner of the list, click the **▼** on the right side of the **Add Task** button
