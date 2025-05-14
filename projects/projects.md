@@ -129,7 +129,7 @@ Last updated September 2023
 #### Overview
 {: .no_toc }
 
-- The [Manager, Metadata Services](/metadata-documentation/contact/#our-team), is a member of the [Collections Access Working Group](https://lair.nypl.org/-/departments/internal-affairs/human-resources/diversity-equity-inclusion-access-at-nypl/deia-in-collections#:~:text=assess%20new%20acquisitions.-,Collections%20Access,-Chairs%3A%20Barrye%20Brown), which evolved out of the DEIA in Collections working group initiated in 2021
+- The [Interim Manager, Metadata Services](/metadata-documentation/contact/#our-team), is a member of the [Collections Access Working Group](https://lair.nypl.org/-/departments/internal-affairs/human-resources/diversity-equity-inclusion-access-at-nypl/deia-in-collections#:~:text=assess%20new%20acquisitions.-,Collections%20Access,-Chairs%3A%20Barrye%20Brown), which evolved out of the DEIA in Collections working group initiated in 2021
 - The group is working to incorporate the principles of DEIA collecting into the ways our holdings are digitized and deployed
 - Building on the work of projects like Change the Subject, staff will interrogate the history and legacy of descriptive practices and recommend changes for the future, while also reviewing our ongoing digitization efforts that focus on DEIA work and how we promote the collections we have described and digitized through reference resources and outreach like LibGuides and blogs
 

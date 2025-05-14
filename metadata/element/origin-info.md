@@ -93,7 +93,7 @@ _The date that the resource was published, released, or issued_ <a href="https:/
       - Summer: record month range 01–03
       - Fall: record month range 04–06
     - Add a [Note](/metadata-documentation/metadata/element/note/) element with the [Type](/metadata-documentation/metadata/element/note/#type) "date" with a prefix for context that specifies the original calendar type, date, and date type, e.g. "Date issued: Summer 1968"
-  - If you believe there to be a reason to record a date as **Text (for non-Gregorian calendar dates)**, discuss with the [Manager, Metadata Services](/metadata-documentation/contact/), before proceeding further
+  - If you believe there to be a reason to record a date as **Text (for non-Gregorian calendar dates)**, discuss with the [Interim Manager, Metadata Services](/metadata-documentation/contact/), before proceeding further
 - For reprints, add the date of the reprint in the **Date issued field**, not the date of the original item's creation or issuance
   - You may put the original print date in a [**Note**](/metadata-documentation/metadata/element/note/) element with the [**Type**](/metadata-documentation/metadata/element/note/#type) "date" with a prefix for context, e.g. "Original: 1920"
 

@@ -59,7 +59,7 @@ For MSU Staff
         1. Click the **Update** button
 1. If additional input is needed before approving any records, toggle the ClickUp task **Status** to **On Hold** and describe what you are waiting for in a comment
     1. If your question is for the division, email the **Primary division contact** listed for that division in the [Metadata Liaisons and Contacts 🔒](https://docs.google.com/spreadsheets/d/1P-YDJigon640fTCLP4Ig4-zmzqrX88v5M24ShuxFNVY/edit)
-    1. If your question is for Digital Imaging Services (DIS) staff, tag the [Manager, Metadata Services](/metadata-documentation/contact/), in a comment on the ClickUp task
+    1. If your question is for Digital Imaging Services (DIS) staff, tag the [Interim Manager, Metadata Services](/metadata-documentation/contact/), in a comment on the ClickUp task
 1. Once all records have been approved, review whether all item records have rights metadata assigned by reviewing the **Rights** section found in the **Overview** tab of the MMS record(s):
    1. If rights metadata has been specified for all items in the scope of the approval, toggle the **Rights** field of the ClickUp task to **Rights Completed** and proceed with closing the task
       1. Rights metadata can either be set at the item-level or inherited from above, both meet the requirement and can be considered completed

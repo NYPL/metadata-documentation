@@ -47,7 +47,7 @@ For PRS Staff
 1. Replace the task name with the PO number, e.g. `PO1234`
 1. Populate template in the task description with any relevant information
     1. Ensure you provide links to **Source Record(s)**, such as a link to the corresponding finding aid or catalog record
-    1. If requesting metadata creation for uncataloged material, add a comment on the ClickUp task once it is created and tag the [Manager, Metadata Services](/metadata-documentation/contact/), with an @ symbol
+    1. If requesting metadata creation for uncataloged material, add a comment on the ClickUp task once it is created and tag the [Interim Manager, Metadata Services](/metadata-documentation/contact/), with an @ symbol
 1. Click the **Show custom fields** button at the bottom of the template
 1. Add the **Division** in the custom fields
     1. **Research Library** and **DC (only if Rights Needed)** will autopopulate after the task is created
@@ -100,7 +100,7 @@ For MSU Staff
         1. Searching DC using the PO number (without the "PO") will return any publicly accessible items that correspond to that PO
 - Open POs can be found in [Metadata Services › New Digitization › New Digitization Tracking 🔒](https://app.clickup.com/2305128/v/l/6-164664866-1) with the status **In Progress**
     - Corresponding [New Digitization Approvals 🔒](https://app.clickup.com/2305128/v/l/6-180919377-1) are connected to the New Digitization Tracking task as they are received by MSU
-    - The [Manager, Metadata Services](/metadata-documentation/contact/), will close the New Digitization Tracking task once all related approvals are complete
+    - The [Interim Manager, Metadata Services](/metadata-documentation/contact/), will close the New Digitization Tracking task once all related approvals are complete
 
 ## See Also
 - [Photo Order](/metadata-documentation/metadata/element/identifier/po/) for more information about the PO identifier
