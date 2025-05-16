@@ -56,7 +56,7 @@ For MSU Staff
    1. Metadata Feedback views use ClickUp's table display so that the **Feedback Text** and other relevant details are easily seen
 1. To open a task, hover over the **Task name** and click the **⤢** button to open the task
 1. Once you have selected a feedback task to work on, toggle its status to **In Progress**
-1. Review the **Feedback Text** and determine next steps based on the following considerations (discuss with the [Manager, Metadata Services](/metadata-documentation/contact/), if you are uncertain how to proceed):
+1. Review the **Feedback Text** and determine next steps based on the following considerations (discuss with the [Interim Manager, Metadata Services](/metadata-documentation/contact/), if you are uncertain how to proceed):
    1. Has the feedback been submitted by a NYPL staff member or by a patron?
       1. If the feedback was submitted by a NYPL Archival Processing staff member to notify MSU of an updated finding aid, see the related workflow on [Reimporting Metadata](/metadata-documentation/workflows/remediation/reimporting/#reviewing-a-finding-aid-update-from-archival-processing)
    1. Can you verify the accuracy of the feedback, either based on the submitter or through your own research?
@@ -74,7 +74,7 @@ For MSU Staff
    1. Determine whether the metadata exists in other systems such as a catalog record or finding aid, and if so, request that it be updated
       1. To request an update to a catalog record, submit a ticket via ServiceNow ([BookOps › Cataloging 🔒](https://nyplprod.service-now.com/nyplsp?id=sc_cat_item&sys_id=37d54594c4504d00f254019b5f40e91f&sysparm_category=2c3832e1139ee740c82e7e276144b022)) with the *Inquiry type*: *Sierra bib record error*
       1. To request an update to a finding aid for a [division served by Archival Processing](https://docs.google.com/document/d/1tiIm0R8P0A_sOH3RUKsPgUKXAThqXT074QeIEokD6uk/edit#heading=h.gh2654hr28xp), complete the [Archival Processing Unit Description Remediation Request](https://docs.google.com/forms/d/e/1FAIpQLSexaz5kCcCdw99U67Z7sVCgemlXpofl9HuegMmGYxcN8zBGCA/viewform) form
-      1. To request an update to a finding aid for a division _not_ served by Archival Processing, discuss with the [Manager, Metadata Services](/metadata-documentation/contact/) as the relevant contact can vary by division
+      1. To request an update to a finding aid for a division _not_ served by Archival Processing, discuss with the [Interim Manager, Metadata Services](/metadata-documentation/contact/) as the relevant contact can vary by division
    1. If the feedback was submitted by an NYPL staff member and their contact information is included in the task, you may reach out to them to let them know the changes have been made
    1. Add a comment to the ClickUp task, noting that changes were implemented to address the feedback
    1. Ensure the following custom fields are populated in the ClickUp task to support reporting:

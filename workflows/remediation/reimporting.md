@@ -41,7 +41,7 @@ For MSU Staff
       1. A better, more specific source record is available
          1. New records may be created that describe material at an item-level that was previously described at the collection- or container-level
    1. Programmatic approaches to remediating the existing record may be preferable in particularly complex cases
-      1. Discuss with the [Manager, Metadata Services](/metadata-documentation/contact/), to determine next steps
+      1. Discuss with the [Interim Manager, Metadata Services](/metadata-documentation/contact/), to determine next steps
 1. For manual updates:
    1. Open the MMS record(s) and make the changes
       1. Ensure new or updated metadata adheres to any relevant [MMS › Metadata](/metadata-documentation/metadata/) guidelines

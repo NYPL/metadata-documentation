@@ -29,7 +29,7 @@ See [General Guidelines › Rights](/metadata-documentation/metadata/guidelines/
     - Prior to digitization as part of a [digitization workflow](/metadata-documentation/workflows/digitization/)
     - Unrelated to new digitization as part of a [remediation workflow](/metadata-documentation/workflows/remediation/)
   - The location of the corresponding ClickUp task will be based on the relevant workflow
-    - If you need to create new ClickUp tasks to request rights metadata, discuss with the [Manager, Metadata Services](/metadata-documentation/contact/)
+    - If you need to create new ClickUp tasks to request rights metadata, discuss with the [Interim Manager, Metadata Services](/metadata-documentation/contact/)
 - Staff outside MSU should [contact CIP 🔒](https://lair.nypl.org/-/departments/library-sites-and-services/research-libraries/copyright-information-policy) directly when rights metadata updates or corrections are needed
 
 ## Steps for MSU Staff
@@ -47,7 +47,7 @@ For MSU Staff
    1. For approvals, toggle **Status** to **On Hold**
 1. Add the Digitization Coordinator (DC) to the **DC (only if Rights Needed)** field of the ClickUp task
    1. The appropriate Digitization Coordinator (DC) is based on the **Project Type** and **Research Library**
-   1. If you are unsure who is the Digitization Coordinator (DC), discuss with the [Manager, Metadata Services](/metadata-documentation/contact/)
+   1. If you are unsure who is the Digitization Coordinator (DC), discuss with the [Interim Manager, Metadata Services](/metadata-documentation/contact/)
 1. Add a comment to the ClickUp task to specify the URLs for the records needing rights and tag the DC with an @ symbol
 1. Once the DC sets the Rights field to **Rights Completed**, a ClickUp bot will add a comment to the task indicating  `✅ rights completed`
    1. For approvals, the task status will automatically be updated to **In Progress**, and the next [approvals steps](/metadata-documentation/workflows/approvals/#steps) can be taken

@@ -23,10 +23,10 @@ Describes the process of suppressing records in the Metadata Management System (
 
 - Suppressing collections, containers, and items should only occur when [addressing harmful content](/metadata-documentation/metadata/inclusive-reparative/#addressing-harmful-content)
   - **Partial content** and **Insufficient metadata** are no longer considered valid reasons for suppressing collections, containers, and items in MMS
-    - If available metadata is not sufficient to meet [Minimum Metadata Requirements](/metadata-documentation/metadata/guidelines/), discuss with the [Manager, Metadata Services](/metadata-documentation/contact/#our-team), whether the record should be left in draft status and/or an [admin note](/metadata-documentation/metadata/element/note/#type) should be added to identify uncataloged material
+    - If available metadata is not sufficient to meet [Minimum Metadata Requirements](/metadata-documentation/metadata/guidelines/), discuss with the [Interim Manager, Metadata Services](/metadata-documentation/contact/#our-team), whether the record should be left in draft status and/or an [admin note](/metadata-documentation/metadata/element/note/#type) should be added to identify uncataloged material
 - Suppressing captures should only occur when [suppressing duplicate captures](#suppressing-duplicate-captures)
   - See [Troubleshooting Issues](/metadata-documentation/workflows/troubleshooting/) if you encounter other types of problems with capture records or associated assets
-- Discuss with the [Manager, Metadata Services](/metadata-documentation/contact/#our-team), before suppressing records for any other reason
+- Discuss with the [Interim Manager, Metadata Services](/metadata-documentation/contact/#our-team), before suppressing records for any other reason
 
 ## Steps for MSU Staff
 

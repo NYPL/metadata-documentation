@@ -26,6 +26,11 @@ Contains internal information for MSU staff members
 - [Technology Overview 🔒](https://github.com/NYPL/metadata-admin/blob/main/technology-overview.md)
 {: .mt-1 .mb-0 }
 
+[metadata-database 🔒](https://github.com/NYPL/metadata-database/)
+{: .fw-500 .text-grey-dk-300 .fs-5 .mt-5 .mb-0}
+Contains documentation and SQL examples for querying the MMS database
+{: .mt-1 .mb-0 }
+
 [metadata-documentation](https://github.com/NYPL/metadata-documentation/)
 {: .fw-500 .text-grey-dk-300 .fs-5 .mt-5 .mb-0}
 Contains the files for our [public documentation site](/metadata-documentation/) that covers our best practices, workflows, resources, etc.
@@ -40,7 +45,9 @@ Contains code components related to our current and past projects and initiative
 {: .fw-500 .text-grey-dk-300 .fs-5 .mt-5 .mb-0}
 Contains code intended for reuse across projects and initiatives including training material for working with MMS data
 {: .mt-1 .mb-0 }
-- [MMS Database and SQL Queries 🔒](https://github.com/NYPL/metadata-tools/tree/master/_mms-database-and-sql-queries)
+
+{: .note }
+The 🔒 icon indicates repos with restricted access. If you would like to request access to restricted repos, contact the [Interim Manager, Metadata Services](/metadata-documentation/contact/).
 
 ## See Also
 - [MSU ClickUp 🔒](https://app.clickup.com/2305128/v/b/26b38-4023)

@@ -23,7 +23,7 @@ Provides guidelines for metadata describing material from the Manuscripts and Ar
 ## Guidelines
 
 {: .note }
-Materials described by the [Miscellaneous personal name files D-Z](https://archives.nypl.org/mss/2016) finding aid are technically uncataloged but do not require special permission from the Manager, Metadata Services for [metadata to be created](/metadata-documentation/workflows/creating/) in MMS.
+Materials described by the [Miscellaneous personal name files D-Z](https://archives.nypl.org/mss/2016) finding aid are technically uncataloged but do not require special permission from the Interim Manager, Metadata Services for [metadata to be created](/metadata-documentation/workflows/creating/) in MMS.
 
 ---
 

@@ -248,7 +248,7 @@ Required if Not Inherited
   - Each date must include a year
   - If the date is not a valid date, the information will import as free text rather than encoded
     - Examples of invalid dates include dates that are in the future (e.g., the year `2026`) and dates that do not exist in the calendar (e.g., `1876-02-31`)
-- If you are working with items that have multiple dates, discuss with the [Manager, Metadata Services](/metadata-documentation/contact/), before proceeding further
+- If you are working with items that have multiple dates, discuss with the [Interim Manager, Metadata Services](/metadata-documentation/contact/), before proceeding further
 
 | Data to Be Imported | Column Header | Usage Note |
 |:------------------- |:------------- |:---------- |

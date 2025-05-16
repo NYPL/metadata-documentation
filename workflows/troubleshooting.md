@@ -37,7 +37,7 @@ MSU does not troubleshoot image asset issues, but you can follow the below steps
 For MSU Staff
 {: .label .label-purple .m-0 }
 
-1. If you receive a new digitization approval where an image asset has an issue (such as image quality, distortion, or orientation), contact the [Manager, Metadata Services](/metadata-documentation/contact/#our-team)
+1. If you receive a new digitization approval where an image asset has an issue (such as image quality, distortion, or orientation), contact the [Interim Manager, Metadata Services](/metadata-documentation/contact/#our-team)
 1. If you encounter issues with image assets outside of the new digitization workflow, submit it via the DC Feedback Form, see steps above
 
 #### Audio and Moving Image Asset Issues in MMS/DC
@@ -97,9 +97,9 @@ For MSU Staff
    1. Items on active work orders will display a **On a Work Order, Awaiting Digitization** button
       1. Click **On a Work Order, Awaiting Digitization** to review the work order to confirm it is active
       1. If it appears to be a recent or active work order, no further action is needed
-      1. If the work order does not appear to be active but has not yet been marked as **Completed**, report the work to [Manager, Metadata Services](/metadata-documentation/contact/) who will notify Digital Imaging Services (DIS)
+      1. If the work order does not appear to be active but has not yet been marked as **Completed**, report the work to [Interim Manager, Metadata Services](/metadata-documentation/contact/) who will notify Digital Imaging Services (DIS)
    1. Items not on active work orders will not display a **On a Work Order, Awaiting Digitization** button
-      1. Report instances that meet all the outlined criteria to [Manager, Metadata Services](/metadata-documentation/contact/) who will notify the [DAM Portfolio](/metadata-documentation/resources/glossary/#dam-portfolio) team
+      1. Report instances that meet all the outlined criteria to [Interim Manager, Metadata Services](/metadata-documentation/contact/) who will notify the [DAM Portfolio](/metadata-documentation/resources/glossary/#dam-portfolio) team
 
 #### Duplicate Captures in MMS
 {: .d-inline .v-align-middle .mr-2 }
