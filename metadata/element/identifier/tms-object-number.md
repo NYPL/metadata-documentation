@@ -30,7 +30,7 @@ Local classmark assigned by the Print Collection and Photography Collection of t
 
 > Known Issue
 >
-> [TMS](/metadata-documentation/resources/glossary/#the-museum-system) and the [Prints & Photographs Online Catalog](/metadata-documentation/resources/glossary/#prints-photographs-online-catalog) were sunset in February 2024. While TMS records can no longer be imported, source data about items in the Print Collection and Photography Collection can manually copied from [Prints and Photographs Discovery](https://ppd.nypl.org/) (PPD) for now. **TMS Object Number**s can be found in PPD as the **object number**.
+> [TMS](/metadata-documentation/resources/glossary/#the-museum-system) and the [Prints & Photographs Online Catalog](/metadata-documentation/resources/glossary/#prints-photographs-online-catalog) were sunset in February 2024. While TMS records can no longer be imported, source data about items in the Print Collection and Photography Collection can manually copied from [Prints and Photographs Discovery](https://ppd.nypl.org/) (PPD) while import into MMS is not supported. **TMS Object Number**s can be found in PPD as the **object number**.
 > <small><br>Last checked May 2025</small>
 
 ## Format
