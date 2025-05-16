@@ -51,5 +51,6 @@ Local classmark assigned by the Print Collection and Photography Collection of t
 - [TMS ID](/metadata-documentation/metadata/element/identifier/tms/), the unique numeric identifier that corresponds to the **TMS Object Number**
 
 ## See Also
+- [Prints and Photographs Discovery](https://ppd.nypl.org/) for source data about items in the Print Collection
 - [The Museum System](/metadata-documentation/resources/glossary/#the-museum-system) for a corresponding definition in our glossary
 - [Importing TMS Records](/metadata-documentation/workflows/importing/tms/) for a step-by-step of the process of importing records from TMS into the Metadata Management System (MMS)
