@@ -52,5 +52,6 @@ Unique numeric identifier assigned to individual objects by the The Museum Syste
 - [TMS Object Number](/metadata-documentation/metadata/element/identifier/tms-object-number/#tms-object-number), the local classmark that corresponds to the **TMS ID**
 
 ## See Also
+- [Prints and Photographs Discovery](https://ppd.nypl.org/) for source data about items in the Print Collection
 - [The Museum System](/metadata-documentation/resources/glossary/#the-museum-system) for a corresponding definition in our glossary
 - [Importing TMS Records](/metadata-documentation/workflows/importing/tms/) for a step-by-step of the process of importing records from TMS into the Metadata Management System (MMS)
