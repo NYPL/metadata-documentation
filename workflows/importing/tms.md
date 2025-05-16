@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ~~Importing TMS Records~~
+title: Importing TMS Records
 permalink: /workflows/importing/tms/
 parent: Importing Metadata
 grand_parent: MMS › Workflows
@@ -8,10 +8,10 @@ nav_order: 4
 nav_exclude: true
 ---
 
-# ~~Importing TMS Records~~
+# Importing TMS Records
 {: .no_toc }
 
-~~Describes how to create records in the Metadata Management System (MMS) by importing metadata from records cataloged in [The Museum System](/metadata-documentation/resources/glossary/#the-museum-system) (TMS)~~
+Describes how to create records in the Metadata Management System (MMS) by importing metadata from records cataloged in [The Museum System](/metadata-documentation/resources/glossary/#the-museum-system) (TMS)
 
 {: .warning-title }
 > Known Issue
