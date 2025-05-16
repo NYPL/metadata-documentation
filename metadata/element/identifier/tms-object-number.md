@@ -28,6 +28,7 @@ Local classmark assigned by the Print Collection and Photography Collection of t
 - ~~The **TMS Object Number** is automatically populated into records when [importing TMS records](/metadata-documentation/workflows/importing/tms/)~~
 - ~~If adding a **TMS Object Number** to a record manually, it can be located in the [Prints & Photographs Online Catalog](https://wallachprintsandphotos.nypl.org/) as the **Object Numbe**r displayed in the record ([see example](https://wallachprintsandphotos.nypl.org/catalog/302742#:~:text=Object%20Number%3A-,99109,-Description%3A))~~
 
+{: .warning-title }
 > Known Issue
 >
 > [TMS](/metadata-documentation/resources/glossary/#the-museum-system) and the [Prints & Photographs Online Catalog](/metadata-documentation/resources/glossary/#prints-photographs-online-catalog) were sunset in February 2024. While TMS records can no longer be imported, source data about items in the Print Collection and Photography Collection can manually copied from [Prints and Photographs Discovery](https://ppd.nypl.org/) (PPD) while import into MMS is not supported. **TMS Object Number**s can be found in PPD as the **object number**.
