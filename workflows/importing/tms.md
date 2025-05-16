@@ -26,10 +26,10 @@ Describes how to create records in the Metadata Management System (MMS) by impor
 {:toc}
 
 ## Overview
-- ~~Records for [Print Collection](/metadata-documentation/division/print/) and [Photography Collection](/metadata-documentation/division/photography/) cataloged in [The Museum System](/metadata-documentation/resources/glossary/#the-museum-system) (TMS) and accessible via the [Prints & Photographs Online Catalog](https://wallachprintsandphotos.nypl.org/) (PPOC) can be imported into MMS using the [TMS ID](/metadata-documentation/metadata/element/identifier/tms/)~~~~
+- ~~Records for [Print Collection](/metadata-documentation/division/print/) and [Photography Collection](/metadata-documentation/division/photography/) cataloged in [The Museum System](/metadata-documentation/resources/glossary/#the-museum-system) (TMS) and accessible via the [Prints & Photographs Online Catalog](https://wallachprintsandphotos.nypl.org/) (PPOC) can be imported into MMS using the [TMS ID](/metadata-documentation/metadata/element/identifier/tms/)~~
 - ~~TMS records always correspond an [item](/metadata-documentation/metadata/record-type/#items) in MMS~~
   - ~~The **Alternate Titles** field in PPOC may indicate the name of the series to which an item belongs, which may correlate with a collection or container in MMS where the item should be located~~
-  -~~ See [Print Collection](/metadata-documentation/division/print/) and [Photography Collection](/metadata-documentation/division/photography/) guidelines to determine what structure is appropriate for an item~~
+  - ~~See [Print Collection](/metadata-documentation/division/print/) and [Photography Collection](/metadata-documentation/division/photography/) guidelines to determine what structure is appropriate for an item~~
 
 ## Steps
 1. ~~Determine the appropriate structure for the TMS record, and if necessary, find or create the necessary collection and/or container record(s)~~
