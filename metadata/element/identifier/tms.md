@@ -22,17 +22,17 @@ Unique numeric identifier assigned to individual objects by the The Museum Syste
 {:toc}
 
 ## Source
-- [The Museum System](/metadata-documentation/resources/glossary/#the-museum-system) (TMS)
+- ~~[The Museum System](/metadata-documentation/resources/glossary/#the-museum-system) (TMS)~~
 
 ## Guidelines
-- The **TMS ID** is automatically populated into records when [importing TMS records](/metadata-documentation/workflows/importing/tms/)
+- ~~The **TMS ID** is automatically populated into records when [importing TMS records](/metadata-documentation/workflows/importing/tms/)~~
 - ~~If adding a **TMS ID** to a record manually, it can be located in the [Prints & Photographs Online Catalog](https://wallachprintsandphotos.nypl.org/) as the numeric slug of the record's URL, e.g., [https://wallachprintsandphotos.nypl.org/catalog/**302742**](https://wallachprintsandphotos.nypl.org/catalog/302742)~~
 
 {: .warning-title }
 > Known Issue
 >
-> The [Prints & Photographs Online Catalog](/metadata-documentation/resources/glossary/#prints-photographs-online-catalog) was sunset in February 2024. Updated details for locating **TMS ID** values will be added once they are available.
-> <small><br>Last checked February 2024</small>
+> [TMS](/metadata-documentation/resources/glossary/#the-museum-system) and the [Prints & Photographs Online Catalog](/metadata-documentation/resources/glossary/#prints-photographs-online-catalog) were sunset in February 2024. While TMS records can no longer be imported, source data about items in the Print Collection and Photography Collection can manually copied from [Prints and Photographs Discovery](https://ppd.nypl.org/) (PPD) for the time being. **TMS ID**s can be found in PPD as the **object id**.
+> <small><br>Last checked May 2025</small>
 
 ## Format
 
