@@ -273,7 +273,7 @@ Common terms used within the work of the Metadata Services Unit (MSU)
 
 <a name="digital-asset-preservation-and-access"></a>
 <dt>Digital Asset Preservation and Access</dt>
-<dd>pod within the Library's Digital Researchers team; focused on systems related to the <a href="#digital-asset-infrastructure-renewal">Digital Asset Infrastructure Renewal</a> project</dd>
+<dd>pod within the Library's Researchers team in Digital; focused on systems related to the <a href="#digital-asset-infrastructure-renewal">Digital Asset Infrastructure Renewal</a> project</dd>
 
 <a name="digital-collections"></a>
 <dt>Digital Collections</dt>
