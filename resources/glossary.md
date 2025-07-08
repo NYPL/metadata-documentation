@@ -328,7 +328,7 @@ Common terms used within the work of the Metadata Services Unit (MSU)
 <dt>International Image Interoperability Framework</dt>
 <dd>set of open standards for delivering high-quality, attributed digital objects online at scale; as of 2022, IIIF is in use for some collections in <a href="#digital-collections">Digital Collections</a> on a pilot basis with the plan to implement it more widely in the future</dd>
 
-<a name="Isilon Cluster E"></a>
+<a name="isilon-cluster-e"></a>
 <dt>Isilon Cluster E</dt>
 <dd>server used to store audio and moving image</dd>
 
