@@ -44,7 +44,7 @@ If a collection, container, or item that does not meet the below criteria is app
 - On the item's **Rights and use** tab, item includes one of the following under **Approved uses**:
     - **Can be used on NYPL website**: available globally
     - **Can be displayed on NYPL premises**: available from any computer connected to the internet at any Research or Branch location of the New York Public Library
-    - **Can be displayed on NYPL premises :: location, LPA-wide**: available from any computer connected to the internet at the Library for the Performing Arts
+    - **Can be displayed on NYPL premises :: [location]**: available from any computer connected to the internet at the location specified
     {: .note }
     (Items can have **Copyright Issues Present** on their **Rights and use** tab and still appear in DC as long as one of the above **Approved uses** are also included)
 - A few days have passed since the above criteria have been met to allow for indexing
