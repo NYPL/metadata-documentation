@@ -63,6 +63,9 @@ Common terms used within the work of the Metadata Services Unit (MSU)
 <dt>DAM</dt>
 <dd>digital asset management</dd>
 
+<dt>DAMS</dt>
+<dd>digital asset management system</dd>
+
 <dt>DAPA</dt>
 <dd><a href="#digital-asset-preservation-and-access">Digital Asset Preservation and Access</a></dd>
 
