@@ -269,7 +269,7 @@ Common terms used within the work of the Metadata Services Unit (MSU)
 
 <a name="digital-asset-infrastructure-renewal"></a>
 <dt>Digital Asset Infrastructure Renewal</dt>
-<dd>a project to transform workflows and tech solutions from preservation to discovery to make digital assets (both born digital and subsequently digitized material) seamlessly and intuitively accessible in a way that is scalable, standardized, cost-efficient, and cyber-secure</dd>
+<dd>project at the Library to transform workflows and tech solutions from preservation to discovery to make digital assets (both born digital and subsequently digitized material) seamlessly and intuitively accessible in a way that is scalable, standardized, cost-efficient, and cyber-secure</dd>
 
 <a name="digital-asset-preservation-and-access"></a>
 <dt>Digital Asset Preservation and Access</dt>
