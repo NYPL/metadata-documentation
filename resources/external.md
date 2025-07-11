@@ -18,6 +18,7 @@ nav_order: 3
 ## NYPL Documentation
 Links to documentation created by other Library divisions, departments, and units that are relevant to the Metadata Services Unit (MSU)
 - [Archival Processing Manual](https://sites.google.com/nypl.org/specialcollections/special-collections-processing/archival-processing/processing-manual)
+- [Audio and Moving Image (AMI) Preservation](https://nypl.github.io/ami-preservation/)
 - [BookOps Cataloging](https://sites.google.com/a/bookops.org/cataloging/)
     - [Frequently Used Resources in Creating NAFs](https://sites.google.com/a/bookops.org/cataloging/home/research-libraries-policies/visual-materials/frequently-used-resources)
     - [Personal Name Constructions, Examples](https://sites.google.com/a/bookops.org/cataloging/naco/rda-personal-names/personal-name-constructions-examples)
@@ -32,9 +33,6 @@ Links to documentation created by other Library divisions, departments, and unit
     - [Digital Archives](https://nypl.github.io/digarch/)
 - [Digital Collections API](https://api.repo.nypl.org/)
 - [ILS Team 🔒](https://sites.google.com/nypl.org/ilsteam/)
-- [Media Preservation](https://nypl.github.io/ami-preservation/)
-    - [Media Preservation Labs](https://nypl.github.io/ami-preservation/pages/amiLabs/ami-labs.html)
-    - [Media Preservation Services](https://nypl.github.io/ami-preservation/pages/mps/mps-about.html)
 - [Preservation and Collections Processing](https://sites.google.com/nypl.org/specialcollections/home) ([Documentation](https://nypl.github.io/pres-docs/))
 - [Research Library Technical Services](https://sites.google.com/a/bookops.org/nypl-rl-tech-services/rl-technical-services)
     - [Classification Schedules](https://sites.google.com/a/bookops.org/nypl-rl-tech-services/rl-technical-services/rl-classification-schedules)
