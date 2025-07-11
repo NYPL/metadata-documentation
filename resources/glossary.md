@@ -493,7 +493,7 @@ Common terms used within the work of the Metadata Services Unit (MSU)
 
 <a name="the-museum-system"></a>
 <dt>The Museum System</dt>
-<dd>collections management system software used by the Miriam and Ira D. Wallach Division of Art, Prints, and Photographs; previously served as the backend for the <a href="#prints-photographs-online-catalog">Prints & Photographs Online Catalog</a></dd>
+<dd>collections management system software formerly used by the Miriam and Ira D. Wallach Division of Art, Prints, and Photographs; previously served as the backend for the <a href="#prints-photographs-online-catalog">Prints & Photographs Online Catalog</a></dd>
 
 <a name="the-repo"></a>
 <dt>The Repo</dt>
