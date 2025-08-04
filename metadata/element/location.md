@@ -48,7 +48,7 @@ _The institution or repository that holds the resource or where it is available_
 #### Guidelines
 {: .no_toc }
 - Select New York Public Library
-    - If the resource is not one held by the New York Public Library, discuss with the [Interim Manager, Metadata Services](/metadata-documentation/contact/) before proceeding further
+    - If the resource is not one held by the New York Public Library, discuss with the [Manager, Metadata Services](/metadata-documentation/contact/) before proceeding further
 
 ---
 
@@ -69,7 +69,7 @@ _The Library division or collection that holds the resource or where it is avail
     - If consulting a MARC record to determine division:
         - Find the location code nested within `<FIXFLD><FIXVALUE>` in the [MARC XML](/metadata-documentation/resources/tips-tricks/#view-marc-in-legacy-catalog) and look up the corresponding label in [Sierra codes/locations 🔒](https://docs.google.com/spreadsheets/d/1E8Dbd8M5OotQfGaKjL5cLKlyex5g8D1KBeZeArJtcuU/edit#gid=1867405302)
         - In cases where the MARC XML indicates multiple locations (`<FIXVALUE>multi</FIXVALUE>`), locate the record in [Sierra](/metadata-documentation/resources/glossary/#sierra) and consult the **Summary** tab to determine which location corresponds to the relevant item's [Call number / Shelf Locator](#call-number--shelf-locator)
-- Do not use the following values unless you have discussed doing so with the [Interim Manager, Metadata Services](/metadata-documentation/contact/)
+- Do not use the following values unless you have discussed doing so with the [Manager, Metadata Services](/metadata-documentation/contact/)
     - Children's Center at 42nd St
     - Comm, Marketing, and Business Dev
     - Dorothy and Lewis B. Cullman Center for Scholars and Writers
@@ -80,7 +80,7 @@ _The Library division or collection that holds the resource or where it is avail
     - Unknown
 - Choose only one NYPL division
     - If a source catalog record for a resource describes materials owned by multiple divisions, this generally warrants separate records for each division
-    - If you believe there to be a reason to create a record in MMS that corresponds to multiple NYPL divisions, discuss with the [Interim Manager, Metadata Services](/metadata-documentation/contact/), before proceeding further
+    - If you believe there to be a reason to create a record in MMS that corresponds to multiple NYPL divisions, discuss with the [Manager, Metadata Services](/metadata-documentation/contact/), before proceeding further
 
 ---
 

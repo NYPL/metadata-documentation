@@ -47,7 +47,7 @@ Contains code intended for reuse across projects and initiatives including train
 {: .mt-1 .mb-0 }
 
 {: .note }
-The 🔒 icon indicates repos with restricted access. If you would like to request access to restricted repos, contact the [Interim Manager, Metadata Services](/metadata-documentation/contact/).
+The 🔒 icon indicates repos with restricted access. If you would like to request access to restricted repos, contact the [Manager, Metadata Services](/metadata-documentation/contact/).
 
 ## See Also
 - [MSU ClickUp 🔒](https://app.clickup.com/2305128/v/b/26b38-4023)

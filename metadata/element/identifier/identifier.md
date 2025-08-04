@@ -39,7 +39,7 @@ A unique standard number or code that distinctively identifies a resource
         - [**MSS Unit ID**](/metadata-documentation/metadata/element/identifier/mss-unit/) for material described in the [Archives Portal](/metadata-documentation/resources/glossary/#archives-portal)
         - [**TMS ID**](/metadata-documentation/metadata/element/identifier/tms/) for material described in [TMS](/metadata-documentation/resources/glossary/#the-museum-system)
     - Required identifiers can either be assigned to the item itself or [inherited](/metadata-documentation/metadata/guidelines/#inheritance) from a collection or container
-    - If you are unable to add one of the above required identifiers, discuss with the [Interim Manager, Metadata Services](/metadata-documentation/contact/), before proceeding further
+    - If you are unable to add one of the above required identifiers, discuss with the [Manager, Metadata Services](/metadata-documentation/contact/), before proceeding further
 - Additional identifier requirements include:
     - Item records related [Public Orders (POs)](/metadata-documentation/workflows/digitization/po/) must have a [**Photo Order**](/metadata-documentation/metadata/element/identifier/po/) identifier
     - Item records related to [exhibitions](/metadata-documentation/workflows/digitization/exhibitions/) must have a [**NYPL Exhibition ID**](/metadata-documentation/metadata/element/identifier/nypl-exhibition/)

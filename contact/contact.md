@@ -22,7 +22,7 @@ For issues pertaining to the Digital Collections (loading, assets, searching, in
 
 ## Our Team
 
-**Karly Wildenhaus**, Interim Manager, Metadata Services
+**Karly Wildenhaus**, Manager, Metadata Services
 {: .text-grey-dk-300 .fs-5 .mt-5 .mb-0}
 
 **Sarah Adams**, Senior Metadata Specialist

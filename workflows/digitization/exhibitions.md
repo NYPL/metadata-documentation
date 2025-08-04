@@ -87,7 +87,7 @@ For MSU Staff
 1. Monitor your [ClickUp notifications 🔒](https://app.clickup.com/2305128/notifications) and [Metadata Services › New Digitization › New Digitization Tracking 🔒](https://app.clickup.com/2305128/v/l/6-164664866-1) for exhibition metadata creation tasks that have been assigned to you
    1. Incoming exhibition metadata requests will have the project type **Exhibition** and the status of **Create Metadata**
 1. Review the finalized exhibition checklist to ensure it meets the requirements for digitization listed in [Requesting Exhibition Metadata Creation](#requesting-exhibition-metadata-creation)
-   1. If any required information is missing, discuss with the [Interim Manager, Metadata Services](/metadata-documentation/contact/)
+   1. If any required information is missing, discuss with the [Manager, Metadata Services](/metadata-documentation/contact/)
    1. In special cases, some items may be digitized that have not met the requirements for digitization, but these items should not be [approved](/metadata-documentation/workflows/approvals/) in MMS until the requirements are met
 1. Confirm what item(s) need to be created in MMS
    1. If a [bnumber](/metadata-documentation/metadata/element/identifier/bnumber/), [MSS Unit ID](/metadata-documentation/metadata/element/identifier/mss-unit/), or [TMS ID](/metadata-documentation/metadata/element/identifier/tms/#tms-id) is provided, search it in MMS to verify whether an earlier record for the item(s) or any parent collections or containers already exist(s)
@@ -112,7 +112,7 @@ For MSU Staff
    1. Toggle the ClickUp task Status to **In Progress**
    1. It is not necessary to [request rights metadata](/metadata-documentation/workflows/rights/#requesting-rights-metadata) during metadata creation as rights can be requested following digitization during the [approval](/metadata-documentation/workflows/approvals/) process
 1. Corresponding [**New Digitization Approvals 🔒**](https://app.clickup.com/2305128/v/l/6-180919377-1) are connected to the **New Digitization Tracking** task as they are received by MSU
-1. The [Interim Manager, Metadata Services](/metadata-documentation/contact/), will close the **New Digitization Tracking** task once all related digitization and approvals are complete
+1. The [Manager, Metadata Services](/metadata-documentation/contact/), will close the **New Digitization Tracking** task once all related digitization and approvals are complete
 
 ## See Also
 - [NYPL Exhibition ID](/metadata-documentation/metadata/element/identifier/nypl-exhibition/) for guidelines on formatting the identifier assigned to material included in exhibitions at the New York Public Library

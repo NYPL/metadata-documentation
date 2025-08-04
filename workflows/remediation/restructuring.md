@@ -224,7 +224,7 @@ Consolidating records (previously known as container collapsing) refers to the p
    1. The book or book-like object is fully digitized
    1. The existing item records within the collection or container do not include unique item-level metadata that is necessary to retain
       1. One indication of non-unique metadata is when the collection or container record and all item records within it share the same [title element](/metadata-documentation/metadata/element/title/)
-   1. The [Interim Manager, Metadata Services](/metadata-documentation/contact/#our-team) has confirmed consolidation is appropriate
+   1. The [Manager, Metadata Services](/metadata-documentation/contact/#our-team) has confirmed consolidation is appropriate
 1. Create a new ClickUp task in [Remediation Projects 🔒](https://app.clickup.com/2305128/v/l/26b38-3903) and populate the custom fields
    1. **Status**:
       1. **Idea** for tasks that could be worked on in the future
@@ -235,7 +235,7 @@ Consolidating records (previously known as container collapsing) refers to the p
 1. Review legacy items to identify any unique metadata elements that would be appropriate to relocate to the target item(s)
    1. When consolidating a small number of legacy item records, review the item records individually in MMS
    1. When consolidating a large number of legacy item records, see the documentation for [Preparing to Consolidate Records 🔒](https://github.com/NYPL/metadata-tools/blob/master/_mms-database-and-sql-queries/mms-db_example-sql-queries.md#preparing-to-consolidate-records) in pgAdmin
-      1. If you need assistance programmatically reviewing the existing metadata of legacy item records, contact [Interim Manager, Metadata Services](/metadata-documentation/contact/#our-team)
+      1. If you need assistance programmatically reviewing the existing metadata of legacy item records, contact [Manager, Metadata Services](/metadata-documentation/contact/#our-team)
 1. Create or identify a target item record(s) where the captures will be relocated
    1. Depending on the source of the description for the book or book-like object [import](/metadata-documentation/workflows/importing/) or [create](/metadata-documentation/workflows/creating/) a target item record
    1. Alternately, one of the legacy item records—such as the first item within the collection or container—can be used as the target item record
@@ -252,7 +252,7 @@ Consolidating records (previously known as container collapsing) refers to the p
 1. [Move captures](/metadata-documentation/workflows/remediation/restructuring/#moving-captures) from each legacy item to the target item(s)
    1. Ensure the original order of captures is preserved
    1. If there are duplicate captures, see [Suppressing Duplicate Captures](/metadata-documentation/workflows/remediation/suppressing/#suppressing-duplicate-captures)
-   1. If captures are suppressed, contact [Interim Manager, Metadata Services](/metadata-documentation/contact/#our-team) to request assistance
+   1. If captures are suppressed, contact [Manager, Metadata Services](/metadata-documentation/contact/#our-team) to request assistance
 1. [Approve](/metadata-documentation/workflows/approvals/#approving-records) the target item record
    1. If rights are needed for the target item record, request they be added following the [rights workflow](/metadata-documentation/workflows/rights/)
       1. Include a link to the legacy record(s) if rights were assigned there

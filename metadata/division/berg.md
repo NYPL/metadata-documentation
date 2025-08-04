@@ -23,7 +23,7 @@ Provides guidelines for metadata describing material from the Berg Collection in
 ## Guidelines
 
 {: .note }
-Materials described in the [Dictionary catalog of the Henry W. and Albert A. Berg Collection of English and American literature](https://catalog.hathitrust.org/Record/102778714) or itemized in the [Berg Collection Uncataloged Manuscripts](https://archives.nypl.org/brg/19347) finding aid are technically uncataloged but do not require special permission from the Interim Manager, Metadata Services for [metadata to be created](/metadata-documentation/workflows/creating/) in MMS.
+Materials described in the [Dictionary catalog of the Henry W. and Albert A. Berg Collection of English and American literature](https://catalog.hathitrust.org/Record/102778714) or itemized in the [Berg Collection Uncataloged Manuscripts](https://archives.nypl.org/brg/19347) finding aid are technically uncataloged but do not require special permission from the Manager, Metadata Services for [metadata to be created](/metadata-documentation/workflows/creating/) in MMS.
 
 ---
 
