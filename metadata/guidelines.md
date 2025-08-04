@@ -67,15 +67,26 @@ MMS item records must include the following seven descriptive metadata elements/
 1. [Language](/metadata-documentation/metadata/element/language/) (if applicable)
 
 ## Rights
+- Rights are added and maintained by [Copyright and Information Policy](/metadata-documentation/resources/glossary/#copyright-information-policy) (CIP)
+  - See [MMS › Workflows › Rights](/metadata-documentation/workflows/rights/) for the process when MSU requests rights metadata be added to records in MMS by CIP
 - Rights metadata determines:
-    - Whether approved records [appear on Digital Collections](/metadata-documentation/dc/criteria/) based on **Approved use**:
-        - **Can be used on NYPL website**: available globally
-        - **Can be displayed on NYPL premises**: available from any computer connected to the internet at any Research or Branch location of the New York Public Library
-        - **Can be displayed on NYPL premises :: location, LPA-wide**: available from any computer connected to the internet at the Library for the Performing Arts
-    - Whether and how assets can be downloaded
+  - Whether approved records [appear on Digital Collections](/metadata-documentation/dc/criteria/) based on **Approved use**:
+    - **Can be used on NYPL website**: available globally
+    - **Can be displayed on NYPL premises**: available from any computer connected to the internet at any Research or Branch location of the New York Public Library
+    - **Can be displayed on NYPL premises :: [location]**: available from any computer connected to the internet at the location specified
+  - Whether and how assets can be downloaded
+- Rights metadata can be applied to MMS records in two ways:
+  - Set at the record level, either through a local profile ([example](https://metadata.nypl.org/items/6549292?section=rights#:~:text=Rights%20specified%20at%20this%20level.)) or through a custom profile ([example](https://metadata.nypl.org/items/3044225?section=rights#:~:text=Rights%20specified%20in%20custom%20profile))
+    - A local profile can only be set for one record, but a custom profile can be set for multiple records 
+    - Any local profile can become a custom profile if saved as a reusable profile by CIP
+  - Inherited from a higher container ([example](https://metadata.nypl.org/items/4642258?section=rights#:~:text=Rights%20information%20specified%20at%20a%20higher%20container%20level)) or collection ([example](https://metadata.nypl.org/items/3012441?section=rights#:~:text=Rights%20information%20specified%20at%20the%20collection%20level))
+    - Local and custom profiles set at the record level are preferenced over inherited rights from a higher container or collection
 - Rights information can be found on the **Overview** and **Rights and use** tabs of a record
-    - The **Rights** section of the **Overview** tab indicates whether rights are set at that record's level or inherited as well as information about when rights were created or updated rights and by whom
-    - The **Rights and use** tab displays what is shown on the **Overview** tab as well as **Approved uses** and a **Rights Research and Copyright Information Summary**
-        - Codes used for the **Copyright status** in the **Rights Research and Copyright Information Summary** are defined on the [Rights Codes Cheat Sheet 🔒](https://confluence.nypl.org/x/BIBy)
-- Rights are added and maintained by [Copyright and Information Policy](/metadata-documentation/resources/glossary/#copyright-information-policy)
-- See [MMS › Workflows › Rights](/metadata-documentation/workflows/rights/) for the process when Metadata Services Unit (MSU) requests rights metadata be added to records in the Metadata Management System (MMS) by Copyright and Information Policy (CIP)
+  - The **Rights** section of the **Overview** tab indicates information about when rights were created or updated rights and by whom
+  - The **Rights Profile** column of container and item lists on the **Overview** tab displays a symbol that indicates if and where rights are assigned
+    - A checkmark (`✓`)  indicates that rights metadata is set at the record level ([example](https://metadata.nypl.org/collection/40346))
+    - An `i` indicates that rights metadata is inherited from a higher container or collection ([example](https://metadata.nypl.org/collection/40232))
+    - Dashes (`--`) indicate that rights have not been assigned at the record level and are not inherited from a higher container or collection ([example](https://metadata.nypl.org/collection/40346))
+  - The **Rights and use** tab displays what is shown on the **Overview** tab as well as **Approved uses** and **Rights Research and Copyright Information Summary**
+    - Codes used for the **Copyright status** in the **Rights Research and Copyright Information Summary** are defined in [metadata-database › Quick Reference › Rights Statements🔒](https://github.com/NYPL/metadata-database/blob/main/quick-reference.md#rights-statements)
+  - MMS users with a **Rights Staff** and/or **Rights Admin** [user role](/metadata-documentation/system/accounts/#user-roles) will see more information on the **Rights and use** tab and throughout MMS than those who do not

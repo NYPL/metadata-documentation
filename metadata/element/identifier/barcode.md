@@ -22,9 +22,14 @@ Unique identifier assigned to physical object
 - Assigned by various Library departments during acquisition, cataloging, processing, or collection management workflows and stored in other systems in the Library such as [Sierra](/metadata-documentation/resources/glossary/#sierra) and [SPEC](/metadata-documentation/resources/glossary/#spec)
 
 ## Guidelines
-- Unless specified by corresponding [material](/metadata-documentation/metadata/material/), [division](/metadata-documentation/metadata/division/), or [workflow](/metadata-documentation/workflows/) documentation, it is not necessary to add a **Barcode** to records
-    - **Barcode**s do not import into MMS when [importing](/metadata-documentation/workflows/importing/) MARC records via finding aid, bnumber, or TMS import
-    - **Barcode**s correspond to a specific physical item, so particular care is required when adding barcodes to records in MMS to ensure accuracy to the particular copy or version that was digitized
+- **Barcode**s do not automatically import into MMS when [importing](/metadata-documentation/workflows/importing/) MARC records via finding aid or bnumber but may be added manually
+- It may be appropriate to manually add a **Barcode** if:
+    - Requested by the division
+    - A barcode helps differentiate which specific physical item was digitized, particularly if there are multiple copies and the [**Call number / Shelf Locator**](/metadata-documentation/metadata/element/location/#call-number--shelf-locator) is not unique
+    - Specified by corresponding [material](/metadata-documentation/metadata/material/), [division](/metadata-documentation/metadata/division/), or [workflow](/metadata-documentation/workflows/) documentation
+- Only add a **Barcode** identifier to the specific record that is 1:1 with the physical material to the barcode has been assigned, e.g.
+    - If a barcoded book is digitized in full, assign the **Barcode** identifier at the item-level record for the entire book
+    - If a barcoded book is digitized partially, assign the **Barcode** identifier at the collection- or container-level record that represents the entire book, where child item records represent part(s) of the book
 
 ## Format
 
