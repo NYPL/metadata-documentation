@@ -34,7 +34,25 @@ An overview of projects initiated by or involving the Metadata Services Unit (MS
 
 ---
 
-Last updated September 2023
+Last updated August 2025
+{: .float-right .fs-2 .text-grey-dk-000 }
+### Digital Asset Preservation and Access
+
+_Also known as Digital Asset Infrastructure Renewal (DAIS)_
+
+| Dates | beginning December 2024 |
+| MSU Members | Karly W.
+| Collaborators | Digital; Collections and Research Services |
+| Related Links | [Digital Asset Infrastructure Renewal (DAIS) Project 🔒](https://lair.nypl.org/-/departments/library-sites-and-services/research-libraries/digital-asset-infrastructure-renewal-dais-project-20242028){: .btn } |
+
+#### Overview
+{: .no_toc }
+
+- The Manager, Metadata Services is a member of the Core Team for a major initiative within the Research Libraries to transform workflows and tech solutions from preservation to discovery to make digital assets (both born digital and subsequently digitized material) seamlessly and intuitively accessible in a way that is scalable, standardized, cost-efficient, and cyber-secure
+
+---
+
+Last updated August 2025
 {: .float-right .fs-2 .text-grey-dk-000 }
 ### Schomburg Art & Artifacts MARC Records
 
@@ -44,9 +62,9 @@ Last updated September 2023
 #### Overview
 {: .no_toc }
 
-- Schomburg Art and Artifacts Division provided SCP and MSU twelve spreadsheets containing description for items within their collection based on formats including:  Artifacts, Buttons, Calendars, Drawings, Medals, Paintings, Portfolios, Postcards, Posters, Prints, Sculptures, and Textiles
+- SCP and MSU are working to create catalog records for objects held by the Schomburg Art and Artifacts Division including Artifacts, Buttons, Calendars, Drawings, Medals, Paintings, Portfolios, Postcards, Posters, Prints, Sculptures, and Textiles
 - MSU is editing, updating, and standardizing the metadata, including locating the Library of Congress Name Authorities for applicable names and corporations and determining mapping between this metadata and MARC fields
-- MSU and BookOps are creating a [Python script 🔒](https://github.com/NYPL/metadata-projects/tree/main/in-progress/2023-02_schomburg_art_artifacts_marc_records) to create MARC records from the updated metadata
+- MSU and BookOps are creating a Constant Data to create MARC records in OCLC Connexion from the updated metadata
 - These MARC records will be loaded into Sierra and imported into MMS where applicable
 
 ---
