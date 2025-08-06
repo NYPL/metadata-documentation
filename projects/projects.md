@@ -42,13 +42,13 @@ _Also known as Digital Asset Infrastructure Renewal (DAIS)_
 
 | Dates | beginning December 2024 |
 | MSU Members | Karly W.
-| Collaborators | Digital; Collections and Research Services |
-| Related Links | [Digital Asset Infrastructure Renewal (DAIS) Project 🔒](https://lair.nypl.org/-/departments/library-sites-and-services/research-libraries/digital-asset-infrastructure-renewal-dais-project-20242028){: .btn } |
+| Collaborators | see [Lair 🔒](https://lair.nypl.org/-/departments/library-sites-and-services/research-libraries/digital-asset-infrastructure-renewal-dais-project-20242028) |
+| Related Links | [Lair 🔒](https://lair.nypl.org/-/departments/library-sites-and-services/research-libraries/digital-asset-infrastructure-renewal-dais-project-20242028){: .btn } |
 
 #### Overview
 {: .no_toc }
 
-- The Manager, Metadata Services is a member of the Core Team for a major initiative within the Research Libraries to transform workflows and tech solutions from preservation to discovery to make digital assets (both born digital and subsequently digitized material) seamlessly and intuitively accessible in a way that is scalable, standardized, cost-efficient, and cyber-secure
+- The [Manager, Metadata Services](/metadata-documentation/contact/#our-team) is a member of the Core Team for a major initiative within the Research Libraries to transform workflows and tech solutions from preservation to discovery to make digital assets (both born digital and subsequently digitized material) seamlessly and intuitively accessible in a way that is scalable, standardized, cost-efficient, and cyber-secure
 
 ---
 
@@ -138,23 +138,6 @@ Last updated November 2024
 
 Last updated September 2023
 {: .float-right .fs-2 .text-grey-dk-000 }
-### DEIA in Collections: Collections Access Working Group
-
-| Dates | beginning February 2023 |
-| Collaborators | see [Lair 🔒](https://lair.nypl.org/-/departments/internal-affairs/human-resources/diversity-equity-inclusion-access-at-nypl/deia-in-collections#:~:text=assess%20new%20acquisitions.-,Collections%20Access,-Chairs%3A%20Barrye%20Brown) |
-| Related Links | [Lair 🔒](https://lair.nypl.org/-/departments/internal-affairs/human-resources/diversity-equity-inclusion-access-at-nypl/deia-in-collections#:~:text=assess%20new%20acquisitions.-,Collections%20Access,-Chairs%3A%20Barrye%20Brown){: .btn } |
-
-#### Overview
-{: .no_toc }
-
-- The [Manager, Metadata Services](/metadata-documentation/contact/#our-team), is a member of the [Collections Access Working Group](https://lair.nypl.org/-/departments/internal-affairs/human-resources/diversity-equity-inclusion-access-at-nypl/deia-in-collections#:~:text=assess%20new%20acquisitions.-,Collections%20Access,-Chairs%3A%20Barrye%20Brown), which evolved out of the DEIA in Collections working group initiated in 2021
-- The group is working to incorporate the principles of DEIA collecting into the ways our holdings are digitized and deployed
-- Building on the work of projects like Change the Subject, staff will interrogate the history and legacy of descriptive practices and recommend changes for the future, while also reviewing our ongoing digitization efforts that focus on DEIA work and how we promote the collections we have described and digitized through reference resources and outreach like LibGuides and blogs
-
----
-
-Last updated September 2023
-{: .float-right .fs-2 .text-grey-dk-000 }
 ### Links to NYPL Digital Collections from Catalog
 
 | Dates | beginning December 2021 (initial refresh occurred between January–September 2022) |
@@ -208,6 +191,26 @@ Last updated September 2023
 - Inclusive and reparative description efforts will continue to evolve based on feedback from Library staff and patrons; please [contact us](/metadata-documentation/contact/form/) if you have ideas, concerns, or questions related to NYPL Digital Collections content and description
 
 ---
+
+## On Hiatus
+
+---
+
+Last updated August 2025
+{: .float-right .fs-2 .text-grey-dk-000 }
+### DEIA in Collections: Collections Access Working Group
+
+| Dates | February 2023–December 2024 |
+| MSU Members | Molly O.
+| Collaborators | see [Lair 🔒](https://lair.nypl.org/-/departments/internal-affairs/human-resources/diversity-equity-inclusion-access-at-nypl/deia-in-collections) |
+| Related Links | [Lair 🔒](https://lair.nypl.org/-/departments/internal-affairs/human-resources/diversity-equity-inclusion-access-at-nypl/deia-in-collections){: .btn } |
+
+#### Overview
+{: .no_toc }
+
+- The former Manager, Metadata Services was a member of the [Collections Access Working Group](https://lair.nypl.org/-/departments/internal-affairs/human-resources/diversity-equity-inclusion-access-at-nypl/deia-in-collections), which evolved out of the DEIA in Collections working group initiated in 2021
+- The group is working to incorporate the principles of DEIA collecting into the ways our holdings are digitized and deployed
+- Building on the work of projects like Change the Subject, staff will interrogate the history and legacy of descriptive practices and recommend changes for the future, while also reviewing our ongoing digitization efforts that focus on DEIA work and how we promote the collections we have described and digitized through reference resources and outreach like LibGuides and blogs
 
 ## Completed
 
