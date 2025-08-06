@@ -51,7 +51,7 @@ Identifier of the Photo Order (also known as a [Public Order](/metadata-document
 {: .warning-title }
 > Known Issue
 >
-> Constructing a URL to search Digital Collections by an **Photo Order** value is not currently working.
+> Constructing a URL to search Digital Collections by an **Photo Order** value is not currently working. The issue has been shared with Digital for further investigation.
 > <small><br>Last checked August 2025</small>
 
 Consistent usage and formatting of **Photo Order** values allow construction of a URL that searches Digital Collections for any publicly accessible items related to that digitization request:
