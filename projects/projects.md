@@ -36,7 +36,7 @@ An overview of projects initiated by or involving the Metadata Services Unit (MS
 
 Last updated August 2025
 {: .float-right .fs-2 .text-grey-dk-000 }
-### Digital Asset Preservation and Access
+### Digital Asset Preservation and Access (DAPA)
 
 _Also known as Digital Asset Infrastructure Renewal (DAIS)_
 
