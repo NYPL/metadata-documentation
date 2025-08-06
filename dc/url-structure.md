@@ -14,7 +14,7 @@ For consistency and reliability when linking to entities in Digital Collections,
 {: .note-title }
 > Major Update
 >
-> The structure of Digital Collections URLs changed with the 2025 redesign. If you are looking for documentation of how URL structure worked prior to summer 2025, view an <a href="https://web.archive.org/web/20250806203243/https://nypl.github.io/metadata-documentation/dc/url-structure/">archived version of this page</a>.
+> The structure of Digital Collections URLs changed with the redesign of Digital Collections in 2025. If you are looking for documentation of how URL structure worked prior to summer 2025, view an <a href="https://web.archive.org/web/20250806203243/https://nypl.github.io/metadata-documentation/dc/url-structure/">archived version of this page</a>.
 > <small><br>August 2025</small>
 
 ## Table of contents
