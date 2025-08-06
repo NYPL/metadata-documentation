@@ -72,7 +72,7 @@ Ensure spacing and periods match below example, i.e. a space after the exhibitio
 {: .warning-title }
 > Known Issue
 >
-> Constructing a URL to search Digital Collections by an **NYPL Exhibition ID** is not currently working.
+> Constructing a URL to search Digital Collections by an **NYPL Exhibition ID** is not currently working. The issue has been shared with Digital for further investigation.
 > <small><br>Last checked August 2025</small>
 
 Consistent usage and formatting of **NYPL Exhibition IDs** allow construction of a URL that searches Digital Collections for any publicly accessible items related to that exhibition:
