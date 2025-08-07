@@ -58,7 +58,7 @@ Common terms used within the work of the Metadata Services Unit (MSU)
 <dd><a href="#describing-archives-a-content-standard">Describing Archives: A Content Standard</a></dd>
 
 <dt>DAIS</dt>
-<dd><a href="#digital-asset-infrastructure-renewal">Digital Asset Infrastructure Renewal</a> (deprecated)</dd>
+<dd><a href="#digital-asset-infrastructure-renewal">Digital Asset Infrastructure Renewal</a> (sometimes pronounced "DAY-is")</dd>
 
 <dt>DAM</dt>
 <dd>digital asset management</dd>
@@ -269,11 +269,11 @@ Common terms used within the work of the Metadata Services Unit (MSU)
 
 <a name="digital-asset-infrastructure-renewal"></a>
 <dt>Digital Asset Infrastructure Renewal</dt>
-<dd>former name of <a href="#digital-asset-preservation-and-access">Digital Asset Preservation and Access</a></dd>
+<dd>project related to <a href="#digital-asset-preservation-and-access">Digital Asset Preservation and Access</a></dd>
 
 <a name="digital-asset-preservation-and-access"></a>
 <dt>Digital Asset Preservation and Access</dt>
-<dd>major initiative within the Research Libraries to transform workflows and tech solutions from preservation to discovery to make digital assets (both born digital and subsequently digitized material) seamlessly and intuitively accessible in a way that is scalable, standardized, cost-efficient, and cyber-secure; also the name of a pod within the Library's Researchers team in Digital focused on this project</dd>
+<dd>major initiative within the Research Libraries; also the name of a pod within the Library's Researchers team in Digital focused on this project</dd>
 
 <a name="digital-collections"></a>
 <dt>Digital Collections</dt>
