@@ -17,29 +17,26 @@ nav_order: 3
 
 ## NYPL Documentation
 Links to documentation created by other Library divisions, departments, and units that are relevant to the Metadata Services Unit (MSU)
-- [Archival Processing Manual](https://sites.google.com/nypl.org/specialcollections/special-collections-processing/archival-processing/processing-manual)
+- [Archival Processing](https://nypl.github.io/pres-docs/archivalProcessing/archivalProcessing.html)
+    - [ArchivesSpace](https://nypl.github.io/pres-docs/aspace/aspace.html)
 - [Audio and Moving Image (AMI) Preservation](https://nypl.github.io/ami-preservation/)
 - [BookOps Cataloging](https://sites.google.com/a/bookops.org/cataloging/)
     - [Frequently Used Resources in Creating NAFs](https://sites.google.com/a/bookops.org/cataloging/home/research-libraries-policies/visual-materials/frequently-used-resources)
     - [Personal Name Constructions, Examples](https://sites.google.com/a/bookops.org/cataloging/naco/rda-personal-names/personal-name-constructions-examples)
 - [Digital Asset Infrastructure Renewal (DAIS) Project🔒](https://lair.nypl.org/-/departments/library-sites-and-services/research-libraries/digital-asset-infrastructure-renewal-dais-project-20242028)
 - [DEIA in Collections Working Groups 🔒](https://lair.nypl.org/-/departments/internal-affairs/human-resources/diversity-equity-inclusion-access-at-nypl/deia-in-collections)
-- [Digital 🔒](https://confluence.nypl.org/display/DIGTL/)
-    - [Digital Asset Management 🔒](https://confluence.nypl.org/x/eoH2AQ)
-    - [Derivatives for Reflective and Transmissive Media Digitization 🔒](https://confluence.nypl.org/x/AYBy)
-    - [Rights Codes Cheat Sheet 🔒](https://confluence.nypl.org/x/BIBy)
 - [Digital Preservation](https://nypl.github.io/digpres/)
     - [Born Digital](https://nypl.github.io/born-digital-docs/)
     - [Digital Archives](https://nypl.github.io/digarch/)
 - [Digital Collections API](https://api.repo.nypl.org/)
 - [ILS Team 🔒](https://sites.google.com/nypl.org/ilsteam/)
 - [Preservation and Collections Processing](https://sites.google.com/nypl.org/specialcollections/home) ([Documentation](https://nypl.github.io/pres-docs/))
+    - [Special Collections Processing](https://sites.google.com/nypl.org/specialcollections/special-collections-processing)
 - [Research Library Technical Services](https://sites.google.com/a/bookops.org/nypl-rl-tech-services/rl-technical-services)
     - [Classification Schedules](https://sites.google.com/a/bookops.org/nypl-rl-tech-services/rl-technical-services/rl-classification-schedules)
         - [Billings Classification](https://sites.google.com/a/bookops.org/nypl-rl-tech-services/rl-technical-services/rl-classification-schedules#h.pv5znc8ax4y)
         - [Fixed Order Classification](https://sites.google.com/a/bookops.org/nypl-rl-tech-services/rl-technical-services/rl-classification-schedules#h.1uziic870duq)
-- [Sierra Manual](https://sites.google.com/a/nypl.org/sierramanual/nypl-sierra-manual)
-- [SPEC (Preservation and Special Collections Processing Dashboard)](https://sites.google.com/nypl.org/specialcollections/spec)
+- [SPEC (Preservation and Special Collections Processing Dashboard)](https://nypl.github.io/pres-docs/spec/spec.html)
 
 ## Aggregator Documentation
 Links to documentation for aggregators that ingest records from NYPL Digital Collections
