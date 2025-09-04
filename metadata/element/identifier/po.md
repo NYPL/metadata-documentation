@@ -32,6 +32,7 @@ Identifier of the Photo Order (also known as a [Public Order](/metadata-document
   - [New Digitization › New Digitization Tracking 🔒](https://app.clickup.com/2305128/v/l/6-164664866-1) in ClickUp
   - [Work Orders 🔒](https://metadata.nypl.org/work_orders) in the Metadata Management System (MMS)
 - When adding a **Photo Order** value to a record in MMS, only include numeric characters as the identifier value, e.g., `64824` rather than `PO64824`
+  - When a **Photo Order** is less than five digits, prepend the number with `0`s, e.g. `00782` rather than `782` or `06549` rather than `6549`
 - Add **Photo Order** values at the item-level
   - A **Photo Order** value may be added to multiple items
   - If an item has more than one **Photo Order** value, add an admin note to indicate which captures are associated with which **Photo Order**
@@ -41,7 +42,7 @@ Identifier of the Photo Order (also known as a [Public Order](/metadata-document
 
 <dl>
 <dt>Preferred structure</dt>
-<dd><tt><span style="background: #ffccff; border: 1px solid #5c5962;">unique numeric identifier</span></tt></dd>
+<dd><tt><span style="background: #ffccff; border: 1px solid #5c5962;">5-digit unique numeric identifier</span></tt></dd>
 <dt>Example</dt>
 <dd><a href="https://metadata.nypl.org/items/6269140?section=desc_md#:~:text=Photo%20Order%3A-,64824,-Location"><tt><span style="background: #ffccff; border: 1px solid #5c5962;">66120</span></tt></a></dd>
 </dl>
