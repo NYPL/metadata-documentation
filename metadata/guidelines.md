@@ -68,7 +68,7 @@ MMS item records must include the following seven descriptive metadata elements/
 
 ## Rights
 - Rights are added and maintained by [Rights Clearance](/metadata-documentation/resources/glossary/#rights-clearance)
-  - See [MMS › Workflows › Rights](/metadata-documentation/workflows/rights/) for the process when MSU requests rights metadata be added to records in MMS by CIP
+  - See [MMS › Workflows › Rights](/metadata-documentation/workflows/rights/) for the process when MSU requests rights metadata be added to records in MMS by Rights Clearance
 - Rights metadata determines:
   - Whether approved records [appear on Digital Collections](/metadata-documentation/dc/criteria/) based on **Approved use**:
     - **Can be used on NYPL website**: available globally
@@ -78,7 +78,7 @@ MMS item records must include the following seven descriptive metadata elements/
 - Rights metadata can be applied to MMS records in two ways:
   - Set at the record level, either through a local profile ([example](https://metadata.nypl.org/items/6549292?section=rights#:~:text=Rights%20specified%20at%20this%20level.)) or through a custom profile ([example](https://metadata.nypl.org/items/3044225?section=rights#:~:text=Rights%20specified%20in%20custom%20profile))
     - A local profile can only be set for one record, but a custom profile can be set for multiple records 
-    - Any local profile can become a custom profile if saved as a reusable profile by CIP
+    - Any local profile can become a custom profile if saved as a reusable profile by Rights Clearance
   - Inherited from a higher container ([example](https://metadata.nypl.org/items/4642258?section=rights#:~:text=Rights%20information%20specified%20at%20a%20higher%20container%20level)) or collection ([example](https://metadata.nypl.org/items/3012441?section=rights#:~:text=Rights%20information%20specified%20at%20the%20collection%20level))
     - Local and custom profiles set at the record level are preferenced over inherited rights from a higher container or collection
 - Rights information can be found on the **Overview** and **Rights and use** tabs of a record
