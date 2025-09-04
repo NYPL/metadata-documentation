@@ -67,7 +67,7 @@ MMS item records must include the following seven descriptive metadata elements/
 1. [Language](/metadata-documentation/metadata/element/language/) (if applicable)
 
 ## Rights
-- Rights are added and maintained by [Copyright and Information Policy](/metadata-documentation/resources/glossary/#copyright-information-policy) (CIP)
+- Rights are added and maintained by [Rights Clearance](/metadata-documentation/resources/glossary/#rights-clearance)
   - See [MMS › Workflows › Rights](/metadata-documentation/workflows/rights/) for the process when MSU requests rights metadata be added to records in MMS by CIP
 - Rights metadata determines:
   - Whether approved records [appear on Digital Collections](/metadata-documentation/dc/criteria/) based on **Approved use**:
