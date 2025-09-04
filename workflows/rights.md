@@ -9,7 +9,7 @@ nav_order: 7
 # Rights
 {: .no_toc }
 
-Describes the process when Metadata Services Unit (MSU) requests rights metadata be added to records in the Metadata Management System (MMS) by [Copyright and Information Policy](/metadata-documentation/resources/glossary/#copyright-information-policy) (CIP)
+Describes the process when Metadata Services Unit (MSU) requests rights metadata be added to records in the Metadata Management System (MMS) by [Rights Clearance](/metadata-documentation/resources/glossary/#rights-clearance)
 
 ## Table of contents
 {: .no_toc .text-delta }
@@ -22,7 +22,7 @@ Describes the process when Metadata Services Unit (MSU) requests rights metadata
 {: .note }
 See [General Guidelines › Rights](/metadata-documentation/metadata/guidelines/#rights) and [Digital Collections › Criteria for Appearance](/metadata-documentation/dc/criteria/) for more information about the role of rights metadata in MMS and how rights codes determine what appears on Digital Collections (DC).
 
-- Rights metadata are added and maintained by [Copyright and Information Policy](/metadata-documentation/resources/glossary/#copyright-information-policy) (CIP)
+- Rights metadata are added and maintained by [Rights Clearance](/metadata-documentation/resources/glossary/#rights-clearance)
 - Metadata Services Unit (MSU) uses ClickUp to request rights metadata be added to records in the Metadata Management System (MMS)
   - MSU typically requests rights metadata if it has not already been assigned during the [Approval](/metadata-documentation/workflows/approvals/) workflow after digitization is complete and records are approved to ensure captures and records are structured correctly and descriptive metadata are accurate
   - Occasionally, MSU may request rights metadata at other points such as:
