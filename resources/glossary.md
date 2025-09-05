@@ -253,11 +253,11 @@ Common terms used within the work of the Metadata Services Unit (MSU)
   
 <a name="copyright-information-policy"></a>
 <dt>Copyright and Information Policy</dt>
-<dd>former name of <a href="#rights-clearance">Rights Clearance</a></dd>
+<dd>department within <a href="#digital-collections-services">Digital Collections Services</a> dedicated to securing rights and permissions surrounding the use of our collection materials including providing guidance with copyright inquiries, conducting rights research, and providing high quality digital files of our holdings to the public</dd>
 
 <a name="copyright-permissions-information-policy"></a>
 <dt>Copyright, Permissions, and Information Policy</dt>
-<dd>former name of <a href="#rights-clearance">Rights Clearance</a></dd>
+<dd>former name of <a href="#copyright-information-policy">Copyright and Information Policy</a></dd>
 
 <a name="dam-portfolio"></a>
 <dt>DAM Portfolio</dt>
@@ -465,7 +465,7 @@ Common terms used within the work of the Metadata Services Unit (MSU)
   
 <a name="rights-clearance"></a>
 <dt>Rights Clearance</dt>
-<dd>department within <a href="#digital-collections-services">Digital Collections Services</a> dedicated to securing rights and permissions surrounding the use of our collection materials including providing guidance with copyright inquiries, conducting rights research, and providing high quality digital files of our holdings to the public</dd>
+<dd>see <a href="#copyright-information-policy">Copyright and Information Policy</a></dd>
 
 <a name="schomburg-center-for-research-in-black-culture"></a>
 <dt>Schomburg Center for Research in Black Culture</dt>
