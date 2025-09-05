@@ -9,7 +9,7 @@ nav_order: 7
 # Rights
 {: .no_toc }
 
-Describes the process when Metadata Services Unit (MSU) requests rights metadata be added to records in the Metadata Management System (MMS) by [Rights Clearance](/metadata-documentation/resources/glossary/#rights-clearance)
+Describes the process when Metadata Services Unit (MSU) requests rights metadata be added to records in the Metadata Management System (MMS) by [Copyright and Information Policy](/metadata-documentation/resources/glossary/#copyright-information-policy)
 
 ## Table of contents
 {: .no_toc .text-delta }
@@ -22,7 +22,7 @@ Describes the process when Metadata Services Unit (MSU) requests rights metadata
 {: .note }
 See [General Guidelines › Rights](/metadata-documentation/metadata/guidelines/#rights) and [Digital Collections › Criteria for Appearance](/metadata-documentation/dc/criteria/) for more information about the role of rights metadata in MMS and how rights codes determine what appears on Digital Collections (DC).
 
-- Rights metadata are added and maintained by [Rights Clearance](/metadata-documentation/resources/glossary/#rights-clearance)
+- Rights metadata are added and maintained by [Copyright and Information Policy](/metadata-documentation/resources/glossary/#copyright-information-policy)
 - Metadata Services Unit (MSU) uses ClickUp to request rights metadata be added to records in the Metadata Management System (MMS)
   - MSU typically requests rights metadata if it has not already been assigned during the [Approval](/metadata-documentation/workflows/approvals/) workflow after digitization is complete and records are approved to ensure captures and records are structured correctly and descriptive metadata are accurate
   - Occasionally, MSU may request rights metadata at other points such as:
@@ -30,7 +30,7 @@ See [General Guidelines › Rights](/metadata-documentation/metadata/guidelines/
     - Unrelated to new digitization as part of a [remediation workflow](/metadata-documentation/workflows/remediation/)
   - The location of the corresponding ClickUp task will be based on the relevant workflow
     - If you need to create new ClickUp tasks to request rights metadata, discuss with the [Manager, Metadata Services](/metadata-documentation/contact/)
-- Staff outside MSU should [contact Rights Clearance 🔒](https://lair.nypl.org/-/departments/library-sites-and-services/research-libraries/copyright-information-policy) directly when rights metadata updates or corrections are needed
+- Staff outside MSU should [contact Copyright and Information Policy 🔒](https://lair.nypl.org/-/departments/library-sites-and-services/research-libraries/copyright-information-policy) directly when rights metadata updates or corrections are needed
 
 ## Steps for MSU Staff
 
@@ -52,11 +52,11 @@ For MSU Staff
 1. Once the DC sets the Rights field to **Rights Completed**, a ClickUp bot will add a comment to the task indicating  `✅ rights completed`
    1. For approvals, the task status will automatically be updated to **In Progress**, and the next [approvals steps](/metadata-documentation/workflows/approvals/#steps) can be taken
 
-## Steps for Rights Clearance Staff
+## Steps for Copyright and Information Policy Staff
 
 ### Adding Rights Metadata
 {: .d-inline .v-align-middle .mr-2 }
-For Rights Clearance Staff
+For Copyright and Information Policy Staff
 {: .d-inline .v-align-middle .label .label-purple .mx-1 }
 
 1. When an MSU liaison determines rights metadata are needed, they take the following steps on the corresponding ClickUp tasks:
