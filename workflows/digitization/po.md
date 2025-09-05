@@ -93,7 +93,7 @@ For MSU Staff
 - The next steps following metadata creation include:
     - PRS staff creates the corresponding [Work Order (WO)](/metadata-documentation/workflows/digitization/wos/) and assigns capture identifiers
     - PRS staff coordinate shipment of material to DIS
-    - [Rights Clearance](/metadata-documentation/resources/glossary/#rights-clearance) staff add rights metadata
+    - [Copyright and Information Policy](/metadata-documentation/resources/glossary/#copyright-information-policy) staff add rights metadata
     - DIS staff digitizes the requested materials
     - MSU staff [approves](/metadata-documentation/workflows/approvals/) the item(s)
     - Once approved in MMS, item(s) that meet the [criteria for appearance](/metadata-documentation/dc/criteria/) will be accessible on DC
