@@ -40,7 +40,7 @@ For consistency and reliability when linking to entities in Digital Collections,
 - On <a href="https://digitalcollections.nypl.org">Digital Collections</a>, find the collection UUID either:
     - By clicking **See more collection information** and looking in the **Identifiers** section as the **Universal Unique Identifier (UUID)**
     - In the browser URL bar at the end of the full collection URL
-- In the <a href="https://metadata.nypl.org">Metadata Management System</a>, the collection UUID can be found immediately below the collection's title following the **uuid:** label on any tab for the collection
+- In the [Metadata Management System](https://metadata.nypl.org), the collection UUID can be found immediately below the collection's title following the **uuid:** label on any tab for the collection
 
 ## Container URLs
 
@@ -50,17 +50,17 @@ Container URLs are built using the parent <a href="#collection-urls">collection 
 <dl>
 
 <dt>Preferred structure</dt>
-<dd><tt>https://digitalcollections.nypl.org/collections/<span style="background: #ffffcc; border: 1px solid #5c5962;">collection UUID</span>?filters=%5Bsubcollection%3D<span style="background: #ccffcc; border: 1px solid #5c5962;">container UUID</span>%5D</tt></dd>
+<dd><tt>https://digitalcollections.nypl.org/collections/<span style="background: #ffffcc; border: 1px solid #5c5962;">collection UUID</span>?filters=[subcollection=<span style="background: #ccffcc; border: 1px solid #5c5962;">container UUID</span>]</tt></dd>
 
 <dt>Example<br></dt>
-<dd><tt><a href="https://digitalcollections.nypl.org/collections/dba41b30-0ae6-0137-bfb0-4fa251ecd76a?filters=%5Bsubcollection%3D4d66d980-0ae7-0137-4d11-7bf3d182b328%5D">https://digitalcollections.nypl.org/collections/<span style="background: #ffffcc; border: 1px solid #5c5962;">dba41b30-0ae6-0137-bfb0-4fa251ecd76a</span>?filters=%5Bsubcollection%3D<span style="background: #ccffcc; border: 1px solid #5c5962;">4d66d980-0ae7-0137-4d11-7bf3d182b328</span>%5D</a></tt></dd>
+<dd><tt><a href="https://digitalcollections.nypl.org/collections/dba41b30-0ae6-0137-bfb0-4fa251ecd76a?filters=[subcollection=4d66d980-0ae7-0137-4d11-7bf3d182b328]">https://digitalcollections.nypl.org/collections/<span style="background: #ffffcc; border: 1px solid #5c5962;">dba41b30-0ae6-0137-bfb0-4fa251ecd76a</span>?filters=[subcollection=<span style="background: #ccffcc; border: 1px solid #5c5962;">4d66d980-0ae7-0137-4d11-7bf3d182b328</span>]</a></tt></dd>
 
 </dl>
 
 ### Finding Container UUIDs
 
-- On <a href="https://digitalcollections.nypl.org">Digital Collections</a>, find the container UUID in the browser URL bar at the end of the full container URL between `?filters=%5Bsubcollection%3D` and `%5D`
-- In the <a href="https://metadata.nypl.org">Metadata Management System</a>, the container UUID can be found immediately below the container's title following the **uuid:** label on any tab for the container
+- On <a href="https://digitalcollections.nypl.org">Digital Collections</a>, find the container UUID in the browser URL bar at the end of the full container URL between `?filters=[subcollection=` and `]`
+- In the [Metadata Management System](https://metadata.nypl.org), the container UUID can be found immediately below the container's title following the **uuid:** label on any tab for the container
 
 ## Item URLs
 
@@ -79,9 +79,12 @@ Container URLs are built using the parent <a href="#collection-urls">collection 
 - On <a href="https://digitalcollections.nypl.org">Digital Collections</a>, find the collection UUID either:
     - In the **Identifiers** section as the **Universal Unique Identifier (UUID)**
     - In the browser URL bar at the end of the item URL before the `?canvasIndex=`
-- In the <a href="https://metadata.nypl.org">Metadata Management System</a>, the item UUID can be found immediately below the item's title following the **uuid:** label on any tab for the item
+- In the [Metadata Management System](https://metadata.nypl.org), the item UUID can be found immediately below the item's title following the **uuid:** label on any tab for the item
 
 ## Capture URLs
+
+{: .note }
+Capture URLs use DC-generated capture sequence numbers, not capture UUIDs. Capture sequence numbers begin at zero and exclude captures suppressed in MMS.
 
 <dl>
 
@@ -95,9 +98,7 @@ Container URLs are built using the parent <a href="#collection-urls">collection 
 
 ### Finding Capture UUIDs
 
-{: .note }
-Capture UUIDs are not used for <a href="#capture-urls"> capture URLs</a>.
-
-- In the <a href="https://metadata.nypl.org">Metadata Management System</a>, the capture UUID can be found in the capture record or **Capture Inventory** tab
+- On [Digital Collections](https://digitalcollections.nypl.org), capture UUIDs are not accessible, so use [DC Linker](/metadata-documentation/dc/linker/) to navigate to the item in MMS
+- In the [Metadata Management System](https://metadata.nypl.org), the capture UUID can be found in the capture record or **Capture Inventory** tab
     - From a capture record, the UUID can be found immediately below the capture's title following the **uuid:** label
     - From the **Capture Inventory** tab on an item record, capture UUIDs will be shown in the **UUID** column
