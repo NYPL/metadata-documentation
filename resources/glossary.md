@@ -372,7 +372,7 @@ Common terms used within the work of the Metadata Services Unit (MSU)
 
 <a name="link-minter"></a>
 <dt>Link Minter</dt>
-<dd>former tool used to generate persistent Digital Collections URLs beginning `link-minter.nypl.org`; no longer in use as of 2024</a></dd>
+<dd>former tool used to generate persistent Digital Collections URLs beginning <code>link-minter.nypl.org</code>; sunset in 2025</dd>
 
 <a name="long-island-city"></a>
 <dt>Long Island City</dt>
