@@ -29,5 +29,5 @@ DC Linker is a tool to open up a corresponding item in the Metadata Management S
 1. Ensure you are logged into MMS at [metadata.nypl.org](https://metadata.nypl.org/)
 1. From any item, collection, or search results page on [Digital Collections](https://digitalcollections.nypl.org/), click the **DC Linker** bookmarklet in your browser's bookmarks toolbar
     1. From an item page, the **MMS** button will appear in the upper left corner above the title
-    1. rom a collection or search results page, a **MMS** button will appear on each item’s thumbnail in the upper left corner
+    1. From a collection or search results page, a **MMS** button will appear on each item’s thumbnail in the upper left corner
 1. Click on the **MMS** button, which will take you to the item in MMS
