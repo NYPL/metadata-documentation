@@ -410,9 +410,9 @@ Common terms used within the work of the Metadata Services Unit (MSU)
 <dt>Metadata Services Unit</dt>
 <dd>unit within <a href="#special-collections-processing">Special Collections Processing</a> that improves the discovery of library resources and strengthens data interoperability across the library; primary office located at the <a href="#library-services-center">Library Services Center</a></dd>
 
-<a name="#migration-of-records-and-cataloging-consolidation"></a>
+<a name="migration-of-records-and-cataloging-consolidation"></a>
 <dt>Migration of Records and Cataloging Consolidation</dt>
-<dd>project to migrate Miriam and Ira D. Wallach Division of Art, Prints, and Photographs records previously managed in <a href="#the-museum-system">The Museum System</a> to <a href="#sierra">Sierra</a></dd>
+<dd>project to migrate Miriam and Ira D. Wallach Division of Art, Prints, and Photographs records previously managed in <a href="#the-museum-system">The Museum System</a> into <a href="#sierra">Sierra</a></dd>
 
 <a name="mms-database"></a>
 <dt>MMS Database</dt>
