@@ -28,7 +28,7 @@ nav_order: 3
     1. Basic search filtering
 1. Advanced search
 1. [Anatomy of MMS records](/metadata-documentation/metadata/record-type/)
-    1. [Data model](/metadata-documentation/metadata/guidelines/)
+    1. [Data model](/metadata-documentation/metadata/guidelines/#metadata-schema)
     1. [Bnumber](/metadata-documentation/metadata/element/identifier/bnumber/) search
     1. [Items](/metadata-documentation/metadata/record-type/#items)
     1. [Containers](/metadata-documentation/metadata/record-type/#containers)
