@@ -115,14 +115,14 @@ While the Library only holds one archival collection of [Friedman-Abeles photogr
 
 ---
 
-Last updated November 2024
+Last updated November 2025
 {: .float-right .fs-2 .text-grey-dk-000 }
 ### NYPL Wikidata Working Group
 
 | Dates | beginning June 2023 |
 | MSU Members | Emma C., Karly W., Sarah A.
-| Collaborators | Bob K. (Music Division), David L. (Photography Collection), Samie K. (Audio and Moving Image Description), Gina M. (Copyright and Information Policy), Daniel A. (Special Projects Team) |
-| Related Links | [WikiProject](https://www.wikidata.org/wiki/Wikidata:WikiProject_New_York_Public_Library){: .btn } [Google Group 🔒](https://groups.google.com/a/nypl.org/g/wikidata){: .btn } [Slack 🔒](https://nyplpscp.slack.com/archives/C05C3EMCBL7){: .btn } |
+| Collaborators | Bob K. (Music Division), David L. (Photography Collection), Samie K. (Audio and Moving Image Description), Gina M. (Copyright and Information Policy), Daniel A. (Collections Access and Discovery), A.M. L. (BookOps), Angela R. (Dance Division), Clare S. (BookOps) |
+| Related Links | [WikiProject](https://www.wikidata.org/wiki/Wikidata:WikiProject_New_York_Public_Library){: .btn } [Google Group 🔒](https://groups.google.com/a/nypl.org/g/wikidata){: .btn } [Google Space 🔒](https://mail.google.com/mail/#chat/space/AAQAepHVMD8){: .btn } |
 
 #### Overview
 {: .no_toc }
@@ -130,7 +130,7 @@ Last updated November 2024
 - MSU leads the NYPL Wikidata Working Group, which began meeting monthly in July 2023
 - The working group's current focus is to establish and document best practices for the use of Wikidata to link to Library collections and resources on the [Wikidata:WikiProject New York Public Library page](https://www.wikidata.org/wiki/Wikidata:WikiProject_New_York_Public_Library)
 - Any Library staff interested in becoming a member the working group can [contact us](/metadata-documentation/contact/) for details
-- Regardless of membership in the working group, all Library staff are welcome to join the `#wikidata` channel in the [Preservation and Collections Processing Slack 🔒](https://nyplpscp.slack.com/archives/C05C3EMCBL7) for updates and discussion; [contact us](/metadata-documentation/contact/) for an invitation
+- Regardless of membership in the working group, all Library staff are welcome to join [`🌐 Wiki Chat`](https://mail.google.com/mail/#chat/space/AAQAepHVMD8) in Google Spaces to share and discuss Wikimedia projects (Wikidata, Wikipedia, Wikimedia Commons, etc.), especially as they relate to library collections; [contact us](/metadata-documentation/contact/form/) if you need assistance joining
 
 ---
 
