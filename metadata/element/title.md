@@ -91,7 +91,7 @@ _A part or section number of a title_
 #### Guidelines
 {: .no_toc }
 - Add a **Part Number** to indicate sequencing in any form (e.g., "Book two," "Part 1," or "Supplement A")
-- Record all numbering/sequencing in a single **Part Name** using a comma to separate multiple numbering (e.g., "Volume 1, Issue 2")
+- Record all numbering/sequencing in a single **Part Number** using a comma to separate multiple numbering (e.g., "Volume 1, Issue 2")
 - Remove any punctuation that separates **Part Number** from other subelements
 - See [MARC 245$n](https://www.oclc.org/bibformats/en/2xx/245.html#subfieldn)
 
