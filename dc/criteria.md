@@ -24,7 +24,7 @@ If a collection, container, or item that does not meet the below criteria is app
 - On the collection's **Overview** tab, collection has the **Status: Approved**
 - On the collection's **Rights and use** tab, the **Suppress from website** option is unchecked
 - At least one item in the collection has met all the criteria outlined in the [Items](#items) criteria
-- A few days have passed since the above criteria have been met to allow for indexing
+- A few minutes have passed since the above criteria have been met to allow for indexing
 
 ## Containers
 - On the container's **Overview** tab, container has the **Status: Approved**
@@ -32,7 +32,7 @@ If a collection, container, or item that does not meet the below criteria is app
 - On the container's **Rights and use** tab, the **Suppress from website** option is unchecked
     - All higher-level collections and containers also have the **Suppress from website** option unchecked on the **Rights and use** tab
 - At least one item in the container has met all the criteria outlined in the [Items](#items) criteria
-- A few days have passed since the above criteria have been met to allow for indexing
+- A few minutes have passed since the above criteria have been met to allow for indexing
 
 ## Items
 - On the item's **Overview** tab, item has the **Status: Approved**
@@ -47,7 +47,7 @@ If a collection, container, or item that does not meet the below criteria is app
     - **Can be displayed on NYPL premises :: [location]**: available from any computer connected to the internet at the location specified
     {: .note }
     (Items can have **Copyright Issues Present** on their **Rights and use** tab and still appear in DC as long as one of the above **Approved uses** are also included)
-- A few days have passed since the above criteria have been met to allow for indexing
+- A few minutes have passed since the above criteria have been met to allow for indexing
 
 ## See Also
 - [Approvals](/metadata-documentation/workflows/approvals/) for further details on the steps involved for the Metadata Services Unit (MSU) to set a collection, container, or item to **Status: Approved**
