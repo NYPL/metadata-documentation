@@ -32,7 +32,7 @@ Liaison to Stephen A. Schwarzman Building divisions: Wallach Division (Art & Arc
 Liaison to Stephen A. Schwarzman Building divisions: Berg Collection; Dorot Jewish Division; General Research Division; George Arents Collection; Manuscripts and Archives Division; Map Division; Milstein Division; NYPL Archives; Pforzheimer Collection; Rare Book Division
 {: .mt-1 .mb-0 }
 
-**Emma Clarkson**, Metadata Specialist II
+**Emma Clarkson**, Metadata Specialist III
 {: .text-grey-dk-300 .fs-5 .mt-5 .mb-0}
 Liaison to Library for the Performing Arts divisions: Billy Rose Theatre Division; Jerome Robbins Dance Division; Music Division; Rodgers and Hammerstein Archives of Recorded Sound
 {: .mt-1 .mb-0 }
