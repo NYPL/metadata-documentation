@@ -28,8 +28,8 @@ Identifier of the Photo Order (also known as a [Public Order](/metadata-document
 
 ## Guidelines
 - Digitization requests submitted to the Library by the public are tracked internally using a sequential PO number recognizable as they begin with "PO," e.g. `PO64824`, which can be found in the following places:
-  - [New Digitization › New Digitization Approvals 🔒](https://app.clickup.com/2305128/v/l/6-180919377-1) in ClickUp
-  - [New Digitization › New Digitization Tracking 🔒](https://app.clickup.com/2305128/v/l/6-164664866-1) in ClickUp
+  - [New Digitization › Approvals 🔒](https://app.clickup.com/2305128/v/l/6-180919377-1) in ClickUp
+  - [New Digitization › Digitization Tracking 🔒](https://app.clickup.com/2305128/v/l/6-164664866-1) in ClickUp
   - [Work Orders 🔒](https://metadata.nypl.org/work_orders) in the Metadata Management System (MMS)
 - When adding a **Photo Order** value to a record in MMS, only include numeric characters as the identifier value, e.g., `64824` rather than `PO64824`
   - When a **Photo Order** is less than five digits, prepend the number with `0`s, e.g. `00782` rather than `782` or `06549` rather than `6549`

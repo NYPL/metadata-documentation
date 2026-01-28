@@ -28,7 +28,7 @@ Identifier for digitized surrogates of material included in exhibitions at the N
 
 ## Guidelines
 - Reference an exhibition checklist to find the **NYPL Exhibition ID**
-    - Exhibition checklists are typically linked from a task for the exhibition in [**ClickUp › New Digitization › New Digitization Tracking 🔒**](https://app.clickup.com/2305128/v/l/6-164664866-1)
+    - Exhibition checklists are typically linked from a task for the exhibition in [**ClickUp › New Digitization › Digitization Tracking 🔒**](https://app.clickup.com/2305128/v/l/6-164664866-1)
     - **NYPL Exhibition IDs** are widely used for exhibitions at the Stephen A. Schwarzman Building (SASB) and Library for the Performing Arts (LPA), but they have historically not been as commonly used for exhibitions at the Schomburg Center for Research in Black Culture
 - **NYPL Exhibition ID** values are made up of two components: an exhibition number and an [item number](https://metadata.nypl.org/items/5955168?section=desc_md#:~:text=NYPL%20Exhibition%20ID%3A-,TL%2020.01.FORT09,-Location)
     - Exhibition number
@@ -88,5 +88,5 @@ Consistent usage and formatting of **NYPL Exhibition IDs** allow construction of
 
 ## See Also
 - [MMS › Workflows › Digitization › Exhibitions](/metadata-documentation/workflows/digitization/exhibitions/) for an overview of the workflow of digitizing materials for NYPL exhibitions
-- [ClickUp › Metadata Services › New Digitization › New Digitization Tracking 🔒](https://app.clickup.com/2305128/v/l/6-164664866-1) for ClickUp tasks that correlate to digitization of materials for NYPL exhibitions currently underway
+- [ClickUp › Metadata Services › New Digitization › Digitization Tracking 🔒](https://app.clickup.com/2305128/v/l/6-164664866-1) for ClickUp tasks that correlate to digitization of materials for NYPL exhibitions currently underway
 - [Exhibitions Master List 🔒](https://docs.google.com/spreadsheets/d/11-bgNRs2iO6HLG8OQv7quP8KUHCUNxJgC3nIapA0Do0/edit) for a list of all exhibition numbers
