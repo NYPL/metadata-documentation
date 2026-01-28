@@ -17,8 +17,9 @@ nav_order: 3
 
 ## NYPL Documentation
 Links to documentation created by other Library divisions, departments, and units that are relevant to the Metadata Services Unit (MSU)
-- [Archival Processing](https://nypl.github.io/pres-docs/archivalProcessing/archivalProcessing.html)
-    - [ArchivesSpace](https://nypl.github.io/pres-docs/aspace/aspace.html)
+- [Archival Processing](https://nypl.github.io/archival-processing/)
+    - [Processing Manual](https://nypl.github.io/archival-processing/processing-manual/)
+    - [ArchivesSpace](https://nypl.github.io/archival-processing/aspace/)
 - [Audio and Moving Image (AMI) Preservation](https://nypl.github.io/ami-preservation/)
 - [BookOps Cataloging](https://sites.google.com/a/bookops.org/cataloging/)
     - [Frequently Used Resources in Creating NAFs](https://sites.google.com/a/bookops.org/cataloging/home/research-libraries-policies/visual-materials/frequently-used-resources)
