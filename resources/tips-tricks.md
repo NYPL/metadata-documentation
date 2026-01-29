@@ -18,7 +18,7 @@ nav_order: 5
 ## Research Catalog
 
 ### View MARC in Research Catalog
-At the bottom of a record in the Research Catalog, click the link that says **View marc record ›**
+At the bottom of a record in the Research Catalog, click the link that says **View MARC record ›**
 
 _or_
 
