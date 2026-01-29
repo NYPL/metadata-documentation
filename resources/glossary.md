@@ -96,6 +96,9 @@ Common terms used within the work of the Metadata Services Unit (MSU)
 <dt>GMD</dt>
 <dd><a href="#general-material-designation">general material designation</a></dd>
 
+<dt>HSSL</dt>
+<dd><a href="#humanities-and-social-sciences-research-library">Humanities and Social Sciences Research Library</a></dd>
+
 <dt>ICE</dt>
 <dd><a href="#isilon-cluster-e">Isilon Cluster E</a></dd>
 
@@ -325,6 +328,10 @@ Common terms used within the work of the Metadata Services Unit (MSU)
 <a name="hades"></a>
 <dt>Hades</dt>
 <dd>precursor to <a href="#metadata-management-system">Metadata Management System</a></dd>
+
+<a name="humanities-and-social-sciences-research-library"></a>
+<dt>Humanities and Social Sciences Research Library</dt>
+<dd>another name for the <a href="#stephen-a-schwarzman-building">Stephen A. Schwarzman Building</a></dd>
 
 <a name="integrated-library-system"></a>
 <dt>integrated library system</dt>
