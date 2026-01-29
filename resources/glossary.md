@@ -96,7 +96,7 @@ Common terms used within the work of the Metadata Services Unit (MSU)
 <dt>GMD</dt>
 <dd><a href="#general-material-designation">general material designation</a></dd>
 
-<dt>HSSL</dt>
+<dt>HSSRL</dt>
 <dd><a href="#humanities-and-social-sciences-research-library">Humanities and Social Sciences Research Library</a></dd>
 
 <dt>ICE</dt>
