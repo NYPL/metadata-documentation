@@ -36,9 +36,11 @@ For PRS Staff
 {: .d-inline .v-align-middle .label .label-purple .mx-1 }
 
 1. Complete the [Contact Form to Request PO Metadata Creation](/metadata-documentation/contact/form/po/)
-1. Once the form is submitted, a new task will be created in [Metadata Services › New Digitization › Metadata Creation 🔒](https://app.clickup.com/2305128/v/l/6-901707354926-1) that:
+    1. The same form can also be accessed within [ClickUp 🔒](https://app.clickup.com/2305128/v/fm/26b38-13677)
+1. Once the form is submitted, a new task will be created in [Metadata Services › New Digitization › Metadata Creation › POs 🔒](https://app.clickup.com/2305128/v/l/26b38-13757) that:
     1. Is assigned to the submitter of the form, the relevant MSU liaison (based on **Division**), and the Digitization Coordinator (based on **Division**)
     1. Has **Status** of **To Create Metadata**
+1. If at any point you need to add any additional information, you can do so directly in the ClickUp task that was generated
 1. Once metadata is created:
     1. The task's **Status** will appear as **Metadata Created**
 
