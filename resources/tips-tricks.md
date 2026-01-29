@@ -19,7 +19,9 @@ nav_order: 5
 
 ### View MARC in Research Catalog
 At the bottom of a record in the Research Catalog, click the link that says **View marc record ›**
+
 _or_
+
 Append `/marc` to the end of a Research Catalog record URL, e.g.: <a href="https://www.nypl.org/research/research-catalog/bib/b11599430/marc"><tt>https://www.nypl.org/research/research-catalog/bib/b11599430<span style="background: #ffffcc; border: 1px solid #5c5962;">/marc</span></tt></a>
 
 ## Legacy Catalog
