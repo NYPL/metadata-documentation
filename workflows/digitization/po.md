@@ -69,14 +69,16 @@ For MSU Staff
 1. Copy the URL(s) of the newly created item(s) in MMS and paste them back into the ClickUp task
     1. If there is only one URL, add it to the **Primary MMS Link** field
     1. If there are multiple URLs, add each to the task description
-1. By default, the **Rights** field is set to **Rights Needed** and the **DC (only if Rights Needed)** is populated
+1. By default, the **Rights** field is set to **Rights Needed**
     1. If the newly created item(s) already have rights due to inheritance, toggle the rights field to **Rights Completed**
+    1. The **DC (only if Rights Needed)** can be selected manually, otherwise it will populate automatically after the next step based on the **Research Library**
 1. When metadata creation is complete:
     1. Add a comment to the ClickUp task with link(s) to the newly created item(s) and include an @ tag of the requesting PRS staff member's name so they receive a notification
     1. Toggle the ClickUp task **Status** to **Metadata Created**
 
 ## Post-Metadata Creation
 - The next steps following metadata creation include:
+    - The ClickUp task automatically moves into [Metadata Services › New Digitization › Digitization Tracking 🔒](https://app.clickup.com/2305128/v/l/26b38-9277?pr=18903295) with the **Status** of **Digitization in Progress**
     - PRS staff creates the corresponding [Work Order (WO)](/metadata-documentation/workflows/digitization/wos/) and assigns capture identifiers
     - PRS staff coordinate shipment of material to DIS
     - [Copyright and Information Policy](/metadata-documentation/resources/glossary/#copyright-information-policy) staff add rights metadata
@@ -84,7 +86,7 @@ For MSU Staff
     - MSU staff [approves](/metadata-documentation/workflows/approvals/) the item(s)
     - Once approved in MMS, item(s) that meet the [criteria for appearance](/metadata-documentation/dc/criteria/) will be accessible on DC
         1. Searching DC using the PO number (without the "PO") will return any publicly accessible items that correspond to that PO
-- Pending POs where MSU staff have not yet received the related approval can be found in [Metadata Services › New Digitization › Digitization Tracking › Pending POs 🔒](https://app.clickup.com/2305128/v/l/26b38-9277)
+- Pending POs where MSU staff have not yet received the related approval can be found in [Metadata Services › New Digitization › Digitization Tracking › Active PO Digitization 🔒](https://app.clickup.com/2305128/v/l/26b38-9277)
     - Corresponding [Approvals 🔒](https://app.clickup.com/2305128/v/l/6-180919377-1) are connected to the Metadata Creation task as they are received by MSU
 
 ## See Also
