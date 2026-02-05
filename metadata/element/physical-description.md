@@ -58,7 +58,7 @@ _A particular physical presentation of a resource, including the physical form o
         - LC Thesaurus for Graphic Materials (LCTGM)
         - LC Genre/Form Thesaurus (LCGFT)
         - Art and Architecture Thesaurus (AAT)
-    - For audio and moving image (AMI), only terms from the **Form (AMI) tab** of the [Genre + Form + Extent 🔒](https://docs.google.com/spreadsheets/d/1NGlV94Iufe0p3EJdoJDX7SgvH-LUYqWLEuB1Az3DmbM/edit#gid=187807178) spreadsheet may be used
+    - For audio and moving image (AMI), only terms from the [Form (AMI) 🔒](https://docs.google.com/spreadsheets/d/1NGlV94Iufe0p3EJdoJDX7SgvH-LUYqWLEuB1Az3DmbM/edit?gid=1344175434) tab of the [Genre + Form + Extent 🔒](https://docs.google.com/spreadsheets/d/1NGlV94Iufe0p3EJdoJDX7SgvH-LUYqWLEuB1Az3DmbM/edit#gid=187807178) spreadsheet may be used
     - To verify a result is appropriate, click the linked **Authorized Term** to view the corresponding record in the source authority
     - Once you have chosen the controlled term, click the **Use this term** button
     - Do not add **Free text** values for **Form**
