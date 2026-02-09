@@ -539,4 +539,5 @@ Common terms used within the work of the Metadata Services Unit (MSU)
 - [External Links](/metadata-documentation/resources/external/) for links to documentation from some of the Library divisions, departments, and units listed above
 - [NYPL Acronyms 🔒](https://docs.google.com/spreadsheets/d/1KQ102LS0tdOwiqoSssYJkx9m-QIZco-MIdnUeTDGbVs/edit) for a list of acronyms that are used at the New York Public Library
 - [Introduction to Metadata › Glossary](https://www.getty.edu/publications/intrometadata/glossary/) for definitions of general metadata concepts from a textbook published by Getty Publications
+- [DAM Glossary Index](https://digitalassetmanagementnews.org/glossary/) for definitions of general digital asset management concepts from DAM News
 - [Metadata Glossary for Libraries, Archives & More](https://docs.google.com/document/d/1dhpSozuRRW4jLdVfgH0_g-Q7p-cBd82lXxQsHLIqr4k/edit) for definitions of general metadata concepts from Robin Fay
