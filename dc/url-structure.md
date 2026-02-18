@@ -102,5 +102,3 @@ Capture URLs use DC-generated capture sequence numbers, not capture UUIDs. Captu
 - In the [Metadata Management System](https://metadata.nypl.org), the capture UUID can be found in the capture record or **Capture Inventory** tab
     - From a capture record, the UUID can be found immediately below the capture's title following the **uuid:** label
     - From the **Capture Inventory** tab on an item record, capture UUIDs will be shown in the **UUID** column
-
-[temp]
