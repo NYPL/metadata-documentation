@@ -30,7 +30,7 @@ Provides an overview of the workflow for vendor digitization
 For Non-MSU Staff
 {: .d-inline .v-align-middle .label .label-purple .mx-1 }
 
-Complete the [Contact Form for Completed Vendor Digitization](/metadata-documentation/contact/form/completed-vendor-digitization/)
+Complete the [Contact Form to Notify MSU of Uploaded Assets](/metadata-documentation/contact/form/completed-vendor-digitization/)
 
 ## Steps for MSU Staff
 
