@@ -25,6 +25,12 @@ Access to the Metadata Management System (MMS) requires a personal user account 
 - To reset your password, contact metadata [at] nypl [dot] org
 - You will receive an email with instructions for logging in and changing your password
 
+{: .warning-title }
+> Known Issue
+>
+> Requesting a password reset using the **Forgot your password?** link on the [sign-in page](https://metadata.nypl.org/users/sign_in) does not work consistently. Instead email metadata [at] nypl [dot] org, and we can reset your password manually.
+> <small><br>Last checked February 2026</small>
+
 ## User Roles
 - If you believe you should be able to access features or content in MMS that you are unable to access, you may need your user roles updated
 - See the [MMS User Roles 🔒](https://docs.google.com/spreadsheets/d/1fY_UdWxmb60d9cE0ONfv0PEq2qW24I2C2HCm2cnuGN8/edit) spreadsheet for more information about the types of permissions that are available in MMS
