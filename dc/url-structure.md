@@ -50,16 +50,16 @@ Container URLs are built using the parent <a href="#collection-urls">collection 
 <dl>
 
 <dt>Preferred structure</dt>
-<dd><tt>https://digitalcollections.nypl.org/collections/<span style="background: #ffffcc; border: 1px solid #5c5962;">collection UUID</span>?filters=[subcollection=<span style="background: #ccffcc; border: 1px solid #5c5962;">container UUID</span>]</tt></dd>
+<dd><tt>https://digitalcollections.nypl.org/collections/<span style="background: #ffffcc; border: 1px solid #5c5962;">collection UUID</span>?filters=%5Bsubcollection%3D<span style="background: #ccffcc; border: 1px solid #5c5962;">container UUID</span>%5D</tt></dd>
 
 <dt>Example<br></dt>
-<dd><tt><a href="https://digitalcollections.nypl.org/collections/dba41b30-0ae6-0137-bfb0-4fa251ecd76a?filters=[subcollection=4d66d980-0ae7-0137-4d11-7bf3d182b328]">https://digitalcollections.nypl.org/collections/<span style="background: #ffffcc; border: 1px solid #5c5962;">dba41b30-0ae6-0137-bfb0-4fa251ecd76a</span>?filters=[subcollection=<span style="background: #ccffcc; border: 1px solid #5c5962;">4d66d980-0ae7-0137-4d11-7bf3d182b328</span>]</a></tt></dd>
+<dd><tt><a href="https://digitalcollections.nypl.org/collections/dba41b30-0ae6-0137-bfb0-4fa251ecd76a?filters=%5Bsubcollection%3D4d66d980-0ae7-0137-4d11-7bf3d182b328%5D ">https://digitalcollections.nypl.org/collections/<span style="background: #ffffcc; border: 1px solid #5c5962;">dba41b30-0ae6-0137-bfb0-4fa251ecd76a</span>?filters=%5Bsubcollection%3D<span style="background: #ccffcc; border: 1px solid #5c5962;">4d66d980-0ae7-0137-4d11-7bf3d182b328</span>%5D</a></tt></dd>
 
 </dl>
 
 ### Finding Container UUIDs
 
-- On <a href="https://digitalcollections.nypl.org">Digital Collections</a>, find the container UUID in the browser URL bar at the end of the full container URL between `?filters=[subcollection=` and `]`
+- On <a href="https://digitalcollections.nypl.org">Digital Collections</a>, find the container UUID in the browser URL bar at the end of the full container URL between `?filters=%5Bsubcollection%3D` and `%5D`
 - In the [Metadata Management System](https://metadata.nypl.org), the container UUID can be found immediately below the container's title following the **uuid:** label on any tab for the container
 
 ## Item URLs
