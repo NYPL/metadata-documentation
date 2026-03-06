@@ -345,7 +345,7 @@ Common terms used within the work of the Metadata Services Unit (MSU)
 
 <a name="humanities-and-social-sciences-research-library"></a>
 <dt>Humanities and Social Sciences Research Library</dt>
-<dd>another name for the <a href="#stephen-a-schwarzman-building">Stephen A. Schwarzman Building</a></dd>
+<dd>divisions located at the <a href="#stephen-a-schwarzman-building">Stephen A. Schwarzman Building</a></dd>
 
 <a name="integrated-library-system"></a>
 <dt>integrated library system</dt>
