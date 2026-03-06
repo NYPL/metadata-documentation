@@ -66,11 +66,17 @@ Common terms used within the work of the Metadata Services Unit (MSU)
 <dt>DAMS</dt>
 <dd>digital asset management system</dd>
 
+<dt>DAMA</dt>
+<dd><a href="#digital-asset-management-access">Digital Asset Management and Access</a></dd>
+
 <dt>DAPA</dt>
-<dd><a href="#digital-asset-preservation-and-access">Digital Asset Preservation and Access</a></dd>
+<dd><a href="#digital-asset-preservation-access">Digital Asset Preservation and Access</a></dd>
 
 <dt>DC</dt>
 <dd><a href="#digital-collections">Digital Collections</a></dd>
+
+<dt>DCO</dt>
+<dd><a href="#digital-collections-operations">Digital Collections Operations</a></dd>
 
 <dt>DCS</dt>
 <dd><a href="#digital-collections-services">Digital Collections Services</a></dd>
@@ -277,13 +283,21 @@ Common terms used within the work of the Metadata Services Unit (MSU)
 <dt>Digital Asset Infrastructure Renewal</dt>
 <dd>project related to <a href="#digital-asset-preservation-and-access">Digital Asset Preservation and Access</a></dd>
 
-<a name="digital-asset-preservation-and-access"></a>
+<a name="digital-asset-management-access"></a>
+<dt>Digital Asset Management and Access</dt>
+<dd>TK</dd>
+
+<a name="digital-asset-preservation-access"></a>
 <dt>Digital Asset Preservation and Access</dt>
 <dd>major initiative within the Research Libraries; also the name of a pod within the Library's Researchers team in Digital focused on this project</dd>
 
 <a name="digital-collections"></a>
 <dt>Digital Collections</dt>
 <dd>the Library's central access point for digitized and born-digital materials of all formats; accessible at <a href="https://digitalcollections.nypl.org">digitalcollections.nypl.org</a>; metadata, digital assets, and rights profiles are managed in the <a href="#metadata-management-system">Metadata Management System</a></dd>
+
+<a name="digital-collections-operations"></a>
+<dt>Digital Collections Operations</dt>
+<dd>TK</a></dd>
 
 <a name="digital-collections-services"></a>
 <dt>Digital Collections Services</dt>
