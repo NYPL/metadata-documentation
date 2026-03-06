@@ -79,7 +79,7 @@ Common terms used within the work of the Metadata Services Unit (MSU)
 <dd><a href="#digital-collections-operations">Digital Collections Operations</a></dd>
 
 <dt>DCS</dt>
-<dd><a href="#digital-collections-services">Digital Collections Services</a></dd>
+<dd><a href="#digital-collections-services">Digital Collections Services</a> (deprecated)</dd>
 
 <dt>DIRES</dt>
 <dd><a href="#digital-research">Digital Research</a> (deprecated)</dd>
@@ -285,7 +285,7 @@ Common terms used within the work of the Metadata Services Unit (MSU)
 
 <a name="digital-asset-management-access"></a>
 <dt>Digital Asset Management and Access</dt>
-<dd>TK</dd>
+<dd>department within <a href="#collections-access-discovery">Collections Access & Discovery</a> dedicated to management of and access to digital assets in platforms such as Digital Collections; comprised of <a href="#copyright-information-policy">Copyright & Information Policy</a> and <a href="#permissions-reproduction-services">Permissions and Reproduction Services</a></dd>
 
 <a name="digital-asset-preservation-access"></a>
 <dt>Digital Asset Preservation and Access</dt>
@@ -297,11 +297,11 @@ Common terms used within the work of the Metadata Services Unit (MSU)
 
 <a name="digital-collections-operations"></a>
 <dt>Digital Collections Operations</dt>
-<dd>TK</a></dd>
+<dd>TK</dd>
 
 <a name="digital-collections-services"></a>
 <dt>Digital Collections Services</dt>
-<dd>department within <a href="#collections-access-discovery">Collections Access & Discovery</a> dedicated to managing <a href="#digital-collections">Digital Collections</a>; comprised of <a href="#copyright-information-policy">Copyright & Information Policy</a> and <a href="#permissions-reproduction-services">Permissions and Reproduction Services</a></dd>
+<dd>former name of <a href="#digital-asset-management-access">Digital Asset Management and Access</a></dd>
 
 <a name="digital-gallery"></a>
 <dt>Digital Gallery</dt>
