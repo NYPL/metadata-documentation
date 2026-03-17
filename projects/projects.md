@@ -121,7 +121,8 @@ Last updated November 2025
 
 | Dates | beginning June 2023 |
 | MSU Members | Emma C., Karly W., Sarah A.
-| Collaborators | Bob K. (Music Division), David L. (Photography Collection), Samie K. (Audio and Moving Image Description), Gina M. (Copyright and Information Policy), Daniel A. (Collections Access and Discovery), A.M. L. (BookOps), Angela R. (Dance Division) |
+| Non-MSU Members | Bob K. (Music Division), David L. (Photography Collection), Samie K. (Art & Architecture Collection), Gina M. (Copyright and Information Policy), A.M. L. (BookOps), Angela R. (Dance Division) |
+| Former Members | Clare S. (BookOps), Daniel A. (Collections Acccess and Discovery) |
 | Related Links | [WikiProject](https://www.wikidata.org/wiki/Wikidata:WikiProject_New_York_Public_Library){: .btn } [Google Group 🔒](https://groups.google.com/a/nypl.org/g/wikidata){: .btn } [Google Space 🔒](https://mail.google.com/mail/#chat/space/AAQAepHVMD8){: .btn } |
 
 #### Overview
