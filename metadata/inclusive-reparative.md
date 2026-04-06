@@ -104,7 +104,7 @@ For MSU Staff
 {: .d-inline .v-align-middle .label .label-purple .mx-1 }
 1. Determine which of the following criteria applies and follow the corresponding steps:
    1. Description was created by Library staff and matches description from the finding aid:
-      1. For [divisions served by Archival Processing](https://docs.google.com/document/d/1tiIm0R8P0A_sOH3RUKsPgUKXAThqXT074QeIEokD6uk/edit#heading=h.gh2654hr28xp), work with Archival Processing to update the source finding aid using their [Archival Processing Unit Description Remediation Request](https://docs.google.com/forms/d/e/1FAIpQLSexaz5kCcCdw99U67Z7sVCgemlXpofl9HuegMmGYxcN8zBGCA/viewform) form
+      1. For [divisions served by Archival Processing](https://docs.google.com/document/d/1tiIm0R8P0A_sOH3RUKsPgUKXAThqXT074QeIEokD6uk/edit#heading=h.gh2654hr28xp), work with Archival Processing to update the source finding aid using their [Archival Processing Description Remediation Request](https://docs.google.com/forms/d/e/1FAIpQLSexaz5kCcCdw99U67Z7sVCgemlXpofl9HuegMmGYxcN8zBGCA/viewform) form
       1. For divisions _not_ served by Archival Processing, discuss with the [Manager, Metadata Services](/metadata-documentation/contact/) as the relevant contact can vary by division
       1. If the source finding aid _will not_ be updated, [add a harmful description note](#adding-a-harmful-description-note) instead
    1. Description was created by Library staff and matches description from the MARC record:
