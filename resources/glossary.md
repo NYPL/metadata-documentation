@@ -281,7 +281,7 @@ Common terms used within the work of the Metadata Services Unit (MSU)
 
 <a name="conservation"></a>
 <dt>Conservation</dt>
-<dd>department within <a href="#preservation-collections-processing">Preservation and Collections Processing</a> that supports the collections of the Research Centers and provides conservation assessment, specialized rehousing, treatment, research, training, and outreach to advance the preservation of collections</dd>
+<dd>department within Preservation that supports the collections of the Research Centers and provides conservation assessment, specialized rehousing, treatment, research, training, and outreach</dd>
   
 <a name="copyright-information-policy"></a>
 <dt>Copyright and Information Policy</dt>
@@ -477,7 +477,7 @@ Common terms used within the work of the Metadata Services Unit (MSU)
 
 <a name="preservation-collections-processing"></a>
 <dt>Preservation and Collections Processing</dt>
-<dd>former division within <a href="#collections-research-services">Collections and Research Services</a> comprised of teams now in Preservation, Special Collections Services,<a href="digital-collections-operations">Digital Collections Operations</a>, and <a href="#access-research-services">Access and Research Services</a></dd>
+<dd>former division within <a href="#collections-research-services">Collections and Research Services</a> comprised of teams now in Preservation, Special Collections Services, <a href="digital-collections-operations">Digital Collections Operations</a>, and <a href="#access-research-services">Access and Research Services</a></dd>
 
 <a name="preservation-of-audio-moving-image"></a>
 <dt>Preservation of Audio and Moving Image</dt>
