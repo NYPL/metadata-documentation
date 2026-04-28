@@ -165,6 +165,9 @@ Common terms used within the work of the Metadata Services Unit (MSU)
 <dt>NYPL</dt>
 <dd>New York Public Library</dd>
 
+<dt>OL</dt>
+<dd><a href="#orange-logic">Orange Logic</a></dd>
+
 <dt>PAMI</dt>
 <dd><a href="#preservation-of-audio-moving-image">Preservation of Audio and Moving Image</a> (deprecated)</dd>
 
@@ -180,6 +183,9 @@ Common terms used within the work of the Metadata Services Unit (MSU)
 <dt>PRS</dt>
 <dd><a href="#permissions-reproduction-services">Permissions and Reproduction Services</a></dd>
   
+<dt>PTM</dt>
+<dd><a href="#preservation-treatment">Preservation TreatMent</a> (deprecated)</dd>
+
 <dt>RDA</dt>
 <dd><a href="#resource-description-access">Resource Description and Access</a></dd>
 
@@ -194,6 +200,9 @@ Common terms used within the work of the Metadata Services Unit (MSU)
 
 <dt>SCP</dt>
 <dd><a href="#special-collections-processing">Special Collections Processing</a></dd>
+
+<dt>SCT</dt>
+<dd><a href="#special-collections-transfer">Special Collections Transport</a> (sometimes pronounced "scoot")</dd>
   
 <dt>SPEC</dt>
 <dd><a href="#spec">SPEcial Collections</a></dd>
@@ -269,6 +278,10 @@ Common terms used within the work of the Metadata Services Unit (MSU)
 <a name="collections-research-services"></a>
 <dt>Collections and Research Services</dt>
 <dd>division within <a href="#research-libraries">Research Libraries</a> comprised of Collection Development, <a href="#access-research-services">Access and Research Services</a>, <a href="digital-collections-operations">Digital Collections Operations</a>, Preservation, and Special Collections Services</dd>
+
+<a name="conservation"></a>
+<dt>Conservation</dt>
+<dd>department within <a href="#preservation-collections-processing">Preservation and Collections Processing</a> that supports the collections of the Research Centers and provides conservation assessment, specialized rehousing, treatment, research, training, and outreach to advance the preservation of collections</dd>
   
 <a name="copyright-information-policy"></a>
 <dt>Copyright and Information Policy</dt>
@@ -450,6 +463,10 @@ Common terms used within the work of the Metadata Services Unit (MSU)
 <dt>MMS QA</dt>
 <dd>quality assurance version of the <a href="#metadata-management-system">Metadata Management System</a> that functions as a non-production test environment; accessible at <a href="https://qa-metadata.nypl.org/">qa-metadata.nypl.org</a></dd>
 
+<a name="orange-logic"></a>
+<dt>Orange Logic</dt>
+<dd>vendor of the digital asset management system being implemented by the Library</dd>
+
 <a name="permissions-reproduction-services"></a>
 <dt>Permissions and Reproduction Services</dt>
 <dd>unit within <a href="#digital-asset-management-access">Digital Asset Management and Access</a></dd>
@@ -473,6 +490,10 @@ Common terms used within the work of the Metadata Services Unit (MSU)
 <a name="public-order"></a>
 <dt>Public Order</dt>
 <dd>digitization request submitted to the Library by the public tracked by its sequential PO number; Public Orders often correspond to <a href="#work-orders">Work Orders</a></dd>
+
+<a name="preservation-treatment"></a>
+<dt>Preservation TreatMent</dt>
+<dd>former name of <a href="#conservation">Conservation</a></dd>
 
 <a name="preservica"></a>
 <dt>Preservica</dt>
@@ -517,6 +538,10 @@ Common terms used within the work of the Metadata Services Unit (MSU)
 <a name="special-collections-processing"></a>
 <dt>Special Collections Processing</dt>
 <dd>department within <a href="#collections-research-services">Collections and Research Services</a> that promotes access to the Library's most distinctive collections by describing rare and unique materials and preparing them for preservation and use</dd>
+
+<a name="special-collections-transfer"></a>
+<dt>Special Collections Transfer</dt>
+<dd>program of the Registrar's Office that oversees the packing and transport of collection materials between the research centers and the Library Services Center for digitization, conservation treatment, exhibition preparation, and cataloging</dd>
   
 <a name="stavros-niarchos-foundaiton-library"></a>
 <dt>Stavros Niarchos Foundation Library</dt>
