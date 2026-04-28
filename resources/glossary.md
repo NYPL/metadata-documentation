@@ -30,6 +30,18 @@ Common terms used within the work of the Metadata Services Unit (MSU)
 <dt>AMI</dt>
 <dd>audio and moving image</dd>
 
+<dt>AMID</dt>
+<dd>Audio and Moving Image Description</dd>
+
+<dt>AMIP</dt>
+<dd>Audio and Moving Image Preservation</dd>
+
+<dt>AP</dt>
+<dd>Archival Processing</dd>
+
+<dt>APU</dt>
+<dd>Archival Processing Unit (deprecated)</dd>
+
 <dt>API</dt>
 <dd>application programming interface</dd>
 
@@ -186,6 +198,9 @@ Common terms used within the work of the Metadata Services Unit (MSU)
 <dt>PTM</dt>
 <dd><a href="#preservation-treatment">Preservation TreatMent</a> (deprecated)</dd>
 
+<dt>RCM</dt>
+<dd>Rare Materials Cataloging</dd>
+
 <dt>RDA</dt>
 <dd><a href="#resource-description-access">Resource Description and Access</a></dd>
 
@@ -195,8 +210,8 @@ Common terms used within the work of the Metadata Services Unit (MSU)
 <dt>SASB</dt>
 <dd><a href="#stephen-a-schwarzman-building">Stephen A. Schwarzman Building</a> (sometimes pronounced "saz-bee")</dd>
 
-<dt>SNFL</dt>
-<dd><a href="#stavros-niarchos-foundation-library">Stavros Niarchos Foundation Library</a> (sometimes pronounced "sniffle")</dd>
+<dt>SCC</dt>
+<dd>Special Collections Cataloging (deprecated)</dd>
 
 <dt>SCP</dt>
 <dd><a href="#special-collections-processing">Special Collections Processing</a></dd>
@@ -204,6 +219,9 @@ Common terms used within the work of the Metadata Services Unit (MSU)
 <dt>SCT</dt>
 <dd><a href="#special-collections-transfer">Special Collections Transport</a> (sometimes pronounced "scoot")</dd>
   
+<dt>SNFL</dt>
+<dd><a href="#stavros-niarchos-foundation-library">Stavros Niarchos Foundation Library</a> (sometimes pronounced "sniffle")</dd>
+
 <dt>SPEC</dt>
 <dd><a href="#spec">SPEcial Collections</a></dd>
 
@@ -233,7 +251,7 @@ Common terms used within the work of the Metadata Services Unit (MSU)
 
 <a name="access-research-services"></a>
 <dt>Access and Research Services</dt>
-<dd>TK</dd>
+<dd>supports access to the research collections, including Aeon, e-resources discovery, MaRLI, and the <a href="#research-collections-preservation-consortium">ReCAPM</a> shared collection</dd>
 
 <a name="anglo-american-cataloging-rules"></a>
 <dt>Anglo-American Cataloging Rules</dt>
