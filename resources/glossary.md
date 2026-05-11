@@ -198,7 +198,7 @@ Common terms used within the work of the Metadata Services Unit (MSU)
 <dt>PTM</dt>
 <dd><a href="#preservation-treatment">Preservation TreatMent</a> (deprecated)</dd>
 
-<dt>RCM</dt>
+<dt>RMC</dt>
 <dd>Rare Materials Cataloging</dd>
 
 <dt>RDA</dt>
