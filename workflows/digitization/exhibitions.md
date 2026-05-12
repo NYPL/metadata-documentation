@@ -23,7 +23,7 @@ Provides an overview of the workflow for exhibition-related digitization, partic
 
 - Library staff may initiate digitization projects that correspond to exhibitions and special displays
 - Processes for creating exhibition metadata will vary by library, division, and the exhibition itself
-- If the Metadata Services Unit (MSU) should create metadata records for an exhibition in MMS, non-MSU staff can follow the steps in [Requesting Exhibition Metadata Creation](/metadata-documentation/#requesting-exhibition-metadata-creation)
+- If Metadata Services should create metadata records for an exhibition in MMS, non-MSU staff can follow the steps in [Requesting Exhibition Metadata Creation](/metadata-documentation/#requesting-exhibition-metadata-creation)
 - If non-MSU staff will create metadata records for an exhibition in MMS, they should:
   - Refer to documentation for [Importing Metadata](/metadata-documentation/workflows/importing/) and [Creating New Metadata](/metadata-documentation/workflows/creating/)
   - Add the exhibition identifier to each item in an [Identifier](/metadata-documentation/metadata/element/identifier/po/) element using [NYPL Exhibition ID](/metadata-documentation/metadata/element/identifier/nypl-exhibition/) as the type
