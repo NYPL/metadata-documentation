@@ -24,7 +24,7 @@ Provides guidelines for metadata specific to periodicals such as magazines and n
 
 ### Record Structure
 {: .d-inline .v-align-middle .mr-2 }
-[View MSU Documentation for Record Types →](/metadata-documentation/metadata/record-type/)
+[View Metadata Services Documentation for Record Types →](/metadata-documentation/metadata/record-type/)
 {: .d-inline .v-align-middle .text-zeta .ml-2 }
 
 - For partially-digitized periodicals, structure an issue of the periodical as a container with a child item for each page or consecutive page range, e.g.:
@@ -55,7 +55,7 @@ Provides guidelines for metadata specific to periodicals such as magazines and n
 
 ### Title
 {: .d-inline .v-align-middle .mr-2 }
-[View MSU Documentation for Element →](/metadata-documentation/metadata/element/title/)
+[View Metadata Services Documentation for Element →](/metadata-documentation/metadata/element/title/)
 {: .d-inline .v-align-middle .text-zeta .ml-2 }
 
 - For a collection record representing the periodical, use the full periodical title
@@ -113,14 +113,14 @@ Provides guidelines for metadata specific to periodicals such as magazines and n
 
 ### Origin Info
 {: .d-inline .v-align-middle .mr-2 }
-[View MSU Documentation for Element →](/metadata-documentation/metadata/element/origin-info/)
+[View Metadata Services Documentation for Element →](/metadata-documentation/metadata/element/origin-info/)
 {: .d-inline .v-align-middle .text-zeta .ml-2 }
 
 ---
 
 #### Issuance
 {: .d-inline .v-align-middle .mr-2 }
-[View MSU Documentation for Subelement →](/metadata-documentation/metadata/element/origin-info/#issuance)
+[View Metadata Services Documentation for Subelement →](/metadata-documentation/metadata/element/origin-info/#issuance)
 {: .d-inline .v-align-middle .text-zeta .ml-2 }
 
 - For a collection record representing the periodical, select **serial**
@@ -129,7 +129,7 @@ Provides guidelines for metadata specific to periodicals such as magazines and n
 
 #### Date
 {: .d-inline .v-align-middle .mr-2 }
-[View MSU Documentation for Subelement →](/metadata-documentation/metadata/element/origin-info/#date)
+[View Metadata Services Documentation for Subelement →](/metadata-documentation/metadata/element/origin-info/#date)
 {: .d-inline .v-align-middle .text-zeta .ml-2 }
 
 - For **Type**, select **Date issued**
@@ -144,7 +144,7 @@ Provides guidelines for metadata specific to periodicals such as magazines and n
 
 ### Genre
 {: .d-inline .v-align-middle .mr-2 }
-[View MSU Documentation for Element →](/metadata-documentation/metadata/element/genre/)
+[View Metadata Services Documentation for Element →](/metadata-documentation/metadata/element/genre/)
 {: .d-inline .v-align-middle .text-zeta .ml-2 }
 
 - Add **Genre** based on the [Genre (non-AMI) 🔒](https://docs.google.com/spreadsheets/d/1NGlV94Iufe0p3EJdoJDX7SgvH-LUYqWLEuB1Az3DmbM/edit#gid=1262013027) tab of the [Genre + Form + Extent 🔒](https://docs.google.com/spreadsheets/d/1NGlV94Iufe0p3EJdoJDX7SgvH-LUYqWLEuB1Az3DmbM/edit) spreadsheet, which includes:
@@ -160,7 +160,7 @@ Provides guidelines for metadata specific to periodicals such as magazines and n
 
 ### Physical Description
 {: .d-inline .v-align-middle .mr-2 }
-[View MSU Documentation for Element →](/metadata-documentation/metadata/element/physical-description/)
+[View Metadata Services Documentation for Element →](/metadata-documentation/metadata/element/physical-description/)
 {: .d-inline .v-align-middle .text-zeta .ml-2 }
 
 - For a collection record representing the periodical, do not set the **Physical description** to be **Inheritable**
@@ -170,7 +170,7 @@ Provides guidelines for metadata specific to periodicals such as magazines and n
 
 ### Subject
 {: .d-inline .v-align-middle .mr-2 }
-[View MSU Documentation for Element →](/metadata-documentation/metadata/element/subject/)
+[View Metadata Services Documentation for Element →](/metadata-documentation/metadata/element/subject/)
 {: .d-inline .v-align-middle .text-zeta .ml-2 }
 
 - For a collection record representing the periodical, **Subject** values should represent either all or a signififcant portion of periodical as a whole
@@ -181,7 +181,7 @@ Provides guidelines for metadata specific to periodicals such as magazines and n
 
 ### Note
 {: .d-inline .v-align-middle .mr-2 }
-[View MSU Documentation for Element →](/metadata-documentation/metadata/element/note/)
+[View Metadata Services Documentation for Element →](/metadata-documentation/metadata/element/note/)
 {: .d-inline .v-align-middle .text-zeta .ml-2 }
 
 - For a collection record representing the periodical, a **Note** element should generally not be set to **Inheritable** unless it applies to all child records
@@ -193,7 +193,7 @@ Provides guidelines for metadata specific to periodicals such as magazines and n
 
 ### Location
 {: .d-inline .v-align-middle .mr-2 }
-[View MSU Documentation for Element →](/metadata-documentation/metadata/element/location/)
+[View Metadata Services Documentation for Element →](/metadata-documentation/metadata/element/location/)
 {: .d-inline .v-align-middle .text-zeta .ml-2 }
 
 - Set **Location** at the collection level and set to be **Inheritable**
