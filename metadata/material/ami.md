@@ -24,7 +24,7 @@ Provides guidelines for metadata specific to audio and moving image (AMI) materi
 
 ### Identifier
 {: .d-inline .v-align-middle .mr-2 }
-[View MSU Documentation for Element →](/metadata-documentation/metadata/element/identifier/)
+[View Metadata Services Documentation for Element →](/metadata-documentation/metadata/element/identifier/)
 {: .d-inline .v-align-middle .text-zeta .ml-2 }
 
 - Add AMI-related identifiers where applicable:
@@ -41,7 +41,7 @@ Provides guidelines for metadata specific to audio and moving image (AMI) materi
 
 ### Type of Resource
 {: .d-inline .v-align-middle .mr-2 }
-[View MSU Documentation for Element →](/metadata-documentation/metadata/element/type-of-resource/)
+[View Metadata Services Documentation for Element →](/metadata-documentation/metadata/element/type-of-resource/)
 {: .d-inline .v-align-middle .text-zeta .ml-2 }
 
 - Use **sound recording** for all audio
@@ -51,7 +51,7 @@ Provides guidelines for metadata specific to audio and moving image (AMI) materi
 
 ### Name
 {: .d-inline .v-align-middle .mr-2 }
-[View MSU Documentation for Element →](/metadata-documentation/metadata/element/name/)
+[View Metadata Services Documentation for Element →](/metadata-documentation/metadata/element/name/)
 {: .d-inline .v-align-middle .text-zeta .ml-2 }
 
 - If the source MARC record contains an added entry for the title of the work ([NameTitle](https://id.loc.gov/ontologies/madsrdf/v1.html#NameTitle)) depicted in the recording, ensure the name component is added as a **Name** element with the appropriate [**Role**](/metadata-documentation/metadata/element/name/#role)
@@ -64,7 +64,7 @@ Provides guidelines for metadata specific to audio and moving image (AMI) materi
 
 ### Genre
 {: .d-inline .v-align-middle .mr-2 }
-[View MSU Documentation for Element →](/metadata-documentation/metadata/element/genre/)
+[View Metadata Services Documentation for Element →](/metadata-documentation/metadata/element/genre/)
 {: .d-inline .v-align-middle .text-zeta .ml-2 }
 
 - Add **Genre** based on the [Genre (AMI) 🔒](https://docs.google.com/spreadsheets/d/1NGlV94Iufe0p3EJdoJDX7SgvH-LUYqWLEuB1Az3DmbM/edit#gid=1476737555) tab of the [Genre + Form + Extent 🔒](https://docs.google.com/spreadsheets/d/1NGlV94Iufe0p3EJdoJDX7SgvH-LUYqWLEuB1Az3DmbM/edit) spreadsheet
@@ -73,7 +73,7 @@ Provides guidelines for metadata specific to audio and moving image (AMI) materi
 
 ### Language
 {: .d-inline .v-align-middle .mr-2 }
-[View MSU Documentation for Element →](/metadata-documentation/metadata/element/language/)
+[View Metadata Services Documentation for Element →](/metadata-documentation/metadata/element/language/)
 {: .d-inline .v-align-middle .text-zeta .ml-2 }
 
 - **Language** is required for AMI with linguistic content
@@ -82,14 +82,14 @@ Provides guidelines for metadata specific to audio and moving image (AMI) materi
 
 ### Physical Description
 {: .d-inline .v-align-middle .mr-2 }
-[View MSU Documentation for Element →](/metadata-documentation/metadata/element/physical-description/)
+[View Metadata Services Documentation for Element →](/metadata-documentation/metadata/element/physical-description/)
 {: .d-inline .v-align-middle .text-zeta .ml-2 }
 
 ---
 
 #### Form
 {: .d-inline .v-align-middle .mr-2 }
-[View MSU Documentation for Subelement →](/metadata-documentation/metadata/element/physical-description/#form)
+[View Metadata Services Documentation for Subelement →](/metadata-documentation/metadata/element/physical-description/#form)
 {: .d-inline .v-align-middle .text-zeta .ml-2 }
 
 - Add **Form** based on the [Form (AMI) 🔒](https://docs.google.com/spreadsheets/d/1NGlV94Iufe0p3EJdoJDX7SgvH-LUYqWLEuB1Az3DmbM/edit#gid=1344175434) tab of the [Genre + Form + Extent 🔒](https://docs.google.com/spreadsheets/d/1NGlV94Iufe0p3EJdoJDX7SgvH-LUYqWLEuB1Az3DmbM/edit) spreadsheet
@@ -98,7 +98,7 @@ Provides guidelines for metadata specific to audio and moving image (AMI) materi
 
 #### Extent
 {: .d-inline .v-align-middle .mr-2 }
-[View MSU Documentation for Subelement →](/metadata-documentation/metadata/element/physical-description/#extent)
+[View Metadata Services Documentation for Subelement →](/metadata-documentation/metadata/element/physical-description/#extent)
 {: .d-inline .v-align-middle .text-zeta .ml-2 }
 
 - Use **Extent** to describe the transfer master
@@ -112,14 +112,14 @@ Provides guidelines for metadata specific to audio and moving image (AMI) materi
 
 ### Subject
 {: .d-inline .v-align-middle .mr-2 }
-[View MSU Documentation for Element →](/metadata-documentation/metadata/element/subject/)
+[View Metadata Services Documentation for Element →](/metadata-documentation/metadata/element/subject/)
 {: .d-inline .v-align-middle .text-zeta .ml-2 }
 
 ---
 
 #### Title
 {: .d-inline .v-align-middle .mr-2 }
-[View MSU Documentation for Subelement →](/metadata-documentation/metadata/element/subject/#title)
+[View Metadata Services Documentation for Subelement →](/metadata-documentation/metadata/element/subject/#title)
 {: .d-inline .v-align-middle .text-zeta .ml-2 }
 
 - If the source MARC record contains an added entry for the title of the work ([**NameTitle**](https://id.loc.gov/ontologies/madsrdf/v1.html#NameTitle)) depicted in the recording, ensure it is added as a **Title** subelement of **Subject**
