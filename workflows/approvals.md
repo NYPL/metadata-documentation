@@ -24,11 +24,11 @@ Provides an overview of the process of approving records in the Metadata Managem
     - Backlog approvals are generated through [remediation projects](/metadata-documentation/workflows/remediation/)
     - New digitization approvals should be prioritized over tasks derived from remediation projects
 
-## Steps for MSU Staff
+## Steps For Metadata Services Staff
 
 ### Approving Records
 {: .d-inline .v-align-middle .mr-2 }
-For MSU Staff
+For Metadata Services Staff
 {: .d-inline .v-align-middle .label .label-purple .mx-1 }
 1. Monitor your [ClickUp notifications 🔒](https://app.clickup.com/2305128/notifications) and the following lists for approval tasks that have been assigned to you:
     1. [Metadata Services › New Digitization › Approvals 🔒](https://app.clickup.com/2305128/v/l/6-180919377-1) for incoming approvals that correspond to newly digitized material
