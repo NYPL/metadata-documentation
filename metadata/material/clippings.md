@@ -24,7 +24,7 @@ Provides guidelines for metadata specific to [clippings](https://dictionary.arch
 
 ### Record Structure
 {: .d-inline .v-align-middle .mr-2 }
-[View MSU Documentation for Record Types →](/metadata-documentation/metadata/record-type/)
+[View Metadata Services Documentation for Record Types →](/metadata-documentation/metadata/record-type/)
 {: .d-inline .v-align-middle .text-zeta .ml-2 }
 
 - Clippings may be structured as:
@@ -72,7 +72,7 @@ Provides guidelines for metadata specific to [clippings](https://dictionary.arch
 
 ### Title
 {: .d-inline .v-align-middle .mr-2 }
-[View MSU Documentation for Element →](/metadata-documentation/metadata/element/title/)
+[View Metadata Services Documentation for Element →](/metadata-documentation/metadata/element/title/)
 {: .d-inline .v-align-middle .text-zeta .ml-2 }
 
 - For an item, container, or collection record representing an aggregation of clippings such as a clippings file, scrapbook, or archival collection:
@@ -89,14 +89,14 @@ Provides guidelines for metadata specific to [clippings](https://dictionary.arch
 
 ### Origin Info
 {: .d-inline .v-align-middle .mr-2 }
-[View MSU Documentation for Element →](/metadata-documentation/metadata/element/origin-info/)
+[View Metadata Services Documentation for Element →](/metadata-documentation/metadata/element/origin-info/)
 {: .d-inline .v-align-middle .text-zeta .ml-2 }
 
 ---
 
 #### Date
 {: .d-inline .v-align-middle .mr-2 }
-[View MSU Documentation for Subelement →](/metadata-documentation/metadata/element/origin-info/#date)
+[View Metadata Services Documentation for Subelement →](/metadata-documentation/metadata/element/origin-info/#date)
 {: .d-inline .v-align-middle .text-zeta .ml-2 }
 
 - For records that include multiple clippings spanning multiple dates, either:
@@ -108,7 +108,7 @@ Provides guidelines for metadata specific to [clippings](https://dictionary.arch
 
 #### Place
 {: .d-inline .v-align-middle .mr-2 }
-[View MSU Documentation for Subelement →](/metadata-documentation/metadata/element/origin-info/#place)
+[View Metadata Services Documentation for Subelement →](/metadata-documentation/metadata/element/origin-info/#place)
 {: .d-inline .v-align-middle .text-zeta .ml-2 }
 
 - For collection records, add a **Place** only when when it applies to the collection as a whole
@@ -118,7 +118,7 @@ Provides guidelines for metadata specific to [clippings](https://dictionary.arch
 
 #### Publisher
 {: .d-inline .v-align-middle .mr-2 }
-[View MSU Documentation for Subelement →](/metadata-documentation/metadata/element/origin-info/#publisher)
+[View Metadata Services Documentation for Subelement →](/metadata-documentation/metadata/element/origin-info/#publisher)
 {: .d-inline .v-align-middle .text-zeta .ml-2 }
 
 - For collection records, add a **Publisher** only when when it applies to the collection as a whole
@@ -128,14 +128,14 @@ Provides guidelines for metadata specific to [clippings](https://dictionary.arch
 
 #### Date
 {: .d-inline .v-align-middle .mr-2 }
-[View MSU Documentation for Subelement →](/metadata-documentation/metadata/element/origin-info/#date)
+[View Metadata Services Documentation for Subelement →](/metadata-documentation/metadata/element/origin-info/#date)
 {: .d-inline .v-align-middle .text-zeta .ml-2 }
 
 ---
 
 ### Name
 {: .d-inline .v-align-middle .mr-2 }
-[View MSU Documentation for Element →](/metadata-documentation/metadata/element/name/)
+[View Metadata Services Documentation for Element →](/metadata-documentation/metadata/element/name/)
 {: .d-inline .v-align-middle .text-zeta .ml-2 }
 
 - For a single clipping or where multiple clippings are by the same author:
@@ -147,7 +147,7 @@ Provides guidelines for metadata specific to [clippings](https://dictionary.arch
 
 ### Genre
 {: .d-inline .v-align-middle .mr-2 }
-[View MSU Documentation for Element →](/metadata-documentation/metadata/element/genre/)
+[View Metadata Services Documentation for Element →](/metadata-documentation/metadata/element/genre/)
 {: .d-inline .v-align-middle .text-zeta .ml-2 }
 
 - For an collection or container record representing an aggregation of clippings, add [Clippings](https://docs.google.com/spreadsheets/d/1NGlV94Iufe0p3EJdoJDX7SgvH-LUYqWLEuB1Az3DmbM/edit?gid=1262013027#gid=1262013027&range=A66) as a **Genre** and set to be **Inheritable**
@@ -166,7 +166,7 @@ Provides guidelines for metadata specific to [clippings](https://dictionary.arch
 
 ### Table of Contents
 {: .d-inline .v-align-middle .mr-2 }
-[View MSU Documentation for Element →](/metadata-documentation/metadata/element/table-of-contents/)
+[View Metadata Services Documentation for Element →](/metadata-documentation/metadata/element/table-of-contents/)
 {: .d-inline .v-align-middle .text-zeta .ml-2 }
 
 - For multiple clippings each with a different author:
@@ -177,7 +177,7 @@ Provides guidelines for metadata specific to [clippings](https://dictionary.arch
 
 ### Note
 {: .d-inline .v-align-middle .mr-2 }
-[View MSU Documentation for Element →](/metadata-documentation/metadata/element/note/)
+[View Metadata Services Documentation for Element →](/metadata-documentation/metadata/element/note/)
 {: .d-inline .v-align-middle .text-zeta .ml-2 }
 
 - For item records, **Note** elements can be added with the appropriate **Type** to further describe the clipping
