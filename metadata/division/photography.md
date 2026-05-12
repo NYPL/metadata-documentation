@@ -24,7 +24,7 @@ Provides guidelines for metadata describing material from the Photography Collec
 
 ### Record Structure
 {: .d-inline .v-align-middle .mr-2 }
-[View MSU Documentation for Record Types →](/metadata-documentation/metadata/record-type/)
+[View Metadata Services Documentation for Record Types →](/metadata-documentation/metadata/record-type/)
 {: .d-inline .v-align-middle .text-zeta .ml-2 }
 
 {: .note }
@@ -63,7 +63,7 @@ Provides guidelines for metadata describing material from the Photography Collec
 
 ### Title
 {: .d-inline .v-align-middle .mr-2 }
-[View MSU Documentation for Element →](/metadata-documentation/metadata/element/title/)
+[View Metadata Services Documentation for Element →](/metadata-documentation/metadata/element/title/)
 {: .d-inline .v-align-middle .text-zeta .ml-2 }
 
 - For a collection- or container record representing a series, use the title of the series as the **Title**
@@ -79,7 +79,7 @@ Provides guidelines for metadata describing material from the Photography Collec
 
 ### Name
 {: .d-inline .v-align-middle .mr-2 }
-[View MSU Documentation for Element →](/metadata-documentation/metadata/element/name/)
+[View Metadata Services Documentation for Element →](/metadata-documentation/metadata/element/name/)
 {: .d-inline .v-align-middle .text-zeta .ml-2 }
 
 - Adjust **Name** elements to conform to [**Name Part**](/metadata-documentation/metadata/element/name/#name-part) guidelines
@@ -93,7 +93,7 @@ Provides guidelines for metadata describing material from the Photography Collec
 
 ### Note
 {: .d-inline .v-align-middle .mr-2 }
-[View MSU Documentation for Element →](/metadata-documentation/metadata/element/note/)
+[View Metadata Services Documentation for Element →](/metadata-documentation/metadata/element/note/)
 {: .d-inline .v-align-middle .text-zeta .ml-2 }
 
 - If the creator is anonymous, add a [**Note**](https://docs.google.com/document/d/1729J2drDizJ3juW-RH3KIewgNvKLBo85o6nn82pjPMA/edit#note) element containing `Anonymous` with the **Type**: **statement of responsibility**
@@ -102,14 +102,14 @@ Provides guidelines for metadata describing material from the Photography Collec
 
 ### Location
 {: .d-inline .v-align-middle .mr-2 }
-[View MSU Documentation for Element →](/metadata-documentation/metadata/element/location/)
+[View Metadata Services Documentation for Element →](/metadata-documentation/metadata/element/location/)
 {: .d-inline .v-align-middle .text-zeta .ml-2 }
 
 ---
 
 #### Call number / Shelf Locator
 {: .d-inline .v-align-middle .mr-2 }
-[View MSU Documentation for Subelement →](/metadata-documentation/metadata/element/location/#call-number--shelf-locator)
+[View Metadata Services Documentation for Subelement →](/metadata-documentation/metadata/element/location/#call-number--shelf-locator)
 {: .d-inline .v-align-middle .text-zeta .ml-2 }
 
 - The **Call number / Shelf Locator** should contain the [**TMS Object Number**](/metadata-documentation/metadata/element/identifier/tms-object-number/)
@@ -119,6 +119,6 @@ Provides guidelines for metadata describing material from the Photography Collec
 ---
 
 ## See Also
-- [Wallach Division: Photography Collection (Internal Documentation) 🔒](https://docs.google.com/document/d/1Kt90vsEINm0jgRXquCOXRpsSWvZM7ASE6ugFs7-ukNo/edit) for the respective [MSU Liason's 🔒](https://docs.google.com/spreadsheets/d/1P-YDJigon640fTCLP4Ig4-zmzqrX88v5M24ShuxFNVY/edit?gid=0) internal documentation and notes related to the Photography Collection
+- [Wallach Division: Photography Collection (Internal Documentation) 🔒](https://docs.google.com/document/d/1Kt90vsEINm0jgRXquCOXRpsSWvZM7ASE6ugFs7-ukNo/edit) for the respective [Metadata Services Liason's 🔒](https://docs.google.com/spreadsheets/d/1P-YDJigon640fTCLP4Ig4-zmzqrX88v5M24ShuxFNVY/edit?gid=0) internal documentation and notes related to the Photography Collection
 - [Importing TMS Records](/metadata-documentation/workflows/importing/tms/) for the workflow to create records in the Metadata Management System (MMS) by importing metadata from records cataloged in The Museum System (TMS)
 - [Prints and Photographs Discovery](https://ppd.nypl.org/) for source data about items in the Photography Collection
