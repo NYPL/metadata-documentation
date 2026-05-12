@@ -38,13 +38,13 @@ For PRS Staff
 1. Complete the [Contact Form to Request PO Metadata Creation](/metadata-documentation/contact/form/po/)
     1. The same form can also be accessed within [ClickUp 🔒](https://app.clickup.com/2305128/v/fm/26b38-13677)
 1. Once the form is submitted, a new task will be created in [Metadata Services › New Digitization › Metadata Creation › POs 🔒](https://app.clickup.com/2305128/v/l/26b38-13757) that:
-    1. Is assigned to the submitter of the form, the relevant MSU liaison (based on **Division**), and the Digitization Coordinator (based on **Division**)
+    1. Is assigned to the submitter of the form, the relevant Metadata Services liaison (based on **Division**), and the Digitization Coordinator (based on **Division**)
     1. Has **Status** of **To Create Metadata**
 1. If at any point you need to add any additional information, you can do so directly in the ClickUp task that was generated
 1. Once metadata is created:
     1. The task's **Status** will appear as **Metadata Created**
 
-## Steps For Metadata Services Staff
+## Steps for Metadata Services Staff
 
 ### Creating Metadata
 {: .d-inline .v-align-middle .mr-2 }
@@ -83,11 +83,11 @@ For Metadata Services Staff
     - PRS staff coordinate shipment of material to DIS
     - [Copyright and Information Policy](/metadata-documentation/resources/glossary/#copyright-information-policy) staff add rights metadata
     - DIS staff digitizes the requested materials
-    - MSU staff [approves](/metadata-documentation/workflows/approvals/) the item(s)
+    - Metadata Services staff [approves](/metadata-documentation/workflows/approvals/) the item(s)
     - Once approved in MMS, item(s) that meet the [criteria for appearance](/metadata-documentation/dc/criteria/) will be accessible on DC
         1. Searching DC using the PO number (without the "PO") will return any publicly accessible items that correspond to that PO
-- Pending POs where MSU staff have not yet received the related approval can be found in [Metadata Services › New Digitization › Digitization Tracking › Active PO Digitization 🔒](https://app.clickup.com/2305128/v/l/26b38-9277)
-    - Corresponding [Approvals 🔒](https://app.clickup.com/2305128/v/l/6-180919377-1) are connected to the Metadata Creation task as they are received by MSU
+- Pending POs where Metadata Services staff have not yet received the related approval can be found in [Metadata Services › New Digitization › Digitization Tracking › Active PO Digitization 🔒](https://app.clickup.com/2305128/v/l/26b38-9277)
+    - Corresponding [Approvals 🔒](https://app.clickup.com/2305128/v/l/6-180919377-1) are connected to the Metadata Creation task as they are received by Metadata Services
 
 ## See Also
 - [Photo Order](/metadata-documentation/metadata/element/identifier/po/) for more information about the PO identifier
