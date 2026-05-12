@@ -19,7 +19,7 @@ nav_order: 2
 
 [metadata-admin 🔒](https://github.com/NYPL/metadata-admin/)
 {: .fw-500 .text-grey-dk-300 .fs-5 .mt-5 .mb-0}
-Contains internal information for MSU staff members
+Contains internal information For Metadata Services Staff members
 {: .mt-1 .mb-0 }
 - [Employee Handbook 🔒](https://github.com/NYPL/metadata-admin/blob/main/employee-handbook.md)
 {: .mt-1 .mb-0 }
