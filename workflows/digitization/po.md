@@ -44,11 +44,11 @@ For PRS Staff
 1. Once metadata is created:
     1. The task's **Status** will appear as **Metadata Created**
 
-## Steps for MSU Staff
+## Steps For Metadata Services Staff
 
 ### Creating Metadata
 {: .d-inline .v-align-middle .mr-2 }
-For MSU Staff
+For Metadata Services Staff
 {: .d-inline .v-align-middle .label .label-purple .mx-1 }
 1. Monitor your [ClickUp notifications 🔒](https://app.clickup.com/2305128/notifications) and [Metadata Services › New Digitization › Metadata Creation 🔒](https://app.clickup.com/2305128/v/l/6-901707354926-1) for metadata creation tasks that have been assigned to you
     1. Incoming PO metadata requests will have a task name that begins with PO and the status of **To Create Metadata**
