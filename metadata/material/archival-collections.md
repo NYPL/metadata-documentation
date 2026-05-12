@@ -24,7 +24,7 @@ Provides guidelines for metadata specific to archival collections described in t
 
 ### Record Structure
 {: .d-inline .v-align-middle .mr-2 }
-[View MSU Documentation for Record Types →](/metadata-documentation/metadata/record-type/)
+[View Metadata Services Documentation for Record Types →](/metadata-documentation/metadata/record-type/)
 {: .d-inline .v-align-middle .text-zeta .ml-2 }
 
 - Record structure for archival collections should mirror the hierarchy established by the [finding aid](/metadata-documentation/workflows/importing/finding-aids/)
@@ -39,7 +39,7 @@ Provides guidelines for metadata specific to archival collections described in t
 
 ### Title
 {: .d-inline .v-align-middle .mr-2 }
-[View MSU Documentation for Element →](/metadata-documentation/metadata/element/title/)
+[View Metadata Services Documentation for Element →](/metadata-documentation/metadata/element/title/)
 {: .d-inline .v-align-middle .text-zeta .ml-2 }
 
 - Do not modify titles imported or replicated from the finding aid unless requested by the division
@@ -48,7 +48,7 @@ Provides guidelines for metadata specific to archival collections described in t
 
 ### Identifier
 {: .d-inline .v-align-middle .mr-2 }
-[View MSU Documentation for Element →](/metadata-documentation/metadata/element/identifier/)
+[View Metadata Services Documentation for Element →](/metadata-documentation/metadata/element/identifier/)
 {: .d-inline .v-align-middle .text-zeta .ml-2 }
 
 - For all collection records:
@@ -67,7 +67,7 @@ Provides guidelines for metadata specific to archival collections described in t
 
 ### Type of Resource
 {: .d-inline .v-align-middle .mr-2 }
-[View MSU Documentation for Element →](/metadata-documentation/metadata/element/type-of-resource/)
+[View Metadata Services Documentation for Element →](/metadata-documentation/metadata/element/type-of-resource/)
 {: .d-inline .v-align-middle .text-zeta .ml-2 }
 
 - For collection records:
@@ -78,7 +78,7 @@ Provides guidelines for metadata specific to archival collections described in t
 
 ### Genre
 {: .d-inline .v-align-middle .mr-2 }
-[View MSU Documentation for Element →](/metadata-documentation/metadata/element/genre/)
+[View Metadata Services Documentation for Element →](/metadata-documentation/metadata/element/genre/)
 {: .d-inline .v-align-middle .text-zeta .ml-2 }
 
 - For container records that have a genre term as a [**Title**](/metadata-documentation/metadata/element/title/) (e.g. `Correspondence` or `Manuscripts`):
@@ -88,7 +88,7 @@ Provides guidelines for metadata specific to archival collections described in t
 
 ### Language
 {: .d-inline .v-align-middle .mr-2 }
-[View MSU Documentation for Element →](/metadata-documentation/metadata/element/language/)
+[View Metadata Services Documentation for Element →](/metadata-documentation/metadata/element/language/)
 {: .d-inline .v-align-middle .text-zeta .ml-2 }
 
 - For collection records:
@@ -100,7 +100,7 @@ Provides guidelines for metadata specific to archival collections described in t
 
 ### Physical Description
 {: .d-inline .v-align-middle .mr-2 }
-[View MSU Documentation for Element →](/metadata-documentation/metadata/element/physical-description/)
+[View Metadata Services Documentation for Element →](/metadata-documentation/metadata/element/physical-description/)
 {: .d-inline .v-align-middle .text-zeta .ml-2 }
 
 - If no **Physical Description** element was imported, review [**Note**](#note) elements to determine if any should be relocated to a **Physical Description** element
@@ -110,7 +110,7 @@ Provides guidelines for metadata specific to archival collections described in t
 
 #### Form
 {: .d-inline .v-align-middle .mr-2 }
-[View MSU Documentation for Subelement →](/metadata-documentation/metadata/element/physical-description/#form)
+[View Metadata Services Documentation for Subelement →](/metadata-documentation/metadata/element/physical-description/#form)
 {: .d-inline .v-align-middle .text-zeta .ml-2 }
 
 - A **Form** element is required for analog sources that are reproductions of the original such as microform
@@ -120,7 +120,7 @@ Provides guidelines for metadata specific to archival collections described in t
 
 ### Subject
 {: .d-inline .v-align-middle .mr-2 }
-[View MSU Documentation for Element →](/metadata-documentation/metadata/element/subject/)
+[View Metadata Services Documentation for Element →](/metadata-documentation/metadata/element/subject/)
 {: .d-inline .v-align-middle .text-zeta .ml-2 }
 
 - For collection records:
@@ -133,7 +133,7 @@ Provides guidelines for metadata specific to archival collections described in t
 
 ### Note
 {: .d-inline .v-align-middle .mr-2 }
-[View MSU Documentation for Element →](/metadata-documentation/metadata/element/note/)
+[View Metadata Services Documentation for Element →](/metadata-documentation/metadata/element/note/)
 {: .d-inline .v-align-middle .text-zeta .ml-2 }
 
 - Review imported **Note** elements to determine if any should be relocated to another element, e.g.:
