@@ -9,7 +9,7 @@ nav_order: 6
 # Approvals
 {: .no_toc }
 
-Provides an overview of the process of approving records in the Metadata Management System (MMS) to appear on Digital Collections (DC) for Metadata Services Unit (MSU) staff
+Provides an overview of the process of approving records in the Metadata Management System (MMS) to appear on Digital Collections (DC) for Metadata Services staff
 
 ## Table of contents
 {: .no_toc .text-delta }
