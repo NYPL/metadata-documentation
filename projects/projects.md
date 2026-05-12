@@ -17,7 +17,7 @@ table th:nth-of-type(2) {
 # Projects
 {: .no_toc }
 
-An overview of projects initiated by or involving the Metadata Services Unit (MSU) and other collaborators throughout the Library
+An overview of projects initiated by or involving Metadata Services and other collaborators throughout the Library
 
 {: .highlight-title }
 > 🚧 Under Construction
