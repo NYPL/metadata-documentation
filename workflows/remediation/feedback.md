@@ -11,7 +11,7 @@ nav_exclude: true
 # Metadata Feedback
 {: .no_toc }
 
-Provides an overview of reviewing feedback relating to metadata in the Metadata Management System (MMS) and Digital Collections (DC) for Metadata Services Unit (MSU) staff
+Provides an overview of reviewing feedback relating to metadata in the Metadata Management System (MMS) and Digital Collections (DC) for Metadata Services staff
 
 ## Table of contents
 {: .no_toc .text-delta }
