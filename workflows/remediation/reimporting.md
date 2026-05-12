@@ -23,7 +23,7 @@ Describes whether and how to reimport previously-imported records into the Metad
 - Metadata [imported](/metadata-documentation/workflows/importing/) into MMS from a [MARC record](/metadata-documentation/workflows/importing/marc/), [finding aid](/metadata-documentation/workflows/importing/finding-aids/), or [TMS record](/metadata-documentation/workflows/importing/tms/) is not automatically kept in sync when changes are made to the source record
 - When changes are made to the source record, it may be necessary to reimport metadata to ensure description in MMS aligns with description found in other systems
 
-## Steps For Metadata Services Staff
+## Steps for Metadata Services Staff
 
 ### Determining Whether to Reimport Metadata
 {: .d-inline .v-align-middle .mr-2 }
@@ -57,7 +57,7 @@ For Metadata Services Staff
       1. Include a link to the legacy record(s) if rights were assigned there
    1. Once you have confirmed all metadata elements and rights are in place for the reimported record(s), you may [delete](/metadata-documentation/workflows/remediation/deleting/) the legacy record(s) that are now empty and no longer needed as a result of the reimport
    1. If the legacy record had a [NYPL catalog ID (B-number)](/metadata-documentation/metadata/element/identifier/bnumber/) as an [Identifier](/metadata-documentation/metadata/element/identifier/) and it meets the [criteria to appear on DC](/metadata-documentation/dc/criteria/), ensure that the catalog record's link to NYPL Digital Collections (DC) gets updated
-      1. In the relevant ClickUp task, add a comment indicating the [bnumber](/metadata-documentation/metadata/element/identifier/bnumber/) with the tag `@MSU Sierra Contact(s)`
+      1. In the relevant ClickUp task, add a comment indicating the [bnumber](/metadata-documentation/metadata/element/identifier/bnumber/) with the tag `@Metadata Services Sierra Contact(s)`
       1. Do not close the ClickUp task until someone with Sierra edit access has confirmed the catalog record has been updated
 
 ### Reviewing a Finding Aid Update from Archival Processing
@@ -66,7 +66,7 @@ For Metadata Services Staff
 {: .d-inline .v-align-middle .label .label-purple .mx-1 }
 
 {: .note }
-These steps follow the [related workflow for Archival Processing staff](#notifying-msu-of-an-updated-finding-aid), which will populate a task in [Metadata Services › New Digitization › Metadata Feedback 🔒](https://app.clickup.com/2305128/v/l/26b38-2943).
+These steps follow the [related workflow for Archival Processing staff](#notifying-metadata-services-of-an-updated-finding-aid), which will populate a task in [Metadata Services › New Digitization › Metadata Feedback 🔒](https://app.clickup.com/2305128/v/l/26b38-2943).
 
 1. Open the ClickUp task for the finding aid update
 1. Check whether an original XML file has been attached to the ClickUp task that represents a previous version of the finding aid
@@ -81,12 +81,12 @@ These steps follow the [related workflow for Archival Processing staff](#notifyi
    1. Delete all lines containing `<dao>` tags from the modified XML file
       1. `<dao>` tags are automatically added to the underlying XML when the file is prepared for display on Digital Collections
    1. Compare the XML to determine the extent of changes
-   1. If the XML files are too large to compare, add a comment to the relevant ClickUp task with the tag `@MSU Archives Portal Contact(s)` to request the original and modified XML file be compared programatically
+   1. If the XML files are too large to compare, add a comment to the relevant ClickUp task with the tag `@Metadata Services Archives Portal Contact(s)` to request the original and modified XML file be compared programatically
 1. Proceed with [determining whether to reimport metadata](/metadata-documentation/workflows/remediation/reimporting/#determining-whether-to-reimport-metadata)
 
 ## Steps for Archival Processing Staff
 
-### Notifying MSU of an Updated Finding Aid
+### Notifying Metadata Services of an Updated Finding Aid
 {: .d-inline .v-align-middle .mr-2 }
 For Archival Processing Staff
 {: .d-inline .v-align-middle .label .label-purple .mx-1 }
@@ -94,7 +94,7 @@ For Archival Processing Staff
    1. Select **MSS Unit ID** from the dropdown
    1. Enter the identifier for the archival collection (see [MSS Unit ID › Guidelines](/metadata-documentation/metadata/element/identifier/mss-unit/#guidel))
    1. Click **Search**
-1. If the search returns no results, the finding aid can be updated in [ArchivesSpace](/metadata-documentation/resources/glossary/#archivesspace) and the new finding aid XML can be uploaded to the [Archives Portal Admin Interface](/metadata-documentation/resources/glossary/#archives-portal-admin-interface) without the need to notify MSU
+1. If the search returns no results, the finding aid can be updated in [ArchivesSpace](/metadata-documentation/resources/glossary/#archivesspace) and the new finding aid XML can be uploaded to the [Archives Portal Admin Interface](/metadata-documentation/resources/glossary/#archives-portal-admin-interface) without the need to notify Metadata Services
 1. If the search returns one or more existing record(s), follow the steps based on which form the previous finding aid is in:
    1. PDF finding aid:
       1. Update the finding aid in [ArchivesSpace](/metadata-documentation/resources/glossary/#archivesspace) and upload the new finding aid XML to the [Archives Portal Admin Interface](/metadata-documentation/resources/glossary/#archives-portal-admin-interface)
@@ -103,7 +103,7 @@ For Archival Processing Staff
          1. The XML can be downloaded by appending `.xml` to the [Archives Portal](/metadata-documentation/resources/glossary/#archives-portal) URL, e.g. <https://archives.nypl.org/mss/3534.xml> 
       1. Update the finding aid in [ArchivesSpace](/metadata-documentation/resources/glossary/#archivesspace) and upload the new finding aid XML to the [Archives Portal Admin Interface](/metadata-documentation/resources/glossary/#archives-portal-admin-interface)
 1. Verify that the updated XML is live on the [Archives Portal](/metadata-documentation/resources/glossary/#archives-portal) before proceeding
-1. Notify MSU of the updated finding aid using its [contact form](/metadata-documentation/contact/form/):
+1. Notify Metadata Services of the updated finding aid using its [contact form](/metadata-documentation/contact/form/):
    1. **What would you like to share with us?**: indicate you are submitting a finding aid and whether the XML is new or updated
    1. **Related URL**: URL of updated finding aid in the [Archives Portal](/metadata-documentation/resources/glossary/#archives-portal)
    1. **Related division(s)**: division indicated by the **Repository** field of the finding aid
