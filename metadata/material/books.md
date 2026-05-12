@@ -24,7 +24,7 @@ Provides guidelines for metadata specific to books described in the Metadata Man
 
 ### Record Structure
 {: .d-inline .v-align-middle .mr-2 }
-[View MSU Documentation for Record Types →](/metadata-documentation/metadata/record-type/)
+[View Metadata Services Documentation for Record Types →](/metadata-documentation/metadata/record-type/)
 {: .d-inline .v-align-middle .text-zeta .ml-2 }
 
 - For partially-digitized books, structure the book as a collection with a child item for each page or consecutive page range:
@@ -50,7 +50,7 @@ Provides guidelines for metadata specific to books described in the Metadata Man
 
 ### Title
 {: .d-inline .v-align-middle .mr-2 }
-[View MSU Documentation for Element →](/metadata-documentation/metadata/element/title/)
+[View Metadata Services Documentation for Element →](/metadata-documentation/metadata/element/title/)
 {: .d-inline .v-align-middle .text-zeta .ml-2 }
 
 - For a collection, container, or item record representing a full book:
@@ -90,7 +90,7 @@ Provides guidelines for metadata specific to books described in the Metadata Man
 
 ### Genre
 {: .d-inline .v-align-middle .mr-2 }
-[View MSU Documentation for Element →](/metadata-documentation/metadata/element/genre/)
+[View Metadata Services Documentation for Element →](/metadata-documentation/metadata/element/genre/)
 {: .d-inline .v-align-middle .text-zeta .ml-2 }
 
 - Add **Genre** based on the [Genre (non-AMI) 🔒](https://docs.google.com/spreadsheets/d/1NGlV94Iufe0p3EJdoJDX7SgvH-LUYqWLEuB1Az3DmbM/edit#gid=1262013027) tab of the [Genre + Form + Extent 🔒](https://docs.google.com/spreadsheets/d/1NGlV94Iufe0p3EJdoJDX7SgvH-LUYqWLEuB1Az3DmbM/edit) spreadsheet, which includes [Books](https://docs.google.com/spreadsheets/d/1NGlV94Iufe0p3EJdoJDX7SgvH-LUYqWLEuB1Az3DmbM/edit?gid=1262013027#gid=1262013027&range=A41) and additional narrower terms
@@ -106,7 +106,7 @@ Provides guidelines for metadata specific to books described in the Metadata Man
 
 ### Note
 {: .d-inline .v-align-middle .mr-2 }
-[View MSU Documentation for Element →](/metadata-documentation/metadata/element/note/)
+[View Metadata Services Documentation for Element →](/metadata-documentation/metadata/element/note/)
 {: .d-inline .v-align-middle .text-zeta .ml-2 }
 
 - If there is a **Note** element with the **Type**: **statement of responsibility**:
