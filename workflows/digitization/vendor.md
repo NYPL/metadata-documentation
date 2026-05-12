@@ -32,11 +32,11 @@ For Non-MSU Staff
 
 Complete the [Contact Form to Notify MSU of Uploaded Assets](/metadata-documentation/contact/form/completed-vendor-digitization/)
 
-## Steps for MSU Staff
+## Steps For Metadata Services Staff
 
 ### Approving Records Related to Vendor Digitization
 {: .d-inline .v-align-middle .mr-2 }
-For MSU Staff
+For Metadata Services Staff
 {: .d-inline .v-align-middle .label .label-purple .mx-1 }
 
 {: .note }
