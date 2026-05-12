@@ -16,7 +16,7 @@ nav_order: 3
 {:toc}
 
 ## NYPL Documentation
-Links to documentation created by other Library divisions, departments, and units that are relevant to the Metadata Services Unit (MSU)
+Links to documentation created by other Library divisions, departments, and units that are relevant to Metadata Services
 - [Archival Processing](https://nypl.github.io/archival-processing/)
     - [Processing Manual](https://nypl.github.io/archival-processing/processing-manual/)
     - [ArchivesSpace](https://nypl.github.io/archival-processing/aspace/)
