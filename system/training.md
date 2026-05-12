@@ -21,7 +21,7 @@ nav_order: 3
 
 ## Agenda
 
-1. [Metadata Services Unit (MSU)](/metadata-documentation/)
+1. [Metadata Services](/metadata-documentation/)
 1. [Metadata Management System (MMS)](https://metadata.nypl.org/)
 1. [Digital Collections (DC)](https://digitalcollections.nypl.org/)
 1. Basic search
