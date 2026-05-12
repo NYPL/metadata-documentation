@@ -25,7 +25,7 @@ Provides an overview of the workflow for Public Orders (POs), particularly in re
 - The PO workflow is initiated by [Permissions and Reproduction Services](/metadata-documentation/resources/glossary/#permissions-reproduction-services) (PRS)
 - Metadata is created only for material that has not already been digitized
     - Requests for previously digitized materials are delivered to patrons from existing files
-- The steps below apply to divisions for which Metadata Services Unit (MSU) staff create metadata records for POs
+- The steps below apply to divisions for which Metadata Services staff create metadata records for POs
     - See [Metadata Liaisons and Contacts 🔒](https://docs.google.com/spreadsheets/d/1P-YDJigon640fTCLP4Ig4-zmzqrX88v5M24ShuxFNVY/edit#gid=0&range=F2:F37) to identify who should create metadata records for POs for each division
 
 ## Steps for PRS Staff
