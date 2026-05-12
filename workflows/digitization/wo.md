@@ -34,7 +34,7 @@ For best practices and workflows for work orders not covered on this page, conta
    - [Digital Imaging Services (DIS)](/metadata-documentation/resources/glossary/#digital-imaging-services)
    - [Copyright and Information Policy](/metadata-documentation/resources/glossary/#copyright-information-policy) ("Digitization Coordinators")
    - [Permissions and Reproduction Services (PRS)](/metadata-documentation/resources/glossary/#permissions-reproduction-services)
-   - [Metadata Services Unit (MSU)](/metadata-documentation/resources/glossary/#metadata-services-unit)
+   - [Metadata Services](/metadata-documentation/resources/glossary/#metadata-services)
 
 ## Steps
 
