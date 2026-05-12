@@ -9,7 +9,7 @@ nav_order: 4
 # Glossary
 {: .no_toc }
 
-Common terms used within the work of the Metadata Services Unit (MSU)
+Common terms used within the work of Metadata Services
 
 ## Table of contents
 {: .no_toc .text-delta }
@@ -291,11 +291,11 @@ Common terms used within the work of the Metadata Services Unit (MSU)
 
 <a name="collections-access-discovery"></a>
 <dt>Collections Access and Discovery</dt>
-<dd>former division within <a href="#collections-research-services">Collections and Research Services</a> comprised of teams now in <a href="digital-collections-operations">Digital Collections Operations</a> and <a href="#access-research-services">Access and Research Services</a></dd>
+<dd>former department within <a href="#collections-research-services">Collections and Research Services</a> comprised of teams now in <a href="digital-collections-operations">Digital Collections Operations</a> and <a href="#access-research-services">Access and Research Services</a></dd>
   
 <a name="collections-research-services"></a>
 <dt>Collections and Research Services</dt>
-<dd>division within <a href="#research-libraries">Research Libraries</a> comprised of Collection Development, <a href="#access-research-services">Access and Research Services</a>, <a href="digital-collections-operations">Digital Collections Operations</a>, Preservation, and Special Collections Services</dd>
+<dd>department within <a href="#research-libraries">Research Libraries</a> comprised of Collection Development, <a href="#access-research-services">Access and Research Services</a>, <a href="digital-collections-operations">Digital Collections Operations</a>, Preservation, and Special Collections Services</dd>
 
 <a name="conservation"></a>
 <dt>Conservation</dt>
@@ -335,7 +335,7 @@ Common terms used within the work of the Metadata Services Unit (MSU)
 
 <a name="digital-collections-operations"></a>
 <dt>Digital Collections Operations</dt>
-<dd>TK</dd>
+<dd>department dedicated to digital asset management from preservation to access comprised of <a href="#digital-asset-management-access">Digital Asset Management and Access</a>, Digital Preservation, and Digital Reformatting ()</dd>
 
 <a name="digital-collections-services"></a>
 <dt>Digital Collections Services</dt>
@@ -355,11 +355,11 @@ Common terms used within the work of the Metadata Services Unit (MSU)
 
 <a name="digital-preservation"></a>
 <dt>Digital Preservation</dt>
-<dd>unit within <a href="#digital-collections-operations">Digital Collections Operations</a> that ensures the long-term preservation of digital research collections including born-digital archives, digitized audio and moving image material, born-digital recordings of performances, and digitized images; primary office located at the <a href="#library-services-center">Library Services Center</a></dd>
+<dd>department within <a href="#digital-collections-operations">Digital Collections Operations</a> that ensures the long-term preservation of digital research collections including born-digital archives, digitized audio and moving image material, born-digital recordings of performances, and digitized images; primary office located at the <a href="#library-services-center">Library Services Center</a></dd>
 
 <a name="digital-research"></a>
 <dt>Digital Research</dt>
-<dd>former division of <a href="#research-libraries">Research Libraries</a> comprised of teams that are now part of <a href="#digital-collections-operations">Digital Collections Operations</a></dd>
+<dd>former department of <a href="#research-libraries">Research Libraries</a> comprised of teams that are now part of <a href="#digital-collections-operations">Digital Collections Operations</a></dd>
 
 <a name="early-access-viewer"></a>
 <dt>Early Access Viewer</dt>
@@ -427,7 +427,7 @@ Common terms used within the work of the Metadata Services Unit (MSU)
 
 <a name="library-services-center"></a>
 <dt>Library Services Center</dt>
-<dd>building where many <a href="#collections-research-services">Collections and Research Services</a> departments and units—including <a href="#metadata-services">Metadata Services</a>—are located; sometimes referred to as <a href="#long-island-city">Long Island City</a></dd>
+<dd>building where many <a href="#collections-research-services">Collections and Research Services</a> departments—including <a href="#metadata-services">Metadata Services</a>—are located; sometimes referred to as <a href="#long-island-city">Long Island City</a></dd>
 
 <a name="link-minter"></a>
 <dt>Link Minter</dt>
@@ -451,11 +451,11 @@ Common terms used within the work of the Metadata Services Unit (MSU)
 
 <a name="media-preservation-labs"></a>
 <dt>Media Preservation Labs</dt>
-<dd>unit within <a href="#digital-collections-operations">Digital Collections Operations</a> that digitizes magnetic, optical, and grooved audio and video recordings; primary office located at the <a href="#library-for-the-performing-arts">Library for the Performing Arts</a></dd>
+<dd>department within <a href="#digital-collections-operations">Digital Collections Operations</a> that digitizes magnetic, optical, and grooved audio and video recordings; primary office located at the <a href="#library-for-the-performing-arts">Library for the Performing Arts</a></dd>
 
 <a name="media-preservation-services"></a>
 <dt>Media Preservation Services</dt>
-<dd>unit within <a href="#digital-collections-operations">Digital Collections Operations</a> that supports preservation activities by managing outsourced digitization, audiovisual media conservation, and digital asset quality control and migration; primary office located at the <a href="#library-services-center">Library Services Center</a></dd>
+<dd>department within <a href="#digital-collections-operations">Digital Collections Operations</a> that supports preservation activities by managing outsourced digitization, audiovisual media conservation, and digital asset quality control and migration; primary office located at the <a href="#library-services-center">Library Services Center</a></dd>
 
 <a name="metadata-management-system"></a>
 <dt>Metadata Management System</dt>
@@ -467,7 +467,7 @@ Common terms used within the work of the Metadata Services Unit (MSU)
 
 <a name="metadata-services"></a>
 <dt>Metadata Services (or Metadata Services Unit)</dt>
-<dd>unit within <a href="#digital-asset-management-access">Digital Asset Management and Access</a> that improves the discovery of library resources and strengthens data interoperability across the library; primary office located at the <a href="#library-services-center">Library Services Center</a></dd>
+<dd>team within <a href="#digital-asset-management-access">Digital Asset Management and Access</a> that improves the discovery of library resources and strengthens data interoperability across the library; primary office located at the <a href="#library-services-center">Library Services Center</a></dd>
 
 <a name="migration-of-records-and-cataloging-consolidation"></a>
 <dt>Migration of Records and Cataloging Consolidation</dt>
@@ -487,7 +487,7 @@ Common terms used within the work of the Metadata Services Unit (MSU)
 
 <a name="permissions-reproduction-services"></a>
 <dt>Permissions and Reproduction Services</dt>
-<dd>unit within <a href="#digital-asset-management-access">Digital Asset Management and Access</a></dd>
+<dd>team within <a href="#digital-asset-management-access">Digital Asset Management and Access</a></dd>
   
 <a name="photo-order"></a>
 <dt>Photo Order</dt>
@@ -495,11 +495,11 @@ Common terms used within the work of the Metadata Services Unit (MSU)
 
 <a name="preservation-collections-processing"></a>
 <dt>Preservation and Collections Processing</dt>
-<dd>former division within <a href="#collections-research-services">Collections and Research Services</a> comprised of teams now in Preservation, Special Collections Services, <a href="digital-collections-operations">Digital Collections Operations</a>, and <a href="#access-research-services">Access and Research Services</a></dd>
+<dd>former department within <a href="#collections-research-services">Collections and Research Services</a> comprised of teams now in Preservation, Special Collections Services, <a href="digital-collections-operations">Digital Collections Operations</a>, and <a href="#access-research-services">Access and Research Services</a></dd>
 
 <a name="preservation-of-audio-moving-image"></a>
 <dt>Preservation of Audio and Moving Image</dt>
-<dd>former <a href="#digital-research">Digital Research</a> division, now divided into <a href="#media-preservation-services">Media Preservation Services</a> and <a href="#media-preservation-labs">Media Preservation Labs</a></dd>
+<dd>former <a href="#digital-research">Digital Research</a> department, now divided into <a href="#media-preservation-services">Media Preservation Services</a> and <a href="#media-preservation-labs">Media Preservation Labs</a></dd>
 
 <a name="prints-photographs-online-catalog"></a>
 <dt>Prints & Photographs Online Catalog</dt>
