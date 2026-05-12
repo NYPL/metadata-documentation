@@ -23,18 +23,18 @@ Provides context and workflows that support inclusive and reparative description
 - Recognizing that libraries are not neutral, Metadata Services has prioritized two parallel efforts:
   - [Inclusive description](#inclusive-description): the intentional creation of new metadata grounded in best practices developed to minimize bias and harm
   - [Reparative description](#reparative-description): the remediation of existing metadata that is harmful, biased, offensive, outdated, or inaccurate
-- In addition to the general workflows and best practices described below, the MSU leads and participates in several [Projects](/metadata-documentation/projects/) related to inclusive and reparative description
+- In addition to the general workflows and best practices described below, Metadata Services leads and participates in several [Projects](/metadata-documentation/projects/) related to inclusive and reparative description
 
 ## Reparative Description
 
-### Steps for Non-MSU Staff
-- The Metadata Service Unit (MSU) has a policy that all metadata in NYPL Digital Collections (DC) and Metadata Management System (MMS) is consistent with any corresponding description that exists in other Library systems
-   - If harmful description or content found in DC/MMS also exists in other Library systems (e.g. catalog records, finding aids, or TMS records), MSU will work with you to ensure updates are made in those other systems first
+### Steps for Non-Metadata Services Staff
+- Metadata Services has a policy that all metadata in NYPL Digital Collections (DC) and Metadata Management System (MMS) is consistent with any corresponding description that exists in other Library systems
+   - If harmful description or content found in DC/MMS also exists in other Library systems (e.g. catalog records, finding aids, or TMS records), Metadata Services will work with you to ensure updates are made in those other systems first
    - If a source record has already been updated in another Library system that corresponds to digitized material in DC/MMS, let us know via our [contact form](/metadata-documentation/contact/form/)
 
 #### Initiating Reparative Description Process
 {: .d-inline .v-align-middle .mr-2 }
-For Non-MSU Staff
+For Non-Metadata Services Staff
 {: .d-inline .v-align-middle .label .label-purple .mx-1 }
 1. Use the [contact form](/metadata-documentation/contact/form/) to notify the MSU when you encounter either of the following in NYPL Digital Collections (DC) or its backend, Metadata Management System (MMS):
    1. Language used to describe materials that is harmful, biased, offensive, outdated, or inaccurate ("description")
@@ -50,7 +50,7 @@ For Non-MSU Staff
       - Adding additional contextual notes, especially when subject expertise is needed
       - Suppressing content
 
-### Steps for MSU Staff
+### Steps For Metadata Services Staff
 - For workflows related to language used to describe material that is harmful, biased, offensive, outdated, or inaccurate ("description"), determine which of the following workflows is applicable:
   - If you wish to address description transcribed directly from the resource (e.g a title or caption written by the resource's creator that is visible in the digitized content), see [Addressing Description in Transcribed Elements](#addressing-description-in-transcribed-elements)
   - If you wish to address description created by Library staff, see [Addressing Description Created by Library Staff](#addressing-description-created-by-library-staff)
@@ -59,7 +59,7 @@ For Non-MSU Staff
 
 #### Addressing Description in Transcribed Elements
 {: .d-inline .v-align-middle .mr-2 }
-For MSU Staff
+For Metadata Services Staff
 {: .d-inline .v-align-middle .label .label-purple .mx-1 }
 - Determine which [metadata element](/metadata-documentation/metadata/element/) contains the transcribed harmful, biased, offensive, outdated, or inaccurate description and follow the corresponding steps
   - [Title](#addressing-transcribed-title-elements)
@@ -67,7 +67,7 @@ For MSU Staff
 
 ##### Addressing Transcribed Title Elements
 {: .d-inline .v-align-middle .mr-2 }
-For MSU Staff
+For Metadata Services Staff
 {: .d-inline .v-align-middle .label .label-purple .mx-1 }
 1. Add a new **Title** element that addresses the issues in the original **Title** element based on the relevant [guidelines](/metadata-documentation/metadata/element/title/#guidelines)
    1. Check **Primary**
@@ -93,14 +93,14 @@ For MSU Staff
 
 ##### Addressing Transcribed Non-Title Elements
 {: .d-inline .v-align-middle .mr-2 }
-For MSU Staff
+For Metadata Services Staff
 {: .d-inline .v-align-middle .label .label-purple .mx-1 }
 1. Ensure the transcribed description is clearly contextualized and attributed
 1. [Add a harmful description note](#adding-a-harmful-description-note)
 
 #### Addressing Description Created by Library Staff
 {: .d-inline .v-align-middle .mr-2 }
-For MSU Staff
+For Metadata Services Staff
 {: .d-inline .v-align-middle .label .label-purple .mx-1 }
 1. Determine which of the following criteria applies and follow the corresponding steps:
    1. Description was created by Library staff and matches description from the finding aid:
@@ -123,7 +123,7 @@ For MSU Staff
 
 #### Adding a Harmful Description Note
 {: .d-inline .v-align-middle .mr-2 }
-For MSU Staff
+For Metadata Services Staff
 {: .d-inline .v-align-middle .label .label-purple .mx-1 }
 1. Add a new **Note** element by copying and pasting the following text:
 ```
@@ -135,7 +135,7 @@ This record may contain language that is harmful, inaccurate, or outdated. For m
 
 #### Revising Harmful Description
 {: .d-inline .v-align-middle .mr-2 }
-For MSU Staff
+For Metadata Services Staff
 {: .d-inline .v-align-middle .label .label-purple .mx-1 }
 1. Confirm you have met all the requirements necessary to revise metadata in MMS
    - Description was created by Library staff
@@ -149,7 +149,7 @@ For MSU Staff
 
 #### Addressing Harmful Content
 {: .d-inline .v-align-middle .mr-2 }
-For MSU Staff
+For Metadata Services Staff
 {: .d-inline .v-align-middle .label .label-purple .mx-1 }
 1. Consult with [division staff 🔒](https://docs.google.com/spreadsheets/d/1P-YDJigon640fTCLP4Ig4-zmzqrX88v5M24ShuxFNVY/edit#gid=0\&range=F2:F37) if you encounter harmful, difficult, or offensive content on MMS/DC or it is [reported](/metadata-documentation/workflows/remediation/feedback/) to you
    1. Division staff may request one or both of the following steps:
