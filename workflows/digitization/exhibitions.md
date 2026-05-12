@@ -23,16 +23,16 @@ Provides an overview of the workflow for exhibition-related digitization, partic
 
 - Library staff may initiate digitization projects that correspond to exhibitions and special displays
 - Processes for creating exhibition metadata will vary by library, division, and the exhibition itself
-- If Metadata Services should create metadata records for an exhibition in MMS, non-MSU staff can follow the steps in [Requesting Exhibition Metadata Creation](/metadata-documentation/#requesting-exhibition-metadata-creation)
-- If non-MSU staff will create metadata records for an exhibition in MMS, they should:
+- If Metadata Services should create metadata records for an exhibition in MMS, non-Metadata Services staff can follow the steps in [Requesting Exhibition Metadata Creation](/metadata-documentation/#requesting-exhibition-metadata-creation)
+- If non-Metadata Services staff will create metadata records for an exhibition in MMS, they should:
   - Refer to documentation for [Importing Metadata](/metadata-documentation/workflows/importing/) and [Creating New Metadata](/metadata-documentation/workflows/creating/)
   - Add the exhibition identifier to each item in an [Identifier](/metadata-documentation/metadata/element/identifier/po/) element using [NYPL Exhibition ID](/metadata-documentation/metadata/element/identifier/nypl-exhibition/) as the type
 
-## Steps for Non-MSU Staff
+## Steps for Non-Metadata Services Staff
 
 ### Requesting Exhibition Metadata Creation
 {: .d-inline .v-align-middle .mr-2 }
-For Non-MSU Staff
+For Non-Metadata Services Staff
 {: .d-inline .v-align-middle .label .label-purple .mx-1 }
 
 1. Prepare an exhibition checklist in your preferred spreadsheet platform
@@ -55,21 +55,21 @@ For Non-MSU Staff
             1. [**UUID**](/metadata-documentation/resources/glossary/#universally-unique-identifier) from MMS
             1. **Image ID** from Digital Collections
    1. Although not required, reference images are helpful if you are able to add them to your spreadsheet
-1. Complete the [Contact Form to Notify MSU of Upcoming Digitization](/metadata-documentation/contact/form/upcoming-digitization/)
+1. Complete the [Contact Form to Notify Metadata Services of Upcoming Digitization](/metadata-documentation/contact/form/upcoming-digitization/)
    1. For **What type of digitization project is it?**, select **Exhibition**
-   1. In **Notes for MSU liaison**:
-      1. Indicate who will create the metadata (MSU, Digitization Coordinator, division, et al.)
+   1. In **Notes for Metadata Services liaison**:
+      1. Indicate who will create the metadata (Metadata Services, Digitization Coordinator, division, et al.)
       1. Include source record(s), relevant MMS collections/containers, link to checklist, etc.
 
-## Steps For Metadata Services Staff
+## Steps for Metadata Services Staff
 
 ### Initiating New Digitization Tracking for Exhibitions
 {: .d-inline .v-align-middle .mr-2 }
-For MSU Manager
+For Metadata Services Manager
 {: .d-inline .v-align-middle .label .label-purple .mx-1 }
 
 1. Review the finalized exhibition checklist to ensure it meets the requirements for digitization listed in [Requesting Exhibition Metadata Creation](/metadata-documentation/#requesting-exhibition-metadata-creation)
-1. Update the [Exhibitions Master List 🔒](https://docs.google.com/spreadsheets/d/11-bgNRs2iO6HLG8OQv7quP8KUHCUNxJgC3nIapA0Do0/edit) (or request the MSU liaison do so)
+1. Update the [Exhibitions Master List 🔒](https://docs.google.com/spreadsheets/d/11-bgNRs2iO6HLG8OQv7quP8KUHCUNxJgC3nIapA0Do0/edit) (or request the m liaison do so)
 1. Create a new task in [Metadata Services › New Digitization › Digitization Tracking 🔒](https://app.clickup.com/2305128/v/l/6-164664866-1) with the following status and custom fields:
    1. **Status**: **Digitization Idea**
    1. **Project Type**: **Exhibition**
@@ -114,7 +114,7 @@ For Metadata Services Staff
    1. Toggle the ClickUp task Status to **Metadata Created**
    1. Notify exhibition contacts that metadata has been created
    1. It is not necessary to [request rights metadata](/metadata-documentation/workflows/rights/#requesting-rights-metadata) during metadata creation as rights can be requested following digitization during the [approval](/metadata-documentation/workflows/approvals/) process
-1. Corresponding [**Approvals 🔒**](https://app.clickup.com/2305128/v/l/6-180919377-1) are connected to the **Digitization Tracking** task as they are received by MSU
+1. Corresponding [**Approvals 🔒**](https://app.clickup.com/2305128/v/l/6-180919377-1) are connected to the **Digitization Tracking** task as they are received by Metadata Services
 1. The **Digitization Tracking** task can be closed once all related digitization and approvals are complete
 
 ## See Also
