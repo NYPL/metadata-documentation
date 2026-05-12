@@ -50,6 +50,6 @@ If a collection, container, or item that does not meet the below criteria is app
 - A few minutes have passed since the above criteria have been met to allow for indexing
 
 ## See Also
-- [Approvals](/metadata-documentation/workflows/approvals/) for further details on the steps involved for the Metadata Services Unit (MSU) to set a collection, container, or item to **Status: Approved**
+- [Approvals](/metadata-documentation/workflows/approvals/) for further details on the steps involved for Metadata Services Unit to set a collection, container, or item to **Status: Approved**
 - [Minimum Metadata Requirements](/metadata-documentation/metadata/guidelines/#minimum-metadata-requirements) for an outline of which fields on the **Descriptive metadata** tab in MMS are required
 - [Rights](/metadata-documentation/metadata/guidelines/#rights) for additional context on the **Rights and use** tab in MMS, including rights codes
