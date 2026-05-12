@@ -18,13 +18,13 @@ Provides an overview of the process of approving records in the Metadata Managem
 {:toc}
 
 ## Overview
-- All records in MMS must be approved by a member of the MSU to meet the [criteria to appear on DC](/metadata-documentation/dc/criteria/)
+- All records in MMS must be approved by a member of Metadata Services to meet the [criteria to appear on DC](/metadata-documentation/dc/criteria/)
 - The approval workflow is part of new digitization and remediation workflows, often occurring as the last step to make digitized resources available on DC
     - New digitization approvals follow [metadata creation](/metadata-documentation/workflows/create-import/) and [digitization](/metadata-documentation/workflows/digitization/)
     - Backlog approvals are generated through [remediation projects](/metadata-documentation/workflows/remediation/)
     - New digitization approvals should be prioritized over tasks derived from remediation projects
 
-## Steps For Metadata Services Staff
+## Steps for Metadata Services Staff
 
 ### Approving Records
 {: .d-inline .v-align-middle .mr-2 }
