@@ -61,7 +61,7 @@ For Non-MSU Staff
       1. Indicate who will create the metadata (MSU, Digitization Coordinator, division, et al.)
       1. Include source record(s), relevant MMS collections/containers, link to checklist, etc.
 
-## Steps for MSU Staff
+## Steps For Metadata Services Staff
 
 ### Initiating New Digitization Tracking for Exhibitions
 {: .d-inline .v-align-middle .mr-2 }
@@ -92,7 +92,7 @@ For MSU Manager
 
 ### Creating Exhibition Metadata
 {: .d-inline .v-align-middle .mr-2 }
-For MSU Staff
+For Metadata Services Staff
 {: .d-inline .v-align-middle .label .label-purple .mx-1 }
 
 1. Monitor your [ClickUp notifications 🔒](https://app.clickup.com/2305128/notifications) and [Metadata Services › New Digitization › Metadata Creation 🔒](https://app.clickup.com/2305128/v/l/6-901707354926-1) for exhibition metadata creation tasks that have been assigned to you
