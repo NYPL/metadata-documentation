@@ -119,7 +119,7 @@ Required
 {: .d-inline .v-align-middle .mr-2 }
 Required if Not Inherited
 {: .d-inline .v-align-middle .label .label-blue .mx-1 }
-[View Full MSU Documentation for Element →](/metadata-documentation/metadata/element/identifier/)
+[View Full Metadata Services Documentation for Element →](/metadata-documentation/metadata/element/identifier/)
 {: .d-inline .v-align-middle .text-zeta .ml-2 }
 
 #### Guidelines
@@ -170,7 +170,7 @@ Required if Not Inherited
 {: .d-inline .v-align-middle .mr-2 }
 Required
 {: .d-inline .v-align-middle .label .label-blue .mx-1 }
-[View Full MSU Documentation for Element →](/metadata-documentation/metadata/element/title/)
+[View Full Metadata Services Documentation for Element →](/metadata-documentation/metadata/element/title/)
 {: .d-inline .v-align-middle .text-zeta .ml-2 }
 
 #### Guidelines
@@ -191,7 +191,7 @@ Required
 {: .d-inline .v-align-middle .mr-2 }
 Required if Not Inherited
 {: .d-inline .v-align-middle .label .label-blue .mx-1 }
-[View Full MSU Documentation for Element →](/metadata-documentation/metadata/element/location/)
+[View Full Metadata Services Documentation for Element →](/metadata-documentation/metadata/element/location/)
 {: .d-inline .v-align-middle .text-zeta .ml-2 }
 
 #### Guidelines
@@ -214,7 +214,7 @@ Required if Not Inherited
 {: .d-inline .v-align-middle .mr-2 }
 Required if Not Inherited
 {: .d-inline .v-align-middle .label .label-blue .mx-1 }
-[View Full MSU Documentation for Element →](/metadata-documentation/metadata/element/type-of-resource/)
+[View Full Metadata Services Documentation for Element →](/metadata-documentation/metadata/element/type-of-resource/)
 {: .d-inline .v-align-middle .text-zeta .ml-2 }
 
 #### Guidelines
@@ -235,7 +235,7 @@ Required if Not Inherited
 {: .d-inline .v-align-middle .mr-2 }
 Required if Not Inherited
 {: .d-inline .v-align-middle .label .label-blue .mx-1 }
-[View Full MSU Documentation for Subelement →](/metadata-documentation/metadata/element/origin-info/#date)
+[View Full Metadata Services Documentation for Subelement →](/metadata-documentation/metadata/element/origin-info/#date)
 {: .d-inline .v-align-middle .text-zeta .ml-2 }
 
 #### Guidelines
@@ -286,7 +286,7 @@ Required if Not Inherited
 
 ### Extent
 {: .d-inline .v-align-middle .mr-2 }
-[View Full MSU Documentation for Subelement →](/metadata-documentation/metadata/element/physical-description/#extent)
+[View Full Metadata Services Documentation for Subelement →](/metadata-documentation/metadata/element/physical-description/#extent)
 {: .d-inline .v-align-middle .text-zeta .ml-2 }
 
 #### Guidelines
@@ -301,7 +301,7 @@ Required if Not Inherited
 
 ### Abstract
 {: .d-inline .v-align-middle .mr-2 }
-[View Full MSU Documentation for Element →](/metadata-documentation/metadata/element/abstract/)
+[View Full Metadata Services Documentation for Element →](/metadata-documentation/metadata/element/abstract/)
 {: .d-inline .v-align-middle .text-zeta .ml-2 }
 
 #### Guidelines
@@ -316,7 +316,7 @@ Required if Not Inherited
 
 ### Note
 {: .d-inline .v-align-middle .mr-2 }
-[View Full MSU Documentation for Element →](/metadata-documentation/metadata/element/note/)
+[View Full Metadata Services Documentation for Element →](/metadata-documentation/metadata/element/note/)
 {: .d-inline .v-align-middle .text-zeta .ml-2 }
 
 #### Guidelines
