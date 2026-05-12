@@ -23,11 +23,11 @@ Describes steps to troubleshoot common technical issues that arise in the Metada
 
 #### Image Asset Issues in MMS/DC
 
-For Non-MSU Staff
+For Non-Metadata Services Staff
 {: .label .label-purple .m-0 }
 
 {: .note }
-MSU does not troubleshoot image asset issues, but you can follow the below steps so that the issue can be logged for reference by [Digital Collections Services](/metadata-documentation/resources/glossary/#digital-collections-services).
+Metadata Services does not troubleshoot image asset issues, but you can follow the below steps so that the issue can be logged for reference by [Digital Collections Services](/metadata-documentation/resources/glossary/#digital-collections-services).
 
 1. Report issues with image assets via the DC Feedback Form
    1. Open the record in Digital Collections with the image asset issue
@@ -42,14 +42,14 @@ For Metadata Services Staff
 
 #### Audio and Moving Image Asset Issues in MMS/DC
 
-For Non-MSU Staff
+For Non-Metadata Services Staff
 {: .label .label-purple .m-0 }
 
 {: .note }
-MSU does not troubleshoot audio and moving image asset issues, but you can follow the below steps so that the issue can be logged for future reference.
+Metadata Services does not troubleshoot audio and moving image asset issues, but you can follow the below steps so that the issue can be logged for future reference.
 
 1. Report playback issues with audio and moving image (AMI) assets via our [contact form](/metadata-documentation/contact/form/)
-   1. Your form submission will be routed to the relevant [MSU Liaison 🔒](https://docs.google.com/spreadsheets/d/1P-YDJigon640fTCLP4Ig4-zmzqrX88v5M24ShuxFNVY/edit#gid=0) to be logged
+   1. Your form submission will be routed to the relevant [Metadata Services Liaison 🔒](https://docs.google.com/spreadsheets/d/1P-YDJigon640fTCLP4Ig4-zmzqrX88v5M24ShuxFNVY/edit#gid=0) to be logged
 
 For Metadata Services Staff
 {: .label .label-purple .m-0 }
@@ -116,11 +116,11 @@ See [Suppressing Records › Requesting Duplicate Captures Be Suppressed](/metad
 
 See [Linking Between Systems › Archives Portal → Digital Collections](/metadata-documentation/workflows/linking/#archives-portal--digital-collections) for context
 
-For Non-MSU Staff
+For Non-Metadata Services Staff
 {: .label .label-purple .m-0 }
 
 1. Report issues with digitized content not displaying in the Archives Portal via our [contact form](/metadata-documentation/contact/form/)
-   1. Your submission will be routed to the relevant [MSU Liaison 🔒](https://docs.google.com/spreadsheets/d/1P-YDJigon640fTCLP4Ig4-zmzqrX88v5M24ShuxFNVY/edit#gid=0) to be investigated
+   1. Your submission will be routed to the relevant [Metadata Services Liaison 🔒](https://docs.google.com/spreadsheets/d/1P-YDJigon640fTCLP4Ig4-zmzqrX88v5M24ShuxFNVY/edit#gid=0) to be investigated
 
 For Metadata Services Staff
 {: .label .label-purple .m-0 }
@@ -134,7 +134,7 @@ For Metadata Services Staff
    1. Rename the task to a more descriptive name
    1. Populate the custom fields as appropriate
    1. Describe the extent of the issue in the task description
-1. Add a comment with the tag `@MSU Archives Portal Contact(s)`, who will:
+1. Add a comment with the tag `@Metadata Services Archives Portal Contact(s)`, who will:
    1. Asses whether digitized assets can be manually reattached or other troubleshooting is required
    1. Complete manual reattachment of digitized assets when possible
 1. When the digitized assets have been reattached, notify the submitter and update the task status to **Closed**
@@ -143,14 +143,14 @@ For Metadata Services Staff
 
 #### Issues with Display and Indexing of Records in Digital Collections
 
-For Non-MSU Staff
+For Non-Metadata Services Staff
 {: .label .label-purple .m-0 }
 
 {: .note }
-MSU does not troubleshoot Digital Collections display and indexing issues, but you can follow the below steps so that the issue can be logged for reference by the [DAM Portfolio](/metadata-documentation/resources/glossary/#dam-portfolio) team.
+Metadata Services does not troubleshoot Digital Collections display and indexing issues, but you can follow the below steps so that the issue can be logged for reference by the [DAM Portfolio](/metadata-documentation/resources/glossary/#dam-portfolio) team.
 
 1. Report issues with the display and indexing of records in Digital Collections via our [contact form](/metadata-documentation/contact/form/)
-   1. Your form submission will be routed to the relevant [MSU Liaison 🔒](https://docs.google.com/spreadsheets/d/1P-YDJigon640fTCLP4Ig4-zmzqrX88v5M24ShuxFNVY/edit#gid=0) to be logged
+   1. Your form submission will be routed to the relevant [Metadata Services Liaison 🔒](https://docs.google.com/spreadsheets/d/1P-YDJigon640fTCLP4Ig4-zmzqrX88v5M24ShuxFNVY/edit#gid=0) to be logged
 
 For Metadata Services Staff
 {: .label .label-purple .m-0 }
@@ -166,20 +166,20 @@ For Metadata Services Staff
 
 See [Linking Between Systems › Research Catalog → Digital Collections](/metadata-documentation/workflows/linking/#research-catalog--digital-collections) for context
 
-For Non-MSU Staff
+For Non-Metadata Services Staff
 {: .label .label-purple .m-0 }
 
 1. Report absent or broken links to Digital Collections via our [contact form](/metadata-documentation/contact/form/)
-   1. Your submission will be routed to the the relevant [MSU Liaison 🔒](https://docs.google.com/spreadsheets/d/1P-YDJigon640fTCLP4Ig4-zmzqrX88v5M24ShuxFNVY/edit#gid=0) so the Research Catalog record can be updated
+   1. Your submission will be routed to the the relevant [Metadata Services Liaison 🔒](https://docs.google.com/spreadsheets/d/1P-YDJigon640fTCLP4Ig4-zmzqrX88v5M24ShuxFNVY/edit#gid=0) so the Research Catalog record can be updated
 
 For Metadata Services Staff
 {: .label .label-purple .m-0 }
 
-1. In the relevant ClickUp task generated by a contact form submission, add a comment with the tag `@MSU Sierra Contact(s)`
+1. In the relevant ClickUp task generated by a contact form submission, add a comment with the tag `@Metadata Services Sierra Contact(s)`
    1. Include the [bnumber](/metadata-documentation/metadata/element/identifier/bnumber/) and correct [URL](/metadata-documentation/dc/url-structure/) if you are able to determine it
 1. When the record has been updated, notify the submitter and update the task status to **Closed**
 
 ## See Also
-- [Contact Form](/metadata-documentation/contact/form/) for non-MSU staff to report issues to MSU
-- [Metadata Feedback](/metadata-documentation/workflows/remediation/feedback/) for an overview of reviewing feedback relating to metadata MMS and DC For Metadata Services Staff
+- [Contact Form](/metadata-documentation/contact/form/) for non-Metadata Services staff to report issues to Metadata Services
+- [Metadata Feedback](/metadata-documentation/workflows/remediation/feedback/) for an overview of reviewing feedback relating to metadata MMS and DC for Metadata Services staff
 - [Removal of Captures with Broken Image Assets [Pilot] 🔒](https://github.com/NYPL/metadata-projects/tree/main/x_completed/2022-2023_removal-of-caps-w-broken-image-assets_pilot) on GitHub for additional documentation of a workflow related to broken image assets
