@@ -28,7 +28,7 @@ A term or phrase representing the primary topic(s) on which a work is focused
 - To allow users to filter and explore resources by topic, place, time period, name subject, and work subject
 
 ## Guidelines
-- Generally, **Subject** elements will be imported (from catalog records, finding aids, or TMS records) or added by Metadata Services Unit (MSU) staff
+- Generally, **Subject** elements will be imported (from catalog records, finding aids, or TMS records) or added by Metadata Services staff
   - At least one subject is recommended
   - Only add **Subject** elements if you are familiar with relevant guidelines
   - See [Library of Congress Subject Headings: Online Training](https://www.loc.gov/catworkshop/lcsh/index.html) and [Library of Congress Subject Headings Manual](https://www.loc.gov/aba/publications/FreeSHM/freeshm.html)
