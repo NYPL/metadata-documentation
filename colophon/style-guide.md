@@ -1,13 +1,13 @@
 ---
 layout: page
-title: MSU Documentation Style Guide
+title: Metadata Services Documentation Style Guide
 permalink: /colophon/style-guide/
 parent: About This Site
 nav_exclude: true
 search_exclude: true
 ---
 
-# MSU Documentation Style Guide
+# Metadata Services Documentation Style Guide
 {: .no_toc }
 
 ## Table of contents
@@ -53,7 +53,7 @@ search_exclude: true
 - If linked to a document such as in Google Drive or Lair that are not publicly accessible, append the link's label with a 🔒
 
 ## Language
-- When referring to MSU, use "we," "us," "our," etc.; e.g. "contact **us**," "**our** preferred link structure is…," "**we** recommend"
+- When referring to Metadata Services, use "we," "us," "our," etc.; e.g. "contact **us**," "**our** preferred link structure is…," "**we** recommend"
 - When referring to NYPL, say "the Library"
 
 ## See Also
