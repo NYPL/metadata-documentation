@@ -28,11 +28,11 @@ Describes the process of suppressing records in the Metadata Management System (
   - See [Troubleshooting Issues](/metadata-documentation/workflows/troubleshooting/) if you encounter other types of problems with capture records or associated assets
 - Discuss with the [Manager, Metadata Services](/metadata-documentation/contact/#our-team), before suppressing records for any other reason
 
-## Steps for MSU Staff
+## Steps For Metadata Services Staff
 
 ### Suppressing Collections for Harmful Content 
 {: .d-inline .v-align-middle .mr-2 }
-For MSU Staff
+For Metadata Services Staff
 {: .d-inline .v-align-middle .label .label-purple .mx-1 }
 1. Review the [suppressing records overview](#overview) to ensure the collection qualifies for suppression
 1. Navigate to the **Rights and use** tab of the collection
@@ -46,7 +46,7 @@ For MSU Staff
 
 ### Suppressing Containers for Harmful Content
 {: .d-inline .v-align-middle .mr-2 }
-For MSU Staff
+For Metadata Services Staff
 {: .d-inline .v-align-middle .label .label-purple .mx-1 }
 1. Review the [suppressing records overview](#overview) to ensure the container qualifies for suppression
 1. Navigate to the **Rights and use** tab of the container
@@ -60,7 +60,7 @@ For MSU Staff
 
 ### Suppressing Items for Harmful Content
 {: .d-inline .v-align-middle .mr-2 }
-For MSU Staff
+For Metadata Services Staff
 {: .d-inline .v-align-middle .label .label-purple .mx-1 }
 1. Review the [suppressing records overview](#overview) to ensure the item qualifies for suppression
 1. Navigate to the **Rights and use** tab of the item
@@ -74,7 +74,7 @@ For MSU Staff
 
 ### Requesting Duplicate Captures Be Suppressed
 {: .d-inline .v-align-middle .mr-2 }
-For MSU Staff
+For Metadata Services Staff
 {: .d-inline .v-align-middle .label .label-purple .mx-1 }
 - [Digital Imaging Services (DIS)](/metadata-documentation/resources/glossary/#digital-imaging-services) manages capture suppression
   - Capture suppression only occurs in the event of duplicate captures, see [suppressing records overview](#overview)
