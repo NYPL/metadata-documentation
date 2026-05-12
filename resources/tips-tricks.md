@@ -53,7 +53,7 @@ Only EAD-encoded finding aids will have XML that contains the full finding aid's
 
 ## Google Sheets
 
-### Division Acronym → MSU Liaison
+### Division Acronym → Metadata Services Liaison
 Replace `A2` with the cell containing the division's acronym
 ```
 =IFERROR(vlookup(A2,IMPORTRANGE("https://docs.google.com/spreadsheets/d/1P-YDJigon640fTCLP4Ig4-zmzqrX88v5M24ShuxFNVY/edit#gid=0","Metadata Liaisons and Contacts!A3:F37"),6,false),)
