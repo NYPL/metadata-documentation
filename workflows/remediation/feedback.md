@@ -20,14 +20,14 @@ Provides an overview of reviewing feedback relating to metadata in the Metadata 
 {:toc}
 
 ## Overview
-- MSU regularly receives feedback on metadata in MMS and DC including corrections and suggestions that are reviewed and implemented as appropriate
-- Feedback on metadata may be received by the MSU in several ways including:
+- Metadata Services regularly receives feedback on metadata in MMS and DC including corrections and suggestions that are reviewed and implemented as appropriate
+- Feedback on metadata may be received by Metadata Services in several ways including:
   - **DC Feedback Form**: clicking the **Feedback** button in the lower right corner of any page on [NYPL Digital Collections](https://digitalcollections.nypl.org/)
   - **Metadata Reporting Form**: submitted via [Metadata Reporting Form](/metadata-documentation/contact/form/)
-  - **Email**: received at metadata [at] nypl [dot] org or by an individual MSU staff member and [forwarded to ClickUp](#forwarding-metadata-feedback-emails-to-clickup)
+  - **Email**: received at metadata [at] nypl [dot] org or by an individual Metadata Services staff member and [forwarded to ClickUp](#forwarding-metadata-feedback-emails-to-clickup)
 - Feedback from the **DC Feedback Form** and **Metadata Reporting Form** is routed into the [Metadata Services ClickUp 🔒](https://app.clickup.com/2305128/v/gr/26b38-7748) as it is received
 
-## Steps For Metadata Services Staff
+## Steps for Metadata Services Staff
 
 ### Forwarding Metadata Feedback Emails to ClickUp
 {: .d-inline .v-align-middle .mr-2 }
@@ -51,25 +51,25 @@ For Metadata Services Staff
 For Metadata Services Staff
 {: .d-inline .v-align-middle .label .label-purple .mx-1 }
 1. Monitor your [ClickUp notifications 🔒](https://app.clickup.com/2305128/notifications) and [Metadata Services › Remediation Projects › Metadata Feedback 🔒](https://app.clickup.com/2305128/v/gr/26b38-7748) for feedback tasks that have been assigned to you
-   1. Each MSU staff member also has a dedicated tab that contains their open feedback tasks grouped by division
+   1. Each Metadata Services staff member also has a dedicated tab that contains their open feedback tasks grouped by division
       1. To add your respective tab to your favorites in ClickUp, click the **•••** on your tab name and click **⭐ Favorite**
    1. Metadata Feedback views use ClickUp's table display so that the **Feedback Text** and other relevant details are easily seen
 1. To open a task, hover over the **Task name** and click the **⤢** button to open the task
 1. Once you have selected a feedback task to work on, toggle its status to **In Progress**
 1. Review the **Feedback Text** and determine next steps based on the following considerations (discuss with the [Manager, Metadata Services](/metadata-documentation/contact/), if you are uncertain how to proceed):
    1. Has the feedback been submitted by a NYPL staff member or by a patron?
-      1. If the feedback was submitted by a NYPL Archival Processing staff member to notify MSU of an updated finding aid, see the related workflow on [Reimporting Metadata](/metadata-documentation/workflows/remediation/reimporting/#reviewing-a-finding-aid-update-from-archival-processing)
+      1. If the feedback was submitted by a NYPL Archival Processing staff member to notify Metadata Services of an updated finding aid, see the related workflow on [Reimporting Metadata](/metadata-documentation/workflows/remediation/reimporting/#reviewing-a-finding-aid-update-from-archival-processing)
    1. Can you verify the accuracy of the feedback, either based on the submitter or through your own research?
    1. Where did the original metadata come from?
    1. Was the metadata transcribed or supplied?
    1. Does the same metadata exist elsewhere in MMS/DC?
    1. Is it appropriate to contact [division staff](https://docs.google.com/spreadsheets/d/1P-YDJigon640fTCLP4Ig4-zmzqrX88v5M24ShuxFNVY/edit) for guidance or confirmation?
-   1. Is there any relevant MSU documentation to consult, e.g. [Inclusive & Reparative Description](/metadata-documentation/metadata/inclusive-reparative/)?
+   1. Is there any relevant Metadata Services documentation to consult, e.g. [Inclusive & Reparative Description](/metadata-documentation/metadata/inclusive-reparative/)?
 1. If you determine that metadata should _not_ be updated:
    1. Add a comment to the ClickUp task, noting that feedback has been reviewed and include your reasoning as to why no action was deemed necessary
    1. Toggle the ClickUp task **Status** to **Closed**
 1. If you determine that metadata _should_ be updated:
-   1. Update the record(s) in MMS following any relevant guidelines in MSU documentation
+   1. Update the record(s) in MMS following any relevant guidelines in Metadata Services documentation
    1. If appropriate, a [Note](/metadata/element/note/) element with the [Type](/metadata/element/note/#type) "admin" describing any changes you've made
    1. Determine whether the metadata exists in other systems such as a catalog record or finding aid, and if so, request that it be updated
       1. To request an update to a catalog record, submit a ticket via ServiceNow ([BookOps › Cataloging 🔒](https://nyplprod.service-now.com/nyplsp?id=sc_cat_item&sys_id=37d54594c4504d00f254019b5f40e91f&sysparm_category=2c3832e1139ee740c82e7e276144b022)) with the *Inquiry type*: *Sierra bib record error*
