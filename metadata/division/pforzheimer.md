@@ -24,7 +24,7 @@ Provides guidelines for metadata describing material from the Pforzheimer Collec
 
 ### Identifier
 {: .d-inline .v-align-middle .mr-2 }
-[View MSU Documentation for Element →](/metadata-documentation/metadata/element/identifier/)
+[View Metadata Services Documentation for Element →](/metadata-documentation/metadata/element/identifier/)
 {: .d-inline .v-align-middle .text-zeta .ml-2 }
 
 - For container and item records [imported from EAD-encoded finding aids](/metadata-documentation/workflows/importing/finding-aids/):
@@ -34,7 +34,7 @@ Provides guidelines for metadata describing material from the Pforzheimer Collec
 
 ### Location
 {: .d-inline .v-align-middle .mr-2 }
-[View MSU Documentation for Element →](/metadata-documentation/metadata/element/location/)
+[View Metadata Services Documentation for Element →](/metadata-documentation/metadata/element/location/)
 {: .d-inline .v-align-middle .text-zeta .ml-2 }
 
 - For container and item records [imported from EAD-encoded finding aids](/metadata-documentation/workflows/importing/finding-aids/):
@@ -49,4 +49,4 @@ Provides guidelines for metadata describing material from the Pforzheimer Collec
 
 ## See Also
 
-- [Pforzheimer Collection (Internal Documentation) 🔒](https://docs.google.com/document/d/13TDDGPf0_oPJyaaX3WAMsEI0nsErB64XIEnNX58-yc8/edit) for the respective [MSU Liason's 🔒](https://docs.google.com/spreadsheets/d/1P-YDJigon640fTCLP4Ig4-zmzqrX88v5M24ShuxFNVY/edit?gid=0) internal documentation and notes related to the Pforzheimer Collection
+- [Pforzheimer Collection (Internal Documentation) 🔒](https://docs.google.com/document/d/13TDDGPf0_oPJyaaX3WAMsEI0nsErB64XIEnNX58-yc8/edit) for the respective [Metadata Services Liason's 🔒](https://docs.google.com/spreadsheets/d/1P-YDJigon640fTCLP4Ig4-zmzqrX88v5M24ShuxFNVY/edit?gid=0) internal documentation and notes related to the Pforzheimer Collection
