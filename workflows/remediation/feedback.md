@@ -27,11 +27,11 @@ Provides an overview of reviewing feedback relating to metadata in the Metadata 
   - **Email**: received at metadata [at] nypl [dot] org or by an individual MSU staff member and [forwarded to ClickUp](#forwarding-metadata-feedback-emails-to-clickup)
 - Feedback from the **DC Feedback Form** and **Metadata Reporting Form** is routed into the [Metadata Services ClickUp 🔒](https://app.clickup.com/2305128/v/gr/26b38-7748) as it is received
 
-## Steps for MSU Staff
+## Steps For Metadata Services Staff
 
 ### Forwarding Metadata Feedback Emails to ClickUp
 {: .d-inline .v-align-middle .mr-2 }
-For MSU Staff
+For Metadata Services Staff
 {: .d-inline .v-align-middle .label .label-purple .mx-1 }
 1. Retrieve your personalized forwarding email address 
    1. Navigate to [Metadata Services › Remediation Projects › Metadata Feedback 🔒](https://app.clickup.com/2305128/v/gr/26b38-7748) in ClickUp
@@ -48,7 +48,7 @@ For MSU Staff
 
 ### Reviewing Metadata Feedback
 {: .d-inline .v-align-middle .mr-2 }
-For MSU Staff
+For Metadata Services Staff
 {: .d-inline .v-align-middle .label .label-purple .mx-1 }
 1. Monitor your [ClickUp notifications 🔒](https://app.clickup.com/2305128/notifications) and [Metadata Services › Remediation Projects › Metadata Feedback 🔒](https://app.clickup.com/2305128/v/gr/26b38-7748) for feedback tasks that have been assigned to you
    1. Each MSU staff member also has a dedicated tab that contains their open feedback tasks grouped by division
