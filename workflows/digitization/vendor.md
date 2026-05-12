@@ -23,16 +23,16 @@ Provides an overview of the workflow for vendor digitization
 
 - Vendor digitization refers to any digitization not completed by the Library's [Digital Imaging Services](/metadata-documentation/resources/glossary/#digital-imaging-services)
 
-## Steps for Non-MSU Staff
+## Steps for Non-Metadata Services Staff
 
-### Notify MSU of Completed Vendor Digitization
+### Notify Metadata Services of Completed Vendor Digitization
 {: .d-inline .v-align-middle .mr-2 }
-For Non-MSU Staff
+For Non-Metadata Services Staff
 {: .d-inline .v-align-middle .label .label-purple .mx-1 }
 
-Complete the [Contact Form to Notify MSU of Uploaded Assets](/metadata-documentation/contact/form/completed-vendor-digitization/)
+Complete the [Contact Form to Notify Metadata Services of Uploaded Assets](/metadata-documentation/contact/form/completed-vendor-digitization/)
 
-## Steps For Metadata Services Staff
+## Steps for Metadata Services Staff
 
 ### Approving Records Related to Vendor Digitization
 {: .d-inline .v-align-middle .mr-2 }
