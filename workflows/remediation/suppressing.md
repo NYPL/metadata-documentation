@@ -28,7 +28,7 @@ Describes the process of suppressing records in the Metadata Management System (
   - See [Troubleshooting Issues](/metadata-documentation/workflows/troubleshooting/) if you encounter other types of problems with capture records or associated assets
 - Discuss with the [Manager, Metadata Services](/metadata-documentation/contact/#our-team), before suppressing records for any other reason
 
-## Steps For Metadata Services Staff
+## Steps for Metadata Services Staff
 
 ### Suppressing Collections for Harmful Content 
 {: .d-inline .v-align-middle .mr-2 }
