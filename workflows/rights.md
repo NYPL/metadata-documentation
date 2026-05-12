@@ -24,15 +24,15 @@ See [General Guidelines › Rights](/metadata-documentation/metadata/guidelines/
 
 - Rights metadata are added and maintained by [Copyright and Information Policy](/metadata-documentation/resources/glossary/#copyright-information-policy)
 - Metadata Services uses ClickUp to request rights metadata be added to records in the Metadata Management System (MMS)
-  - MSU typically requests rights metadata if it has not already been assigned during the [Approval](/metadata-documentation/workflows/approvals/) workflow after digitization is complete and records are approved to ensure captures and records are structured correctly and descriptive metadata are accurate
-  - Occasionally, MSU may request rights metadata at other points such as:
+  - Metadata Services typically requests rights metadata if it has not already been assigned during the [Approval](/metadata-documentation/workflows/approvals/) workflow after digitization is complete and records are approved to ensure captures and records are structured correctly and descriptive metadata are accurate
+  - Occasionally, Metadata Services may request rights metadata at other points such as:
     - Prior to digitization as part of a [digitization workflow](/metadata-documentation/workflows/digitization/)
     - Unrelated to new digitization as part of a [remediation workflow](/metadata-documentation/workflows/remediation/)
   - The location of the corresponding ClickUp task will be based on the relevant workflow
     - If you need to create new ClickUp tasks to request rights metadata, discuss with the [Manager, Metadata Services](/metadata-documentation/contact/)
-- Staff outside MSU should [contact Copyright and Information Policy 🔒](https://lair.nypl.org/-/departments/library-sites-and-services/research-libraries/copyright-information-policy) directly when rights metadata updates or corrections are needed
+- Staff outside Metadata Services should [contact Copyright and Information Policy 🔒](https://lair.nypl.org/-/departments/library-sites-and-services/research-libraries/copyright-information-policy) directly when rights metadata updates or corrections are needed
 
-## Steps For Metadata Services Staff
+## Steps for Metadata Services Staff
 
 ### Requesting Rights Metadata
 {: .d-inline .v-align-middle .mr-2 }
@@ -59,15 +59,15 @@ For Metadata Services Staff
 For Copyright and Information Policy Staff
 {: .d-inline .v-align-middle .label .label-purple .mx-1 }
 
-1. When an MSU liaison determines rights metadata are needed, they take the following steps on the corresponding ClickUp tasks:
+1. When an Metadata Services liaison determines rights metadata are needed, they take the following steps on the corresponding ClickUp tasks:
    1. Set the **Rights** field to **Rights Needed**
    1. Indicate the appropriate Digitization Coordinator (DC) in the **DC (only if Rights Needed)** field
    1. Add a comment specifying the URLs for the records needing rights
 1. All ClickUp tasks that indicate rights metadata are needed will appear at [Metadata Services › Rights Needed 🔒](https://app.clickup.com/2305128/v/l/26b38-4647)
    1. It is recommend that DCs "favorite" this page by clicking the name of the **Rights Needed** tab to click **☆ Add to favorites**
    1. By default, favorite views are accessible from the left-side navigation column in ClickUp, but they can be made to appear at all times at the top of the screen by clicking the **📌** icon next to **Favorites** to **Pin Favorites to top**
-   1. DCs can also find any tasks assigned to them on the [Home page](https://app.clickup.com/2305128/home), from the[ MSU personalized views](https://app.clickup.com/2305128/v/l/4-18903295-1), and in [notifications](https://app.clickup.com/2305128/notifications)
-1. DCs are encouraged to use the comments to discuss any questions for the MSU liaison and provide updates as needed
+   1. DCs can also find any tasks assigned to them on the [Home page](https://app.clickup.com/2305128/home), from the[ Metadata Services personalized views](https://app.clickup.com/2305128/v/l/4-18903295-1), and in [notifications](https://app.clickup.com/2305128/notifications)
+1. DCs are encouraged to use the comments to discuss any questions for the metadata liaison and provide updates as needed
 1. Once rights metadata has been completed, toggle the **Rights** field to **Rights Completed**
 
 ## See Also
