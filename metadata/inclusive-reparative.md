@@ -36,10 +36,10 @@ Provides context and workflows that support inclusive and reparative description
 {: .d-inline .v-align-middle .mr-2 }
 For Non-Metadata Services Staff
 {: .d-inline .v-align-middle .label .label-purple .mx-1 }
-1. Use the [contact form](/metadata-documentation/contact/form/) to notify the MSU when you encounter either of the following in NYPL Digital Collections (DC) or its backend, Metadata Management System (MMS):
+1. Use the [contact form](/metadata-documentation/contact/form/) to notify Metadata Services when you encounter either of the following in NYPL Digital Collections (DC) or its backend, Metadata Management System (MMS):
    1. Language used to describe materials that is harmful, biased, offensive, outdated, or inaccurate ("description")
    1. Resources that depict harmful or graphic content ("content")
-1. Your submission will be reviewed by the [MSU liaison](/metadata-documentation/contact/#our-team) for the Library division or collection that holds the resource
+1. Your submission will be reviewed by the [Metadata Services liaison](/metadata-documentation/contact/#our-team) for the Library division or collection that holds the resource
    1. The liaison will review your submission to evaluate:
       - Whether your submission relates to description or content
       - If it is related to description, whether the description was created by Library staff or was transcribed directly (e.g. a title or caption written by the resource's creator that is visible in the digitized content)
@@ -50,7 +50,7 @@ For Non-Metadata Services Staff
       - Adding additional contextual notes, especially when subject expertise is needed
       - Suppressing content
 
-### Steps For Metadata Services Staff
+### Steps for Metadata Services Staff
 - For workflows related to language used to describe material that is harmful, biased, offensive, outdated, or inaccurate ("description"), determine which of the following workflows is applicable:
   - If you wish to address description transcribed directly from the resource (e.g a title or caption written by the resource's creator that is visible in the digitized content), see [Addressing Description in Transcribed Elements](#addressing-description-in-transcribed-elements)
   - If you wish to address description created by Library staff, see [Addressing Description Created by Library Staff](#addressing-description-created-by-library-staff)
