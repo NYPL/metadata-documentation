@@ -32,11 +32,11 @@ See [General Guidelines › Rights](/metadata-documentation/metadata/guidelines/
     - If you need to create new ClickUp tasks to request rights metadata, discuss with the [Manager, Metadata Services](/metadata-documentation/contact/)
 - Staff outside MSU should [contact Copyright and Information Policy 🔒](https://lair.nypl.org/-/departments/library-sites-and-services/research-libraries/copyright-information-policy) directly when rights metadata updates or corrections are needed
 
-## Steps for MSU Staff
+## Steps For Metadata Services Staff
 
 ### Requesting Rights Metadata
 {: .d-inline .v-align-middle .mr-2 }
-For MSU Staff
+For Metadata Services Staff
 {: .d-inline .v-align-middle .label .label-purple .mx-1 }
 
 1. Open the ClickUp task that corresponds to the record that needs rights metadata:
