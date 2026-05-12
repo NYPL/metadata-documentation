@@ -24,7 +24,7 @@ Provides guidelines for metadata describing material from the Theatre on Film an
 
 ### Record Structure
 {: .d-inline .v-align-middle .mr-2 }
-[View MSU Documentation for Record Types →](/metadata-documentation/metadata/record-type/)
+[View Metadata Services Documentation for Record Types →](/metadata-documentation/metadata/record-type/)
 {: .d-inline .v-align-middle .text-zeta .ml-2 }
 
 - All TOFT records should be located within the collection that corresponds to whether the material should be publicly accessible:
@@ -35,7 +35,7 @@ Provides guidelines for metadata describing material from the Theatre on Film an
 
 ### Name
 {: .d-inline .v-align-middle .mr-2 }
-[View MSU Documentation for Element →](/metadata-documentation/metadata/element/name/)
+[View Metadata Services Documentation for Element →](/metadata-documentation/metadata/element/name/)
 {: .d-inline .v-align-middle .text-zeta .ml-2 }
 
 - Delete **Name** elements for TOFT directors (`Hoffman, Patrick` and `Corwin, Betty L.`)
@@ -56,7 +56,7 @@ Provides guidelines for metadata describing material from the Theatre on Film an
 
 ### Note
 {: .d-inline .v-align-middle .mr-2 }
-[View MSU Documentation for Element →](/metadata-documentation/metadata/element/note/)
+[View Metadata Services Documentation for Element →](/metadata-documentation/metadata/element/note/)
 {: .d-inline .v-align-middle .text-zeta .ml-2 }
 
 - If removing a **Name** element for TOFT directors (`Hoffman, Patrick` and `Corwin, Betty L.`), ensure their names are instead included in a **Note** element with the **Type**: **statement of responsibility**
@@ -68,5 +68,5 @@ Provides guidelines for metadata describing material from the Theatre on Film an
 
 ## See Also
 
-- [Theatre on Film and Tape Archive (Internal Documentation) 🔒](https://docs.google.com/document/d/1ukxv__9sH0-CkDDYB3zkmp3_xkTl4O1Ae5qk5YSQ_3Y/edit) for the respective [MSU Liason's 🔒](https://docs.google.com/spreadsheets/d/1P-YDJigon640fTCLP4Ig4-zmzqrX88v5M24ShuxFNVY/edit?gid=0) internal documentation and notes related to the Theatre on Film and Tape Archive
+- [Theatre on Film and Tape Archive (Internal Documentation) 🔒](https://docs.google.com/document/d/1ukxv__9sH0-CkDDYB3zkmp3_xkTl4O1Ae5qk5YSQ_3Y/edit) for the respective [Metadata Services Liason's 🔒](https://docs.google.com/spreadsheets/d/1P-YDJigon640fTCLP4Ig4-zmzqrX88v5M24ShuxFNVY/edit?gid=0) internal documentation and notes related to the Theatre on Film and Tape Archive
 - [MMS › Metadata › By Material › Audio & Moving Image (AMI)](/metadata-documentation/metadata/material/ami/) for guidelines for metadata specific to audio and moving image materials described in MMS
