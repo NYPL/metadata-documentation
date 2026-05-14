@@ -57,7 +57,7 @@ For Metadata Services Staff
       1. Include a link to the legacy record(s) if rights were assigned there
    1. Once you have confirmed all metadata elements and rights are in place for the reimported record(s), you may [delete](/metadata-documentation/workflows/remediation/deleting/) the legacy record(s) that are now empty and no longer needed as a result of the reimport
    1. If the legacy record had a [NYPL catalog ID (B-number)](/metadata-documentation/metadata/element/identifier/bnumber/) as an [Identifier](/metadata-documentation/metadata/element/identifier/) and it meets the [criteria to appear on DC](/metadata-documentation/dc/criteria/), ensure that the catalog record's link to NYPL Digital Collections (DC) gets updated
-      1. In the relevant ClickUp task, add a comment indicating the [bnumber](/metadata-documentation/metadata/element/identifier/bnumber/) with the tag `@Metadata Services Sierra Contact(s)`
+      1. In the relevant ClickUp task, add a comment indicating the [bnumber](/metadata-documentation/metadata/element/identifier/bnumber/) with the tag `@msu-sierra`
       1. Do not close the ClickUp task until someone with Sierra edit access has confirmed the catalog record has been updated
 
 ### Reviewing a Finding Aid Update from Archival Processing
@@ -81,7 +81,7 @@ These steps follow the [related workflow for Archival Processing staff](#notifyi
    1. Delete all lines containing `<dao>` tags from the modified XML file
       1. `<dao>` tags are automatically added to the underlying XML when the file is prepared for display on Digital Collections
    1. Compare the XML to determine the extent of changes
-   1. If the XML files are too large to compare, add a comment to the relevant ClickUp task with the tag `@Metadata Services Archives Portal Contact(s)` to request the original and modified XML file be compared programatically
+   1. If the XML files are too large to compare, add a comment to the relevant ClickUp task with the tag `@msu-archives-portal` to request the original and modified XML file be compared programatically
 1. Proceed with [determining whether to reimport metadata](/metadata-documentation/workflows/remediation/reimporting/#determining-whether-to-reimport-metadata)
 
 ## Steps for Archival Processing Staff
