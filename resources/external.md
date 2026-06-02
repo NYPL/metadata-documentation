@@ -73,8 +73,8 @@ Consult the respective [element](/metadata-documentation/metadata/element/) guid
 - [Virtual International Authority File (VIAF)](http://viaf.org/)
 
 ### Vocabularies Used in MMS Dropdown Fields
-- [ISO 639-2 Language Codes](https://www.loc.gov/standards/iso639-2/php/code_list.php) 
-- [ISO 15924 Script Codes](https://www.unicode.org/iso15924/iso15924-codes.html)
+- [ISO 639-2 Language Codes](https://en.wikipedia.org/wiki/List_of_ISO_639-2_codes#Codes) 
+- [ISO 15924 Script Codes](https://en.wikipedia.org/wiki/ISO_15924#List_of_codes)
 - [MARC Code List for Relators](https://www.loc.gov/marc/relators/relaterm.html)
 - [MMS Identifier elements](/metadata-documentation/metadata/element/identifier/)
 - [MODS &lt;title&gt; Types](https://www.loc.gov/standards/mods/userguide/titleinfo.html#type)
