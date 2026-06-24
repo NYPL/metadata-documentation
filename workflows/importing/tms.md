@@ -36,7 +36,7 @@ Describes how to create records in the Metadata Management System (MMS) by impor
    1. ~~See [Print Collection](/metadata-documentation/division/print/) and [Photography Collection](/metadata-documentation/division/photography/) guidelines to determine what structure is appropriate for an item~~
    1. ~~The **Alternate Titles** field in the [Prints & Photographs Online Catalog](https://wallachprintsandphotos.nypl.org/) may indicate the name of the series to which an item belongs~~
       1. ~~Search MMS for the value in **Alternate Titles** to check that a record does not already exist that corresponds to the series~~
-      1. ~~Search the [Research Catalog](/metadata-documentation/resources/glossary/#research-catalog) or [Legacy Catalog](/metadata-documentation/resources/glossary/#legacy-catalog) for the value in **Alternate Titles** to see if the series is represented by a MARC record~~
+      1. ~~Search the [Research Catalog](/metadata-documentation/resources/glossary/#research-catalog) for the value in **Alternate Titles** to see if the series is represented by a MARC record~~
          1. ~~If you find a MARC record for the series, [import the MARC record](/metadata-documentation/workflows/importing/marc/)~~
    1. ~~If you have confirmed the item should be in a collection or container and verified that it does not yet exist, [create the collection or container](/metadata-documentation/workflows/creating/) according to the [Print Collection](/metadata-documentation/division/print/) and [Photography Collection](/metadata-documentation/division/photography/) guidelines~~
 1. ~~Determine the [TMS ID](/metadata-documentation/metadata/element/identifier/tms/) of the TMS record you want to import~~

@@ -24,17 +24,6 @@ _or_
 
 Append `/marc` to the end of a Research Catalog record URL, e.g.: <a href="https://www.nypl.org/research/research-catalog/bib/b11599430/marc"><tt>https://www.nypl.org/research/research-catalog/bib/b11599430<span style="background: #ffffcc; border: 1px solid #5c5962;">/marc</span></tt></a>
 
-## Legacy Catalog
-
-### View MARC in Legacy Catalog
-Place an `x` between `/` and `record` in a Legacy Catalog record URL, e.g.: <a href="https://legacycatalog.nypl.org/xrecord=b21530562~S1"><tt>https://legacycatalog.nypl.org/<span style="background: #ffffcc; border: 1px solid #5c5962;">x</span>record=b21530562~S1</tt></a>
-
-{: .warning-title }
-> Known Issue
->
-> Certain browsers such as Google Chrome and Microsoft Edge are unable to render the MARC record in an easily readable format. Using Firefox is recommended.
-> <small><br>Last checked January 2025</small>
-
 ## Archives Portal
 
 ### View XML in Archives Portal

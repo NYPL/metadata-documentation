@@ -399,7 +399,7 @@ Common terms used within the work of Metadata Services
 
 <a name="legacy-catalog"></a>
 <dt>Legacy Catalog</dt>
-<dd>legacy version of the public <a href="#research-catalog">Research Catalog</a> accessible while on-site at <a href="https://legacycatalog.nypl.org">legacycatalog.nypl.org</a></dd>
+<dd>legacy version of the public <a href="#research-catalog">Research Catalog</a> deprecated in June 2026</dd>
 
 <a name="library-of-congress"></a>
 <dt>Library of Congress</dt>
@@ -547,7 +547,7 @@ Common terms used within the work of Metadata Services
 
 <a name="sierra"></a>
 <dt>Sierra</dt>
-<dd><a href="#integrated-library-system">integrated library system</a> used by the Library; <a href="#research-libraries">Research Library</a> material cataloged in Sierra can be accessed by the public through the <a href="#research-catalog">Research Catalog</a> or <a href="#legacy-catalog">Legacy Catalog</a></dd>
+<dd><a href="#integrated-library-system">integrated library system</a> used by the Library; <a href="#research-libraries">Research Library</a> material cataloged in Sierra can be accessed by the public through the <a href="#research-catalog">Research Catalog</a></dd>
 
 <a name="spec"></a>
 <dt>SPEC (SPEcial Collections)</dt>
