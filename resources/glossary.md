@@ -189,6 +189,9 @@ Common terms used within the work of Metadata Services
 <dt>PO</dt>
 <dd><a href="#public-order">Public Order</a> (or Photo Order)</dd>
 
+<dt>PPERL</dt>
+<dd><a href="#public-programs-exhibitions-research-libraries">Public Programs and Exhibitions, Research Libraries</a></dd>
+
 <dt>PPOC</dt>
 <dd><a href="#prints-photographs-online-catalog">Prints & Photographs Online Catalog</a> (deprecated)</dd>
 
@@ -508,6 +511,10 @@ Common terms used within the work of Metadata Services
 <a name="public-order"></a>
 <dt>Public Order</dt>
 <dd>digitization request submitted to the Library by the public tracked by its sequential PO number; Public Orders often correspond to <a href="#work-orders">Work Orders</a></dd>
+
+<a name="public-programs-exhibitions-research-libraries"></a>
+<dt>Public Programs and Exhibitions, Research Libraries</dt>
+<dd>department responsible for exhibitions, design, public programming, and production across all Research Libraries locations</dd>
 
 <a name="preservation-treatment"></a>
 <dt>Preservation TreatMent</dt>
