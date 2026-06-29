@@ -24,12 +24,10 @@ For issues pertaining to the Digital Collections (loading, assets, searching, in
 
 **Karly Wildenhaus**, Manager, Metadata Services
 {: .text-grey-dk-300 .fs-5 .mt-5 .mb-0}
-Liaison to Stephen A. Schwarzman Building divisions: Wallach Division (Art & Architecture Collection; Photography Collection; Picture Collection; Print Collection; Spencer Collection)
-{: .mt-1 .mb-0 }
 
 **Sarah Adams**, Metadata Specialist III
 {: .text-grey-dk-300 .fs-5 .mt-5 .mb-0}
-Liaison to Stephen A. Schwarzman Building divisions: Berg Collection; Dorot Jewish Division; General Research Division; George Arents Collection; Manuscripts and Archives Division; Map Division; Milstein Division; NYPL Archives; Pforzheimer Collection; Rare Book Division
+Liaison to Stephen A. Schwarzman Building divisions: Berg Collection; Dorot Jewish Division; General Research Division; Pforzheimer Collection
 {: .mt-1 .mb-0 }
 
 **Emma Clarkson**, Metadata Specialist III
@@ -37,9 +35,19 @@ Liaison to Stephen A. Schwarzman Building divisions: Berg Collection; Dorot Jewi
 Liaison to Library for the Performing Arts divisions: Billy Rose Theatre Division; Jerome Robbins Dance Division; Music Division; Rodgers and Hammerstein Archives of Recorded Sound
 {: .mt-1 .mb-0 }
 
+**Kait Astrella**, Metadata Specialist II
+{: .text-grey-dk-300 .fs-5 .mt-5 .mb-0}
+Liaison to Stephen A. Schwarzman Building divisions: Rare Book Division (George Arents Collection); Wallach Division (Art & Architecture Collection; Photography Collection; Picture Collection; Print Collection; Spencer Collection)
+{: .mt-1 .mb-0 }
+
 **Nic Caldwell**, Metadata Specialist II
 {: .text-grey-dk-300 .fs-5 .mt-5 .mb-0}
 Liaison to Schomburg Center for Research in Black Culture divisions: Art and Artifacts Division; Manuscripts, Archives and Rare Books Division; Moving Image and Recorded Sound Division; Photographs and Prints Division; Jean Blackwell Hutson Research and Reference Division
+{: .mt-1 .mb-0 }
+
+**Elliot Galvis**, Metadata Specialist II
+{: .text-grey-dk-300 .fs-5 .mt-5 .mb-0}
+Liaison to Stephen A. Schwarzman Building divisions: Manuscripts and Archives Division; Map Division; Milstein Division; NYPL Archives
 {: .mt-1 .mb-0 }
 
 {: .highlight }
