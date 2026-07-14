@@ -41,7 +41,7 @@ For Metadata Services Staff
    1. **Partial content** and **Insufficient metadata** are no longer considered valid reasons for suppressing collection records, see [suppressing records overview](#overview)
 1. Add an explanation in the **Notes** field of the suppression prompt, e.g. `division requested suppression for harmful content (YYYY-MM-DD INITIALS)`
    1. Replace `YYYY-MM-DD` with the date in [ISO 8601](https://www.iso.org/iso-8601-date-and-time-format.html) format
-   1. Replace `INITIALS` with your initials (see [MMS Database › Quick Reference › User IDs 🔒](https://github.com/NYPL/metadata-tools/blob/master/_mms-database-and-sql-queries/mms-db_quick-reference.md#user-ids))
+   1. Replace `INITIALS` with your initials (see [MMS Database › Quick Reference › User IDs 🔒](https://github.com/NYPL/metadata-database/blob/main/quick-reference.md#user-ids))
 1. Click **Suppress record**
 
 ### Suppressing Containers for Harmful Content
@@ -55,7 +55,7 @@ For Metadata Services Staff
    1. **Partial content** and **Insufficient metadata** are no longer considered valid reasons for suppressing collection records, see [suppressing records overview](#overview)
 1. Add an explanation in the **Notes** field of the suppression prompt, e.g. `division requested suppression for harmful content (YYYY-MM-DD INITIALS)`
    1. Replace `YYYY-MM-DD` with the date in [ISO 8601](https://www.iso.org/iso-8601-date-and-time-format.html) format
-   1. Replace `INITIALS` with your initials (see [MMS Database › Quick Reference › User IDs 🔒](https://github.com/NYPL/metadata-tools/blob/master/_mms-database-and-sql-queries/mms-db_quick-reference.md#user-ids))
+   1. Replace `INITIALS` with your initials (see [MMS Database › Quick Reference › User IDs 🔒](https://github.com/NYPL/metadata-database/blob/main/quick-reference.md#user-ids))
 1. Click **Suppress record**
 
 ### Suppressing Items for Harmful Content
@@ -69,7 +69,7 @@ For Metadata Services Staff
    1. **Partial content** and **Insufficient metadata** are no longer considered valid reasons for suppressing collection records, see [suppressing records overview](#overview)
 1. Add an explanation in the **Notes** field of the suppression prompt, e.g. `division requested suppression for harmful content (YYYY-MM-DD INITIALS)`
    1. Replace `YYYY-MM-DD` with the date in [ISO 8601](https://www.iso.org/iso-8601-date-and-time-format.html) format
-   1. Replace `INITIALS` with your initials (see [MMS Database › Quick Reference › User IDs 🔒](https://github.com/NYPL/metadata-tools/blob/master/_mms-database-and-sql-queries/mms-db_quick-reference.md#user-ids))
+   1. Replace `INITIALS` with your initials (see [MMS Database › Quick Reference › User IDs 🔒](https://github.com/NYPL/metadata-database/blob/main/quick-reference.md#user-ids))
 1. Click **Suppress record**
 
 ### Requesting Duplicate Captures Be Suppressed

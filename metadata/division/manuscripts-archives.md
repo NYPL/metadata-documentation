@@ -73,7 +73,7 @@ Materials described by the [Miscellaneous personal name files D-Z](https://archi
     Collection is component of "Miscellaneous personal name files D-Z" (https://archives.nypl.org/mss/2016#archives_component_id) (YYYY-MM-DD INITIALS)
     ```
     - Replace `YYYY-MM-DD` with the date in [ISO 8601](https://www.iso.org/iso-8601-date-and-time-format.html) format
-    - Replace `INITIALS` with your initials (see [MMS Database › Quick Reference › User IDs 🔒](https://github.com/NYPL/metadata-tools/blob/master/_mms-database-and-sql-queries/mms-db_quick-reference.md#user-ids))
+    - Replace `INITIALS` with your initials (see [MMS Database › Quick Reference › User IDs 🔒](https://github.com/NYPL/metadata-database/blob/main/quick-reference.md#user-ids))
     - Set the element to inherit
     - E.g. [`Collection is component of "Miscellaneous personal name files D-Z"(http://archives.nypl.org/mss/2016#c791494) (2024-03-18 SAA)`](http://archives.nypl.org/mss/2016#c791494)
   - Add a **Note** element with the **Type**: **admin** by copying and pasting the following text:
@@ -81,7 +81,7 @@ Materials described by the [Miscellaneous personal name files D-Z](https://archi
     [LAST NAME] MMS QA container for reference: [QA CONTAINER URL] (YYYY-MM-DD INITIALS)
     ```
     - Replace `YYYY-MM-DD` with the date in [ISO 8601](https://www.iso.org/iso-8601-date-and-time-format.html) format
-    - Replace `INITIALS` with your initials (see [MMS Database › Quick Reference › User IDs 🔒](https://github.com/NYPL/metadata-tools/blob/master/_mms-database-and-sql-queries/mms-db_quick-reference.md#user-ids))
+    - Replace `INITIALS` with your initials (see [MMS Database › Quick Reference › User IDs 🔒](https://github.com/NYPL/metadata-database/blob/main/quick-reference.md#user-ids))
     - Set the element to inherit
     - E.g. [`Doyle MMS QA item for reference: https://qa-metadata.nypl.org/items/6379914 (2024-03-18 SAA)`](https://qa-metadata.nypl.org/items/6379914)
 
