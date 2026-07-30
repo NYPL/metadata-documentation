@@ -22,6 +22,7 @@ Describes steps to troubleshoot common technical issues that arise in the Metada
 ### Asset Issues in MMS/DC
 
 #### Image Asset Issues in MMS/DC
+
 {: .warning-title }
 > Known Issue
 >
