@@ -22,6 +22,11 @@ Describes steps to troubleshoot common technical issues that arise in the Metada
 ### Asset Issues in MMS/DC
 
 #### Image Asset Issues in MMS/DC
+{: .warning-title }
+> Known Issue
+>
+> Thumbnails of some black-and-white images appear in MMS as blank or black-and-white static rather than a small version of the image ([example](https://metadata.nypl.org/containers/427213?section=lightbox)). This relates to how thumbnails are generated in MMS and does not affect DC. It is not necessary to report these.
+> <small><br>Last checked July 2026</small>
 
 For Non-Metadata Services Staff
 {: .label .label-purple .m-0 }
