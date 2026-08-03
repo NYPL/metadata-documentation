@@ -20,6 +20,7 @@ Links to documentation created by other Library divisions, departments, and unit
 - [Archival Processing](https://nypl.github.io/archival-processing/)
     - [Processing Manual](https://nypl.github.io/archival-processing/processing-manual/)
     - [ArchivesSpace](https://nypl.github.io/archival-processing/aspace/)
+    - [Description Remediation Request Form 🔒](https://docs.google.com/forms/d/e/1FAIpQLSexaz5kCcCdw99U67Z7sVCgemlXpofl9HuegMmGYxcN8zBGCA/viewform)
 - [Audio and Moving Image (AMI) Preservation](https://nypl.github.io/ami-preservation/)
     - [AMIP Division-Specific Classmark Information](https://nypl.github.io/ami-preservation/pages/resources/workflow-resources/classmark-guide.html#division-specific-classmark-information)
 - [BookOps Cataloging](https://sites.google.com/a/bookops.org/cataloging/)
