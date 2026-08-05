@@ -32,7 +32,7 @@ Links to documentation created by other Library divisions, departments, and unit
     - [Digital Archives](https://nypl.github.io/digarch/)
 - [Digital Collections API](https://api.repo.nypl.org/)
 - [ILS Team 🔒](https://sites.google.com/nypl.org/ilsteam/)
-- [Preservation and Collections Processing](https://sites.google.com/nypl.org/specialcollections/home) ([Documentation](https://nypl.github.io/pres-docs/))
+- [Preservation and Collections Processing](https://sites.google.com/nypl.org/specialcollections/home)
     - [Special Collections Processing](https://sites.google.com/nypl.org/specialcollections/special-collections-processing)
 - [Research Library Technical Services](https://sites.google.com/a/bookops.org/nypl-rl-tech-services/rl-technical-services)
     - [Classification Schedules](https://sites.google.com/a/bookops.org/nypl-rl-tech-services/rl-technical-services/rl-classification-schedules)
