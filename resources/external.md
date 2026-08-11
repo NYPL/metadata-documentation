@@ -38,7 +38,7 @@ Links to documentation created by other Library divisions, departments, and unit
     - [Classification Schedules](https://sites.google.com/a/bookops.org/nypl-rl-tech-services/rl-technical-services/rl-classification-schedules)
         - [Billings Classification](https://sites.google.com/a/bookops.org/nypl-rl-tech-services/rl-technical-services/rl-classification-schedules#h.pv5znc8ax4y)
         - [Fixed Order Classification](https://sites.google.com/a/bookops.org/nypl-rl-tech-services/rl-technical-services/rl-classification-schedules#h.1uziic870duq)
-- [SPEC (Preservation and Special Collections Processing Dashboard)](https://nypl.github.io/pres-docs/spec/spec.html)
+- [SPEC](https://nypl-research.github.io/spec-docs/)
 
 ## Aggregator Documentation
 Links to documentation for aggregators that ingest records from NYPL Digital Collections
