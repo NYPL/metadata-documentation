@@ -323,7 +323,7 @@ Required if Not Inherited
 {: .no_toc }
 - Populate a **note** and **note_type** column for each item
   - See the [Note Type](/metadata-documentation/metadata/element/note/#type) attribute for a link to a list of note types
-  - Only one note can be added during a CSV import
+  - Multiple notes can be added at a time by repeating **note** and **note_type** columns
 
 | Data to Be Imported | Column Header | Usage Note |
 |:------------------- |:------------- |:---------- |
