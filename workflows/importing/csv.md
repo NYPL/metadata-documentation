@@ -37,10 +37,10 @@ Describes how to create records in the Metadata Management System (MMS) by impor
 
 ## Steps
 
-1. Download the relevant CSV template file:
+1. Make a copy of the relevant CSV template file by clicking the **Use Template** button:
    1. [Template based on number of captures per item](https://docs.google.com/spreadsheets/d/1r3xA--5VcR1f-3UkvUGdlCEY_-sypJgTck6i4EyHElc/template/preview) (most commonly used template)
    1. [Template based on identifier associated with each capture (one capture per row)](https://docs.google.com/spreadsheets/d/1Ay14mAcskGPWM4cz67pzf_msUv-V7x6CP4nntcNpLHc/template/preview)
-1. Open the CSV template file in your preferred CSV or spreadsheet editor
+1. Open the template
    1. Prepare your data according to the [CSV data preparation guidelines](#csv-data-preparation-guidelines)
    1. Save your new CSV file using UTF encoding
       1. Do not use UTF-8 encoding as doing so can result in a **no method error** during upload
