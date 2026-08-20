@@ -23,12 +23,7 @@ Unique identifier assigned by OCLC for a bibliographic record in WorldCat
 
 ## Guidelines
 - The **RLIN/OCLC** identifier is automatically populated into records when [importing MARC records](/metadata-documentation/workflows/create-import/#importing-marc-records) as long as it is present in the source record
-- If adding a RLIN/OCLC identifier to a record manually, it can be found:
-    - In the [Research Catalog](/metadata-documentation/resources/glossary/#research-catalog) in the **OCLC** field of the record
-    - In the [Legacy Catalog](/metadata-documentation/resources/glossary/#legacy-catalog) by [viewing the record's MARC XML](/metadata-documentation/resources/tips-tricks/#view-marc-in-legacy-catalog)
-        - Confirm that ``<MARCFIXDATA>OCoLC</MARCFIXDATA>`` is present for the ``<MARCTAG>003</MARCTAG>`` tag of the bibliographic record
-        - Search for the ``<VARFLD>`` that contains ``<MARCTAG>001</MARCTAG>``
-        - The **RLIN/OCLC** identifier is the value present within the ``<MARCFIXDATA></MARCFIXDATA>`` tag, e.g., the **RLIN/OCLC** identifier for [b14903434](https://legacycatalog.nypl.org/xrecord=b14903434) is ``29052368``
+- If adding a RLIN/OCLC identifier to a record manually, it can be found in the [Research Catalog](/metadata-documentation/resources/glossary/#research-catalog) in the **OCLC** field of the record
 
 ## Format
 

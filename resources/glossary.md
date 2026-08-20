@@ -189,6 +189,9 @@ Common terms used within the work of Metadata Services
 <dt>PO</dt>
 <dd><a href="#public-order">Public Order</a> (or Photo Order)</dd>
 
+<dt>PPERL</dt>
+<dd><a href="#public-programs-exhibitions-research-libraries">Public Programs and Exhibitions, Research Libraries</a></dd>
+
 <dt>PPOC</dt>
 <dd><a href="#prints-photographs-online-catalog">Prints & Photographs Online Catalog</a> (deprecated)</dd>
 
@@ -399,7 +402,7 @@ Common terms used within the work of Metadata Services
 
 <a name="legacy-catalog"></a>
 <dt>Legacy Catalog</dt>
-<dd>legacy version of the public <a href="#research-catalog">Research Catalog</a> accessible while on-site at <a href="https://legacycatalog.nypl.org">legacycatalog.nypl.org</a></dd>
+<dd>legacy version of the public <a href="#research-catalog">Research Catalog</a> deprecated in June 2026</dd>
 
 <a name="library-of-congress"></a>
 <dt>Library of Congress</dt>
@@ -509,6 +512,10 @@ Common terms used within the work of Metadata Services
 <dt>Public Order</dt>
 <dd>digitization request submitted to the Library by the public tracked by its sequential PO number; Public Orders often correspond to <a href="#work-orders">Work Orders</a></dd>
 
+<a name="public-programs-exhibitions-research-libraries"></a>
+<dt>Public Programs and Exhibitions, Research Libraries</dt>
+<dd>department responsible for exhibitions, design, public programming, and production across all Research Libraries locations</dd>
+
 <a name="preservation-treatment"></a>
 <dt>Preservation TreatMent</dt>
 <dd>former name of <a href="#conservation">Conservation</a></dd>
@@ -547,7 +554,7 @@ Common terms used within the work of Metadata Services
 
 <a name="sierra"></a>
 <dt>Sierra</dt>
-<dd><a href="#integrated-library-system">integrated library system</a> used by the Library; <a href="#research-libraries">Research Library</a> material cataloged in Sierra can be accessed by the public through the <a href="#research-catalog">Research Catalog</a> or <a href="#legacy-catalog">Legacy Catalog</a></dd>
+<dd><a href="#integrated-library-system">integrated library system</a> used by the Library; <a href="#research-libraries">Research Library</a> material cataloged in Sierra can be accessed by the public through the <a href="#research-catalog">Research Catalog</a></dd>
 
 <a name="spec"></a>
 <dt>SPEC (SPEcial Collections)</dt>

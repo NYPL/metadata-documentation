@@ -69,18 +69,12 @@ Ensure spacing and periods match below example, i.e. a space after the exhibitio
 
 ### URL Format to Search Digital Collections
 
-{: .warning-title }
-> Known Issue
->
-> Constructing a URL to search Digital Collections by an **NYPL Exhibition ID** is not currently working. The issue has been shared with Digital for further investigation.
-> <small><br>Last checked August 2025</small>
-
 Consistent usage and formatting of **NYPL Exhibition IDs** allow construction of a URL that searches Digital Collections for any publicly accessible items related to that exhibition:
 <dl>
 <dt>URL structure</dt>
-<dd><tt>https://digitalcollections.nypl.org/search/index?filters[identifier_idx_local_exhibition]=<span style="background: #ffccff; border: 1px solid #5c5962;">exhibition number</span></tt></dd>
+<dd><tt>https://digitalcollections.nypl.org/search/index?q=%22<span style="background: #ffccff; border: 1px solid #5c5962;">exhibition number</span>%22</tt></dd>
 <dt>URL example</dt>
-<dd><a href="https://digitalcollections.nypl.org/search/index?filters[identifier_idx_local_exhibition]=TL%2020.01"><tt>https://digitalcollections.nypl.org/search/index?filters[identifier_idx_local_exhibition]=<span style="background: #ffccff; border: 1px solid #5c5962;">TL+20.01</span></tt></a></dd>
+<dd><a href="https://digitalcollections.nypl.org/search/index?q=%22TL%2020.01%22"><tt>https://digitalcollections.nypl.org/search/index?filters[identifier_idx_local_exhibition]=%22<span style="background: #ffccff; border: 1px solid #5c5962;">TL+20.01</span>%22</tt></a></dd>
 </dl>
 
 ## Inheritance
