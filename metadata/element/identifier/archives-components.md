@@ -50,7 +50,7 @@ Identifier that connects archives components from the [Archives Portal](/metadat
 </dl>
 
 ## Inheritance
-- Do not set **Archives Components IDs** to be **Inheritable**
+- If an item record with an **Archives Components ID** is converted to a container, set the **Archives Components ID** to be **Inheritable**
 
 ## Use With
 - [Archives EAD ID](/metadata-documentation/metadata/element/identifier/archives-ead/), which are automatically imported into the container and/or item records for collections with EAD-encoded finding aids 

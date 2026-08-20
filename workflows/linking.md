@@ -35,7 +35,6 @@ If a link to or from Digital Collections is absent or broken, please let us know
 
 - When a [bnumber](/metadata-documentation/metadata/element/identifier/bnumber/) is added in MMS to a collection, container, or item that has met the [criteria to appear in DC](/metadata-documentation/dc/criteria/), a link to DC will be added to the corresponding catalog record
     - In the [Research Catalog](/metadata-documentation/resources/glossary/#research-catalog), the link can be found under the **Available Online** heading or the **Connect to:** section as **NYPL Digital Collections**
-    - In the [Legacy Catalog](/metadata-documentation/resources/glossary/#legacy-catalog), the link can be found under the **Connect to:** heading as NYPL Digital Collections
     - Links to DC are added to the bibliographic record in Sierra
         - Links to DC should use the standardized MARC 856 field:<br><tt>856 41 |u<span style="background: #ffffcc; border: 1px solid #5c5962;">URL</span>|zNYPL Digital Collections</tt>
     - URLs are formatted according to our [URL Structure](/metadata-documentation/dc/url-structure/) documentation

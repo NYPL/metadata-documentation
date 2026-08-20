@@ -108,7 +108,7 @@ Materials described in the [Dictionary catalog of the Henry W. and Albert A. Ber
     Collection is component of "Berg Collection Uncataloged Manuscripts" (https://archives.nypl.org/brg/19347#archives_component_id) (YYYY-MM-DD INITIALS)
 ```
     - Replace `YYYY-MM-DD` with the date in [ISO 8601](https://www.iso.org/iso-8601-date-and-time-format.html) format
-    - Replace `INITIALS` with your initials (see [MMS Database › Quick Reference › User IDs 🔒](https://github.com/NYPL/metadata-tools/blob/master/_mms-database-and-sql-queries/mms-db_quick-reference.md#user-ids))
+    - Replace `INITIALS` with your initials (see [MMS Database › Quick Reference › User IDs 🔒](https://github.com/NYPL/metadata-database/blob/main/quick-reference.md#user-ids))
     - Set the element to inherit
     - E.g. [`Collection is component of "Berg Collection Uncataloged Manuscripts" (https://archives.nypl.org/brg/19347#c1340739) (2024-02-07 SAA)`](https://metadata.nypl.org/collection/127550?section=desc_md#:~:text=Note-,Collection%20is%20component%20of%20%22Berg%20Collection%20Uncataloged%20Manuscripts%22%20\(https%3A//archives.nypl.org/brg/19347%23c1340739\)%20\(2024%2D02%2D07%20SAA\),-\(admin\))
   - Add a **Note** element with the **Type**: **admin** by copying and pasting the following text:
@@ -116,7 +116,7 @@ Materials described in the [Dictionary catalog of the Henry W. and Albert A. Ber
     [LAST NAME] MMS QA container for reference: [QA CONTAINER URL] (YYYY-MM-DD INITIALS)
 ```
     - Replace `YYYY-MM-DD` with the date in [ISO 8601](https://www.iso.org/iso-8601-date-and-time-format.html) format
-    - Replace `INITIALS` with your initials (see [MMS Database › Quick Reference › User IDs 🔒](https://github.com/NYPL/metadata-tools/blob/master/_mms-database-and-sql-queries/mms-db_quick-reference.md#user-ids))
+    - Replace `INITIALS` with your initials (see [MMS Database › Quick Reference › User IDs 🔒](https://github.com/NYPL/metadata-database/blob/main/quick-reference.md#user-ids))
     - Set the element to inherit
     - E.g. [`Alvarez MMS QA container for reference: https://qa-metadata.nypl.org/containers/492353 (2024-03-18 SAA)`](https://metadata.nypl.org/collections/127550?section=desc_md#:~:text=Note-,Alvarez%20MMS%20QA%20container%20for%20reference%3A%20https%3A//qa%2Dmetadata.nypl.org/containers/492353%20\(2024%2D03%2D18%20SAA\),-\(admin\))
 
