@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Redirecting...</title>
+    <script>
+      // CONFIGURATION: Set your new base domain here (no trailing slash)
+      const NEW_DOMAIN = "https://nypl.github.io/metadata-documentation/";
+
+      // 1. Get the current pathname (e.g., "/repo-name/blog/post-1")
+      const currentPath = window.location.pathname;
+
+      // 2. Remove the first folder segment, which is your old repository name
+      // Example: "/repo-name/blog/post-1" becomes "/blog/post-1"
+      const cleanPath = currentPath.replace(/^\/[^\/]+/, '');
+
+      // 3. Keep any existing search parameters or hash tags (e.g., ?query=abc#section-1)
+      const targetUrl = NEW_DOMAIN + cleanPath + window.location.search + window.location.hash;
+
+      // 4. Perform the clean redirect
+      window.location.replace(targetUrl);
+    </script>
+  </head>
+  <body>
+    <p>This website has moved. Redirecting you now... If you are not redirected, <a id="fallback-link" href="https://nypl.github.io/metadata-documentation/">click here</a>.</p>
+    <script>
+      // Dynamic fallback link just in case JavaScript is disabled
+      document.getElementById("fallback-link").href = NEW_DOMAIN + window.location.pathname.replace(/^\/[^\/]+/, '');
+    </script>
+  </body>
+</html>
