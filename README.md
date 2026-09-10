@@ -1,1 +1,1 @@
-This repo is now at: https://github.com/NYPL-Research/metadata-documentation/
+This repo has been moved to https://github.com/NYPL-Research/metadata-documentation/
